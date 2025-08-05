@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#🇩🇪All¹ | @BigSmoke_Config
+vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/Tel-@azadiiivpn/?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#azadiiivpn 🎀
 vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/s35lt0swufmj96q5?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#IRAN 306 (@Outline_Vpn) free
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=multi&security=reality&encryption=none&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&fp=chrome&spx=/&type=grpc&sni=tgju.org&sid=11648b03a5acc7#Channel-@vmesskhodam
 vless://59387f1f-03bf-48c6-8363-0d34986413a3@91.107.146.208:13304?security=none&encryption=none&headerType=none&type=tcp#خرید سرو نامحدود با بهترین سرعت @V2rayCafe_Support 🪽
@@ -251,5 +253,3 @@ vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?security=no
 vless://60134848-6190-4e13-f89e-f441c2cf25f2@lllliraniv2rayllll.norooz.online:443?encryption=none&security=tls&sni=llliraniv2raylll.norooz.online&fp=chrome&type=ws&path=/@iraniV2ray#@iraniV2ray---channel
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?path=/pfrlouws&security=tls&encryption=none&type=ws#@AblNet7🇫🇷 France
 vless://603ac798-bc9d-44ea-8fec-f32ada52fd57@91.107.254.202:2096?type=xhttp&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir&host=firebase.googleapis.com&mode=auto&security=reality&pbk=sPEQ8mlkuJQsGrMZux2g9EmXKztuXHwnyORJPwwznDQ&fp=chrome&sni=firebase.googleapis.com&sid=a0e13102&spx=/#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
-vless://6064efe5-2bc4-4694-933c-d3fe05e73da4@91.107.254.202:2096?type=xhttp&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir&host=firebase.googleapis.com&mode=auto&security=reality&pbk=sPEQ8mlkuJQsGrMZux2g9EmXKztuXHwnyORJPwwznDQ&fp=chrome&sni=firebase.googleapis.com&sid=a0e13102&spx=/#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
-vless://607d9703-8403-415c-a201-05178810530c@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs

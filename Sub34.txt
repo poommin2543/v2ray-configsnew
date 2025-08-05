@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=none&type=ws&path=/vless/#🇯🇵[Telegram:NetifyVPN]
+vless://906770b2-698a-41d2-b340-37c6c17e260d@5.10.214.254:443?path=/&security=tls&encryption=none&host=AdS.tHiSiSvdS.Com.&fp=chrome&type=ws&sni=AdS.tHiSiSvdS.Com.#@V2RAY_VMESS_free
 vless://9068848e-9a94-4cf8-b466-7c7a9f13bf2e@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?path=/&security=none&encryption=none&type=ws#@AblNet7 🇮🇷 نت ملی
 vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?path=/&security=none&encryption=none&type=ws#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
@@ -251,5 +253,3 @@ vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.po
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇩🇪 | @External_Net
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Bya To @Iran_V2ray1
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Channel@vmessorg
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#hamrahaval(@vmesskhodam)

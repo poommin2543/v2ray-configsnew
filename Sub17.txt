@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?type=ws&host=xcvfgt6.890606.xyz&path=/e49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&fp=chrome&sni=XCVFgT6.890606.XYz#@configMs
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443?type=ws&host=xscdfr.859886.xyz&path=/e49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&fp=chrome&sni=XsCdFr.859886.xYZ&alpn=http/1.1#@configMs
 vless://288cf6f8-9356-4829-b6ad-8aec19683426@172.237.150.176:443?security=none&encryption=none&type=xhttp&path=/&mode=stream-one#Telegram:@king_v2raay
 vless://288cf6f8-9356-4829-b6ad-8aec19683426@172.238.177.23:443?security=none&encryption=none&type=xhttp&path=/&mode=stream-one#Telegram:@king_v2raay
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/1u40Y2pvl82tR3i8/MTk0LjM4LjIwLjc4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimoWeBsITesPEEDTEst.ir#
@@ -251,5 +253,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encr
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IRAN 162 (@Outline_Vpn) free
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#@XpnTeam 🇩🇪
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=&encryption=none&host=zula.ir/?TELEGRAM@VPN66&headerType=http&type=tcp#⚜️Telegram: @IP_CF
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@bad_raqs

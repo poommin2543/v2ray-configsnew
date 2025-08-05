@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/Tel-@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#MCI@azadiiivpn¹¹🎀
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/Tel-@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#amirwshop
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/Tel-@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#amirwshop_test🇩🇪
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/vpn?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@CUSTOMVPNSERVER
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/vpn?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@bluVPNir
@@ -251,5 +253,3 @@ vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=realit
 vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=reality&encryption=none&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a3#🛡️ @FreakConfig
 vless://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Bya To : @Iran_V2ray1
 vless://f7419793-2329-4ac7-bdee-e178ffb27848@146.59.80.70:2087?security=reality&encryption=none&pbk=u3dvb0vUFqZE2TdFjB4WHk99pCHidgq6tYGfppTvNCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=3c#🇵🇱 | @External_Net
-vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@185.126.200.13:2096?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#.
-vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@yldl.ir:2096?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#.
