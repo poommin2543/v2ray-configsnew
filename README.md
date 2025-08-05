@@ -69,7 +69,7 @@ Trojan:
 https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt
 ```
 
-### Splited in 500 count of configs:
+### Splited in 250 count of configs:
 
 Config List 1:
 ```
