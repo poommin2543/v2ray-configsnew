@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@en2.fastplus.shop:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
-vless://a12ee74a-bd71-4e1d-8450-f4b3433d6198@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
-vless://a12ee74a-bd71-4e1d-8450-f4b3433d6198@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
-vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
-vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray💛
-vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?type=tcp#@configMs
 vless://a1a168b4-8405-4e98-93f8-7d00de708f0f@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn
 vless://a1a168b4-8405-4e98-93f8-7d00de708f0f@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn  ➖➖➖➖➖➖➖➖ ⭐ | @ZedBaz_vpn
 vless://a1adf38b-3055-4865-a46e-15e62f4a0e4c@CONFiGLiNE.fast.hosting-ip.com:80?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=goldenpeshkel.com&type=xhttp#t.me/NasaV2|🇺🇸
@@ -253,3 +247,9 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.67:2096/?type=ws&encryptio
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.78:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.78:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.79:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.79:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.80:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.80:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.86:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.86:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.88:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
