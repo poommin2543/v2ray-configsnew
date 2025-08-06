@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&sni=005188006073.sec1org.com&alpn=h2,http\1.1&allowInsecure=1#t.me/entryNET/config=1839697236706095
-vless://7583af76-66b0-4adf-e8ff-448966ea4634@fr.irimcs.org:2096?type=grpc&serviceName=Telegram:@catvpns&security=reality&pbk=FLNExbTRe2xr1_ULubE3XL0l9AoeZ7Afx5EdfRy4-Ds&fp=chrome&sni=greenpepper.ir&sid=b4c9&spx=/#🇩🇪🎮-@CatVpns-German
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir#@V2RAY_VMESS_free
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s03.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s03.gatesriver.ir#@V2RAY_VMESS_free
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir#@V2RAY_VMESS_free
@@ -253,3 +251,5 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#💎 @AblNet7 🌐
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#💎 @AblNet7 🌐
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?security=tls&encryption=none&type=xhttp&path=/statue&sni=statue.lnmarketplace.net&fp=chrome&mode=stream-one&alpn=h2#Telegram:@king_v2raay
+vless://7c662070-0a82-49e6-8115-f7916e9a96c9@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-24Mordad-1
+vless://7c723b4d-9220-43fb-9b5a-ed2b93dfb3ef@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@AbriVPN

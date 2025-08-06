@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a4fd6b14-5c2d-4c5a-8bd6-319da73dd50d@alexde.hpcdn.info:80?path=/13225/hMMad&security=none&encryption=none&host=alexde.hpcdn.info&type=httpupgrade#🛡️ @FreakConfig
-vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@mlifaaehazarat.darkping.net:5234?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yandex.com&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#HazaratVPN
 vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@mlifaaehazarat.darkping.net:5234?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yandex.com&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#HazaratVPN نامحدود تا
 vless://a5309e53-9cc9-4c85-90fa-f1b78f14fe38@104.21.43.168:8880?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#[🇳🇱  @EXPRESSVPN_420-ws1
 vless://a5309e53-9cc9-4c85-90fa-f1b78f14fe38@172.66.40.99:8880?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#[🇳🇱  @EXPRESSVPN_420-ws2
@@ -253,3 +251,5 @@ vless://aa85159e-131f-4a94-be93-93c6952eba09@104.21.43.168:8880?type=ws&path=/te
 vless://aa85159e-131f-4a94-be93-93c6952eba09@172.66.40.99:8880?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#🇳🇱 @EXPRESSVPN_420-2
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=freexxx.ndeso.web.id#@AblNet7 🇮🇷 نت ملی
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=freexxx.ndeso.web.id#@HIBYEVPNN
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=freexxx.ndeso.web.id#@V2RAYROZ
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=freexxx.ndeso.web.id#@meli_proxyy
