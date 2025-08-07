@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ba84c85b-8cc8-43ba-d8d0-3fbc45a72fdc@zula.ir:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#🇩🇪@Alfred_Config
-vless://ba8eb673-b4a2-41b8-a813-0e535e2cf374@mrvpn1403.rightel001.chaghooosazi.shop:443?hiddify=1&sni=rightel1.chaghooosazi.shop&type=ws&alpn=http/1.1&path=/9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&host=rightel1.chaghooosazi.shop&encryption=none&fp=chrome&headerType=None&security=tls#رایتل 1 @mrvpn1403 tls WS CDN vless
 vless://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#.
 vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&sid=1e&type=grpc&authority=&serviceName=Telegram:@FergalVpnMod&mode=gun#🟢 جوین بده کانکت بمونی: @nethers_vpn
 vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#Telegram: @FergalVpnMod 2 🇳🇱
@@ -253,3 +251,5 @@ vless://c03f1122-5aee-4e22-b82f-c1dd1d09d502@www.speedtest.net:80?path=/@connet-
 vless://c03f1122-5aee-4e22-b82f-c1dd1d09d502@www.speedtest.net:80?path=/@connet-open?ed=80&security=none&encryption=none&host=speeeeed.marzban-l.ir&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@Anty_Vpn
 vless://c064beef-8d03-47a7-9306-5affa589fbc1@Pishgam.sdcards.ir:2052?path=/@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER?ed=2087&security=&encryption=none&host=amiri2.server-dev2.ir&type=ws#Telegram=@CUSTOMVPNSERVER
+vless://c0750377-2942-4f06-a4ec-0cde8e272ac6@ipe3.alighan.ir:8443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+vless://c0750377-2942-4f06-a4ec-0cde8e272ac6@ipe3.alighan.ir:8443?type=ws&path=/?ed=2048&host=s.alighan.ir&security=tls&fp=chrome&alpn=http/1.1&sni=ipe4.alighan.ir#VIP-✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
