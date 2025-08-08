@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=HkPk6Cd2Kj.9PeSc.CoM&type=ws&host=HkPk6Cd2Kj.9PeSc.CoM&path=/&alpn=h2,http/1.1&fp=chrome#new server
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=PkO09dA8jF.9pEsC.cOm&type=ws&host=PkO09dA8jF.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=Q03l9EiQiA.9pEsC.cOm&type=ws&host=Q03l9EiQiA.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=ZhN5vJ9dY7.9pEsC.cOm&type=ws&host=ZhN5vJ9dY7.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
@@ -253,3 +252,4 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#فیلترشکن نامحدود 99ت =» SabznetVPN@
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱[Telegram:v2rayng_fars]
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig

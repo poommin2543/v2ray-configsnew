@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@bad_raqs'
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷@EXPRESSVPN_420
@@ -253,3 +252,4 @@ vless://3f42938e-bb50-4b98-8328-c6f12cdade3e@172.66.40.99:8080?Telegram=@NasaV2,
 vless://3f42938e-bb50-4b98-8328-c6f12cdade3e@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080&security=none&encryption=none&host=a244.mashkestan.com&type=ws#[🇺🇸]@configLINE(2)
 vless://3f42938e-bb50-4b98-8328-c6f12cdade3e@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080&security=none&encryption=none&host=a244.mashkestan.com&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://3f42938e-bb50-4b98-8328-c6f12cdade3e@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080&security=none&encryption=none&host=a244.mashkestan.com&type=ws#🇺🇸@FreakConfig
+vless://3f5ba8bd-fa66-4933-8c62-71befee69c1e@65.109.183.70:15499?mode=auto&path=/ssss&security=none&encryption=none&host=ghor_gih.global.ssl.fastly.net&type=xhttp#فنلاند 🇫🇮 @V2xay
