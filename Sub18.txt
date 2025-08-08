@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#T.me/Asak_Vpn
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Tunder_vpn
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#@XpnTeam 🇩🇪
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#⚡@ai_duet💎@v2rayngsupbot
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@EXPRESSVPN_420
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir/?/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -253,3 +246,10 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path==zani.yaemiko
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path==zani.yaemiko.ggff.net/@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#r♡ya@VPNBaz
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path==zani.yaemiko.ggff.net/telegram--MTMVPN--MTMVPN?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@HIBYEVPNN
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path==zani.yaemiko.ggff.net/telegram--MTMVPN--MTMVPN?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@V2RAYROZ
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Configology🍉3
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Daily_Configs
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel : @Mrsoulb 🏴🏳
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@HiByeVPNN👈⚡❤️‍🔥
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=512&host=carlotta.shoorekeeper.cloudns.org&packetEncoding=xudp&encryption=none#@NetAccount
