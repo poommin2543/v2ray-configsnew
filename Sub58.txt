@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%A8%F0%9F%87%A6%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B4%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#%F0%9F%87%B2%F0%9F%87%A9%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 🇹🇷ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%B9%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://turboo-server@turbooserver.sadafspace.com:55990?security=reality&encryption=none&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=canva.com&sid=eebcfab3#%F0%9F%87%AB%F0%9F%87%AE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNCB8IOKsh++4jyAzLjRNQi9zIiwiYWRkIjoieGNmMDM3LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZDk4NjMwMzctMDQ2My00NjE1LWU5NzItMzZiYTk2NjJkMWU5IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMzcuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvZDk4NjMwMzciLCJob3N0IjoieGNmMDM3LmZhY2FpMjAyNC5jb20ifQ==
@@ -253,3 +249,7 @@ vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=realit
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%3E%3E%40V2RAY_VMESS_free%3A%3AIE
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#%3E%3E%40V2RAY_VMESS_free%3A%3AIN
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#%3E%3E%40V2RAY_VMESS_free%3A%3ADE
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@79.137.192.208:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%3E%3E%40V2RAY_VMESS_free%3A%3ARU
+vless://9db6acf4-d3d3-4176-f704-0da5f6da6165@185.248.187.69:10297?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#%3E%3E%40V2RAY_VMESS_free%3A%3AXX
+
+vless://0132740f-c0d4-5f8b-b283-77f3fd604c57@194.147.34.72:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.34.72&encryption=none#Rayan%20-%20SSM%20-%20PL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
