@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🛡️ @FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#💎 @AblNet7 💎
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#@Daily_Configs
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#azadiiivpn 🎀
@@ -253,3 +251,5 @@ vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=realit
 vless://482931a4-fa81-4d82-a6fd-f5efa846b586@94.130.183.41:1503?security=reality&encryption=none&pbk=21-4cyes9zNNaaOPl-xOlkESjzaRaCUnEXyYZE8rmW0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=0first.com#FreeForAll
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#@Asak_Vpn🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#💯T.me/Asak_Vpn💯
+vless://484d4e5b-7ec0-84bc-98fc-b55bb8037f38@portal12.saladshirazi.com:443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#هلند 🇳🇱 @V2xay
+vless://487b3b3a-aeeb-431a-b3e2-a541ae2fc27c@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌳 Telegram | @Green_WPN

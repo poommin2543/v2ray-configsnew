@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.239.86.92:443#%F0%9F%87%A6%F0%9F%87%BAAU-13.239.86.92-0655
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0271
 vmess://ewogICAgImFkZCI6ICJ3d3cubWV0ZXIubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmxhemUtdWstNDgucGlua2xlNy5zaXRlIiwKICAgICJpZCI6ICJkMjE4ZGZlNS1mYWU2LTQwOGUtYjYxNS04NjY2ZGY3ZjA5MjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3Nzc3MiLAogICAgInBvcnQiOiAyMDgzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjYuNC4xNi0wNjM0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0262
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0298
@@ -253,3 +251,5 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@n4.sarasimano.com:2096/?type=ws&enc
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@n5.sarasimano.com:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls#%F0%9F%8D%8027%40oneclickvpnkeys
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@n7.sarasimano.com:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls#%F0%9F%8D%8026%40oneclickvpnkeys
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@n8.sarasimano.com:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls#%F0%9F%8D%8025%40oneclickvpnkeys
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@f1.sarasimano.com:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls#%F0%9F%8D%8035%40oneclickvpnkeys
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@f3.sarasimano.com:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls#%F0%9F%8D%8032%40oneclickvpnkeys

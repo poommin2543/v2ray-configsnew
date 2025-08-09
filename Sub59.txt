@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5aa9c9ce-d5b3-40be-8481-fe5ae953e5a9@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.101.222&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
 vless://636dd9f5-34d7-4482-bff2-9b1ea8ff4bfb@static-akam.cyberscaler.net:443?security=reality&sni=www.msftconnecttest.com&fp=chrome&pbk=11WATg6mLIBR7oM1b6YcSu4QBrIUMGVwNLq4tmI0GC0&sid=fc7e81a9c87a4b7a&spx=/&type=tcp&encryption=none
 
 vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tls&sni=fast.com&fp=chrome&type=ws&path=/&host=fast.com&encryption=none
@@ -253,3 +251,5 @@ vmess://ewogICAgImFkZCI6ICIzOC45Mi4xMy4xODAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0284
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0259
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-0264
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.239.86.92:443#%F0%9F%87%A6%F0%9F%87%BAAU-13.239.86.92-0655
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0271
