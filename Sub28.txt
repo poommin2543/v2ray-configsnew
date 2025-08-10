@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://709d1512-da43-487c-889d-50b84fa46e6c@91.107.170.231:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#@ZedBaz_vpn
+vless://709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#[🇨🇦]ae_proxy
 vless://70aefb56-53ca-4ad0-af97-4c742854aa4f@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://70aefb56-53ca-4ad0-af97-4c742854aa4f@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=/&security=none&encryption=none&type=ws#@Academi_vpn5
@@ -251,5 +253,3 @@ vless://7a240994-4475-4f45-d10d-7f5b3599ff71@tify-binex-join.espikernajafi.ir:20
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=/XV2ray?ed=512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#@V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=/T,E,L,E,G,R,A,M,X,V,2,R,A,Y?ed=2560&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.salf101.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&type=ws#@V2rayNG3
 vless://7a5c6793-f6e9-41dc-b6c5-089cff9c5779@filmnet.filimnet.com:80?mode=packet-up&path=/cdn/assets?v=12&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ²⁰🇩🇪➣@CUSTOMVPNSERVER
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁸🇩🇪➣@CUSTOMVPNSERVER

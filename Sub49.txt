@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://eaff2a70-d992-448a-adf4-524cb8f13137@104.16.68.226:80?path=/&security=none&encryption=none&host=restless-dust-d9c3.nazijoon1378s.workers.dev&fp=chrome&type=ws#🔥@AblNet7 🇮🇷 نت ملی 🔥
+vless://eb167fac-56a4-4ed2-b037-6233adf519e7@141.11.21.166:8443?security=reality&encryption=none&pbk=y0s_XNGvc7txwL0PDA0YA5xK6u186vExkVLZp1-0yF0&headerType=none&fp=chrome&type=tcp&sni=www.bing.com&sid=c3fa49b8#Telegram : @Alfa_v2ray_ng 🔥
 vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BIA_CHANEL@JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#🛡️ @FreakConfig
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@V2RAY_VMESS_free
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2ray1_Ng
@@ -251,5 +253,3 @@ vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=/dy26vBaDi5
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=/dy26vBaDi5RTblzP?ed=2560&security=tls&encryption=none&host=net-aCcOUNt02.Pages.DEv&fp=chrome&type=ws&sni=net-aCcOUNt02.Pages.DEv#👉@ai_duet 🛒@v2rayngsupbot
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=/dy26vBaDi5RTblzP?ed=2560&security=tls&encryption=none&host=net-aCcOUNt02.Pages.DEv&fp=chrome&type=ws&sni=net-aCcOUNt02.Pages.DEv#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://eff81eb8-5f27-4d8f-e684-c9a38c529a57@www.speedtest.net:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=www.speedtest.net.qWpvakvSoj438.ir.&security=none#BinexTify
-vless://effc0852-00aa-4561-96c1-dcafffb9a443@ae.aparat-movies-download.ir:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@NETMelliAnti
-vless://effc0852-00aa-4561-96c1-dcafffb9a443@nim.aparat-movies-download.ir:42535?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@NETMelliAnti

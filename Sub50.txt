@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://effc0852-00aa-4561-96c1-dcafffb9a443@ae.aparat-movies-download.ir:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@NETMelliAnti
+vless://effc0852-00aa-4561-96c1-dcafffb9a443@nim.aparat-movies-download.ir:42535?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@NETMelliAnti
 vless://effc0852-00aa-4561-96c1-dcafffb9a443@nim.aparat-movies-download.ir:42535?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#NimBaha🇮🇷iSegaro
 vless://effc0852-00aa-4561-96c1-dcafffb9a443@persians.aparat-movies-download.ir:42555?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@NETMelliAnti
 vless://effc0852-00aa-4561-96c1-dcafffb9a443@persians.aparat-movies-download.ir:42555?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#Filimo-namava-filmnet🇮🇷 iSegaro
@@ -251,5 +253,3 @@ vless://f71bed6b-ea6a-41df-8a2f-cedbe893fd13@irancell2.arc912.ir:2052?type=httpu
 vless://f72787e7-6832-4527-bf61-2a922e6be7d0@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=NURturINg-CORPoRatiON.oNeEAT.CO&type=ws#Telegram:@config_proxy 🔥
 vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=reality&encryption=none&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a3#@V2RAY_VMESS_free
 vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=reality&encryption=none&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a3#AU 🇦🇺 | @v2xay
-vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=reality&encryption=none&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a3#🇦🇺
-vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=reality&encryption=none&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a3#🛡️ @FreakConfig
