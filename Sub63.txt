@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-
 vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none
 
 vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#Rayan%20-%20CBT%20-%20FI%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
@@ -68,7 +67,7 @@ hysteria2://86373f23-4618-48b8-830e-ec132559f835@hg.dport.top:33656/?insecure=1&
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@hl.dport.top:33659/?insecure=1&sni=hl.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8D%B7%E5%85%B0
 
-hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A89.01%20GB
+hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A68.07%20GB
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
@@ -253,3 +252,4 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#%F0%9F%87%A9%
 vmess://ewogICAgImFkZCI6ICI5OWE5MTRmMi10MDBrZzAtdDFnbXVuLTFyZm9uLmhrdC50Y3BiYnIubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiOTlhOTE0ZjItdDAwa2cwLXQxZ211bi0xcmZvbi5oa3QudGNwYmJyLm5ldCIsCiAgICAiaWQiOiAiYWVkMWNjMjQtMzUxZC0xMWVmLWJhNTItZjIzYzkxNjRjYTVkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh63wn4ewSEstMS42NS4yMDUuODQtMDk2OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0270
 vmess://ewogICAgImFkZCI6ICIxMjA1MmYwNC10MGZkczAtdDBodDZ6LTFvaWptLmhrdC50Y3BiYnIubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTIwNTJmMDQtdDBmZHMwLXQwaHQ2ei0xb2lqbS5oa3QudGNwYmJyLm5ldCIsCiAgICAiaWQiOiAiYmYxNDBiYzAtM2Y2OC0xMWVlLTk1M2EtZjIzYzkxNjRjYTVkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh63wn4ewSEstMS42NS4yMDUuODQtMDcwNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICJ2Ny5oZWR1aWFuLmxpbmsiLAogICAgImFpZCI6IDIsCiAgICAiaG9zdCI6ICJvY2JjLmNvbSIsCiAgICAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL29vb28iLAogICAgInBvcnQiOiAzMDgwNywKICAgICJwcyI6ICLwn4et8J+HsEhLLTEuNjUuMjUwLjIzNS0wOTcxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

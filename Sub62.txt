@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40V2rayNG3%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40Outline_Vpn%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40Outline_Vpn%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%3E%3E%40v2ray1_ng%3A%3ANL
@@ -253,3 +252,4 @@ vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?secur
 vless://b78d5bf5-d45c-4b5f-93cc-1e0fe9bdb2eb@157.230.91.47:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=157.230.91.47&encryption=none#Rayan%20-%20RVP%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://bad692ed-12b0-4081-8dff-417b30dcc4d5@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#Rayan%20-%20RVP%20-%20SG%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
