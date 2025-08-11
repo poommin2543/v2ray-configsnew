@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ed090d8f-07b2-40d8-936b-a8895f50e835@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&type=grpc&encryption=none#@awlix_i
 vless://ed4e6954-22ee-4417-bfb3-63c9e26eb1bc@65.109.207.127:33810?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&type=tcp#telegram 🇫🇮 @V2WRAY
 vless://ed7a7629-09b5-4e9a-c56b-d418f1a1388e@37.27.254.247:80/?type=tcp&security=reality&pbk=BuoQdx6Rpxdhn58FNJ5PtW4TqsVZQtcZ9Zj7J_1aaFY&fp=chrome&sni=refersion.com&sid=&spx=/HAJIMAMADVPN#🌿 کانفیگ رایگان کانال حاجی ممد-@HAJIMAMADVPN-1
@@ -253,3 +252,4 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encr
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🛡️ @FreakConfig
 vless://f3d5ab23-9d59-439c-9049-8b47107b549b@wa.webshop8080.sbs:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=wa.webshop8080.sbs#کان
 vless://f3d5ab23-9d59-439c-9049-8b47107b549b@wa.webshop8080.sbs:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=wa.webshop8080.sbs#کانال+کانفیک+رایگان++https://t.me/vpnonlin01
+vless://f3ee91bb-7e9a-4f99-ca57-620529307c48@151.101.3.8:80?path=/ws/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN?ed=2048&security=none&encryption=none&host=Gozargah.org&type=ws#🚀 GozargahVPN | 🇷🇺 Russia

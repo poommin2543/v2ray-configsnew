@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6c558594-52f0-4d84-8db2-963b5387ecf0@lllliraniv2rayllll.norooz.online:443?path=/@iraniV2ray&security=tls&encryption=none&fp=chrome&type=ws&sni=llliraniv2raylll.norooz.online#@iraniV2ray
 vless://6c558594-52f0-4d84-8db2-963b5387ecf0@lllliraniv2rayllll.norooz.online:443?path=/@iraniV2ray&security=tls&encryption=none&fp=chrome&type=ws&sni=lllliraniv2rayllll.norooz.online#@iraniV2ray
 vless://6c590c58-0bcd-4b64-a073-c46066080d7e@104.21.0.0:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://6c590c58-0bcd-4b64-a073-c46066080d7e@185.162.229.212:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
@@ -253,3 +252,4 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=/&security=tls
 vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=/&security=tls&encryption=none&host=NGINX-Z.pages.DEV&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#@V2RAY_VMESS_free
 vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=/assets?ed=2560&security=tls&encryption=none&host=NGINX-Z.pages.DEV&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#@V2RAY_VMESS_free
 vless://760749cd-62bf-4841-8cd5-dffa086cfe3f@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
+vless://760749cd-62bf-4841-8cd5-dffa086cfe3f@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1

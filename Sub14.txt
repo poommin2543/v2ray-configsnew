@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@TeLPJ+تمام+نت+ها+🟦🟨
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@Tunder_vpn
@@ -253,3 +252,4 @@ vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/oo
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mtn
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab653388@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mci
