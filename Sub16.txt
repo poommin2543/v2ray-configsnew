@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1b17594c-ab6f-4818-9773-caf93331b723@5.223.59.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@AblNet7 🇸🇬
 vless://1b18b439-5371-4f38-b8d0-71aad09a3a92@15.204.235.13:43728?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
 vless://1b18b439-5371-4f38-b8d0-71aad09a3a92@15.204.235.13:43728?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ🇺🇲
 vless://1b18b439-5371-4f38-b8d0-71aad09a3a92@15.204.235.13:43728?security=none&encryption=none&headerType=none&type=tcp#All-@Tunder_vpn-16
@@ -252,4 +253,3 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 343 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 360 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 484 (@Outline_Vpn) free
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 490 (@Outline_Vpn) free
