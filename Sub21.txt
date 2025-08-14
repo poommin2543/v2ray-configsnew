@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:7845?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@pishgam.sdcards.ir:80?path=/wss9500?ed=2560&security=none&encryption=none&host=new2.hosting-mmd.ir.&type=httpupgrade#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@wWw.SpeedTesT.Net:443?path=/wss9500?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=new2.hosting-mmd.ir.&fp=chrome&type=httpupgrade&sni=new2.hosting-mmd.ir.#@CaV2ray ⚡️
@@ -177,7 +176,6 @@ vless://3aade664-2a89-4cda-9476-d42f8f1d9ef3@Gang.FK4EVER-3.hosting-ip.com:80?ty
 vless://3ad0d483-0da6-4ff0-c829-9131a5db9c8d@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://3ad0e547-1901-4b34-affc-dfabc07af1fe@193.151.147.21:38360?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 💚
 vless://3b3ca8ba-3e3a-45c0-96af-aa61b84a12e1@185.49.105.236:9292?type=tcp&headerType=http&host=speedtest.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇫🇷@Evay_vpn
-vless://3b40219d-541c-4a8e-aa19-377bd68f1f62@cache.netflix.com.unlimited.spauu.web.id:443/?type=ws&encryption=none&flow=&host=cache.netflix.com.unlimited.spauu.web.id&path=/vl=129.150.49.58=18650&security=tls&sni=cache.netflix.com.unlimited.spauu.web.id&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024#@CaV2ray ⚡️
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=/?ed=1024&security=none&encryption=none&host=Fastapi.Org&type=ws#@CaV2ray ⚡️
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=/?ed=1024&security=none&encryption=none&host=Fastapi.Org&type=ws#@bad_raqs'
@@ -253,3 +251,5 @@ vless://3dc1d42d-fc8b-47ed-97af-a26382062506@taxi.snapprlt2.nikastoring.ir:1818?
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@tr.shop.snapppro.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&sid=#🇹🇷 Turkey-3
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@uae.shopuae.nikastore.top:2020?security=none&type=tcp&headerType=http&path=/&host=goftino.com#🇦🇪 UAE
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@us.snappus.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#🇺🇸 USA
+vless://3e0dd3e8-1ff4-413a-a9f9-8ab2ba94ced1@45.82.161.120:24199?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://3e0f091c-7895-4582-a9a5-3e9ee9ea49c0@190.93.247.155:8080?security=none&type=ws&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880#@Hope_Net-join-us-on-Telegram
