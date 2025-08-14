@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:@v2rayng_fars]
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#🟢 جوین بده کانکت بمونی: @STAPersiaNews
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&type=tcp&headerType=none#VayNora
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون 🫀
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون 🫵🏻
@@ -52,7 +48,6 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=/?ed=2048&secu
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&headerType=http&host=divarcdn.com#@EVAY_VPN🇳🇱
 vless://255b378e-cf94-4b7e-816b-d8d882583214@151.101.3.8:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
 vless://2561f898-aeb6-413b-805f-e6687809a383@81.12.35.223:2021?encryption=none&security=none&type=tcp&headerType=http&host=parsabr.com#SPDNET 🇩🇪
-vless://259eb403-89db-44df-b2c8-c60e690ab3ca@cafearz.com:8080?path=/melo&security=none&encryption=none&host=4.channeltur.digicyber.click&type=ws#Telegram:@config_proxy 🔥
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=/stream/#Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=magdl.ir&fp=chrome&type=ws&sni=anchor.fm#@V2rayNG3
 vless://25d0b00d-6b17-45c8-df12-4e7e08fd8c19@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@icv2ray
 vless://25d0b00d-6b17-45c8-df12-4e7e08fd8c19@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam🇳🇱-iow14li0r
@@ -105,7 +100,6 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?note=---Telegram
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@ShadowProxy66-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@ShadowProxy66-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@v2ray313 کانالمون 🥰
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@Tunder_vpn--?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@Tunder_vpn-
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#[🇳🇱]t.me/ConfigsHub
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@NpvV2rayFilTer
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@Tunder_vpn
@@ -121,6 +115,9 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiran
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#@v2ray313 کانالمون 🍁
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#@v2ray313 کانالمون 💓
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#telegram🇩🇪@V2WRAY
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@i10VPN 🚀| با ما متصل بمون⚡
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#Telegram:@config_proxy 🔥
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#[🇳🇱]t.me/ConfigsHub
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/barayeiranmahsang/tel-@azadiiivpn/?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#X2rayConfig
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/barayeiranmahsang/tel-@azadiiivpn/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#@Academi_vpn²
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/barayeiranmahsang/tel-@azadiiivpn/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
@@ -253,3 +250,6 @@ vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&secu
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=none&encryption=none&type=ws#[🇩🇪]ae_proxy
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@Alfa_v2ray_ng کانالمون ☹️
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@V2RAYROZ
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@configfu
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون ☹️
