@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0c942b51-66f2-4788-98c3-8cf58954421c@91.107.159.32:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#@ev2rayy
+vless://0c942b51-66f2-4788-98c3-8cf58954421d@91.107.159.32:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#@ev2rayy
 vless://0c942b51-66f2-4788-98c3-8cf58954421d@91.107.159.32:444?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#@ev2rayy
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
@@ -251,5 +253,3 @@ vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=𝐅𝐑𝐄
 vless://11402c34-7f90-485f-a218-ade69f314f49@99.199.73.47:10082?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp#Telegram:@config_proxy 🔥
 vless://11402c34-7f90-485f-a218-ade69f314f49@99.199.73.47:10082?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#@Selinc
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#ski
