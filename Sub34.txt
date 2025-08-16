@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=Vk1YdTaPjV.wAsAbI1.oRg&fp=chrome&type=ws&sni=Vk1YdTaPjV.wAsAbI1.oRg#@V2RAY_VMESS_free
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
 vless://9e8ca7c6-7f5f-4056-b280-efd1796669ad@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=mastokhiar.com&type=xhttp#[🇱🇺]@configLINE(2)
@@ -253,3 +252,4 @@ vless://Parsashonam-299@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&h
 vless://Parsashonam-299@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-67@104.18.14.19:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=/#Joinus(@vpn_Zvpn)
 vless://Parsashonam-67@185.146.173.58:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=/#Joinus(@vpn_Zvpn)
+vless://Parsashonam-67@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=/?Telegram:@proxy_mtm#Joinus(@vpn_Zvpn)

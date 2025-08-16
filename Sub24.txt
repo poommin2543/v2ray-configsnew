@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://52428b83-b414-4321-8aea-1bd51d68b884@opening-hours.nz:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
 vless://52428b83-b414-4321-8aea-1bd51d68b884@opening-hours.nz:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=join-to-Vmessorg.sabadyt.ir&type=ws#All🇩🇪@Rk_VPS
 vless://527a7c04-9a2c-4fdb-aa18-37337e62e917@69.84.182.108:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
 vless://527a7c04-9a2c-4fdb-aa18-37337e62e917@69.84.182.18:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
@@ -253,3 +252,4 @@ vless://57177393-a38e-4593-8a01-5409f3707ff0@91.107.189.227:24070?mode=gun&secur
 vless://572bed5a-891e-4da8-82c6-b61ad9e7b5dd@azadnett1.set7.site:35420?type=tcp&security=none#Azadnet.50G
 vless://575c6f3b-9596-4590-e961-8ee5b23ce590@195.254.165.163:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#@icv2ray
 vless://575c6f3b-9596-4590-e961-8ee5b23ce590@195.254.165.163:2052?security=&encryption=none&type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#@bored_vpn
+vless://575c6f3b-9596-4590-e961-8ee5b23ce590@ww.speedxpn.sedanor.ir:2052?type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&authority=&security=none#XpnTeam🇳🇱-n4wznn5nf

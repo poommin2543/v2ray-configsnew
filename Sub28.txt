@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7258cd00-9eb5-40b1-8c78-ecdfaeff3e30@78.47.65.38:12365?type=xhttp&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&host=&mode=auto&security=reality&pbk=URBzficmDa8s-CNq6Sp5WtGew_bfYb0LS07JN8Hkkwc&fp=chrome&sni=zhaket.com&sid=e4e5a8&spx=/#m40vyes6
 vless://72609f31-30d5-442d-a40f-23722dd50e4f@sss18019.tas-bazi.com:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#@Tunder_vpn
 vless://72609f31-30d5-442d-a40f-23722dd50e4f@sss18019.tas-bazi.com:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#@V2ray1_Ng
 vless://72609f31-30d5-442d-a40f-23722dd50e4f@sss18019.tas-bazi.com:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +252,4 @@ vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?security=none&e
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.zedmodeon.ip-ddns.com&type=ws#@bored_vpn
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.zedmodeon.ip-ddns.com&type=ws#@confiig_hub
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.zedmodeon.ip-ddns.com&type=ws#@icv2ray
+vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.zedmodeon.ip-ddns.com&type=ws#@mehrosaboran
