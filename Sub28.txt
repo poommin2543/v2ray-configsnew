@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://72609f31-30d5-442d-a40f-23722dd50e4f@sss18019.tas-bazi.com:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://726348b9-efa7-4f74-8f77-1a304d269641@104.25.136.76:8880?type=httpupgrade&path=/SPEEDTEST,up2x-down2x,up2x-down2x,up2x-down2x,up2x-down2x,up2x-down2x,up2x-down2x,up2x-down2x,up2x-down2x?ed=2048&host=www.speedtest.netmain3680.datispro.iNFo.&security=none#@SpecXtech
 vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@151.101.2.133:443?path=/ws&security=tls&encryption=none&host=bale.ai&fp=chrome&type=ws&sni=live.wkrq.com#🌟Telegram:@Asak_Vpn
 vless://72f14dc6-b3bf-4c26-b4ad-2724ced253e9@m8.shop99.top:90?security=tls&encryption=none&headerType=none&type=tcp#hamrah6103
@@ -253,3 +252,4 @@ vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEO
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@icv2ray
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@mehrosaboran
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@v2rayng_fars
+vless://78f17a8e-de3d-4659-8ee0-e1946f7cd3c4@hield.ru:443?type=tcp&security=reality&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&fp=chrome&sni=yahoo.com&sid=06c6eb7423f24de5&spx=/&flow=xtls-rprx-vision#Telegram:@config_proxy 🔥

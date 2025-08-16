@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=/&type=tcp&headerType=none#@Daily_Configs
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#@CodeClubiR جوین نزنی آف میش
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#@Daily_Configs
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#@v2ray313 کانالمون ❤️
@@ -253,3 +252,4 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.197.121.247:8880?security=tls&s
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?mode=auto&path=/gftrdd?ed=2560&security=none&encryption=none&host=take4.global.ssl.fastly.net&type=xhttp#@G0Dv2ray
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
+vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🟢 جوین بده کانکت بمونی: @STAPersiaNews
