@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.113:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=/&security=tls&encryption=none&type=ws#@Daily_Configs
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=/&security=tls&encryption=none&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=/&security=tls&encryption=none&type=ws#🇺🇸 MCI - @FREEV2RNG 11
@@ -252,4 +253,3 @@ vless://abeb3ac3-7039-4fcd-98a3-b6aac75fffb4@79.137.195.203:882?security=&encryp
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#داخل کانال و ربات عضو شوید👇
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🛡️ @FreakConfig
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net/?BIA_TELEGRAM@Hddify_@Hddify_@Hddify_@Hddify_@Hddify&headerType=http&type=tcp#→ @Hddify 🐤
