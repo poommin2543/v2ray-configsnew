@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Aimer@63.141.128.66:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0347
-trojan://Aimer@108.165.152.55:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0348
-trojan://Aimer@104.129.166.131:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0349
-trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0350
 trojan://Aimer@135.84.74.254:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0351
 trojan://Aimer@154.219.5.242:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0352
 trojan://Aimer@108.165.152.219:443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0353
@@ -253,3 +249,7 @@ hy2://b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214@45.136.245.177:80/?insecure=1&obfs=sa
 hy2://b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214@45.136.245.177:80/?insecure=1&obfs=salamander&obfs-password=OGU1NTEyMGE2ZDhkODdhOQ==#Channel id: @proxy_kafee🇺🇸
 hy2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇯🇵日本东京
 hy2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇭🇰香港2
+hy2://cc83a02b-90ea-403b-9c76-27e4be95f637@154.204.181.230:50256/?insecure=1&sni=www.bing.com#Channel id: @@singbox1🇭🇰
+hy2://cc83a02b-90ea-403b-9c76-27e4be95f637@154.204.181.230:50256/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇭🇰
+hy2://cc83a02b-90ea-403b-9c76-27e4be95f637@154.204.181.230:50256/?insecure=1&sni=www.bing.com#Channel id: @proxy_kafee🇭🇰
+hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@us2.1010991.xyz:3001/?insecure=1&sni=us2.1010991.xyz#🇺🇸美国
