@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=/&security=tls&encryption=none&type=ws#Channel id: @@proxy_kafee 🇩🇪
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=/&security=tls&encryption=none&type=ws#Channel id: @@singbox1 🇩🇪
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.29:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
@@ -138,7 +136,6 @@ vless://7c1438c0-f28b-4fdf-821e-558931edac3e@ir2.servertopia.top:4555?type=tcp&s
 vless://7c1438c0-f28b-4fdf-821e-558931edac3e@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN  100Gb❤️- پایان حجم ❌
 vless://7c202d40-df60-4b90-c3f8-bd81f6791258@rayphoriahub.iran.soratpardaz.ir:2021?type=tcp&security=reality&pbk=cLTyHJdWOJnrsIwbB547idyIOs07W5PXxftfRC_880c&fp=chrome&sni=preview.redd.it&sid=&spx=/------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub&flow=xtls-rprx-vision#🇩🇪 RayphoriaHub-کانفیگ های اختصاصی بیشتر به صورت رایگان @RayphoriaHub
 vless://7c2e4d5c-f041-43dc-b2e8-50be99acafc2@172.66.40.99:443?security=tls&type=ws&headerType=&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&host=DeV.iSvClOd.CoM&sni=DeV.iSvClOd.CoM&fp=chrome&alpn=h2,http/1.1#TLS-telegram-@ISVvpn
-vless://7c2f01ca-65c1-489a-b1c7-107bb5cdaaeb@w1.wtezar.site:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#@ZedBaz_vpn
 vless://7c48cd13-f242-45e4-adef-9a9321d16039@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@confiig_hub
 vless://7c48cd13-f242-45e4-adef-9a9321d16039@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
 vless://7c48cd13-f242-45e4-adef-9a9321d16039@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@icv2ray
@@ -253,3 +250,6 @@ vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Capoit
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram: @IP_CF 🇨🇦
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Hddify |π| چنل هدیفای 🙏🏻
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Selinc
