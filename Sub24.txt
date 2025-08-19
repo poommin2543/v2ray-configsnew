@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Mci 245 (@Outline_Vpn) free
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?path=/Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&security=&encryption=none&host=redw.pooriam.ir&type=ws#🇺🇸🇦🇪🇩🇪@FILTERK0SH+|+All
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=/?ed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@AYMH19+کانال+تلگرام
@@ -49,7 +46,6 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=non
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/?ed=2560&security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram:@zede_filteri
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#@Selinc
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#@v2ray313 کانالمون 🛀🏻
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#IR-@Iran_V2ray1
@@ -253,3 +249,7 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&sec
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&path=/?ed=2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@awlix_ir
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed=2560#@awlix_ir
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+💛
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
