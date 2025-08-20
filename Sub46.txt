@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#🇹🇷 ⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel id: @@proxy_kafee 🇹🇷
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel id: @@singbox1 🇹🇷
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel id: @ShadowProxy66 🇹🇷
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#[🇹🇷]ae_proxy
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-link15.liangxin1.xyz:35457/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=3gb-aG6qLCJpEOFrEPZ9qKqLvVPA_ovlu0X1PvjcE0k&sid=05288db3#🇯🇵日本
 vless://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-link2.liangxin1.xyz:32725/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&fp=chrome&security=reality&pbk=IdgzmrHX6nbZEVjox3WcxBE07DwXE9YIa8ZyYZuMWEw&sid=784cf058#🇭🇰香港
@@ -248,8 +253,3 @@ vless://e4893ca2-28ad-4f0a-ae6d-501e4c88bb0b@91.107.254.202:2096?type=xhttp&path
 vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=&type=ws&path=/telegram@v2ray_alpha/?ed=2560&host=pormang.webhost99.workers.dev&encryption=none#@awlix_ir
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80?security=&type=ws&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1&host=pormang.webhost99.workers.dev&encryption=none#@awlix_ir
-vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1{All operator}
-vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
-vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@v2ray313 کانالمون 🙁
-vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?flow=&type=httpupgrade&host=cdncloud-direct-public.beraghsa.ir&path=/?ed=2052&security=none#Channel : @vmessorg
-vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?path=/?ed=2052&security=none&encryption=none&host=cdncloud-direct-public.beraghsa.ir&type=httpupgrade#@heragAbad
