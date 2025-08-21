@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2e9aa27d-8977-46fe-85ab-28aba1517210@172.66.47.110:2053?security=tls&sni=ARUsI-khUnin.PaGES.dev&alpn=http/1.1&fp=randomized&type=ws&path=/0VhT0yIJdAFV635Z/MjEzLjE1OS43Ni4xNzUsMi41Ni4yMDQuMTgz?ed%3D2560&host=arusi-khunin.pages.dev&encryption=none
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=6389113402676776510.VtNeT.infO&type=ws&alpn=h2http/1.1&host=&path=/#telegram
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?path=%2FFree-CF-Proxy-AM14&security=tls&encryption=none&host=freevpn.xhamster.biz.id&type=ws&sni=freevpn.xhamster.biz.id#%40netmelli15%E2%9C%85%EF%B8%8F
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?encryption=none&security=&sni=&type=ws&alpn=&host=SeRvER07.VtNEt.InFO&path=/?ed=2048#telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI%3D@77.83.245.190:443#Join%20Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%B9%F0%9F%87%B7
