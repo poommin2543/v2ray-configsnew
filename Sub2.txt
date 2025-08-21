@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#%40V2rayNG3%20%235
-hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#%40V2rayNG3%20%236
-hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#%40V2rayNG3%20%237
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%98%9E%20%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Viturey%20%232
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%98%9E%20%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Viturey%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=1&sni=YAPC-1.afshin.ir?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%239
@@ -253,3 +249,7 @@ hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#Ch
 hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#Channel id: @@singbox1🇸🇬
 hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇸🇬
 hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#SG
+hy2://5OiuCsPmULZ0lJwts89fegLJE@54.169.224.169:17193/?insecure=1&sni=bing.com#Channel id: @@proxy_kafee🇸🇬
+hy2://5OiuCsPmULZ0lJwts89fegLJE@54.169.224.169:17193/?insecure=1&sni=bing.com#Channel id: @@singbox1🇸🇬
+hy2://5OiuCsPmULZ0lJwts89fegLJE@54.169.224.169:17193/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇸🇬
+hy2://5OiuCsPmULZ0lJwts89fegLJE@54.169.224.169:17193/?insecure=1&sni=bing.com#SG
