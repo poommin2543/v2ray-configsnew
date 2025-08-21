@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram:@V2ray1_Ng@91.107.187.51:2050?mode=gun&security=reality&encryption=none&authority=-@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#@V2ray1_Ng
+vless://Telegram@FNET00@Am20094@151.101.3.8:80?mode=auto&path=/Telegram@FNET00-@Am20094/?ed=2560&security=&encryption=none&host=fnet00.global.ssl.fastly.net&type=xhttp#Tel:@Mr_Amirr_00-Public|VIP&Tunnel|
+vless://Telegram@FNET00@Am20094@151.101.3.8:80?mode=auto&path=/Telegram@FNET00-@Am20094/?ed=2560&security=&encryption=none&host=fnet00.global.ssl.fastly.net&type=xhttp#Tel:@Mr_Amirr_00-Public|VIP&Tunnel|@FNET00|@Am20094-IP 1
+vless://Telegram@FNET00@Am20094@188.121.126.69:8081?type=tcp&security=none#Tel:@Mr_Amirr_00-Telegram | @FNET00
 vless://Telegram@FNET00@Am20094@37.32.13.245:8081?security=none&encryption=none&headerType=none&type=tcp#🚀@FNET00 - @Am20094 | VIP & Tunnel |
 vless://Telegram@FNET00@Am20094@37.32.13.245:8081?security=none&encryption=none&headerType=none&type=tcp#🚀@FNET00 - @Am20094 | VIP & Tunnel | 👤 @Mr_Amirr_00
 vless://UnlimitedDev—Channel-688843@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#@V2rayNG3
@@ -79,7 +83,6 @@ vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@172.66.40.99:80?path=/@vmessorg----
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@69.84.182.2:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=&encryption=none&host=join-to-Vmessorg.sabadyt.ir&type=ws#@icv2ray
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@opening-hours.nz:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
 vless://a35017af-d228-44bd-885c-e5951ce09df6@104.24.196.20:80?path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng?ed=80&security=none&encryption=none&host=dl6.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&type=ws#@V2rayNG3
-vless://a356d07f-a55f-4afc-82d1-f9c55749c797@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://a356d07f-a55f-4afc-82d1-f9c55749c797@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#r♡ya@V2rayBaaz
 vless://a356d07f-a55f-4afc-82d1-f9c55749c797@172.66.40.99:80?type=ws&host=f.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#🇩🇪 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://a356d07f-a55f-4afc-82d1-f9c55749c797@172.66.40.99:80?type=ws&host=f.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#🇩🇪 Join Tel :  @manzariyeh_rasht
@@ -250,6 +253,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:2096/?type=ws&encryptio
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 @vlees_v2rayng¹²
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
