@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:14568?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbkV3NXpvMlpoZFM4R3k5ZkFNUGZiaG9ndXV2OGJpTllwb3lIb05RTEgyb1pYV0E0VTR5NmlOVFlNZXhqYWlCdlFXdjJONGI0M2dwOVNWRUczbll2TWY3NXA0NkszSGU=@imap.roomyinmita.name:40565#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
@@ -253,3 +252,4 @@ hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#Chan
 hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#Channel id: @@singbox1🇩🇪
 hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇩🇪
 hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#DE
+hy2://7fb6dcc5-5396-4b95-bfe3-789f5c0120be@hsxg.huasuan666.top:22153/?insecure=1&sni=hsxg.huasuan666.top#🍰28@oneclickvpnkeys
