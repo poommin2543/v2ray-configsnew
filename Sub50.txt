@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&encryption=none&type=grpc#Channel id: @@proxy_kafee 🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&encryption=none&type=grpc#Channel id: @@singbox1 🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&mode=gun&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=none#@g0dv2ray
@@ -253,3 +252,4 @@ vless://e906f679-b1fe-4e38-b590-196328d02408@de.pixvpn.app:8443?encryption=none&
 vless://e906f679-b1fe-4e38-b590-196328d02408@de.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#☁️telegram:@Fast78_channel
 vless://e906f679-b1fe-4e38-b590-196328d02408@de.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://e906f679-b1fe-4e38-b590-196328d02408@de.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#🇩🇪@FreakConfig
+vless://e906f679-b1fe-4e38-b590-196328d02408@de.pixvpn.app:8443?type=grpc&mode=gun&serviceName=grpc-jd&security=reality&fp=chrome&sni=jd.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3#🇩🇪 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd

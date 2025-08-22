@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://763f1554-52fc-466a-b6be-d5ff9eee0fa0@151.101.3.8:80?path=?=9090&security=none&encryption=none&host=External_Net.org&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛🩵
 vless://76414574-71e0-4706-89cc-c5b09c13445d@csgo.com:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国07 付费推荐：https://dafei.de
 vless://76414574-71e0-4706-89cc-c5b09c13445d@fastcup.net:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
 vless://76414574-71e0-4706-89cc-c5b09c13445d@pubg.ac:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
@@ -253,3 +252,4 @@ vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#@Selinc
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#🇦🇱@SimChin_iR عضو بشید
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#🇦🇷@SimChin_iR عضو بشید
+vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#🇳🇱@FreakConfig

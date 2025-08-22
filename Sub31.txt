@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#🇳🇱@FreakConfig
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#@V2rayNG3
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@p3.vixsm.ir:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#@V2rayNG3
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@168.119.48.210:8080?type=ws&path=/@VPNLime&host=fast.com&security=none#Channel: @VPNLime
@@ -253,3 +252,4 @@ vless://842d9b68-67d0-42b1-82d7-efffdc2a5249@172.66.40.99:8880?path=/@V2RAYFAST_
 vless://842d9b68-67d0-42b1-82d7-efffdc2a5249@172.66.40.99:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=httpupgrade#𝗝𝗼𝗶𝗻 ➠ @V2rayTun0| کانال ما ⛩️
 vless://846b82d2-6f31-4458-bf59-5d67f9934e58@104.21.19.124:8880?path=/nazan/pedar/sag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#@V2rayNG3
 vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@104.19.129.113:443?path=/zmgbizws&security=tls&encryption=none&host=638897369852460694.shiraz-prx-dnraaay.info&type=ws&sni=638897369852460694.shiraz-prx-dnraaay.info#🇨🇵@FreakConfig
+vless://8497c5e6-7598-4b33-9680-7d0fa6dea4a3@power.teampluss.ir:80?path=/@forthebest?ed=2560&security=&encryption=none&host=Aesa.net&type=ws#🔥 𓏺 متود اختصاصی همه اپراتورها

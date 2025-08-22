@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?path=/vless/&security=none&encryption=none&host=ov-canada1.09vpn.com&type=ws#🇨🇦@FreakConfig
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.bing.com&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#🇩🇪 Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.bing.com&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#🇩🇪 Join Tel : @manzariyeh_rasht
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#@AblNet7 🇮🇷 ن
@@ -253,3 +252,4 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&p
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel id: @@singbox1 🇩🇪
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇩🇪
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram+:+@V2rayEnglish

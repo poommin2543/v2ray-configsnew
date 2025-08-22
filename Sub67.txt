@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none&flow=#%F0%9F%A5%A810%40oneclickvpnkeys
 vless://6b96d465-3caf-46b6-a30e-d9e49d81a0a5@109.172.55.78:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=random&security=reality&pbk=6_ZBCHHJrZGWUN8MSg3I583YkUsl5OWdS3NRi35R9gU&sid=ba2809058e55d0#%F0%9F%A5%A84%40oneclickvpnkeys
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880/?type=grpc&encryption=none&flow=#%F0%9F%A5%A818%40oneclickvpnkeys
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#%F0%9F%A5%A812%40oneclickvpnkeys
