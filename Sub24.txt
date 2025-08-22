@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4a9686e2-7641-492d-a4b7-8db1a142882e@www.speedtest.net:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
+vless://4a9686e2-7641-492d-a4b7-8db1a142882e@www.speedtest.net:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@mehrosaboran
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#🇫🇷 | @External_Net
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=ratp.fr&sid=e9da#[🇫🇷]ae_proxy
@@ -251,5 +253,3 @@ vless://514bc33d-a62d-4f36-ba1a-8fc846e6c5be@www.parspack.com:80?path=/&security
 vless://5188d9f2-24af-4230-ab41-3a587df739f3@webshecan.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95#@WebShecan-11 Mordad-3
 vless://519116c7-cd01-4e0a-a9b7-d7b61315506a@f.paliss.ir:2525?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://519116c7-cd01-4e0a-a9b7-d7b61315506a@f.paliss.ir:2525?security=none&encryption=none&headerType=none&type=tcp#🇺🇲@FreakConfig
-vless://519116c7-cd01-4e0a-a9b7-d7b61315506a@f.vcheat.ir:2530?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
-vless://519116c7-cd01-4e0a-a9b7-d7b61315506a@f.vcheat.ir:2530?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥

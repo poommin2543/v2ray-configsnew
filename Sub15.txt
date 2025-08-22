@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&encryption=none&host=test.bujidao.org&type=ws&sni=test.bujidao.org#عضو کانال و ربات شوید👆
 vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&encryption=none&host=test.bujidao.org&type=ws&sni=test.bujidao.org#🔒@v2rayngsupbot
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?path=/&security=none&encryption=none&type=ws#sia
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IR-@Iran_V2ray1
@@ -251,5 +253,3 @@ vless://20be4816-7cf2-491e-f094-5e0542796b8f@Zula.ir:8880?type=ws&path=/telegram
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@27.50.48.126:2083?security=tls&sni=v.aivpn.filegear-sg.me&type=ws&host=v.aivpn.filegear-sg.me&path=/?ed=2560&fp=chrome&alpn=h3#Telegram:@config_proxy 🔥
-vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&authority=&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=27e90618#@icv2ray
-vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=27e90618#Bya To @Iran_V2Ray1

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0252
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#%F0%9F%87%B3%F0%9F%87%B1NL-164.92.156.41-0291
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0219
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%F0%9F%87%AB%F0%9F%87%B7FR-81.19.137.222-0243
@@ -251,5 +253,3 @@ vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946/?type=ws&encrypt
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=images.apple.com&fp=chrome&security=reality&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3#%F0%9F%8D%B021%40oneclickvpnkeys
 vmess://eyJhZGQiOiIxODguMTE0Ljk4LjE2IiwiYWlkIjoiMCIsImhvc3QiOiJxNC4xOWtBbGEuY28iLCJpZCI6ImZvci1NYWhzYU5HLW9ubHkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJNQkQtdzgwIiwic2N5IjoiYXV0byIsInNuaSI6InE0LjE5a0FsYS5jbyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==```
 vless://for-MahsaNG-vpn@188.114.98.18:2082?security=&type=ws&path=/mahsa_net/&host=Q7.19kaLA.cO&encryption=none#X1-MCI
-vless://074d7498-4aa9-41f9-b322-3e0debb686c7@www.speedtest.net:2053?security=tls&sni=cdn-assets.cyberscaler.com&allowInsecure=1&fp=firefox&type=ws&path=/cdn/app-assets/v3.3.2/&host=cdn-assets.cyberscaler.com&encryption=none
-vless://c988e2e4-3e72-48e0-894f-c458f03246a7@178.212.35.210:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=raES8OUSF_bmOvcHfuPIm-Fu-hlpd-9SLWCWmrRCW2M&sid=89a6e02cde6cea#22%F0%9F%9A%9C%40oneclickvpnkeys
