@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=/&security=reality&encryption=none&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&fp=chrome&type=http&sni=dalfak.com&sid=a56f693ce784b4cc#@Hope_Net-join-us-on-Telegram
+vless://f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=/&security=reality&encryption=none&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&fp=chrome&type=http&sni=dalfak.com&sid=a56f693ce784b4cc#t.me/entryNET/config=1841150186614220
+vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@46.101.163.141:55093?security=none&type=tcp&headerType=none&path=&host=#⚡ [🇩🇪] [Direct] CodeClubiR
+vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@87.107.104.132:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] CodeClubiR
+vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@87.248.129.96:55093?encryption=none&security=none&type=tcp&headerType=none#[🇦🇪] [Unlimited] GPT-4o (BETA) - @CodeClubiR
+vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@87.248.129.96:55093?security=none&type=tcp&headerType=none&path=&host=#[🇦🇪] [Unlimited] GPT-4o (BETA)
 vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@87.248.129.96:55093?security=none&type=tcp&headerType=none&path=&host=#[🇦🇪] [Unlimited] GPT-4o (BETA)  تست کنید و لذت ببرید😁  خرید اشتراک - &gt; کلیک کن.  حمایت یادت نره:)💪
 vless://f84b69c1-2dd3-45c4-b63f-d74877632929@speed.galaxyjanebi.sbs:14291?security=&encryption=none&headerType=none&type=tcp#💫 لذت سرعت|کانفیگ اختصاصی فقط49تومن configfree20255@
 vless://f84b69c1-2dd3-45c4-b63f-d74877632929@speed.galaxyjanebi.sbs:14291?security=none&encryption=none&headerType=none&type=tcp#@configfree20255
@@ -43,7 +49,6 @@ vless://f943ace2-4628-4022-9bdf-1db25e437e8d@zula.ir:443?type=ws&host=Rlimod.wor
 vless://f9750108-1ddf-41bb-b811-a24593d398dc@www.speedtest.net:80?path=/@Hddify-?ed=2048&security=none&encryption=none&host=d4.sgdemoffidi-rv.ir.&type=httpupgrade#→ @Hddify 🌃
 vless://f9750108-1ddf-41bb-b811-a24593d398dc@www.speedtest.net:80?path=/@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT-?ed=2048&security=&encryption=none=&host=d4.sgdemoffidi-rv.ir.&type=httpupgrade#@icv2ray
 vless://f9750108-1ddf-41bb-b811-a24593d398dc@www.speedtest.net:80?path=/@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT-?ed=2048&security=&encryption=none=&host=d4.sgdemoffidi-rv.ir.&type=httpupgrade#@mehrosaboran
-vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.69.44:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=h2,http/1.1#Telegram:@config_proxy 🔥
 vless://f9949daa-9af0-40db-a99e-7e58388b43a2@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-23Mordad-Night
 vless://f998b63e-bfbe-4a7d-a6c0-800d8febb806@fastshovpntelegramm.vinamarketcenter.ir:443?security=reality&encryption=none&pbk=CMB9AENkMsO9qHpxrdodZurjDEW4-l9ruDjsyZYzvVQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=f6#@erfwp
 vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&encryption=none&host=ewedwdewed.farcadezero.ir&type=ws#@UCIRANIR
@@ -204,6 +209,7 @@ vless://feea904b-d443-43e1-beaa-621ef7a3de3f@activeservice.mispd.ir:2096?securit
 vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?mode=auto&path=/erfwp?ed=2048&security=none&encryption=none&host=erfwp.com&type=xhttp#@V2RAYNG_1378
 vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?type=xhttp&path=/erfwp?ed=2048&host=erfwp.com&mode=auto&security=none#@erfwp عضو شو
 vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?type=xhttp&path=/erfwp?ed=2048&host=erfwp.com&mode=auto&security=none#@erfwp عضو شو  کانفیگ متصل v2ray پرسرعت پینگ پایین   جهت خرید کانفیگ اختصاصی
+vless://fef78491-2dc3-4ba3-bb81-1fb34dd9ecd8@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#Telegram:@config_proxy 🔥
 vless://ff07526f-7fab-431c-cf38-ab96eeb568f9@def.irimcs.org:2053?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=reality&pbk=penvJFtaVngcSYXhoZk1hf_AwOJRI8LtJEis-FmwpDA&fp=chrome&sni=greenpepper.ir&sid=fa&spx=/#@Catvpns-🇩🇪--Channel
 vless://ff0d0125-cb18-40fe-a4fc-4d85f0b68b70@172.67.65.158:2087?path=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&security=tls&alpn=h2&encryption=none&host=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome&type=ws&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online#@hopev2ray❤️
 vless://ff0d0125-cb18-40fe-a4fc-4d85f0b68b70@zula.ir:2087?path=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&security=tls&alpn=h2&encryption=none&host=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome&type=ws&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online#@hopev2ray💙
@@ -247,9 +253,3 @@ vless://mahanvpn-vip-chanell@172.67.160.192:2052?path=/mAhAnkarNanaNd.kouRdneTpl
 vless://mmd@46.101.83.29:8443?type=tcp&security=reality&fp=chrome&sni=varzesh3.com&pbk=S2h_wiv94ugMyCeCd8Gy2iUfy1o0y0g43Ih4l1blLTg&sid=4a33&spx=/#@SaghiVpnXBOT[🇬🇧]
 vless://rtybdsWfH@104.19.144.33:443?path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=mex.a5r.ir#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
 vless://spec-x-technology@beththebird.online:2052?path=/cdn-specxtech-google.com.specxtech.com?ed=2560&security=none&encryption=none&host=cdn-specxtech-google.com.specxtech.com&type=httpupgrade#@specxtech
-vless://tel:@mahanvpn..@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-telegram
-vless://tel:@mahanvpn.@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#
-vless://tel:@mahanvpn.@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-telegram
-vless://tel:@mahanvpn.@172.67.160.192:2052?type=httpupgrade&path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&security=none#🇩🇪🔑Tel@mahanvpn-telegram
-vless://tel:@mahanvpn@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#
-vless://tel:@mahanvpn@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-telegram
