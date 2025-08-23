@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayBaaz
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸@HiByeVPNN👈⚡❤️‍🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&encryption=none&security=none&type=grpc#[🇺🇸]ae_proxy
@@ -251,5 +253,3 @@ vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&p
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @V2rayTun0 سرور رایگان میخوای بیا🎁
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[60863] - Telegram : @V2All
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#➠@V2rayTun0
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
