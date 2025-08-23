@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://UIVzMnusYd@sp1.shatak.store:49228?security=tls&sni=sp1.shatak.store&type=tcp#Telegram:ShatakVPN```
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#%40Daily_Configs
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&encryption=none&headerType=none#%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%20%3A%20%F0%9D%98%8C%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%A5%F0%9D%98%9B%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%A9%20_93
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&type=ws&sni=/?BIA_TELEGRAM@i10VPN&path=/&encryption=none&headerType=none#%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%20%3A%20%F0%9D%98%8C%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%A5%F0%9D%98%9B%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%A9%20_119
