@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 605 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 633 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 633 (@manzariyeh_rasht) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -253,3 +252,4 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=/?ed=2048&secu
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?path=/&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#Telegram:@config_proxy 🔥
 vless://255b378e-cf94-4b7e-816b-d8d882583214@151.101.3.8:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
 vless://2561f898-aeb6-413b-805f-e6687809a383@81.12.35.223:2021?encryption=none&security=none&type=tcp&headerType=http&host=parsabr.com#SPDNET 🇩🇪
+vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&alpn=h2,http/1.1&encryption=none&host=amir-ebr.pages.dev&fp=chrome&type=ws&sni=amIR-ebR.pAGeS.Dev#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥: @V2Gatee

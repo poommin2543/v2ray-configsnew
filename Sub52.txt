@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss35225.tas-bazi.com:443?type=xhttp&mode=stream-one&path=/rty&security=none#🇩🇪 Join Tel :  @manzariyeh_rasht
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss52355.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#@V2RAYROZ
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss52355.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss52355.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
@@ -253,3 +252,4 @@ vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=non
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?mode=auto&path=/123&security=none&encryption=none&type=xhttp#Nimbaha@FF_crony
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?type=xhttp&mode=auto&path=/123?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇨🇦 @Evay_vpn
 vless://f37052b4-dda4-4014-813c-288cb688ca23@38.54.105.77:45374?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=&encryption=none&headerType=&type=tcp#🇹🇷[Telegram:NetifyVPN]
+vless://f37052b4-dda4-4014-813c-288cb688ca23@38.54.105.77:45374?security=&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel

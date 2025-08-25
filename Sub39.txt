@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?path=/Free-CF-Proxy-AM14&security=tls&encryption=none&host=freevpn.xhamster.biz.id&type=ws&sni=freevpn.xhamster.biz.id#IRAN 701 (@manzariyeh_rasht) free
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?path=/Free-CF-Proxy-AM14&security=tls&encryption=none&host=freevpn.xhamster.biz.id&type=ws&sni=freevpn.xhamster.biz.id#IRAN 707 (@Outline_Vpn) free
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&fp=chrome&type=ws&sni=freexxx.ndeso.web.id#@AblNet7 🇮🇷 نت ملی
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&fp=chrome&type=ws&sni=freexxx.ndeso.web.id#@Selinc
@@ -253,3 +252,4 @@ vless://b1e76a39-1d89-4c07-f755-dd60839def7e@104.21.112.1:8080?security=&type=ws
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=stream-one#@Daily_Configs
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#@ToxicVid ¹
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#@ToxicVid ⁷
+vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳

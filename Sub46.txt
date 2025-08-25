@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷telegram🪢@V2WRAY
 vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇮🇷2@Evay_vpn
 vless://d99c54fb-2cba-4b0e-b140-beee2fd6ea7b@nv163.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv163.momdping.com#@ai_duet
 vless://d9b9c976-cfcf-4271-9ed6-f19d41b1b978@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥: @V2Gatee
@@ -253,3 +252,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 460 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 472 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 635 (@Outline_Vpn) free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥

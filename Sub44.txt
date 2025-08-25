@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#🇩🇪@configfree20255
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=lease-11.access.name.ng&type=ws&sni=lease-11.access.name.ng#@MARAMBASHI 💜
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=lease-11.access.name.ng&type=ws&sni=lease-11.access.name.ng#[🇨🇦]t.me/ConfigsHub
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=lease-11.access.name.ng&type=ws&sni=lease-11.access.name.ng#[🇹🇷]ae_proxy
@@ -253,3 +252,4 @@ vless://d5012012-a850-49fc-bb81-17a4bf687611@zula.ir:443?mode=auto&path=/annn?ed
 vless://d5012012-a850-49fc-bb81-17a4bf687611@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mtn
 vless://d5012012-a850-49fc-bb81-17a4bf687612@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mci
 vless://d5012012-a850-49fc-bb81-17a4bf687612@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mtn
+vless://d5012012-a850-49fc-bb81-17a4bf6876bd@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mci  ایرانسل
