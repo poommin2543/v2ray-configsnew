@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://99549e40-01ce-4621-b9d0-75ed8fddfa06@join-bede.deragv2ray.net:2083?type=ws&path=%2F&host=allnet.deragv2ray.net&security=tls&fp=&alpn=&sni=allnet.deragv2ray.net#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40deragv2ray%20%5B1%5D
-vless://254669c0-134b-410f-b47e-229d8877b058@join-bede.deragv2ray.net:2083?type=ws&path=%2F&host=allnet.deragv2ray.net&security=tls&fp=&alpn=&sni=allnet.deragv2ray.net#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40deragv2ray%20%5B2%5D
 vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbDItdm1lc3Muc3NobWF4Lnh5eiIsImlkIjoiM2ZkOTE5MGUtYTEzMi00MmNhLWEzM2ItNGEzN2I0YjNlMGNkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEByZWQycmF5IFsxMl0ifQ
 vless://6ddb0deb-2c1c-47ce-c2fe-85a30253093a@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40red2ray%20%5B13%5D
 vless://56733cf9-f08d-43d9-8157-8e8ddbd0c06f@freeiranwebvip.ddns.net:80?path=%2Fgraphql&security=none&encryption=none&host=v20.smartyticket.click&type=ws#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40red2ray%20%5B14%5D
@@ -253,3 +251,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.68:443#%3E%3E%40free4allVPN%3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%3E%3E%40free4allVPN%3A%3ACZ
 vmess://eyJhZGQiOiIxMDQuMjM4LjE2Mi43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2Y2Y5M2ZlNi0wMDYyLTQyMTItOTVhYS0yYWFiY2E4YjExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwMDg2IiwicHMiOiI+PkBmcmVlNGFsbFZQTjo6VVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#%3E%3E%40shadowproxy66%3A%3ACH
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40ultrasurf_12%3A%3AUS
