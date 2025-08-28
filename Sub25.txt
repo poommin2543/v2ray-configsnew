@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&encryption=none&headerType=none&type=tcp&sni=tr-s.xor-vpn.ru#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
-vless://64ac5b5a-15a7-45df-8b49-100556ff7771@Free.Connection.rptmsvmvm.top:8080?security=reality&encryption=none&pbk=sndKZYSOQJq4o3NQjZzNwQl8AceoqVWKTcgTmKkLego&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=3a#یه سرور اختصاصی بخر راحت شو
 vless://64b3cbba-e6ac-495a-9481-976a0493eab9@104.21.35.20:443?encryption=none&security=tls&sni=esetsecuritylicense.kmlrv.workers.dev&type=ws&host=esetsecuritylicense.kmlrv.workers.dev&path=/jme6ru3asco2gqsw?ed=2560#Telegram:@config_proxy 🔥
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🫶🏻
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 423 (@Outline_Vpn) free
@@ -253,3 +251,5 @@ vless://69aa1af0-c33a-4f59-9316-3c9e76f08f5d@Www.speedtest.net:2095?path=/@IRAN_
 vless://69c6a83a-659b-4416-8e35-fa861a1fe39c@172.66.40.99:2052?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=&encryption=none&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&type=ws#Telegram:@config_proxy 🔥
 vless://69c6a83a-659b-4416-8e35-fa861a1fe39c@172.66.40.99:2052?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&type=ws#Telegram:@config_proxy 🔥
 vless://69c6a83a-659b-4416-8e35-fa861a1fe39c@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46163-2
+vless://69de815f-ef95-4e7c-d5da-6c52babfba8b@171.22.173.206:28931?type=tcp&security=none#Hich Net・+Free 1
+vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#4005-c3rr41dt

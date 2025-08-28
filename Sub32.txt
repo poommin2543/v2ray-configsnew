@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?path=/www.speedtest.net/index.html-www.google.com?ed=2048&security=&encryption=none&host=dfghjk.farcadezero.ir&type=ws#@UCIRANIR
-vless://98c16832-eded-4ebf-ab47-5729ef974b77@173.245.58.100:2052?security=none&type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.cdn.ir.Elmahstyle.ir.&path=/result?ed=2086#@Hope_Net-join-us-on-Telegram
 vless://98f18f76-bb78-4ab9-b949-bfca8741ce22@188.114.97.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@bored_vpn
 vless://98f18f76-bb78-4ab9-b949-bfca8741ce22@188.114.97.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@icv2ray
 vless://98f18f76-bb78-4ab9-b949-bfca8741ce22@188.114.97.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@mehrosaboran
@@ -253,3 +251,5 @@ vless://Azarakhsh-Proxy-Aaazzz@speedtest.net:443?path=@Azarakhsh_Proxy/?ed=443&s
 vless://Azarakhsh-Proxy-pke@zmaoz.faculty.ucdavis.edu:443?path=@Azarakhsh_Proxy/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#🩵+@Azarakhsh_Proxy+🩷
 vless://Azarakhsh-Proxy-ppauq@151.101.242.133:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=staging-mobile-collector.newrelic.com#🩵+@Azarakhsh_Proxy+🩷
 vless://Azarakhsh-Proxy-ppauq@AzarakhshProxy.fastly80-2.hosting-ip.com:80?path=@Azarakhsh_Proxy/?ed=80&security=none&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=speedtest.net#🩵+@Azarakhsh_Proxy+🩷
+vless://Azarakhsh-Proxy-ppauq@AzarakhshProxy.fastly80-2.hosting-ip.com:80?path=@Azarakhsh_Proxy/?ed=80&security=none&encryption=none&host=AzarakhshProxy.monster&type=ws#🩵+@Azarakhsh_Proxy+🩷
+vless://Azarakhsh-Proxy-ppauq@live.theworldwidewolf.com:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=live.theworldwidewolf.com#🩵+@Azarakhsh_Proxy+🩷

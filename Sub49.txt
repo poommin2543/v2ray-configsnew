@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f4061b1a-3743-4c58-8ad2-31b368e9a130@212.23.214.199:48265?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#3 🇮🇷🇩🇪@Evay_vpn
-vless://f4061b1a-3743-4c58-8ad2-31b368e9a130@212.23.214.199:48265?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#4 🇮🇷🇩🇪@Evay_vpn
 vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=deepl.com&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&sid=3b#@SaghiVpnXBOT [🇩🇪][🇩🇪]
 vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=3b#@Selinc
 vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=3b#@bad_raqs
@@ -253,3 +251,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?path=/Telegram�
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#🛒@v2rayngsupbot 🛡️@ai_duet
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.168:8880?path=/&security=none&encryption=none&host=kjgx.laoyoutiao.link&type=ws#@bored_vpn
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.213:8880?path=/?ed/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#[🇬🇧]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.213:8880?path=/?ed/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#t.me/entryNET/config=1841691250314770
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.213:8880?path=/?ed/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#⚡ | @External_Net
