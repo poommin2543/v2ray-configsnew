@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
@@ -112,6 +111,7 @@ vless://bda11a81-5b59-4326-bec4-7614f96d8990@91.98.35.181:2222?mode=auto&path=/&
 vless://bdb67bdd-9f24-4555-bdb4-b768567ae239@vioplex.fast.hosting-ip.com:80?mode=auto&path=/free?ed=2048&security=none&encryption=none&host=Free_proxyu.org&type=xhttp#⚜️Telegram: @IP_CF
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=none&encryption=none&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#OPT
+vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&headerType=none#Telegram:@config_proxy 💢
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&headerType=none#Telegram:@config_proxy 🔥
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&encryption=none&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d638e#@Selinc
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&encryption=none&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d638e#🇵🇱@FreakConfig
@@ -190,8 +190,9 @@ vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?security=none&en
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#@AblNet7 🇷🇺
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#🇷🇺 MCI - @FREEV2RNG 8
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#Telegram:@zede_filteri
-vless://c2905492-bc1e-4435-9f0f-53f112215abb@www.speedtest.net:443?path=/&security=tls&encryption=none&host=NoAds.triple-sony.info&type=ws&sni=NoAds.triple-sony.info#[🇨🇦]t.me/ConfigsHub
-vless://c2905492-bc1e-4435-9f0f-53f112215abb@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=NoAds.triple-sony.info&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://c2905492-bc1e-4435-9f0f-53f112215abb@www.speedtest.net:443?path=/&security=tls&encryption=none&host=NoAds.triple-sony.info&type=ws&sni=NoAds.triple-sony.info#Telegram:@config_proxy 🔥
+vless://c2905492-bc1e-4435-9f0f-53f112215abb@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=NoAds.triple-sony.info&type=ws#@V2RAYROZ
+vless://c2905492-bc1e-4435-9f0f-53f112215abb@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=NoAds.triple-sony.info&type=ws#Telegram:@config_proxy 🔥
 vless://c2905492-bc1e-4435-9f0f-53f112215abb@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=NoAds.triple-sony.info&type=ws#t.me/entryNET/config=1841778449783081
 vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNG3
 vless://c2d3226b-6618-496d-bc0f-7b93f492169a@194.182.79.65:43238?mode=gun&security=reality&encryption=none&pbk=XT1LHVlN21T2ml8nULA18Y4REuyaBNF9FM9PPcx89xs&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=e165dc66#@icv2ray
@@ -252,4 +253,3 @@ vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&encry
 vless://c3c03e7d-62ee-4a96-a257-25d59703a763@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?type=xhttp&host=MoenTechProxy.global.ssl.fastly.net&path=/Beraghsa#پیشنهادی آلمان ⭐️🇩🇪
 vless://c3d4e5f6-a7b8-3456-9012-cdef01234567@185.115.36.248:8443?type=ws&encryption=none&host=vpn.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=vpn.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&allowInsecure=1&type=tcp&headerType=none#@Daily_Configs
