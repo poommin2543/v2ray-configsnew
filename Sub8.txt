@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://ad6e2bae-d580-4117-aa37-a8c111100740@naiu-other.05vr9nyqg5.download:13036?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#@Hope_Net-join-us-on-Telegram
 trojan://ad6e2bae-d580-4117-aa37-a8c111100740@naiu-sg.05vr9nyqg5.download:13028?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#@Hope_Net-join-us-on-Telegram
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@104.19.174.68:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&host=trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -59,6 +58,7 @@ trojan://c2c694f0-4213-11f0-8c78-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=customer-185-231-206-12.stark-industries.solutions#@Hope_Net-join-us-on-Telegram
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-38-151.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://c623a730-48a2-11f0-b6c7-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🫠
+trojan://cabacba-baac-aacb-cabd-acabcbcabbca@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://cd7fa4a0-4684-11f0-a8d1-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray😍
 trojan://cf6c3e40-4213-11f0-bc31-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤩
 trojan://d9aa8760-4945-11f0-84b7-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#@hopev2ray💖
@@ -204,7 +204,6 @@ trojan://ttfang@45.159.217.194:2096?security=tls&sni=ttfang.fange.me&type=ws&hos
 trojan://ttfang@5.10.214.216:2096?path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪@FreakConfig
 trojan://ttfang@5.10.247.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#🇺🇲@FreakConfig
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://ttfang@5.182.85.194:2096?path=Telegram@V2rayAlpha&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#[🇷🇺]t.me/ConfigsHub
 trojan://ttfang@66.225.252.194:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪 Telegram: @configfree20255🚀💫 عضو شو قطع نشی
 trojan://ttfang@66.225.252.194:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪@FreakConfig
 trojan://ttfang@72.167.243.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#@Daily_Configs
@@ -253,3 +252,4 @@ trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType
 trojan://wkmY1R4EcP@65.20.115.19:443?allowInsecure=1&sni=myket.io#@Hope_Net-join-us-on-Telegram
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://xxfJcenVhh@79.137.195.203:443?path=/TELEGRAM----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#𝗝𝗼𝗶𝗻➠ᴬᴸᴸ²🇳🇱@JKVPN
+trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#🇺🇲@FreakConfig
