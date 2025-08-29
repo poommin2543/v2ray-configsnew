@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@103.21.244.254:80?encryption=none&security=none&type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&path=/?ed=2560#🖖🏻Ch: @pPal03🖖🏻جوین بدید🖖🏻
 vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?encryption=none&security=none&type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&path=/?ed=2560#🖖🏻Ch: @pPal03🖖🏻جوین بدید🖖🏻
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?security=tls&encryption=none&type=ws&host=de1-moryvpnbot.pages.dev&path=/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048&sni=de1-moryvpnbot.pages.dev&fp=chrome#Awlix_ir
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@dabF5Ca6.dE1-1nD.PaGeS.dEv:443?path=@Azarakhsh_Proxy/?ed=2560&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#🩵+@Azarakhsh_Proxy+🩷
@@ -18,7 +17,6 @@ vless://9923e9bd-949b-489a-ac10-8a1ea4cf1976@172.66.40.99:443?security=tls&type=
 vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?path=/?*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*&security=&encryption=none&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
 vless://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#@v2ray313 کانالمون 💜
 vless://992ebc9b-ea29-47b8-b120-c786d093b2a1@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌲 Telegram | @Green_WPN
-vless://993ac684-62c0-4991-96e9-d3934e94ed71@172.233.179.4:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#Telegram:@config_proxy 🔥
 vless://993c636b-19d8-4d20-8961-e8f4b4755df5@80.74.29.212:8443?security=reality&encryption=none&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://99462fc1-30e0-4180-8a5d-3fb8fffe6a90@91.99.236.193:8880?security=reality&encryption=none&pbk=fXy2aOmxGGfjSa31-Wi7rJj1kS9q5N-kT0P86312Wgo&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.apple.com.cn&sid=32e5#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://99462fc1-30e0-4180-8a5d-3fb8fffe6a90@91.99.236.193:8880?security=reality&encryption=none&pbk=fXy2aOmxGGfjSa31-Wi7rJj1kS9q5N-kT0P86312Wgo&host=varzesh3.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.apple.com.cn&sid=32e5#@V2RAYNG_1378
@@ -118,6 +116,7 @@ vless://9d282158-511f-5a3e-a27f-fa3655b5972e@194.147.34.72:443?encryption=none&s
 vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=chrome&type=ws&sni=pardazeshvpn-tg48.pages.dev#@V2rayNG3
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.24.31.150:80?path=/?ed=2570&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.24.31.150:80?path=/?ed=2570&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#💯T.me/Asak_Vpn💯
+vless://9d650d7b-61ac-4b3f-b017-a937236c448c@91.99.226.71:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@NIM_VPN_ir
 vless://9d717e24-b4b5-4fa5-8b3b-22ed9b30bf65@95.217.27.14:13560?type=ws&security=none#S570-197789
 vless://9d8377d7-a687-496a-9749-1f3b69b35643@172.66.40.99:443?security=tls&type=ws&headerType=&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&host=DeV.iSvClOd.CoM&sni=DeV.iSvClOd.CoM&fp=chrome&alpn=h2,http/1.1#TLS-telegram-@ISVvpn
 vless://9d847ad3-1896-48f9-b89c-13fe345e2b21@104.21.48.1:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy
@@ -253,3 +252,4 @@ vless://Azarakhsh-Proxy-ppauq@AzarakhshProxy.fastly80-2.hosting-ip.com:80?path=@
 vless://Azarakhsh-Proxy-ppauq@AzarakhshProxy.fastly80-2.hosting-ip.com:80?path=@Azarakhsh_Proxy/?ed=80&security=none&encryption=none&host=AzarakhshProxy.monster&type=ws#🩵+@Azarakhsh_Proxy+🩷
 vless://Azarakhsh-Proxy-ppauq@live.theworldwidewolf.com:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=live.theworldwidewolf.com#🩵+@Azarakhsh_Proxy+🩷
 vless://Azarakhsh-Proxy-ppauq@speedtest.net:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=speedtest.net#🩵+@Azarakhsh_Proxy+🩷
+vless://Azarakhsh-Proxy-pwidso@zmaoz.faculty.ucdavis.edu:443?path=@Azarakhsh_Proxy/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#🩵+@Azarakhsh_Proxy+🩷
