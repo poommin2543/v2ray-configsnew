@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6f78276b-ec7b-446f-a643-1c563224258a@speedtest.net:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&sid=29489194da0d5d#Telegram:@config_proxy 🔥
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&sid=29489194da0d5d&type=tcp&headerType=none#Telegram:@config_proxy 💢
 vless://6f8bcf10-447a-46c6-921b-a82b2f618917@212.23.214.142:55580?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#2 🇮🇷🇩🇪@Evay_vpn
@@ -253,3 +252,4 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443/?type=ws&encryptio
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=/&security=tls&encryption=none&type=ws#5
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=/&security=tls&encryption=none&type=ws#none
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.29:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)

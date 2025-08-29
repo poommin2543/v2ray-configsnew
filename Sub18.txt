@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://39a50d1e-e51a-4389-a1cc-e1768360a391@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://39a50d1e-e51a-4389-a1cc-e1768360a391@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?path=/&security=tls&encryption=none&host=iran.akcovufun.ir&fp=chrome&type=ws&sni=iran.akcovufun.ir#IRAN 414 (@Outline_Vpn) free
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@172.67.74.133:443?path=/sg10/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@IRAN_V2RAY1
@@ -253,3 +252,4 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=204
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@V2ray1_Ng
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@configfree_1
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#All_@IRAN_V2RAY1
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#All_@configfree20255

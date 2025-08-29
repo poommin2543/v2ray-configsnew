@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#Channel id: @ShadowProxy66 🇩🇰
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#Channel id: @proxy_kafee 🇩🇰
 vless://bfd1bd90-76f4-4900-85ea-8972e351b0d4@ir.products.arsit-design.ir:1040?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#t.me/entryNET/config=1841815882954745
 vless://bfd1bd90-76f4-4900-85ea-8972e351b0d4@se.products.arsit-design.ir:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=&host=&sni=docker.com&fp=chrome&pbk=xyFVSEpd5pqtLQxGGQTfFmfOhkND0YAossGvU6O6gXM&sid=ab2891910a4ccec9#Telegram:@config_proxy 🔥
@@ -253,3 +252,4 @@ vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?path=/vless&securi
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@NLpizza.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
+vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
