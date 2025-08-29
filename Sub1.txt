@@ -191,7 +191,6 @@ hysteria2://38589924-caf7-4857-812b-80020febd3ff@ssssssssssssssssssssssssssss-mu
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&sni=file-oss-ccs-02.dafei.de#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8%20%231
 hysteria2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8%20%232
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#%40V2rayNG3%20%232
-hysteria2://7f1ad19e-2cc1-4eec-a583-d61f63165dea@dehub.xg-hub.icu:25784?insecure=1&sni=dehub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%F0%9F%98%8D
 hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#%40V2rayNG3%20%234
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#%40V2rayNG3%20%235
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#%40V2rayNG3%20%236
@@ -253,3 +252,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.2:8880?allowInsecure=0&sn
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.11:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0020
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳@WangCai2/?ed=2560#RU_speednode_0021
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.4:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0022
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.4:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#RU_speednode_0023
