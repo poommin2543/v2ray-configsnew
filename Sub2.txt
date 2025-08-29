@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.4:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#RU_speednode_0023
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.176.24.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0024
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.249:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN /?ed=2560#RU_speednode_0025
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#RU_speednode_0026
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#RU_speednode_0027
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.188.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#SI_speednode_0028
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@147.185.161.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0029
@@ -249,7 +253,3 @@ hy2://oATw4IRtuUOozpOLFflGnWjtg@52.193.71.150:18219/?insecure=1&sni=bing.com#日
 hy2://oCt1QU5QUB9vPtoBq3SzGrjlBTU@18.183.180.34:11534/?insecure=1&sni=bing.com#JP
 hy2://ok6aX0A7QX9SkYo6R0GBBJDUsK4@143.244.140.87:8460/?insecure=1&sni=bing.com#India
 hy2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704/?insecure=1&sni=bing.com#US
-hy2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264/?insecure=1&sni=bing.com#新加坡
-hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
-hy2://yn3gMvdZ0hpReiimChE1H1BFvE@54.199.157.111:26036/?insecure=1&sni=bing.com#JP
-hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
