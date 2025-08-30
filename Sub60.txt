@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v4.hiddendom.shop#%F0%9F%8D%B067%40oneclickvpnkeys
 vless://d9662fd9-998d-41eb-a4f1-786ecf6fd884@172.233.131.193:10001/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=cQWJqrHNTAEx0y7K1SeNlkD8bv3AjpIEE-L7v2Yr9Sc&sid=1a24af87#2%E2%8F%B0%40oneclickvpnkeys
 vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=1ltSdo2K6D9EEwebaDQPCb5ypbURcXyO9HsX4RUbbUo&sid=1a24af87#17%E2%8F%B0%40oneclickvpnkeys
 vless://ecd5a5f8-16ac-4526-bd92-8870b4f2dadf@172.105.57.206:13948/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nokia.com&fp=firefox&security=reality&pbk=3WaqmMzd6ibQGO1XLtYugHNBcfqlYJeNUOZgmOe2ygs&sid=581ea7fe#21%E2%8F%B0%40oneclickvpnkeys
