@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
 vless://855793d3-b604-4031-97c1-3f20d7a57b1e@c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500?security=none&encryption=none&headerType=http&type=tcp#✅ @vistav2ray  👈👈کانال ما
 vless://858030d8-e327-4b4d-acf2-c629b75d86d5@151.101.3.8:80?path=ws/?ed=2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#[60829] - Telegram : @V2All
@@ -137,6 +136,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ppal03.kharson-demetric.workers.dev
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=/telegram@v2ray_alpha?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=HaSTI.fReeAIrLAINes.COm&fp=chrome&type=ws&sni=hAsTi.frEEairLainEs.Com#@V2rayNG3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#@V2rayNG3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=PPaL03.kharSoN-DemeTRiC.WoRkERs.DeV&alpn=h2,http/1.1&fp=chrome&type=ws&host=PPal03.KhArSoN-DEmetRIC.wOrKErs.DEv&path=/PrCocpkS9faG6wZS?ed=2560#🐬Ch: @pPal03🐬
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=ppal03.titejat969.workers.dev&fp=chrome&type=ws&host=ppal03.titejat969.workers.dev&path=/l0nrgn9eq5lj2mvs?ed=2560#Telegram:@config_proxy 🔥
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=ppal03.titejat969.workers.dev&fp=chrome&type=ws&host=ppal03.titejat969.workers.dev&path=/l0nrgn9eq5lj2mvs?ed=2560#[🇨🇦]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=ppal03.titejat969.workers.dev&fp=chrome&type=ws&host=ppal03.titejat969.workers.dev&path=/l0nrgn9eq5lj2mvs?ed=2560#t.me/entryNET/config=1841922523786610
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/1jk0RN6A5M3aEMof&security=tls&encryption=none&alpn=http/1.1&host=cloudflareiran1.pages.dev&fp=chrome&type=ws&sni=ClOuDflaReiRaN1.pAgeS.dev#@V2rayNG3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/AhXbuohdTebX0yHT?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=20fb0424.bpb-worker-panel-1xd.pages.dev&fp=chrome&type=ws&sni=20fb0424.BPB-WorkEr-PAneL-1xd.paGEs.DEv#🩵+@Azarakhsh_Proxy+🩷
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/Km1wLqJV2qOm2xed?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PpAl03.BOMOC17486.workErs.DEV&fp=chrome&type=ws&sni=PpaL03.BOmoC17486.WorkeRs.DeV#کانال+ما+در+تلگرام+@Asak_Vpn+💛
@@ -251,5 +253,3 @@ vless://8df60790-c903-4661-b85d-64c0009378e5@104.17.4.197:443?path=/?ed=2560&sec
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.69.121:443?path=/?ed=2560&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&fp=chrome&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#@Daily_Configs
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.99.250:443?path=/&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel id: @proxy_kafee 🇨🇦
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=f1.parsa.filegear-sg.me&fp=chrome&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel id: @proxy_kafee 🇨🇦
-vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?path=/telegram: @ShadowProxy66&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel id: @proxy_kafee 🇨🇦
-vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel id: @proxy_kafee 🇨🇦

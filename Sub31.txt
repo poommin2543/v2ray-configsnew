@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?path=/telegram: @ShadowProxy66&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel id: @proxy_kafee 🇨🇦
+vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Channel id: @proxy_kafee 🇨🇦
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#IRAN 456 (@Outline_Vpn) free
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#IRAN 470 (@Outline_Vpn) free
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#IRAN 513 (@Outline_Vpn) free
@@ -201,7 +203,6 @@ vless://93bb84dc-694d-4ef3-8bac-9140c68ca402@Mehrdad.Zargar.VIP.mehrdadsadaf.com
 vless://93c34b1e-4baf-459c-b6df-55f2807eb6f6@Germany3.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇩🇪]@confegraigan
 vless://93c34b1e-4baf-459c-b6df-55f2807eb6f6@Switzerland.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇩🇪]@confegraigan
 vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@94.130.187.47:2087?security=tls&sni=s.sarzamiiinahang.ir&alpn=h2&fp=chrome&type=grpc&encryption=none#@awlix_ir
-vless://93d01851-0d07-450d-9876-19e32c6ba447@157.180.91.49:2053?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=xwF90Z17AR1-ORLgy59XonaFMW_ZJaYDQ8V7Sd8ZYRY&sid=402522a1ec224c96#Telegram:@config_proxy 🔥
 vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?path=/?ed=2560/?BIA_CHANEL@MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=chrome&type=ws&sni=havvas.shohreh.dpdns.org#Telegram:@config_proxy 🔥
 vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?path=/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=chrome&type=ws&sni=havvas.shohreh.dpdns.org#@AI_DUET 🚀 @V2rayNGsupBOT
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.16.110.49:80?path=/?ed=2570&security=none&encryption=none&host=havvas.shohreh.dpdns.org&type=ws#🔥T.me/Asak_Vpn🔥
@@ -252,4 +253,3 @@ vless://95125edf-cb36-45d1-f6bb-fb49a74cc23c@Www.Speedtest.net:2095?type=httpupg
 vless://9516661c-7433-4959-b40c-ec77ff36625a@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@EXPRESSVPN_420
 vless://951bc939-91f4-4f19-9338-f38df03a53a8@172.66.46.246:443?path=/ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY?ed=2560&security=tls&encryption=none&host=ELENA.ELENA.ddns-ip.net&fp=chrome&type=ws#TLS-@ELiV2Ray
 vless://951bc939-91f4-4f19-9338-f38df03a53a8@172.66.46.246:443?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=tls&encryption=none&host=ELENA.ELENA.ddns-ip.net&fp=chrome&type=ws#Channel@ConfingV2RaayNG
-vless://951bc939-91f4-4f19-9338-f38df03a53a8@188.114.98.112:80?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#WS-@ELiV2RaY
