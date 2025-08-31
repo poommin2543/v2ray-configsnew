@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC4xNDcuMTg4Ljk2IiwgInBvcnQiOiAiNTE1NzEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNzQwZWM1MTQtZDJiZC00NWJiLWI0MTAtN2VhNWEwNWNkZDg3IiwgInNuaSI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNDcuMjM5LjE4My44NyIsICJwb3J0IjogIjI4NTkwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQ3NTQ4MWM3LWI1YzgtNDBhOS04MTFhLTAyYjcwOWU3NDgxNiIsICJzbmkiOiAiIn0=
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE9ESmhOalF3WXkxallURmhMVFF5TldVdE9ETTVPQzFrTldGak9EWmlabUl3T1RZ@114.35.114.182:10129#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwalpUY3hORGxqWkMxbFlUYzNMVFJsTkRZdFlXWTNaQzFrTkdZMk9UTXdaV0UxTkRF@125.228.31.10:10113#%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2T1RRd01ETXhZVFl0Wm1Rek1pMDBaRFppTFRrd01XUXROemRpTjJZNU5ETTJPVGhs@bl.sytes.net:50414#%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiOC4yMDkuMjExLjIzNiIsICJwb3J0IjogIjM0OTMzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhhOTE1MGJjLWI5YzgtNDBhYy1iZTgzLWFhZWM0NTE3NmE4MSIsICJzbmkiOiAiIn0=
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2TURFM01qRmxORE10TlRNNE9TMDBaamszTFdJeU1XTXRPVEF3WVdKaU1tSmtZVGxs@awes35lesl.blhao0o.dpdns.org:12020#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
@@ -249,7 +253,3 @@ hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs
 hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel id: @proxy_kafee🇺🇸
 hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@hk1.1010991.xyz:3001/?insecure=1&sni=hk1.1010991.xyz#🇭🇰香港
 hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@us2.1010991.xyz:3001/?insecure=1&sni=us2.1010991.xyz#🇺🇸美国
-hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel id: @ShadowProxy66🇺🇸
-hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel id: @proxy_kafee🇺🇸
-hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel id: @singbox1🇺🇸
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇺🇸
