@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f55fa25b-9aae-4828-8fbb-d0fb6c63b8c3@63.141.128.22:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#[🇩🇪]@confegraigan
-vless://f55fa25b-9aae-4828-8fbb-d0fb6c63b8c3@63.141.128.22:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#🇩🇪@FreakConfig
-vless://f58d125b-cf2e-4c1a-bb4a-49fead500461@www.speedtest.net:80?path=/ali&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&type=ws#@Daily_Configs
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Channel id: @ShadowProxy66 🇩🇪
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Channel id: @proxy_kafee 🇩🇪
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?path=/JCG7HcKpCWxijB2IADOUXiAjgsQ6&security=tls&alpn=http/1.1&encryption=none&host=plaza.ir&fp=chrome&type=ws&sni=plaza.ir#Channel id: @ShadowProxy66 🇩🇪
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?path=/JCG7HcKpCWxijB2IADOUXiAjgsQ6&security=tls&alpn=http/1.1&encryption=none&host=plaza.ir&fp=chrome&type=ws&sni=plaza.ir#Channel id: @proxy_kafee 🇩🇪
@@ -31,6 +27,7 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&e
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#singbox1
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/? join-planB_proxy&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?@Hddify&type=ws#@Hddify
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?@V2rayBaaz---@V2rayBaaz&type=ws#r♡yaッ
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=ws#r♡yaッ
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=ws#r♡yaッ
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@IRAN_V2RAY1
@@ -253,3 +250,6 @@ vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/oo
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
