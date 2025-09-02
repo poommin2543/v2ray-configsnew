@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl-de-cdn.upload-center.org&fp=chrome&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=chrome&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&type=ws#@V2RAYROZ
@@ -138,7 +137,6 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.21.56.208:2087?path=/&security=
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#IRAN 457 (@Outline_Vpn) free
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?path=/&security=tls&encryption=none&type=ws#@AblNet7 🇮🇷 نت ملی
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.190:8443?encryption=none&security=tls&type=ws&path=/#[🇫🇮]ae_proxy
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.190:8443?encryption=none&security=tls&type=ws&path=/#t.me/entryNET/config=1842174875026257
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:443?path=/&security=tls&encryption=none&type=ws#@v2ray313 کانالمون 🫶🏻
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?path=/&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
@@ -253,3 +251,5 @@ vless://Parsashonam-303@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsashonam
 vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://Parsashonam-304@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://Parsashonam-304@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@azadiiivpn🇩🇪
+vless://Parsashonam-304@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@v2rayng_fars 🇩🇪
