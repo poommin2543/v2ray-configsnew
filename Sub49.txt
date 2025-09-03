@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&alpn=h2http%2F1.1&encryption=none&type=ws&sni=6389113402676776510.VtNeT.infO#telegram```
-vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=opensuse.org&fp=chrome&security=reality&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72#%F0%9F%93%9A1%40oneclickvpnkeys
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&type=ws&sni=6389113402676776519.VtNeT.infO#%28%F0%9F%87%A9%F0%9F%87%AA%29%20%40Kia_NetKia_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#%F0%9F%95%B9%EF%B8%8F41%40oneclickvpnkeys
-vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#%F0%9F%95%B9%EF%B8%8F48%40oneclickvpnkeys
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332/?type=tcp&encryption=none&flow=#%F0%9F%95%B9%EF%B8%8F18%40oneclickvpnkeys
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?encryption=none&security=tls&sni=frAgteSt.JaHANGiRKh.eU.orG&type=ws&host=frAgteSt.JaHANGiRKh.eU.orG&path=%2F#%40Daily_Configs
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?security=tls&sni=aio.proxybox.dpdns.org&type=ws&host=aio.proxybox.dpdns.org&path=%2F188.34.160.97-2053#%40Daily_Configs
 vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3&type=tcp&headerType=none#%40Daily_Configs
