@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://210c860d-a893-451e-9bbd-130c76d08e6c@www.speedtest.net:8443?type=httpupgrade&host=de3.penubit.com&path=/VLSDECF&security=tls&fp=chrome&sni=de3.penubit.com&alpn=http/1.1&mux=8#AKLISvpn 🇺🇸vip🕊️
 vless://2175948a-0716-44a7-a1c1-ee90ebd9f4e9@91.99.144.18:2002?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#@Selinc
 vless://2175948a-0716-44a7-a1c1-ee90ebd9f4e9@91.99.144.18:2002?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://2197f2f3-7634-4609-a525-7361b1d4782d@germany1.amirconfigpanelllll.com:625?encryption=none&security=none&type=tcp&headerType=http&host=zhaket.com#@Daily_Configs
@@ -252,4 +253,3 @@ vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed&security=none&encryption=none&host=NoDE28.VtNEt.InFO&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed&security=none&encryption=none&host=SeRvER10.VtNEt.InFO&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER07.VtNEt.InFO&type=ws#@Selinc
-vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#@vipV2rayNGnp
