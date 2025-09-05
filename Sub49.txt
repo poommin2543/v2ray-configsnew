@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://JPPDF8O3AI@news.farsonline24.ir:443?security=tls&fp=chrome&type=ws&path=%2F25973%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://nhBIVJQUrR@news.farsonline24.ir:443?security=tls&fp=chrome&type=ws&path=%2F19155%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://vyTVu45Xrk@news.farsonline24.ir:443?security=tls&fp=chrome&type=ws&path=%2F23863%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://IeHEg9sFfn@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33449%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://fPxa9BuGVQ@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F11533%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://veYrpdgYpr@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33780%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://e1Ix4bz88Z@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F42142%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://Gq9UTAqjl9@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28231%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://G1s7VYEyAe@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F20379%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://OBYMYoqYAL@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F17188%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://uOFIsGRP5W@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F50255%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://gTVV0J43jN@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28985%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
-vless://ebb34cb0-93d6-4fb0-86f5-663eb18c949e@news.farsonline24.ir:443?encryption=none&security=tls&fp=chrome&type=httpupgrade&path=%2F12032%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
-vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#%3E%3E%40V2pedia%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://Parsashonam-305@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#%3E%3E%40flyv2ray%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%3E%3E%40v2ray1_ng%3A%3AXX
@@ -253,3 +238,18 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#%F0%9F%87%A8%F0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0176
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.132-0175
 vmess://ewogICAgImFkZCI6ICIxNzMuMjQ5LjIwOS4xNDYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjM5MzVjMmRjLWRiYjAtNDNmNy1iMzY3LWZlODlhYmU4N2ZkZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDA4NiwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE3My4yNDkuMjA5LjE0Ni01MTY1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0177
+vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy02OTY1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.146-0208
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.192-0207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.153-0192
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0216
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.17.169-0201
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0220
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0210
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-0213
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.110-0199
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-0224
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0226
