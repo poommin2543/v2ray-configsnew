@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1b5fe634-263d-4ae8-a652-22e10d3615bd@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.byte-server.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@japan.com:2096?path=/?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&host=cf-worker-ws-dev.kingo1923.workers.dev&fp=chrome&type=ws&sni=cf-worker-ws-dev.kingo1923.workers.dev#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://1b739b3d-2ef9-4673-ab78-0b4e7bed89b9@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@V2RAYROZ
 vless://1b739b3d-2ef9-4673-ab78-0b4e7bed89b9@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?type=ws&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&host=eng.vinamarketcenter.ir&security=none#@FASTSHOVPN عضو شو
@@ -104,8 +103,10 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?encryption=none&s
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:443?path=/&security=tls&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org#@Golestan_VPN 👈 چنل
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org#@Mrconfig_Channel 🩵
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=pamchall.com.&type=ws#@CaV2ray ⚡️
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#@v2rayserverfreenet
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#t.me/entryNET/config=1842493033437312
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#🇩🇪[Telegram:NetifyVpn]
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#@V2RAYNG_1378
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -252,4 +253,3 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020?encryption=none&
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp#VayNora
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encryption=none&headerType=none&type=tcp#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encryption=none&headerType=none&type=tcp#🇫🇷 MCI - @FREEV2RNG 7
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇩🇪
