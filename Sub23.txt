@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=/&security=tls&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/#hope of freedom - @anotherme_night
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=/&security=tls&encryption=none&type=ws#@Daily_Configs
@@ -164,7 +167,6 @@ vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&enc
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.235.3:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🚀کانال تلگرام : injastvpn@ جوین بدید
-vless://7b6ef73c-44c4-4592-b20e-73d3f277b2af@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
 vless://7bbd0934-97db-45fb-88e7-2abd91696d33@www.speedtest.net:8080?path=@Rayan_Config&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-2.rAyAn-2.cLoUdNs.pRo&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://7bbd0934-97db-45fb-88e7-2abd91696d33@www.speedtest.net:8080?path=JOIN---PLANB_PROXY&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-2.rAyAn-2.cLoUdNs.pRo&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://7bbd0934-97db-45fb-88e7-2abd91696d33@www.speedtest.net:8080?path=JOIN---PLANB_PROXY&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-2.rAyAn-2.cLoUdNs.pRo&fp=chrome&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -251,5 +253,3 @@ vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=/&
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfi
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
 vless://7e794f8d-3438-4277-a77a-ffdfd1374ca4@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=Fn.lemoex.ir.&type=ws#🇫🇮@FreakConfig
-vless://7e9142ad-b378-4c42-982e-1a3f866b00ea@de.hpcdn.info:443?encryption=none&security=tls&sni=afrodita.lemoex.blog&fp=chrome&type=httpupgrade&host=afrodita.lemoex.blog&path=/1002/mmad#@Mrconfig_Channel 🩵
-vless://7e918f79-a15c-4c9a-ec7d-add530ec2664@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
