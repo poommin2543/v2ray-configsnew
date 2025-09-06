@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=/pwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#@CaV2ray ⚡️
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#@Mrconfig_Channel 🩵
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#@Mrconfig_Channel 🩵
 vless://hqV2rayNG-do@public-hqTm.s2pp.ir:8880?mode=packet-up&path=/HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----HqV2rayBot----?ed=2048&security=reality&encryption=none&pbk=Lb8fQTxqT1xIkPwqWlAq7ps68-9Pe-2nACOR4U0rkgs&fp=chrome&spx=/&type=xhttp&sni=refersion.com&sid=4ab1cea53729#@V2rayNGVPN <= کانفیگ رایگان
@@ -169,8 +168,11 @@ vless://turboo-server@jone.turbooo-server.com:60123?security=&encryption=none&ho
 vless://turboo-server@server.turboo-server.com.co:80?path=/--ping--www.speedtest.net?ed=2080&security=none&encryption=none&type=ws#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://turboo-server@server.turboo-server.com.co:80?path=/--ping--www.speedtest.net?ed=2080&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#
+vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN <= کانفیگ رایگان
+vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#[🇬🇧]
 vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#r♡yaッ
+vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1842523105940572
 vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#✅ @vistav2ray  👈👈کانال ما
 vless://turboo-server@turboo-server.sadafspace.com:80?path=/--ping--www.speedtest.net?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://turboo-server@turboo-server.sadafspace.com:80?path=/--ping--www.speedtest.net?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -251,5 +253,3 @@ vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICI2MGZkZmFj
 vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICI4YWIxMmU0Zi0xZTg4LTQxMWMtYTg2My1jNzg4MjQ5MjQ3MzIiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDIwNjAsCiAgInBzIjogIkJPTEJPTFZQTiIsCiAgInRscyI6ICJub25lIiwKICAidiI6IDIKfQ==
 vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICIyZDIxMTEzMC05Y2I4LTRjNzctYTk5ZS00MDcxZjcwYmYxN2IiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDIwNjAsCiAgInBzIjogIkJPTEJPTFZQTiIsCiAgInRscyI6ICJub25lIiwKICAidiI6IDIKfQ==
 vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiI1NTU1NSIsInNjeSI6ImF1dG8iLCJpZCI6IjFjNWVhYjc2LTA0MTUtNDNiOS04YjkxLWYzZGM5ZTE1Nzc4OSIsIm5ldCI6InRjcCIsImhvc3QiOiIiLCJwYXRoIjoiIiwicHMiOiJTYWdoaVZwblhCT1QlNUIxJTVEIiwiYWRkIjoibWNpLnlla3RhbmV0LmluZm8ifQ==
-vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiIxNTM2MSIsImFkZCI6IjE1LjIwNC4xMS4xOTAiLCJuZXQiOiJ0Y3AiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsInNjeSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6IiIsInBzIjoiJTQwVjJyYXlfY2FydGVsIn0=
-vmess://eyJ2IjoiMiIsImhlYWRlclR5cGUiOiIiLCJtb2RlIjoiIiwibmV0Ijoid3MiLCJwcyI6ImRyb3BjdWJlIiwiZXh0cmEiOiIiLCJhbHBuIjoiIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIiwicG9ydCI6IjIwMDg2IiwiYWRkIjoiOTEuOTkuMTg1LjIxNiIsImZyYWdtZW50IjoiIiwicGF0aCI6IlwvIiwic2VydmljZU5hbWUiOiJub25lIiwiZGV2aWNlSUQiOiIiLCJob3N0IjoiIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImlkIjoiN2JkNmExZWEtYTIyMC00ZjFjLWFmZWQtNmNmYjhhYjk2YWQ5IiwiZnAiOiIiLCJzZWVkIjoiIn0=
