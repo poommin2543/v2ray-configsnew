@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@V2RAYROZ
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#All-@IRAN_V2RAY1
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel id: @singbox1 🇷🇺
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#MCI--@IRAN_V2RAY1
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@arv.vipmehspd.ir:981?encryption=none&security=none&type=tcp&headerType=none#@CaV2ray ⚡️
 vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=/ajnexnws&security=tls&encryption=none&type=ws#🇲🇾 Malaysia [@vpnAndroid2
 vless://700446a2-7ab5-4fb2-eec2-69a6b16d8b48@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=&encryption=none&host=www.speedtest.net.amin-app.ir&type=httpupgrade#🇩🇪@Alfred_Config
@@ -253,3 +249,7 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=/&security=tl
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tls&encryption=none&type=ws#✅ @vistav2ray  👈👈کانال ما
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@Daily_Configs
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?path=/&security=tls&encryption=none&type=ws#@confegraigan
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?path=/&security=tls&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
