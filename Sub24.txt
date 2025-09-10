@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none=/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#🇩🇪[All] قطع شدی بیا چنل👉@TEHRANARGO
+vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@Selinc
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=?ed=2560?ed=2048JOIN---PLANB_PROXY&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=?ed=2560?ed=2048JOIN---PLANB_PROXY&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#🇺🇲@FreakConfig
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=tar_vpn&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@V2RAYROZ
@@ -190,7 +192,6 @@ vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?security=none&
 vless://930434ff-33b4-4cf4-d4eb-cfa1e2a5f416@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?type=ws&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&host=eng.vinamarketcenter.ir&security=none#@FASTSHOVPN عضو شو
 vless://930e2d97-c3e4-4840-9289-748ae4fde82e@www.snl24.com:443?path=/downloader.php?ed=2560&security=tls&alpn=h2&encryption=none&host=matoride2.sabzipolo.site&fp=chrome&type=ws&sni=matoride2.sabzipolo.site#فیلترشکن رایگان👈Prime_Verse@
 vless://93491e84-f8ec-463b-a43a-e5465f3fe056@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://93491e84-f8ec-463b-a43a-e5465f3fe056@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1842820629144071
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@AYMH19 کانال تلگرام
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@AblNet7 🐔
@@ -252,4 +253,3 @@ vless://954d1793-c8f9-45df-942e-04e98ecdcc72@172.66.40.99:8880?type=ws&path=/@V2
 vless://955654be-e797-432b-9d0d-67baf2efb74c@188.166.150.199:443?path=/ws&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#Telegram : @Alfa_v2ray_ng 🔥
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#[🇨🇦]
-vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#⚡@AblNet7💥💥
