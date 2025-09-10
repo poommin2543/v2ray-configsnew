@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40FreakConfig%3A%3AFR
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%3E%3E%40FreakConfig%3A%3ANL
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%3E%3E%40FreakConfig%3A%3ADE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#%3E%3E%40FreakConfig%3A%3ADE
@@ -250,6 +252,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?security=&fp=c
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2077
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2076
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2085
 
