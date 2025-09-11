@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://90e5b46c-fad0-4a2a-827d-4d285ff35870@pubg.ac:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-98.paofu.de#美国09 付费推荐：https://dafei.de
-vless://90f72c91-fffa-4993-bb8f-45b6289dbe0e@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46180-1
 vless://91228483-f74b-47c0-aa8d-d459c9a3e541@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46184-1
 vless://91688056-c9a4-482f-a2de-e1e068d5894d@172.66.40.99:8880/?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.carwash-vip.xyz.&security=none#opwrmym1
 vless://917d8893-4663-4dc2-bed3-9ef0bd11d022@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
@@ -253,3 +251,5 @@ vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&secu
 vless://9e30c25c-2142-4080-8604-738db4650459@46.62.128.241:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#@IRAN_V2RAY1
 vless://9e30c25c-2142-4080-8604-738db4650459@46.62.128.241:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#Telegram : @Alfa_v2ray_ng 🔥
 vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=none&encryption=none&headerType=none&type=tcp#@Dropcube⚡❤️‍🔥
+vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.190:8443?encryption=none&security=tls&type=ws&path=/#[🇫🇮]ae_proxy
