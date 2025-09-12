@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#@AblNet7 🇨🇦
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=LzHeTzMuDm.GiTi3.OrG&fp=chrome&type=ws&sni=LzHeTzMuDm.GiTi3.OrG#@AblNet7 🇮🇷 نت ملی
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=LzHeTzMuDm.GiTi3.OrG&fp=chrome&type=ws&sni=LzHeTzMuDm.GiTi3.OrG#@IRAN_V2RAY1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=LzHeTzMuDm.GiTi3.OrG&fp=chrome&type=ws&sni=LzHeTzMuDm.GiTi3.OrG#@Selinc
@@ -253,3 +251,5 @@ vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&secur
 vless://f04f81e1-b14e-4e27-8b48-e9b3e7bff0ec@v2ray-fark.ddns.net:100?type=tcp&path=/---v2ray-fark---&host=fast.com&headerType=http&security=none#@v2ray_fark
 vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&encryption=none&headerType=none&type=tcp#@Mrconfig_Channel 🩵
 vless://f073c5a2-827c-473b-8ea1-0dcb83c8ebf0@amspanel6.hipay.su:443?security=reality&encryption=none&pbk=eamx5zeQt07skP5CVEMCuyFAwlOVmdXwnjAvhWjTlTQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ams6.hipay.su&sid=eb7fc73605f88074#@Dropcube
+vless://f073c5a2-827c-473b-8ea1-0dcb83c8ebf0@amspanel6.hipay.su:443?security=reality&encryption=none&pbk=eamx5zeQt07skP5CVEMCuyFAwlOVmdXwnjAvhWjTlTQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ams6.hipay.su&sid=eb7fc73605f88074#🇳🇱@FreakConfig
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 😕
