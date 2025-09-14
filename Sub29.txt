@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.161:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40V2rayNG3%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#%3E%3E%40FreakConfig%3A%3AGB
@@ -250,6 +253,3 @@ vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@138.124.52.155:8081?security=&fp=ch
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@Rayan_Config%2023
 
 vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@23.94.206.70:2053?security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2062
-
-vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@23.94.206.70:2053?security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&encryption=none#@Rayan_Config%2063
-
