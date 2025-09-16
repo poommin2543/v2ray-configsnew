@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://19508bb2-bef7-44c3-bdbd-35c23c7ccecc@93.127.180.144:8880?security=none&encryption=none&headerType=none&type=tcp#@Hddify
-vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&host=/?Bya_telegram_@JOKERRVPN&headerType=none&fp=chrome&spx=/Bya_telegram_@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=21181028b56c8702#@CaV2ray ⚡️
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -153,7 +151,6 @@ vless://206b6081-24e9-4516-aa1c-90fc57614f9a@173.245.59.132:8080?path=/@MaSTeRSe
 vless://206b6081-24e9-4516-aa1c-90fc57614f9a@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://20be4816-7cf2-491e-f094-5e0542796b8f@Zula.ir:8880?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.Web.tr.&security=none#Binextify⭐-3d97pmxm2
 vless://20c21ebd-05ed-4f44-bc4d-8831ac518b7a@50.62.195.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 93
-vless://20f9a609-f802-4301-91d5-7e28cbe23be0@138.68.129.37:16268?path=/&security=none&encryption=none&type=ws#Academi_vpn5
 vless://20f9a609-f802-4301-91d5-7e28cbe23be0@138.68.129.37:16268?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://20f9a609-f802-4301-91d5-7e28cbe23be0@138.68.129.37:16268?path=/&security=none&encryption=none&type=ws#[🇬🇧]
 vless://210c860d-a893-451e-9bbd-130c76d08e6c@www.speedtest.net:8443?type=httpupgrade&host=de3.penubit.com&path=/VLSDECF&security=tls&fp=chrome&sni=de3.penubit.com&alpn=http/1.1&mux=8#AKLISvpn 🇺🇸vip🕊️
@@ -253,3 +250,6 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&secur
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#@Dropcube
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#💛
+vless://2a39bf1c-b568-46ef-90db-c2c9207da834@172.66.40.99:80?path=/JOIN---PLANB_PROXY?ed=2048&security=none&encryption=none&host=az181.dr-mojtaba.ir&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://2a39bf1c-b568-46ef-90db-c2c9207da834@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=az181.dr-mojtaba.ir&type=ws#[🇩🇪]@configLINE(2)
+vless://2a39bf1c-b568-46ef-90db-c2c9207da834@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=az181.dr-mojtaba.ir&type=ws#🇩🇪@FreakConfig
