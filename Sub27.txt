@@ -4,6 +4,8 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://bbf72cbc-8d43-4f93-b1a1-4487aa589114@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@104.20.43.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#%40Rayan_Config%2031
 
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@172.66.156.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#%40Rayan_Config%2021
@@ -251,5 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0282
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.164-0262
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0278
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0286
-vmess://ewogICAgImFkZCI6ICI1MS43Ny4yMjAuMTc5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiQmxhWkUtRlItMTc5LkJsQXplU2VSdkVSczEuU2l0ZSIsCiAgICAiaWQiOiAiNDdiNzgxYTEtZDAyZi00NzNlLWE1MWQtODQzNmFlNzNmMjY1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTUxLjc3LjIyMC4xNzktNzE4NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIkJsYVpFLUZSLTE3OS5CbEF6ZVNlUnZFUnMxLlNpdGUiCn0=
