@@ -4,6 +4,22 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/teqalfws&encryption=none#@Rayan_Config%2071
+
+vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@Rayan_Config%2038
+
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=6389113402676776505.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776505.rtxiran.info&encryption=none#@Rayan_Config%207
+
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Rayan_Config%206
+
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.148.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Rayan_Config%2085
+
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2019
+
+vless://895dd7b7-28db-4f1a-990f-85f0874d1f44@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2060
+
 vless://a06a8d54-d7c9-4308-83e1-ee08acba905f@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20PL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@91.98.89.225:6003?security=&fp=chrome&type=tcp&headerType=http&host=www.stackoverflow.com&encryption=none#@Rayan_Config%2017
@@ -135,10 +151,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs
 
 
 
-
-
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%20135.225.124.80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204.223.100.248
@@ -241,15 +253,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0190
 ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#%F0%9F%87%BA%F0%9F%87%B8US-45.55.2.232-4827
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0200
-vmess://ewogICAgImFkZCI6ICIxNDEuOTQuMTU1LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImthbXBvbmcub3JnIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6vwn4e3RlItMTQxLjk0LjE1NS4yMjgtNzIxMiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImthbXBvbmcub3JnIgp9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-0192
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuNjQuMjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAia2FwZWxsZW5nLmNvbSIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuNjQuMjM4LTA2NjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0205
-vmess://ewogICAgImFkZCI6ICJrYW1wb25nLm9yZyIsCiAgICAiYWlkIjogMSwKICAgICJob3N0IjogImthbXBvbmcub3JnIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6nwn4eqREUtNTcuMTI5LjI4LjIxNC0wODkwIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0208
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0206
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-0216
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.19.203.147:989#%F0%9F%87%A7%F0%9F%87%ACBG-37.19.203.147-0213
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.162-0218
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.130-0169
