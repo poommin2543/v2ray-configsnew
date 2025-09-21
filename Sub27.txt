@@ -18,7 +18,6 @@
 
 
 
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%205
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
@@ -253,3 +252,4 @@ vmess://ewogICAgImFkZCI6ICJ5aWNodWVuZy5vcmciLAogICAgImFpZCI6IDEsCiAgICAiaG9zdCI6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.35-0313
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.66-0318
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1NL-103.104.247.47-0288
+trojan://D0AASSpCKFjOBSwlwqylnOep8BDlgN3e3RY9S3Op2RaZZ58gID8yY3ej56CSuYacZz3EA@delight.appagent.net:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-154.26.176.7-0516
