@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.130-0169
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0210
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMTg5LjE0MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxhbW1hbGFuZC5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi01Ny4xMjguMTg5LjE0My03MjQyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibGFtbWFsYW5kLm9yZyIKfQ==
 vmess://ewogICAgImFkZCI6ICJ0ZXN0Mi5mbGhhLnJ1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidGVzdDIuZmxoYS5ydSIsCiAgICAiaWQiOiAiMTVmNjJhYmYtOGNjOS00NTk4LThkNTctZTRkZjdiNDk5YTg0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLzE1ZjYyYWJmLThjYzktNDU5OC04ZDU3LWU0ZGY3YjQ5OWE4NC12bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuMjMuMjMxLTUzOTYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ0ZXN0Mi5mbGhhLnJ1Igp9
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.24
 hy2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@5f6a56-20-co.9966661.xyz:3000/?sni=5f6a56-20-co.9966661.xyz#%F0%9F%A5%8F63%40oneclickvpnkeys
 vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.makingirangreatagain.com:443/?type=ws&encryption=none&flow=&path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&sni=hdfynpv2d1.makingirangreatagain.com#%F0%9F%92%BC54%40oneclickvpnkeys
 vless://965416e8-326c-49a5-94d9-f99daed20455@46.101.127.35:17168/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%F0%9F%A5%8F8%40oneclickvpnkeys
+vless://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313/?type=ws&encryption=none&flow=&path=%2F#%E2%98%8E%EF%B8%8F1%40oneclickvpnkeys
