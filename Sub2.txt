@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://01996549-6892-dbf0-0453-f700236936bd@89.169.53.131:2053?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls#DE_speednode_0010
 vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?allowInsecure=0&sni=www.speedtest.net&fp=chrome&security=tls#DE_speednode_0011
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.108.241.44:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#FI_speednode_0012
 vless://dca511f0-f98c-45d3-a0ff-1ba61c651374@lii.bliscorp.org:30849?allowInsecure=0&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM.#GB_speednode_0015
@@ -252,4 +253,3 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXBNQVd5TW5NVHlBQ1NjV3A3TGlBQWxHcVhWekxVdE5
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TXpZMk5qWTBPVEF5TUdFMk5HWmhNMkkxTVdGaE1tSTJZalZqT1dKbFpEVT06T1RNMk5qazRaV0UxT0dKbU5HSXhPVGhqWkRWbVptUTNNMk5qTkRSak9URT0=@csgo-news.film2serial.cloud:28027#🇩🇪 Germany / ShadowSocks / HELIX
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0=@139.162.72.96:22060#@CaV2ray ⚡️
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0=@212.118.42.181:9260#@AYMH19 کانال تلگرام
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0=@212.118.42.181:9260#Channel id: @ShadowProxy66 🇳🇱

@@ -60,6 +60,7 @@ vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D25
 vless://ba677251-4aaf-4c45-95f5-a15f7f56e6c4@103.253.43.210:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=5hKDqL2dBu7jbCfC_xW5omNEGUzPme8qF4mJOrXuHGY&sni=google.com#VPNKEY-Hong
 vless://ba677251-4aaf-4c45-95f5-a15f7f56e6c4@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#%40v2Meli
+vless://bdb8e88f-3f05-4014-89c2-b939003669a6@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#VPNKEY-Netherlands
 vless://c259672d-68a3-4cde-9cc2-87ae10f3b7bf@afranlo.alcatelindan.com:45980?security=reality&encryption=none&pbk=Z31NocO-K1znGhLSPi0B91MbEG2e-CY-rMReYWkX4nM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=0d250d4fbce004#%40v2Meli
 vless://d483e7ab-5223-44bd-b68d-b4f185b1801e@www.speedtest.net:80?path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048&security=none&encryption=none&host=PaMCHALL.cOM.&type=ws#%40v2Meli
 vless://d5c1abb8-2024-4fc0-9810-09dc10a5b948@104.18.0.191:443?path=%2Fadmin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=am.digikala-aparat-zula.com&fp=randomized&type=ws&sni=am.digikala-aparat-zula.com#%40v2Meli
@@ -252,4 +253,3 @@ vless://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@blog.811520.xyz:443?allowInsecure=0
 vless://01996549-6892-dbf0-0453-f700236936bd@89.169.53.131:2053?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#DE_speednode_0007
 vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?allowInsecure=0&sni=Tgju.org&fp=chrome&security=tls#DE_speednode_0008
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@swit.amirconfigpaanelllll.com:223?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#DE_speednode_0009
-vless://01996549-6892-dbf0-0453-f700236936bd@89.169.53.131:2053?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls#DE_speednode_0010
