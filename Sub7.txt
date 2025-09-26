@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@Frees.CConfigV2ray.workers.dev:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Frees.CConfigV2ray.workers.dev&fp=chrome&type=ws&sni=Frees.CConfigV2ray.workers.dev#⚡Join+@Cconfig_v2ray+Follow💥
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@maralhost.com:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=cconfigv2ray.tasehe4055.WoRkers.deV&fp=chrome&type=ws&sni=cconfigv2ray.tasehe4055.WoRkers.deV#👉⚡Join+@Cconfig_v2ray+Follow💥👈
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@maralhost.com:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=cconfigv2rayser.tasehe4055.WoRkers.deV&fp=chrome&type=ws&sni=cconfigv2rayser.tasehe4055.WoRkers.deV#👉⚡Join+@Cconfig_v2ray+Follow💥👈
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@maralhost.com:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=cconfigv2rayserver.tasehe4055.WoRkers.deV&fp=chrome&type=ws&sni=cconfigv2ray.tasehe4055.WoRkers.deV#👉⚡Join+@Cconfig_v2ray+Follow💥👈
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@maralhost.com:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=join.cconfigv2ray.workers.dev&fp=chrome&type=ws&sni=join.cconfigv2ray.workers.dev#👉⚡Join+@Cconfig_v2ray+Follow💥👈
@@ -253,3 +251,5 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
