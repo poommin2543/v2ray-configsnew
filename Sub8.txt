@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2e562253-f6ac-4123-9648-3d7c944ec279@45.13.226.115:23386?security=reality&encryption=none&pbk=m6uJUaMJ3PHrcV2Rh92ACAcY0R04BNwoUVPcclfh8HY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lit.dev&sid=ff#MCI-@IRAN_V2RAY1
 vless://2e562253-f6ac-4123-9648-3d7c944ec279@45.13.226.115:23386?security=reality&encryption=none&pbk=m6uJUaMJ3PHrcV2Rh92ACAcY0R04BNwoUVPcclfh8HY&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lit.dev&sid=ff#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -253,3 +252,4 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&encr
 vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl1.ndkwiut2718.ir:8443/?type=tcp&encryption=none&security=tls&sni=dl1.ndkwiut2718.ir&fp=chrome#[🇩🇪DE-CDN] @Geek_Spot
 vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl5.ndkwiut2718.ir:8443/?type=httpupgrade&encryption=none&host=dl5.ndkwiut2718.ir&path=/&security=tls&sni=dl5.ndkwiut2718.ir&fp=chrome#[🇦🇪AE-CDN] (📶∞⏳∞)
 vless://38b50857-ec36-436a-9736-b0921e772f77@172.66.40.99:8880?type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&host=inFo.laLezaRanegomaNandish.mdV.V2.onlineshopbb.org.&security=none#MdVpnSec
+vless://38f898e5-8a8c-41c0-8c36-72ecefdd01a1@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=pOISED-JOUrney.ONEeaT.Co&type=ws#telegram 🍀 v2ray_configs_pools

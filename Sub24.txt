@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRlc3QgQGNjb25maWdfVjJyYXkiLA0KICAiYWRkIjogIm1jaS5zZXJ2ZXIuc2FyYXppcnNpbmEuc2l0ZSIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiZDE3NmNkYmEtZjk3Mi00MmU0LWJjYmEtYjQzYzZmMGUzZWVkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzZXJ2ZXIuc2FyYXppcnNpbmEuc2l0ZSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2VydmVyLnNhcmF6aXJzaW5hLnNpdGUiLA0KICAiYWxwbiI6ICIiDQp9 ⚡️
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKchSBAdmlzdGF2MnJheSAgXHVEODNEXHVEQzQ4XHVEODNEXHVEQzQ42qnYp9mG2KfZhCDZhdinIiwNCiAgImFkZCI6ICI5MS4xMzQuOC44OCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiLS0tIiwNCiAgImhvc3QiOiAibGFtbWFsYW5kLm9yZyIsDQogICJwYXRoIjogImxpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibGFtbWFsYW5kLm9yZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICI2MGZkZmFjOC1hNWY0LTQ4NGEtOWVkNy03MzU2OGExOWE4ZDIiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDIwNjAsCiAgInBzIjogIkJPTEJPTFZQTiIsCiAgInRscyI6ICJub25lIiwKICAidiI6IDIKfQ==
 vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICI4YWIxMmU0Zi0xZTg4LTQxMWMtYTg2My1jNzg4MjQ5MjQ3MzIiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDIwNjAsCiAgInBzIjogIkJPTEJPTFZQTiIsCiAgInRscyI6ICJub25lIiwKICAidiI6IDIKfQ==
@@ -253,3 +252,4 @@ vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.9#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B8%5D
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B10%5D
+vless://0d8f3c7f-1cc3-3a50-6715-0c08e1d289b2@emergency.powerspace.ir:8680?security=&encryption=none&host=speedtest.net%2Czula.ir&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40armod_iran%20%5B1%5D
