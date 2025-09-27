@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1cfd4e05-61f0-46ba-b631-15855b536703@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-pi22rqh9
-vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@vmesskhodam
-vless://1d5f8279-6324-438f-d331-5ce427c1bb35@ERFWPtelegram.vinamarketcenter.ir:8080?type=ws&path=/ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram?ed=2048&host=eng.vinamarketcenter.ir&security=none#@ERFWP عضو شو
 vless://1d9126ac-ea8e-403a-a5e5-ce1b24a05c15@157.90.247.32:10138?type=grpc&encryption=none&serviceName=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://1dddb054-1d6d-4f33-831e-ea3a0cd3ebe8@172.67.157.34:443?security=tls&sni=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&type=ws&path=Telegram channel : @pandavpntc&host=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&encryption=none#@awlix_ir
 vless://1df79df3-908d-4458-8eb0-fd31b0e2e22f@143.244.167.144:2053?security=reality&encryption=none&pbk=PVM-pgM-Y1_yxII9Oi8yWK6OkXmJmQynk9DkMEj4YW8&headerType=none&fp=chrome&type=tcp&sni=www.openstreetmap.org&sid=54c3eae868b911#@AblNet7 🇮🇷 نت ملی
@@ -253,3 +250,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encr
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
