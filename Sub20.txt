@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://b07eb1ae-cffb-495f-9469-0963ada74d0f@141.227.162.200:51222?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://b07eb1ae-cffb-495f-9469-0963ada74d0f@141.227.162.200:51222?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#MCI-@IRAN_V2RAY1
 vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=/Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools?ed=2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#@v2ray_configs_pools👈⚡❤️‍🔥
@@ -253,3 +252,4 @@ vless://be6276f8-9336-429b-a179-aeb608d773a7@172.66.40.99:2052?type=ws&path=/@Ma
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?security=tls&sni=cdn.packageclub.net&fp=chrome&type=ws&path=/ws-connect/download/update/check/version/2.1.9/patch/force&host=cdn.packageclub.net&encryption=none#@awlix_ir
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encryption=none&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685&spx=/&type=tcp&headerType=none#@CaV2ray ⚡️
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@CaV2ray ⚡️
+vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@Geek_Spot

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://89f5b64b-4ef3-4a51-9b9d-55a41c463055@141.227.134.150:45649?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://8a009663-9afa-4f0f-aac0-23e743a89e08@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638895562737046416.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638895562737046416.amsterdam-prx-dnraaal.info&path=/zwtnbvws#telegram 🌺 v2ray_configs_pools
 vless://8a009663-9afa-4f0f-aac0-23e743a89e08@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/zwtnbvws&security=tls&encryption=none&host=638899133731250519.amsterdam-prx-dnraaal.info&type=ws&sni=638899133731250519.amsterdam-prx-dnraaal.info#telegram 🎪 v2ray_configs_pools
 vless://8a059bef-4395-4fdd-973e-fbe626cff94f@104.31.16.104:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ir.arsalak.ir&fp=chrome&type=ws&sni=ir.arsalak.ir#All_@IRAN_V2RAY1
@@ -253,3 +252,4 @@ vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.216.170:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram ⚡️ v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.99.177.121:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#telegram 🌺 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.99.180.177:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram 🎪 v2ray_configs_pools
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@95.216.169.13:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram ⚡️ v2ray_configs_pools
