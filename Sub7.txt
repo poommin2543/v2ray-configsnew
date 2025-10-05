@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://12c11e60-d800-46f3-9230-f3d63d79c986@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://12f3c866-a401-474b-f274-e1cacbf2adce@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@188.245.92.123:6666?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🇩🇪@FreakConfig
@@ -253,3 +252,4 @@ vless://206b6081-24e9-4516-aa1c-90fc57614f9a@198.41.216.98:8080?path=/@MaSTeRSeR
 vless://20be4816-7cf2-491e-f094-5e0542796b8f@Zula.ir:8880?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.Web.tr.&security=none#Binextify⭐-3d97pmxm2
 vless://20c7ab71-aeec-4d7d-ac39-82cf66c1a69f@5.75.205.35:443?mode=gun&security=reality&encryption=none&pbk=hRkrL4u8qX3iG0ZuRts2vMSyqFBj4xXE6Aup2fWX6mU&fp=chrome&type=grpc&sni=tgju.org&sid=47070ef4969902b5#🇩🇪@FreakConfig
 vless://20cf1bfb-c5ad-4a5f-85bf-ec14e89b1406@day.mtpmio.com:443?security=reality&encryption=none&pbk=KrOQ6UIhM_AXIEJZ31FsIXRbtN7TtFBykqmnnFECkEM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=1d72e9f5ba#telegram 🎯 v2ray_configs_pools
+vless://20d98fd8-b472-4574-eeae-b1ecc9082eb9@www.speedtest.net:2053?type=ws&encryption=none&path=/&host=2020.dnss-mobile.ir&security=tls&fp=chrome&alpn=http/1.1&sni=2020.dnss-mobile.ir#@Alfred_Config
