@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#IR---8
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#🔥@AblNet7 🇮🇷 نت ملی 🔥🇩🇪
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,3 +252,4 @@ vless://2e17c09d-57f8-42fc-be07-744dd30ae8b0@fz.piko-network.top:443?security=no
 vless://2e199883-3f52-49c3-b271-e8e9de0ba89b@84.201.4.247:15343?security=none&type=grpc&headerType=&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&authority=&mode=gun#@EXPRESSVPN_420
 vless://2e199883-3f52-49c3-b271-e8e9de0ba89b@84.201.4.247:15348?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=AO_n0YhLhYvzAmDRudYDRZJ_J4WQFgAkDT3j2SDhMkI&sid=162efe24c2fa24d5#@EXPRESSVPN_420
 vless://2e428d06-68f7-42e7-a5ba-909b7c08b211@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
+vless://2e532561-7a61-4fdf-a534-706682c2e209@94.143.231.62:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#@V2rayNGVPN <= کانفیگ رایگان

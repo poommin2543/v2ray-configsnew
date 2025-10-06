@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#Telegram: @FergalVpnMod 🇫🇮
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#telegram 🚀 v2ray_configs_pools
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#@vmesskhodam
 vless://0667820d-f8a9-4652-a3b9-efadc06af433@162.159.152.155:443?path=/snippets/ip=tp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@V2rayNGVPN <= کانفیگ رایگان
@@ -253,3 +252,4 @@ vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets&se
 vless://12345678-1234-1234-1234-123456789123@89.116.250.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇩🇪@FreakConfig
 vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@IRAN_V2RAY1
+vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@V2rayNGVPN <= کانفیگ رایگان
