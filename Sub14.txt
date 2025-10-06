@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6d6c379e-3086-409f-9397-4df4f816fc81@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#@FILTERK0SH(🇳🇱)
-vless://6d728381-3c41-46cd-8c16-d8c731c1b4a8@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#@sunflowerplato🌻
-vless://6d728381-3c41-46cd-8c16-d8c731c1b4a8@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#✅ @vistav2ray  👈👈کانال ما
-vless://6d91bc33-2d86-4839-9205-02024ff483c7@172.67.176.243:443?security=tls&sni=wtestfrtt.requesttest.cloudns.org&alpn=http/1.1&fp=chrome&type=ws&host=wtestfrtt.requesttest.cloudns.org&encryption=none#@awlix_ir
-vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
@@ -18,6 +13,7 @@ vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:4040?security=none&enc
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:7443?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:7443?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:7443?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:7443?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1845250200755983
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
 vless://6df16859-fbc4-49c1-cb80-a9a816af4377@172.66.40.99:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=www.internet-check-website-panel-admin.Xpnvip.iR&type=ws#@bored_vp
 vless://6e305621-9c57-417a-aed1-95024bc5f6b2@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2RAYROZ
@@ -253,3 +249,7 @@ vless://7ceaf9fb-37f1-4a93-9fa5-60e592e5efeb@142.132.161.197:443?type=tcp&encryp
 vless://7ceaf9fb-37f1-4a93-9fa5-60e592e5efeb@142.132.161.197:443?type=tcp&encryption=none&path=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&headerType=http&security=tls&fp=chrome&alpn=http/1.1&sni=followme.amin-1.ir&ech=AFP+DQBPAAAgACBtMwA93WzNjtrI3IDMlTPYX/ZEMw67DkaSoNOSqnTlbwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA==#Telegram : @VPN_ROOM 🇩🇪
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@vmesskhodam)تلگراممون
 vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
+vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇳🇱 | @External_Net
+vless://7d64641f-f971-418c-eb7a-1fbb429d9f1c@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-bqqpcpiz
+vless://7d669d5c-26e9-4648-9f13-5ef994c97ed0@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-0kd8qwvn
+vless://7d810ea1-7b3c-41f3-a8f1-fa72355ffdd5@104.16.1.106:2082?path=/?ed=2052&security=&encryption=none&host=Australia.svnteam-vip-fast.ip-ddns.com&type=ws#🇩🇪@FreakConfig
