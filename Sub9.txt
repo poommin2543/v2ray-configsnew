@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.205:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@Daily_Configs
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.205:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@sunflowerplato
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.205:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@vpnserverrr
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.205:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +252,4 @@ vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryptio
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🎯 v2ray_configs_pools
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?mode=auto&path=/&security=reality&encryption=none&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=89#telegram 🍀 v2ray_configs_pools
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&sni=yahoo.com&sid=89&spx=/#telegram 🍀 v2ray_configs_pools
+vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#@V2RAYNG_IP 🇩🇪 253
