@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&fp=chrome&type=grpc#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?mode=gun&security=none&encryption=none&type=grpc#TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%A6%8C%F0%9F%90%A0%F0%9F%9A%804

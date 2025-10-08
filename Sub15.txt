@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7467739e-fe86-43a4-93ae-1669886e80d5@141.227.162.18:59995?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
-vless://7467739e-fe86-43a4-93ae-1669886e80d5@141.227.162.18:59995?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🏴‍☠️@FreakConfig
 vless://74696726-5d44-4321-9075-6e43de0af8c5@85.133.250.68:32336?security=none&encryption=none&headerType=none&type=tcp#✨ @Geek_Spot | 🚀 | 🌐 85.133.250.68 | IR
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp#@EXPRESSVPN_420
@@ -253,3 +251,5 @@ vless://83594981-6eb0-46dd-cea2-647c2cedf5fa@tr.irimcs.org:443?type=grpc&service
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=/@sinavm#🇫🇮@SiNAVM کانال_تلگرامی
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=/@sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=50#✅ @vistav2ray  👈👈کانال ما
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=/@sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=50#🇫🇮@vpnserverrr کانال_تلگرامی
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=/@vpnserverrr&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=50#🇫🇮@vpnserverrr کانال تلگرامی
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=/@vpnserverrr&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=50#🔥@AblNet7 🇮🇷 نت ملی 🔥🇫🇮
