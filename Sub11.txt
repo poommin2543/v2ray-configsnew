@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smits.feronix.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/#@Daily_Configs
-vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=smits.feronix.org#@Selinc
 vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=smits.feronix.org#Channel : @Mrsoulb 🏴🏳
 vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=smits.feronix.org#JOIN ➪@FILTERK0SH
 vless://44fc47c2-87cb-4819-94ef-19cc2a934f96@azadnett1.set7.site:35420?type=tcp&security=none#Hedyeh.azadnet
@@ -253,3 +251,5 @@ vless://51238ac9-a5ca-4d90-aefa-3d2fcf119bf4@8lb9pb.academiemi-purya.click:15341
 vless://512c8ed7-13dc-9d8d-039a-d0d47c84a0be@ir.lightning2025.top:699?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&fp=chrome&type=ws#@Geek_Spot
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?type=ws&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪1@Evay_vpn
+vless://51b676c4-7fc2-46b9-a26a-2834e2db7046@202.78.163.59:51886?security=reality&encryption=none&pbk=bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c6#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://51b676c4-7fc2-46b9-a26a-2834e2db7046@bonefletcher.fonixapp.org:51886?security=reality&encryption=none&pbk=bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c6#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
