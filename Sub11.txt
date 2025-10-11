@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5?ed=2048@&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@IRAN_V2RAY1
+vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=grpc&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&mode=multi&security=tls&encryption=none&path=/id5?ed=2048@&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@FILTERK0SH
 vless://41d4d6d0-9d0d-48f8-a966-6a9f7c32fe72@91.107.255.237:52253?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:33.05ms
 vless://41d4d6d0-9d0d-48f8-a966-6a9f7c32fe72@91.107.255.237:52253?type=tcp&encryption=none&security=none#@armanstore2-کانال ما
 vless://41dcee5c-775d-4fa9-ba78-a17316ed3b54@45.159.148.84:443?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
@@ -250,6 +253,3 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.99.60.123:443?encryption=none&sec
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.232.95.155:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🎪 v2ray_configs_pools
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.189.21:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🌟 v2ray_configs_pools
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.197.133:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🎯 v2ray_configs_pools
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@44.203.10.181:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🍊 v2ray_configs_pools
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.209.50:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#telegram 🌈 v2ray_configs_pools
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.179.101.255:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🍀 v2ray_configs_pools
