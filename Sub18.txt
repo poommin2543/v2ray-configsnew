@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=mastokhiar2.com&type=xhttp#[🇩🇪]@configLINE(4)
 vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=vipconfiglines.com&type=xhttp#[🇳🇱]@configLINE(2)
 vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=vipconfiglines2.com&type=xhttp#[🇳🇱]@configLINE
 vless://TELEGRAM-CONFiGLiNE_id@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpessshkel.com&type=xhttp#[🇩🇪]@configLINE(2)
@@ -252,4 +253,3 @@ vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alp
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#@sunflowerplato🌻
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#Channel : @Mrsoulb 🏴🏳
-vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#@V2rayNGVPN+<=+کانفیگ+رایگان
