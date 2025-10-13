@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://87edf1df-a6a1-4a06-e04d-1c7d7c29868d@t.irimcs.org:2087?type=grpc&serviceName=Telegram@CatVpns&security=reality&pbk=S9sCYSVAgcMW5W75wiO1VSJj5ctcac9-WVyCYB5GTT0&fp=chrome&sni=www.bmi.ir&sid=ce&spx=/#@Catvpns--Channel🇹🇷
 vless://87edf1df-a6a1-4a06-e04d-1c7d7c29868d@t.irimcs.org:2087?type=grpc&serviceName=Telegram@CatVpns&security=reality&pbk=_65lnjmm9v72RLfVTClXlayLooMjVsLYSugNCGwEOhU&fp=chrome&sni=greenpepper.ir&sid=6e19&spx=/#@Catvpns--Channel🇹🇷
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
 vless://88427e2c-7926-42c8-b636-07d46fc18738@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-1oejlre4
@@ -253,3 +252,4 @@ vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=/?TELEGRAM-MARAMB
 vless://97938b3f-a26b-40d7-b05b-b3e4e344fa6e@alfred.dnss-mobile.ir:443?path=/alfred&security=tls&alpn=h2&encryption=none&host=alfred.dnss-mobile.ir&fp=chrome&type=ws&sni=alfred.dnss-mobile.ir#@LOCKEY_VPN
 vless://97bd2fd8-7c89-4350-93d6-a7556d00e8ad@vpn-srv-7.circlevpn.net:2052?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇩🇪[Telegram:NetifyVpn]
 vless://97bd2fd8-7c89-4350-93d6-a7556d00e8ad@vpn-srv-7.circlevpn.net:2052?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://97d3345e-107d-4712-8204-f169b7098e4d@45.88.76.236:17919?security=reality&encryption=none&pbk=dQVIhLg71fK2sKDXYj2jkCRcTh_tWw83bqV-5VEeyQI&headerType=none&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=google.com&sid=3e88c2#🇳🇱 Telegram @ata_connect
