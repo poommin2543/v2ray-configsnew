@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#برای اتصال دائمی جوین شو🛞 TelegramID ⌲TEHRANARGO 🪩
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@freenettir📡🇱🇹®️Lithuania©️Vilnius🅿️ping:41.92ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇱🇹]t.me/Raiv2mmr
@@ -253,3 +251,5 @@ vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=&encryp
 vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
