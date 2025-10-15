@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1f510c32-a35b-4dcc-bf3b-88925a8164dd@167.99.133.134:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://1f510c32-a35b-4dcc-bf3b-88925a8164dd@64.226.73.224:443?security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇩🇪
 vless://1f510c32-a35b-4dcc-bf3b-88925a8164dd@68.183.65.13:443?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
 vless://1f510c32-a35b-4dcc-bf3b-88925a8164dd@68.183.65.13:443?security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇩🇪
@@ -252,4 +253,3 @@ vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all72-vip.f-sub.com:3789?security=n
 vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all73-vip.f-sub.com:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#r♡ya
 vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all73-vip.f-sub.com:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcpr♡ya
 vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all74-vip.f-sub.com:1429?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp
-vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all74-vip.f-sub.com:1429?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#r♡ya
