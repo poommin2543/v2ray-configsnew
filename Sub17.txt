@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7aa25be5-d503-40cc-9ed5-a14d3af6b271@91.99.179.41:42671?security=&encryption=none&headerType=&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://7ab11fca-4691-464e-ba43-97f0b78fd831@193.46.81.184:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=177f438f#@Daily_Configs
 vless://7ab11fca-4691-464e-ba43-97f0b78fd831@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=177f438f#@V2RAYNG_IP❤️‍🔥
 vless://7ab11fca-4691-464e-ba43-97f0b78fd831@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=177f438f#@v2rayfast_7❤️‍🔥
@@ -252,4 +253,3 @@ vless://87edf1df-a6a1-4a06-e04d-1c7d7c29868d@t.irimcs.org:2087?type=grpc&service
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?path=/&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&fp=chrome&type=ws&sni=6389113402676776505.rtxiran.info#@Selinc
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=mooz.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/#@Daily_Configs
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mooz.rtxiran.info#@Selinc
