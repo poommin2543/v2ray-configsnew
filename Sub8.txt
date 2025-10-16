@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#Tel: @Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=/snippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=/snippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#@i10VPN 🚀| با ما متصل بمون⚡
@@ -252,4 +253,3 @@ vless://1f464d44-ec04-411b-b91b-65ae93225b80@91.98.175.72:57276?type=grpc&encryp
 vless://1f49861e-32dd-811b-acd3-44403f48df6c@italy.marzxo.biz:8091?security=reality&encryption=none&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=828348fc6d8e49cf&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇮🇹]t.me/Raiv2mmr
 vless://1f510c32-a35b-4dcc-bf3b-88925a8164dd@138.68.74.242:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://1f510c32-a35b-4dcc-bf3b-88925a8164dd@167.99.133.134:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://1f510c32-a35b-4dcc-bf3b-88925a8164dd@68.183.65.13:443?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
