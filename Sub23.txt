@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#@awlix_ir
+vless://cbc53b5c-c7c1-4c6c-91fe-83711f277f74@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪 @v2ngnet
+vless://cbe99f5f-6205-4795-a593-0f2734019938@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SHaGGy-eXampLe.onEeat.co&type=ws#telegram ⚡️ v2ray_configs_pools
 vless://cbf4dbaa-1c19-4a63-9627-ca00071d8184@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=ThirsTy-PlaN.oNEeAT.co&type=ws#telegram 🍊 v2ray_configs_pools
 vless://cbfaa4fa-8393-43db-a052-d86543462f0d@91.99.27.66:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://cbfaa4fa-8393-43db-a052-d86543462f0d@sss37704.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇫🇮@AZARBAYJAB1
@@ -121,6 +124,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?encryption=none&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?encryption=none&security=tls&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560#@Daily_Configs
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#🏴‍☠️@FreakConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#Telegram:tik7net_vpn - 🇨🇵 ⚡ |
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#🏴‍☠️@FreakConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#@Daily_Configs
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#join Sho @Iran_V2ray1
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@pardazeshVPN
@@ -249,7 +253,3 @@ vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&securi
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#🇩🇪[Telegram:tik7net_vpn]
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#🇳🇱@FreakConfig
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#📡🇨🇦®️Canada©️Toronto🅿️ping:27.85ms
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#🚜🚜🚜1
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#🟢 Telegram: مخصوص
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#🇩🇪[Telegram:TEHRANARGO]
