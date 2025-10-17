@@ -30,6 +30,7 @@ vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?encryption=none&s
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%3A%20%40customv2ray`
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40`
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v7.waipdirect.shop#%40meli_proxyy`
+vless://%50a%72sa%73%68%6fna%6d-Bot-23@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-25@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-26@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-27@104.17.147.22:8080?type=grpc&serviceName=
@@ -252,4 +253,3 @@ trojan://iwangjie@138.124.118.34:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%
 trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@36.141.40.42:13007?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.42:2377#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20394.4KB%2Fs
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5321?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
