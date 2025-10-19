@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6877b96c-a092-4f90-8e46-cbb4cad2bb9f@104.26.12.31:2096?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=/snippets?ip=proxyip:port(443)&nat64=6to4#@Daily_Configs
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:4040?security=none&encryption=none&headerType=none&type=tcp#@ZedBaz_vpn
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:8880?security=&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=&type=tcp#JOIN ➪@FILTERK0SH
@@ -253,3 +252,4 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?note=JOIN
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420 |2
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://760bc619-3c27-4521-8d66-1838d96bf44f@www.rexo.online:49796?mode=gun&security=none&encryption=none&authority=rexo.rexo.online&type=grpc&serviceName=rexo.rexo.online#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://760bc619-3c27-4521-8d66-1838d96bf44f@www.rexo.online:49796?mode=gun&security=none&encryption=none&authority=rexo.rexo.online&type=grpc&serviceName=rexo.rexo.online#[Telegram:@tik7net_vpn]کانفیگ‌های‌بیشتر👈-🇵🇱
