@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#Channel : @Mrsoulb 🏴🏳
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#Join To : @IRAN_V2RAY1
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#🇩🇪@FreakConfig
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&type=ws&sni=smart.confappha.com#Channel : @Mrsoulb 🏴🏳
@@ -252,4 +253,3 @@ vless://17bfe79d-dbdd-4c9b-e779-79a0a0303603@deadseectelegram.slimyoutaavers.ir:
 vless://186d5840-6de2-4fe1-8080-eeb7e0deb1ab@xpanel-ir.panelfreedom.com:2092?security=&encryption=none&host=parsabr.com&headerType=http&type=tcp#@Mrconfig_Channel 🩵
 vless://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp@V2rayNGVPN <= کانفیگ رایگان
-vless://18af2c68-edb3-4224-b8cb-5c7b42450a36@Zula.iR:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🪸-3ub3a4zs
