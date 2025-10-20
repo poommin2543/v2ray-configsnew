@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://05ff0220-851a-43e4-9525-0b5cad8e6c57@141.227.166.102:31156?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://05ff0220-851a-43e4-9525-0b5cad8e6c57@141.227.166.102:31156?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@mehrosaboran
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1-All
@@ -253,3 +252,4 @@ vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?note=---Telegram-
 vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=/linkws?ed&security=&encryption=none&host=51.79.103.225&type=ws#🇨🇦@FreakConfig
 vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=/linkws?ed&security=none&encryption=none&host=51.79.103.225&type=ws#@V2rayNGVPN <= کانفیگ رایگان
 vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=/linkws?ed&security=none&encryption=none&host=51.79.103.225&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=/linkws?ed&security=none&encryption=none&host=51.79.103.225&type=ws#@meli_proxyy

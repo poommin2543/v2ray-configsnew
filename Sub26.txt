@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d725c933-1043-4924-8451-78c35bd5177a@5.75.206.114:443?security=reality&encryption=none&pbk=O1mmPNBiL4Kmx-lEReau8WJUrjgZE5ew2lnC4T4mGg8&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=af7022c5&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://d725c933-1043-4924-8451-78c35bd5177a@5.75.206.114:443?security=reality&encryption=none&pbk=O1mmPNBiL4Kmx-lEReau8WJUrjgZE5ew2lnC4T4mGg8&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--@JKVPN&type=tcp&sni=tgju.org&sid=af7022c5#@V2rayNGVPN <= کانفیگ رایگان
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?encryption=none&security=none&type=grpc#@awlix_ir
 vless://d780f2c0-f2f7-4ecc-9efa-147991484357@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
@@ -253,3 +252,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 🇩🇪
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
