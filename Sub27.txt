@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dcf409cc-f8b1-4f39-b8aa-a47854ede624@146.103.106.128:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=wPH8Kr--gB8qb0g1FMu8lTLu9u-weNElJN2Fvr5iVyg&sid=f0&spx=/&type=tcp&headerType=none#@Daily_Configs
+vless://dcf409cc-f8b1-4f39-b8aa-a47854ede624@146.103.106.128:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=wPH8Kr--gB8qb0g1FMu8lTLu9u-weNElJN2Fvr5iVyg&sid=f0&type=tcp&headerType=none#@Daily_Configs
+vless://dcf409cc-f8b1-4f39-b8aa-a47854ede624@146.103.106.128:8443?security=reality&encryption=none&pbk=wPH8Kr--gB8qb0g1FMu8lTLu9u-weNElJN2Fvr5iVyg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=f0#🇳🇱
 vless://dd123b4a-0b36-4892-a3bd-ffa7c293ffdb@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-0prkrb2s
 vless://dd1436ee-8b67-4d9d-9bc4-6f9029a40328@138.199.199.55:666?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://dd7010db-3e6a-4307-af7c-314a7b452f5e@babakapa.space:8443?security=reality&encryption=none&pbk=-d9loMrW9hPzXKc-HrMZ5-5UlKYUUDHtQzSSOqD84GQ&headerType=none&fp=chrome&spx=/bxQDGcFrtub0WWK&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=27677c5736e983b5#🇳🇱
@@ -250,6 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&security=none&type=grpc#✅ @vistav2ray  👈👈کانال ما
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&type=grpc&mode=gun&security=none#🇹🇷@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=@V2rayNGVPN+<=+کانفیگ+رایگان
