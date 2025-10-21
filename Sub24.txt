@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://baacdf7d-1ede-4b30-e396-6153c03b3a1e@104.16.1.106:80?path=/&security=&encryption=none&host=eng.vinamarketcenter.ir&type=ws#telegram 🌈 v2ray_configs_pools
-vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#Telegram: @FergalVpnMod 2 🇳🇱
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#@vmesskhodam
 vless://bae38704-f4e1-4968-b855-84d878a00d1b@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://baf95082-c6b6-424a-a22a-9a2843915679@104.238.167.168:443?encryption=none&security=reality&sni=hdfyrplc1.freeairlians.com&fp=chrome&pbk=AVHOkHx9tzD5YCnrDQVtE9XAt7_I-VPskA2M0W0eP1k&type=tcp&headerType=none#@Daily_Configs
@@ -253,3 +251,5 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?encryption=none&
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?flow=&type=ws&host=vless10-9sc.pages.dev&path=/&security=tls&sni=vless10-9sc.pages.dev&fp=chrome&allowInsecure=0#@meli_proxyy
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#🇩🇪[Telegram:NetifyVpn]
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#Channel : @Mrsoulb 🏴🏳
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#limo
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#🇩🇪[Telegram:@tik7net_vpn]
