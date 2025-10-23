@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.tradingview.com&fp=chrome&security=reality&pbk=ameppwaxPsbMnl1d5xQ4nbkdiRLRQL7XLsFDwOv2XAY&sid=ba2e91d5d7be#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://680210f5-3b5f-4947-9983-e508a15cf169@77.90.41.197:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%3E%3E%40oneclickvpnkeys%3A%3AAM
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679#%3E%3E%40oneclickvpnkeys%3A%3AGR
@@ -250,6 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?security=&fp=chr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2091
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2090
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2089
-
