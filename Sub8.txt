@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tls&alpn=http/1.1&host=us-3.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev#@v2ray_configs_pools
+trojan://tunnel-v2ray_configs_pools_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇺🇸
+trojan://tunnel-v2ray_configs_pools_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇦🇪
+trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
+trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
+trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=/tv&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
+trojan://wb6368@92.243.75.49:2087?path=/&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#✅ @vistav2ray  👈👈کانال ما
+trojan://x0plLSzZZI@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://xR]DX+W37()u''m@172.64.80.1:443?path=/trT0T0YIcYDMJQC6uO/NTAuMTEyLjMzLjI1NA==?ed=2560&security=tls&alpn=http/1.1&host=speedtest.net.www.zula.ir.perspolice.ir.mozdfree.com.dark.judgement-crow.ir&fp=chrome&type=ws&sni=SPeEDTeSt.NEt.wWw.zULA.IR.PERspoLiCE.IR.MozDfREe.cOm.darK.judGEMEnT-CROW.Ir#💦 3 - Trojan - IPv4 : 443
 trojan://xR]DX+W37()u''m@www.speedtest.net:443?path=/trwr0yxQu4mxoOnRbU/NTAuMTEyLjMzLjI1NA==?ed=2560&security=tls&alpn=http/1.1&host=speedtest.net.www.zula.ir.perspolice.ir.mozdfree.com.dark.judgement-crow.ir&fp=chrome&type=ws&sni=sPEeDTEst.net.Www.ZUla.ir.pErSpoliCE.IR.moZDFreE.CoM.DARk.JudGeMEnt-CrOW.IR#💦 2 - Trojan - Domain : 443
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#MCI--@V2rayAlpha--9
@@ -245,11 +253,3 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=/?TELEGRAM-MA
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.1:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.1:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#🇨🇦@FreakConfig
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.26:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#🤾🎯🛅7
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.177.241.191:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.12.24:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.9.121:25670?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.9.121:25670?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://08e11c13-26ad-499e-a272-372c84a9ed62@151.101.2.216:80?security=none&type=ws&host=Sarmayed3aran.net&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048#t.me/entryNET/config=1846752475725460
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#telegram ⚡️ v2ray_configs_pools
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#telegram 🌟 v2ray_configs_pools
