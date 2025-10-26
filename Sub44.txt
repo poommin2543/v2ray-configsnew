@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.57.90:990#%3E%3E%40free4allVPN%3A%3ABR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnhNZmoyb0wyUmFaVFFWZlZkNUVZ@194.87.45.189:443#%3E%3E%40shadowproxy66%3A%3AES
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AMD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUFhvaWtJTmJTRkRCZUR4NUJ6S2k3@77.83.246.74:443#%3E%3E%40shadowproxy66%3A%3APL
@@ -253,3 +251,5 @@ vless://56fe9ccf-4de1-4c49-a771-da2fb82f730f@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#%3E%3E%40FreakConfig%3A%3ANL
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638968569914905676.ahvaz-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3ALT
