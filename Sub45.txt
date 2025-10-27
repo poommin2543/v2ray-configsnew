@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@nl01.pickvpn.live:443?security=reality&encryption=none&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com#%3E%3E%40FreakConfig%3A%3ANL
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+vless://2ed00b31-3a8a-4647-b37d-113724da32b2@5.9.200.144:2060?mode=gun&security=&encryption=none&type=grpc&serviceName=DarkTeam_VPN_DarkTeam_VPN_DarkTeam_VPN#%3E%3E%40FreakConfig%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#%3E%3E%40FreakConfig%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
@@ -244,12 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2070
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%208
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%207
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%206
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20124
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20123
-
