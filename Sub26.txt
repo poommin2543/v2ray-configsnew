@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c6a58e27-6c00-4e94-de47-52fbff53d86f@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://c6a58e27-6c00-4e94-de47-52fbff53d86f@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&sid=a36c0f&type=tcp&headerType=none#@Daily_Configs
 vless://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?security=reality&encryption=none&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a36c0f#All--@V2rayAlpha--43
@@ -253,3 +252,4 @@ vless://d281e7fb-4c25-4ed1-82a3-13f2b61958c7@146.190.16.205:16301?path=/&securit
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d2c4304f-d0d0-4a60-9134-8260995c847a@51.89.176.241:4455?encryption=none&type=xhttp&mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&fp=chrome&sni=stackoverflow.com&pbk=KGxeQdRMT6IDZdC9zyM1_rkuTbT3Enf211hEBCrRET4&sid=4d1261352419e82f#🇬🇧 @V2ngNet
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-007.foton.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#🇳🇱@FreakConfig
