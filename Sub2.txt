@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://BxceQaOe@36.151.251.35:24392?#%E6%9C%AA%E7%9F%A56
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNyIsImFkZCI6IjU3LjEyOS4yNS4yMyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoieWljaHVlbmcub3JnIiwidGVzdF9uYW1lIjoiNyJ9
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%2024.0KB%2Fs
@@ -253,3 +251,5 @@ hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205/?insecure=1&sni=
 hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205/?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇺🇸
 hy2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#Channel id: @ShadowProxy66🇳🇱
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel id: @ShadowProxy66🇳🇱
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN

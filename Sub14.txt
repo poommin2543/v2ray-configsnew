@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#@meli_proxyy
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&alpn=http/1.1&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#@meli_proxyy
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#All-@V2rayAlpha--14
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.8.211.24:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#@MARAMBASHI 🇮🇹
@@ -253,3 +251,5 @@ vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:44
 vless://41d4d6d0-9d0d-48f8-a966-6a9f7c32fe72@91.107.255.237:52253?security=none&encryption=none&headerType=none&type=tcp#🔐 @AblNet7 🇩🇪
 vless://41d4d6d0-9d0d-48f8-a966-6a9f7c32fe72@91.107.255.237:52253?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://41d4d6d0-9d0d-48f8-a966-6a9f7c32fe72@91.107.255.237:52253?type=tcp&encryption=none&security=none#@armanstore2-کانال ما
+vless://41f52408-143d-40ba-8e09-82df8b72a6d0@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=crazyofferzzshopp.com&path=/FASTSHOVPN?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#2🇺🇸 @Evay_vpn
+vless://42113e3a-5f95-459b-b5a7-79688ffadc10@de1-1.9966662.xyz:20133?security=reality&encryption=none&pbk=65E6IjBrQMYqhrtISS0F2kUFIjT5aSxgNPKCf88fGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3b03febe#🇩🇪@FreakConfig
