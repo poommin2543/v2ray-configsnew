@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=Join---PL---T---Join---B_T---Join---T&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=Join---PL---T---Join---B_T---Join---T&type=grpc#@meli_proxyy
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#t.me/entryNET/config=1847256422178098
@@ -253,3 +252,4 @@ vless://46c0e0db-1496-42eb-8be9-d48d826a48bf@151.101.3.8:80?path=/-LiV2ry@LIGHTN
 vless://46c0e0db-1496-42eb-8be9-d48d826a48bf@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://46c13f51-af3a-47de-a2a3-b6cae11ba178@94.103.85.168:2053?mode=gun&security=reality&encryption=none&authority=Tel:@VPN_KING_V2RAY&pbk=gdYd0xGNqG_Ms0ejqROgvndr4cNgUEQoTQfuNQ4oKwk&fp=chrome&spx=/&type=grpc&serviceName=Tel:@VPN_KING_V2RAY&sni=tgju.org&sid=75bc98c9e7964d22#@Hddify |^| چنل هدیفای
 vless://46c398b9-b1f5-4998-a968-ad723a475c95@46.62.196.119:200?security=reality&encryption=none&pbk=87Vv-_qJyn9OupUeEZoisP5hLxohLNo0yNiK4rCH4QM&fp=chrome&spx=/&type=grpc&serviceName=/Adamak_vpn&sni=google.com&sid=b53eb572#@Adamak_vpn
+vless://46cb158c-1546-471b-a114-77bbfae90080@141.227.132.245:8080?mode=multi&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇳🇱@G0dv2ray
