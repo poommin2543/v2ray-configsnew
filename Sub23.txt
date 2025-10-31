@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c3ca1fa4-3022-4806-8072-9d744bb554c6@151.101.64.155:80?path=/Telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#All %V2RayFa
 vless://c3ca1fa4-3022-4806-8072-9d744bb554c6@www.zula.ir:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.netty.ip-ddns.com.&fp=chrome&type=ws#MTN & MCI @V2RayFa
 vless://c40254de-15d8-44e8-8442-c159ab9e23f7@172.66.40.99:8880?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.carwash-vip.xyz.&security=none#84eec1wm
 vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@vmesskhodam
@@ -253,3 +252,4 @@ vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=fl.v2bazzar.ir&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
+vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9f54d072d0c27dc6#@HiByeVPNN👈⚡❤️‍🔥
