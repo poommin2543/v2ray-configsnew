@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#%3E%3E%40v2rayng_fast%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&encryption=none&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d638e#%3E%3E%40V2RAY_VMESS_free%3A%3APL
@@ -253,3 +252,4 @@ vless://1901d9da-a3ca-44b2-9033-752aa449cc50@f1.robotklass.space:8443?security=r
 vmess://eyJhZGQiOiI0Ny4yMzkuODEuMTEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZkMjk4N2NjLWIyNWYtNDk2Ni04NDZhLWIwZDY1ZDNjMWU0YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMjk3NjAiLCJwcyI6Ij4+QERhaWx5VjJSWTo6SEsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?encryption=none&security=tls&sni=DfVrMvWc3.SoLeRiOs.nEt&type=ws&alpn=h3h2&host=DfVrMvWc3.SoLeRiOs.nEt&path=/#%3E%3E%40DailyV2RY%3A%3AXX
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=TUEAF-58650.phoenixappdatag.uk&fp=chrome&type=ws&sni=TUEAF-58650.phoenixappdatag.uk#%3E%3E%40DailyV2RY%3A%3AGB
+vless://3e9761ac-98cf-4e73-a04c-9439e4d451b1@167.17.70.41:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=RwNaEC7d-YZJ8mLA7TqYhamrZmXtJ7qv-E6qhlMc-ls&sid=c62156fac0e5ae35&type=grpc&serviceName=88d4345f4128fb21f088d666#%3E%3E%40DailyV2RY%3A%3ANL
