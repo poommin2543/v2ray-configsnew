@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&sni=pqh27v7.ipforvetra.shop#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=_&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=_&type=grpc&sni=pqh27v7.ipforvetra.shop#@Daily_Configs
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=_&type=grpc&sni=pqh27v7.ipforvetra.shop#@V2rayNGVPN <= کانفیگ رایگان
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=_&type=grpc&sni=pqh27v7.ipforvetra.shop#Channel : @Mrsoulb 🏴🏳
@@ -163,7 +165,6 @@ vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.88.13.10:443?security=reality&en
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.88.13.10:443?security=reality&encryption=none&pbk=Tv-cNH4ADnhrcIc_JIHdTCz2PJ3b4jkmLNAJ4OVKuzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#mtmvpn 🇫🇮
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.88.13.10:443?security=reality&encryption=none&pbk=Tv-cNH4ADnhrcIc_JIHdTCz2PJ3b4jkmLNAJ4OVKuzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#r♡ya
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.218.122.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&sid=#تو کانال نتورلد نباشید قطع میشن@networld_vpn
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&encryption=none&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.242.228.10:443?security=reality&encryption=none&pbk=FkyaPwhmd80B_vHrzI_74WrhAcTHXMC6g83x61jL3Xs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.242.228.10:443?security=reality&encryption=none&pbk=FkyaPwhmd80B_vHrzI_74WrhAcTHXMC6g83x61jL3Xs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@meli_proxyy
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.242.228.10:443?security=reality&encryption=none&pbk=FkyaPwhmd80B_vHrzI_74WrhAcTHXMC6g83x61jL3Xs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#t.me/entryNET/config=1847884308611220
@@ -252,4 +253,3 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51454.tas-bazi.com:443?mode=stre
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#@vmesskhodam
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss76953.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&host=Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn&type=xhttp#azadiiivpn ³🎀
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss76953.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#wi-fi-@iran_v2ray1
