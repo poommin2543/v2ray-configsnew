@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://121610b9-74a8-4988-ace2-bafb3013fde1@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://12345678-1234-1234-1234-123456789123@140.99.233.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
@@ -252,4 +253,3 @@ vless://1ddfe21c-72d6-7fd7-bcfc-015ea00d0178@Gyyy.Xxxxxx-god.xyz:443?flow=&type=
 vless://1ddfe21c-72d6-7fd7-bcfc-015ea00d0178@Never.Xxx-Internet.shop:443?flow=&type=tcp&headerType=none&security=none#@meli_proxyy
 vless://1ddfe21c-72d6-7fd7-bcfc-015ea00d0178@T.Xxxxxx-God.shop:4433?flow=&type=tcp&headerType=none&security=none#🇩🇪@meli_proxyy
 vless://1ddfe21c-72d6-7fd7-bcfc-015ea00d0178@Ttt.Xxxxxx-God.xyz:4433?flow=&type=tcp&headerType=none&security=none#@meli_proxyy
-vless://1df5e589-3301-427e-b0aa-0017ffde1555@65.109.199.233:4050?security=reality&encryption=none&pbk=oVRY8h7Njgw25j3CNhaJVMUys378tTvecrSRbrB3gyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=2ebd6e17dec6a5d9#@V2rayNG3
