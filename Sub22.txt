@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=triplef_sony.global.ssl.fastly.net&type=xhttp#@Daily_Configs
 vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=triplef_sony.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
 vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#@vmesskhodam
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
@@ -179,13 +180,14 @@ vless://TelegramChannel:daredevill_404@5.75.194.133:20569?type=xhttp&encryption=
 vless://TelegramChannel:daredevill_404@5.75.194.133:20569?type=xhttp&encryption=none&path=/@daredevill_404&host=&mode=auto&security=none#t.me/entryNET/config=1848051033185205
 vless://TelegramChannel:daredevill_404@91.98.229.73:20569?mode=auto&path=/@daredevill_404&security=&encryption=none&type=xhttp#@daredevill_404
 vless://TelegramChannel:daredevill_404@91.98.229.73:20569?mode=auto&path=/@daredevill_404&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=xhttp#@TEHRANARGO
-vless://TelegramChannel:daredevill_404@91.98.229.73:20569?mode=auto&path=/@daredevill_404&security=none&encryption=none&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://TelegramChannel:daredevill_404@91.98.229.73:2957?type=xhttp&encryption=none&path=/@daredevill_404&host=&mode=auto&security=none#@daredevill_404
 vless://Telegram_daredevill_404@91.98.229.73:2957?mode=auto&path=/@daredevill_404&security=&encryption=none&type=xhttp#@daredevill_404
 vless://Telegram_daredevill_404@91.98.229.73:2957?mode=auto&path=/@daredevill_404&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://ViP_Fragmemt_V2ray@nl.2.tryfreenet24.xyz:8023?mode=auto&path=/@U3er1&security=reality&encryption=none&pbk=IeLdc7dCgdzACeAK1wq4rxuuBmp9kTh4Wq_pjZhJeXo&host=www.speedtest.net&fp=chrome&spx=/HiCPdGMQ1LBImzd&type=xhttp&sni=zhaket.xom&sid=62e9#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=host31.cgicgnhost.site&fp=chrome&type=xhttp&sni=host31.cgicgnhost.site#[Telegram:@tik7net_vpn]🇨🇦
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=host31.cgicgnhost.site&fp=chrome&type=xhttp&sni=host31.cgicgnhost.site#🇨🇦[Telegram:@tik7net_vpn]
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=vps11.cgicgnhost.site&fp=chrome&type=xhttp&sni=vps11.cgicgnhost.site#🇩🇪@FreakConfig
+vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=vps23.cgicgnhost.site&fp=chrome&type=xhttp&sni=vps23.cgicgnhost.site#[Telegram:@tik7net_vpn]🇮🇹
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=vps37.cgicgnhost.site&fp=chrome&type=xhttp&sni=vps37.cgicgnhost.site#🇩🇪@FreakConfig
 vless://a01634d7-4070-5586-970e-bdd5e4d17b93@45.89.55.188:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#@V2rayNG3
 vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&type=ws&host=638971674693810969.brussels-prmpl-aaaad.com&path=/fiedpnws#@Daily_Configs
@@ -251,5 +253,3 @@ vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&securi
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@Hddify
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@Hddify |^| چنل هدیفای
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@V2RAYROZ
-vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@V2rayNG3
-vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#All--@V2rayAlpha--40

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?encryption=none&type=ws&host=smart.trevanda.info&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=smart.trevanda.info&alpn=h3,h2#🇺🇸 | @EVAY_VPN
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#@IRAN_V2RAY1 vip
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#Channel : @Mrsoulb 🏴🏳
@@ -152,7 +153,6 @@ vless://f15f7947-edc7-46ea-a34b-35f5830364d5@151.101.3.8:80?mode=auto&path=/Join
 vless://f161660b-0377-41e7-fde8-80699367b518@www.speedtest.net:2095?path=/TELEGRAM_BYA_CHANEL_v2ray_configs_pools?ed=2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=httpupgrade#telegram 🌈 v2ray_configs_pools
 vless://f1a5abe9-dba7-4989-8996-469470477c30@65.108.251.124:58996?flow=&type=tcp&headerType=none&security=none#Channel : @vmessorg🏴🏳
 vless://f1a70733-dd8d-4d47-b446-7be660497e5c@de1.nds.jnvs.space:2086?security=&encryption=none&headerType=http&type=tcp#@Mrconfig_Channel 🩵
-vless://f1ba3023-59df-4295-81d9-43a12146b2f5@193.23.210.40:443?security=reality&encryption=none&pbk=78vdFuYYogpEyhNH2KMr9KbseYnQfQovyZaT4VjPjDg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.capybara.press&sid=9c2378562188c3cb#@V2rayNGVPN <= کانفیگ رایگان
 vless://f1ba3023-59df-4295-81d9-43a12146b2f5@193.23.210.40:443?security=reality&encryption=none&pbk=78vdFuYYogpEyhNH2KMr9KbseYnQfQovyZaT4VjPjDg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.capybara.press&sid=9c2378562188c3cb#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://f1ba3023-59df-4295-81d9-43a12146b2f5@193.23.210.40:443?security=reality&encryption=none&pbk=78vdFuYYogpEyhNH2KMr9KbseYnQfQovyZaT4VjPjDg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.capybara.press&sid=9c2378562188c3cb#@meli_proxyy
 vless://f1ba3023-59df-4295-81d9-43a12146b2f5@193.23.210.40:443?security=reality&encryption=none&pbk=78vdFuYYogpEyhNH2KMr9KbseYnQfQovyZaT4VjPjDg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.capybara.press&sid=9c2378562188c3cb#@MARAMBASHI 🩵
