@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9f8a9503-562a-4c09-87e5-e90c9599e852@rep.usa.spouver.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#🇺🇸 | @EXPRESSVPN_420
-vless://9f8a9503-562a-4c09-87e5-e90c9599e852@rep.usa.spouver.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#🇺🇸 | @External_Net
-vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=triplef_sony.global.ssl.fastly.net&type=xhttp#@Daily_Configs
 vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=triplef_sony.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
 vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#@vmesskhodam
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
@@ -253,3 +250,6 @@ vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@MARAMBASHI 💙
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@Hddify
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@Hddify |^| چنل هدیفای
+vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@V2RAYROZ
+vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@V2rayNG3
+vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#All--@V2rayAlpha--40
