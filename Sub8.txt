@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://016f2af6-530f-44e9-a8e3-45ffb07772a5@172.66.40.99:80?mode=auto&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON&security=none&encryption=none&host=zed1.weler97502.workers.dev&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://016f2af6-530f-44e9-a8e3-45ffb07772a5@172.66.40.99:80?mode=auto&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON&security=none&encryption=none&host=zed1.weler97502.workers.dev&type=xhttp#@bored_vpn
 vless://016f2af6-530f-44e9-a8e3-45ffb07772a5@172.66.40.99:80?mode=auto&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON&security=none&encryption=none&host=zed1.weler97502.workers.dev&type=xhttp#@confiig_hub
 vless://016f2af6-530f-44e9-a8e3-45ffb07772a5@172.66.40.99:80?mode=auto&path=/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON/---@ZEDMODEON&security=none&encryption=none&host=zed1.weler97502.workers.dev&type=xhttp#@mehrosaboran
@@ -252,4 +253,3 @@ vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#@meli_proxyy
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#🇩🇪@FreakConfig
-vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?path=/&security=tls&encryption=none&type=ws&sni=smrtwtsm.confappha.com#Channel : @Mrsoulb 🏴🏳
