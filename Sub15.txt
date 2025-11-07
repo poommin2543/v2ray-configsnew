@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://41ad4bac-68c2-48a7-9434-8c13a3ca1618@65.109.216.23:15355?type=ws&encryption=none&path=/@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----&host=&security=none#@armanstore2-کانفیگ‌رایگان
 vless://41b55c53-7776-4727-b05d-1ccf9cc409a5@104.20.30.132:443?path=/Free-VPN-Geo-Project/91.187.93.166-443&security=tls&encryption=none&host=gamang.gpj2.dpdns.org&fp=chrome&type=ws&sni=gamang.gpj2.dpdns.org#@IRAN_V2RAY1
 vless://41b55c53-7776-4727-b05d-1ccf9cc409a5@104.20.30.132:443?path=/Free-VPN-Geo-Project/91.187.93.166-443&security=tls&encryption=none&host=gamang.gpj2.dpdns.org&fp=chrome&type=ws&sni=gamang.gpj2.dpdns.org#IR-@V2ray_Alpha--17
 vless://41b55c53-7776-4727-b05d-1ccf9cc409a5@104.20.30.132:443?path=/Free-VPN-Geo-Project/91.187.93.166-443&security=tls&encryption=none&host=gamang.gpj2.dpdns.org&fp=chrome&type=ws&sni=gamang.gpj2.dpdns.org#MCI-@V2rayAlpha--8
@@ -253,3 +252,4 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.38.110.164:443?encryption=none&f
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.60.11.107:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🌟 v2ray_configs_pools
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@15.165.228.119:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram ☂️ v2ray_configs_pools
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@15.223.168.175:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🌺 v2ray_configs_pools
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.171.133.93:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=&fp=chrome&spx=/&type=tcp&sni=store.steampowered.com&sid=f5#telegram ☂️ v2ray_configs_pools
