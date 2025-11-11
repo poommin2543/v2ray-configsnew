@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%204.4
-
-vless://4710b85a-66e6-411b-b492-0e0f7366ad21@digitalocean.com:443?security=tls&sni=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%203.3
-
-vless://4710b85a-66e6-411b-b492-0e0f7366ad21@www.visa.com.br:443?security=tls&sni=rAyAn-cOnFiG-fr-2.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-2.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.33
 
 vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
@@ -253,3 +248,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0306
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0349
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.133-0288
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.142-0275
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.193-5561
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.35-0413
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.155-0295
