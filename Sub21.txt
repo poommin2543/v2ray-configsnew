@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#Channel : @Mrsoulb 🏴🏳
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#Telegram: @vpnbaz
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:160ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=/telegram@v2ray_alpha?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=HaSTI.fReeAIrLAINes.COm&fp=chrome&type=ws&sni=hAsTi.frEEairLainEs.Com#@V2rayNG3
@@ -252,4 +253,3 @@ vless://9a7e039b-2a08-4f21-9e0b-671b70570b0f@bia-kanalemoon.vigilante.ir:443?mod
 vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@V2rayNG3
 vless://9aeec840-1c63-4836-b085-f5480a51d858@185.146.173.117:2095?path=/telegram-radixvpn,telegram-radixvpn,telegram-radixvpn,telegram-radixvpn,telegram-radixvpn,telegram-radixvpn?ed=2560&security=&encryption=none&host=gggooooooooooooooooooogggoooooolimaaaaaaaaaagoooooooli.torob.com.myloveiran.site.&type=httpupgrade#@Mrconfig_Channel 🩵
 vless://9b1bd0fe-4e14-44b9-8f43-075924389f25@149.248.52.96:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🎪 v2ray_configs_pools
-vless://9b430ece-d9cb-4e96-b1e9-ba39f593fbfd@77.110.121.191:51430?security=none&seed=RGDhjO2XwS&encryption=none&headerType=wireguard&type=kcp#@Mrconfig_Channel 🩵
