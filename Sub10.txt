@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@185.174.136.244:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🇷🇺 | @External_Net
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@38.180.27.102:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#@sunflowerplato🌻
 vless://1ad9cac3-eb5b-485f-9df3-8cf03d454681@arman6Gaming1111.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1848505904835764
 vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&alpn=http/1.1&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&spx=/v2ray_configs_pools---v2ray_configs_pools&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org&sid=462c73aef9f448#✅ @v2ray_configs_pools (تلگرام)
@@ -252,4 +253,3 @@ vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?note=JOIN----AZA
 vless://2569eda8-7022-46f2-8099-4e239cae9a7c@172.66.40.99:8880?type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.elmahstyle.xyz.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#V2rayArgon 👈چنل ما
 vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=amir-ebr.pages.dev#Channel : @Mrsoulb 🏴🏳
 vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&host=amir-ebr.pages.dev&type=ws&sni=amIR-ebR.pAGeS.Dev#@Hddify
-vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=amir-ebr.pages.dev&type=ws&sni=amIR-ebR.pAGeS.Dev#@MARAMBASHI 🧡
