@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJob3N0IjoiTW9zY293LmRvbWFpbi5jb20iLCJzbmkiOiJNb3Njb3cuZG9tYWluLmNvbSIsImlkIjoiYzUwZjk0ODAtMmUxZC00MGRiLTk0NTgtNjMwZTc5NjM2NjYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQ0MywicHMiOiJGaW5hbDouLi4mYXV0aD0yNDcwIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0=
-
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJob3N0IjoiTW9zY293LmRvbWFpbi5jb20iLCJzbmkiOiJNb3Njb3cuZG9tYWluLmNvbSIsImlkIjoiYzZlMDU2MmYtN2FkMS00MGZiLWEyNTUtMjYxOTRiMmRlODRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQ0MywicHMiOiJGaW5hbDouLi4mYXV0aD0zMTExIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0=
 
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJob3N0IjoiTW9zY293LmRvbWFpbi5jb20iLCJzbmkiOiJNb3Njb3cuZG9tYWluLmNvbSIsImlkIjoiZDBlOTdlZTItYzZkZS00OGY4LWJkNGEtOGU2M2E5Y2Q5ZTg5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQ0MywicHMiOiJGaW5hbDouLi4mYXV0aD0yNzUzIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0=
@@ -253,3 +251,5 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIekg1dkE2M2ZZNkJFNTRqMVJ2eGcw@194.87.216.218:52571#%F0%9F%87%B3%F0%9F%87%B1%5BTelegram%3A%40tik7net_vpn%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLR21TQkxVdUcvME5NVXY1QnJmbUtzUlpHN0lneDVkZUI0SGRsZG1JZ0NFPQ%3D%3D@209.227.233.154:14628#%F0%9F%87%AE%F0%9F%87%B9%5BTelegram%3A%40tik7net_vpn%5D
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=jnir.pichondan.com#%F0%9F%8C%A7%F0%9F%8C%A7%F0%9F%8C%A78
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvY25md0RJazkycnJkaktPODUyWW1q@62.133.63.21:65262#%F0%9F%87%B9%F0%9F%87%B7%5BTelegram%3A%40tik7net_vpn%5D
+vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&host=name.api-music-fa.com&type=ws&sni=name.api-music-fa.com#BESTIIVPNBOTvless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@8.212.115.61:443?path=%2Fproxyip%3Dtw.soso.edu.kg%3A43&security=tls&alpn=h3&encryption=none&host=stall3.sni2026.netlib.re&fp=random&type=ws&sni=stall3.sni2026.netlib.re#BESTIIVPNBOT
