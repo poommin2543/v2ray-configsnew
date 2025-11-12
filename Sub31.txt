@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?mode=gun&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#برای اتصال دائمی جوین شو TelegramID ⌲TEHRANARGO 🫟
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪All² | @meli_proxyy
@@ -253,3 +249,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.97:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.97:8880?mode=gun&security=none&encryption=none&type=grpc&path=/@V2ray_confing33#@V2ray_confing33
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.97:8880?mode=gun&security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#@V2ray_confing33
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#@V2ray_confing33
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ALL@azadiiivpn ¹🎀
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#All-@V2ray_Alpha--15
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&type=grpc#All--@V2rayAlpha-15
