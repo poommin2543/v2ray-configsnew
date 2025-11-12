@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=host31.cgicgnhost.site&fp=chrome&type=xhttp&sni=host31.cgicgnhost.site#[Telegram:@tik7net_vpn]🇨🇦
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=vps23.cgicgnhost.site&fp=chrome&type=xhttp&sni=vps23.cgicgnhost.site#[Telegram:@tik7net_vpn]🇮🇹
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:443?mode=auto&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&security=tls&alpn=h2,http/1.1&encryption=none&host=vps43.cgicgnhost.site&fp=chrome&type=xhttp&sni=vps43.cgicgnhost.site#🇩🇪[Telegram:@tik7net_vpn]
 vless://a01634d7-4070-5586-970e-bdd5e4d17b93@45.89.55.188:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#@V2rayNG3
@@ -252,4 +253,3 @@ vless://b2abd638-d5ef-4a1a-db7e-9dd13d350327@172.67.146.171:2095?path=/@XpnTeam/
 vless://b2abd638-d5ef-4a1a-db7e-9dd13d350327@lamtakam.com:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@TEHRANARGO
 vless://b2abd638-d5ef-4a1a-db7e-9dd13d350327@lamtakam.com:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://b2abd638-d5ef-4a1a-db7e-9dd13d350327@lamtakam.com:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@mehrosaboran
-vless://b2abd638-d5ef-4a1a-db7e-9dd13d350327@test2.amin8263.ir:2095?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-frchn6gb
