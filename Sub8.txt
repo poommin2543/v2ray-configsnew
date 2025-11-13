@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server18477021984150715.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#@v2ray_configs_pools
-vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server320258253370151493.tas-bazi.com:443?type=xhttp&path=/sc&host=&mode=stream-one&security=none#telegram 🎯 v2ray_configs_pools
-vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
-vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#@meli_proxyy
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#WiFi-@V2rayAlpha--7
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
@@ -253,3 +249,7 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@54.38.137.176:2053?path=/&security=
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@54.38.137.176:2053?path=/&security=tls&encryption=none&type=ws#All-@V2ray_Alpha--24
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@54.38.137.251:2053?path=/&security=tls&encryption=none&type=ws#@meli_proxyy
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@54.38.137.251:2053?path=/&security=tls&encryption=none&type=ws#All-@V2ray_Alpha--25
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.177.241.191:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.12.24:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=TUEAF-58650.phoenixappdatag.uk&fp=chrome&type=w&sni=TUEAF-58650.phoenixappdatag.uk#@HiByeVPNN❤️‍🔥💎✨
+vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=hq3.newretr432as.info#@V2rayNG3
