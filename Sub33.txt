@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e490536d-c19a-4d38-ae62-cec388de4034@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=tAlENteD-clOthinG.ONEeaT.Co&type=ws#telegram 🎯 v2ray_configs_pools
 vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#@v2ray_configs_pools
 vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--5
@@ -253,3 +252,4 @@ vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&e
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?path=/oyF1T0jNP2ARuOYS?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AZaDnet-SEmEj.pAgEs.DeV&fp=chrome&type=ws&sni=azadNet-SeMej.PAGES.DEV#@V2rayNG3
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=&encryption=none&host=Join---PLANB-PROXY&type=ws#🇫🇷@FreakConfig
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB-PROXY&type=ws#🇳🇱 @EXPRESSVPN_420
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#All-@V2ray_Alpha--4
