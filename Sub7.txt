@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwM3VMdjd2blNhZEkwR004Q0g5T2xo@194.87.216.218:52571?note=--Telegram--@NetifyVPN--#🇳🇱[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwM3VMdjd2blNhZEkwR004Q0g5T2xo@194.87.216.218:52571?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzeHpIREx4a1pvU0F6cWdLeXEyNFo@solar-3xui-hel-40-002.devastation.ru:31043#🌹🩵کانال تلگرامی ما : @Skypro_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#@V2rayNG3
@@ -253,3 +252,4 @@ vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server18477021984150715.tas-bazi.co
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server320258253370151493.tas-bazi.com:443?type=xhttp&path=/sc&host=&mode=stream-one&security=none#telegram 🎯 v2ray_configs_pools
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#@meli_proxyy
+vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#WiFi-@V2rayAlpha--7
