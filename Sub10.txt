@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@109.107.159.189:11133?security=reality&encryption=none&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=d3e9#telegram @MTMVPN 35
 vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=reality&encryption=none&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=d3e9#@meli_proxyy
 vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=reality&encryption=none&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=d3e9#@meli_proxyy
 vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=reality&encryption=none&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=d3e9#All-@V2ray_Alpha--28
@@ -253,3 +252,4 @@ vless://233e2ac9-60a6-4936-fc27-ddf0dfc25e45@www.speedtest.net:2086?path=/@spike
 vless://23589591-ecb7-42d2-b53f-461a073dc694@62.60.247.164:28485?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc&spx=/#MdVpnSec
 vless://2360d5e9-5503-4e6d-9e4a-fe5fb25c38fa@bloodseeker.fonixapp.org:26143?security=reality&encryption=none&pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=0d#@IRAN_V2RAY1--MCI
 vless://2360d5e9-5503-4e6d-9e4a-fe5fb25c38fa@bloodseeker.fonixapp.org:26143?security=reality&encryption=none&pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=0d#IR--@V2ray_Alpha-7
+vless://2360d5e9-5503-4e6d-9e4a-fe5fb25c38fa@bloodseeker.fonixapp.org:26143?security=reality&encryption=none&pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=0d#🇩🇪@FreakConfig
