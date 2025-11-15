@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2960 | Japan
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵JP-160.16.81.84-1171
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#@V2rayNG3
@@ -252,4 +253,3 @@ vless://03225b36-1dec-4ac8-e45e-1fba0091ec8e@151.101.3.8:80?mode=auto&path=/?TEL
 vless://03225b36-1dec-4ac8-e45e-1fba0091ec8e@151.101.3.8:80?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=retetefor.com&type=xhttp#@MARAMBASHI 💛
 vless://03225b36-1dec-4ac8-e45e-1fba0091ec8e@151.101.3.8:80?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=retetefor.com&type=xhttp#@MARAMBASHI 🧡
 vless://03225b36-1dec-4ac8-e45e-1fba0091ec8e@151.101.3.8:80?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=retetefor.com&type=xhttp#@meli_proxyy
-vless://03225b36-1dec-4ac8-e45e-1fba0091ec8e@151.101.3.8:80?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=retetefor.com&type=xhttp#🇩🇪@FreakConfig
