@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@44.218.9.113:16899#@daredevill_404
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@64.176.216.199:16899#@daredevill_404
 ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#@daredevill_404
 ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@77.105.166.51:2096#@daredevill_404
@@ -253,3 +252,4 @@ vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&security=tls&sni=a.wb.ru&allowInsecure=1&type=ws&host=cdn.filterai.ru&path=/websocketpl&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&security=tls&sni=admin.cs7777.vk.ru&allowInsecure=1&type=ws&host=cdn.filterai.ru&path=/websocketpl&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&security=tls&sni=alfabank.st&allowInsecure=1&type=ws&host=cdn.filterai.ru&path=/websocketpl&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&security=tls&sni=bb.mail.ru&allowInsecure=1&type=ws&host=cdn.filterai.ru&path=/websocketpl&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
