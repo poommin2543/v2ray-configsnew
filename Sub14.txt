@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh25v3.hiddendom.shop&alpn=h2&type=grpc&host=pqh25v3.hiddendom.shop#telegram 🍊 v2ray_configs_pools
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh27v3.hiddendom.shop&alpn=h2&type=grpc&host=pqh27v3.hiddendom.shop#telegram 🍊 v2ray_configs_pools
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh28v6.hiddendom.shop&alpn=h2&type=grpc&host=pqh28v6.hiddendom.shop#telegram ⚡️ v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh29v7.hiddendom.shop&alpn=h2&type=grpc&host=pqh29v7.hiddendom.shop#telegram 🎯 v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v2.hiddendom.shop&alpn=h2&type=grpc&host=pqh30v2.hiddendom.shop#telegram 🌺 v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v8.hiddendom.shop#@vmesskhodam
@@ -126,6 +123,7 @@ vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?security=realit
 vless://435b8ecf-f380-4ade-9d21-b79816e166fa@target1.takken.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=nbn.takken.ir#@meli_proxyy
 vless://435b8ecf-f380-4ade-9d21-b79816e166fa@target1.takken.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=nbn.takken.ir#t.me/entryNET/config=1848972736026068
 vless://435b8ecf-f380-4ade-9d21-b79816e166fa@target1.takken.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=nbn.takken.ir#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام🇩🇪
+vless://435b8ecf-f380-4ade-9d21-b79816e166fa@target1.takken.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=nbn.takken.ir#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:28.58ms
 vless://435b8ecf-f380-4ade-9d21-b79816e166fa@target2.takken.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=nbn.takken.ir#@meli_proxyy
 vless://435b8ecf-f380-4ade-9d21-b79816e166fa@target3.takken.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=nbn.takken.ir#@meli_proxyy
 vless://43613c34-ea2c-4a8e-9189-7c84c1668990@ir16.drinfoo.com:895?path=/&security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws&sni=speedtest.net#@meli_proxyy
@@ -134,7 +132,6 @@ vless://43786156-a257-4ff6-cfe1-394fd8ae915d@am288.amin-1.ir:2082?type=xhttp&enc
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#telegram 🎪 v2ray_configs_pools
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://43865da0-f9b9-4a19-8160-90c1c2a785e3@104.17.147.22:443?path=/&security=tls&encryption=none&host=smart.otterglobalconf.org&fp=chrome&type=ws&sni=smart.otterglobalconf.org#@meli_proxyy
-vless://43865da0-f9b9-4a19-8160-90c1c2a785e3@104.17.147.22:443?path=/&security=tls&encryption=none&host=smart.otterglobalconf.org&fp=chrome&type=ws&sni=smart.otterglobalconf.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.05ms
 vless://43865da0-f9b9-4a19-8160-90c1c2a785e3@104.17.147.22:443?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=smart.otterglobalconf.org&fp=chrome&type=ws&sni=smart.otterglobalconf.org#Our Channel ⇨ TEHRANARGO
 vless://43865da0-f9b9-4a19-8160-90c1c2a785e3@www.speedtest.net:443?path=/&security=tls&encryption=none&host=smart.otterglobalconf.org&type=ws&sni=smart.otterglobalconf.org#t.me/entryNET/config=1848977764115297
 vless://43865da0-f9b9-4a19-8160-90c1c2a785e3@www.speedtest.net:443?path=/&security=tls&encryption=none&host=smart.otterglobalconf.org&type=ws&sni=smart.otterglobalconf.org#telegram @mtmvpn
@@ -253,3 +250,6 @@ vless://4738663f-666a-4ab1-9cf6-91f88a0df827@test2.amin8263.ir:2095?type=ws&encr
 vless://4738663f-666a-4ab1-9cf6-91f88a0df827@www.speedtest.net:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=test3.amin8263.ir&type=ws#@V2ray_confing33
 vless://4738663f-666a-4ab1-9cf6-91f88a0df827@www.speedtest.net:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://4738663f-666a-4ab1-9cf6-91f88a0df827@www.speedtest.net:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@mehrosaboran
+vless://473aa081-0a8e-41ff-9fb0-3ce8db83c3bc@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=telegramconfigline.global.ssl.fastly.net&type=xhttp#[🇩🇪]@configLINE(3)
+vless://4751adcd-064b-493e-979b-b1c56c133cb4@188.114.98.6:80?path=ğŸ”’&security=none&encryption=none&host=steep-water-754d-ppal0333333333333333.finisal307.workers.dev&type=ws#@meli_proxyy
+vless://47994c30-bd6e-4045-9e1c-1841a4acab30@85.9.214.105:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram 🎯 v2ray_configs_pools
