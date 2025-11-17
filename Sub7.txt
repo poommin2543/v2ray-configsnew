@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://ca72617f-337c-4b0e-84f0-d3c29f82d2b7@37.221.125.227:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:49.81ms
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443/?path=/&security=tls&encryption=none&host=a.azadnet002.ddns-ip.net&fp=chrome&type=ws&sni=a.azadnet002.ddns-ip.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.29ms
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:56.66ms
 ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@173.245.58.113:443?path=/?ed=2048Join---A&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.63ms
@@ -253,3 +252,4 @@ vless://026e0d8b-1b20-4319-dc19-1ecf5c32d3f0@147.45.69.67:29625?mode=gun&securit
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@vmesskhodam
 vless://02bbbec4-8e6e-4ea8-982f-cdcac3541f09@109.122.197.72:443?security=reality&encryption=none&pbk=UpO0lV2YR0otf1jQKLHDp2bD623tyUIefqCLGm04a2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=a8237269c785d443#All-@V2rayAlpha--23
+vless://02c5f531-bead-4c09-956a-ca51f7bb40c5@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-Test1407
