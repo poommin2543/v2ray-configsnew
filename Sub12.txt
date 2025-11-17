@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2f50c7a6-2b88-4038-a1ed-804c189d4e66@194.55.235.202:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#🇷🇺[Telegram:NetifyVPN]
 vless://2f50c7a6-2b88-4038-a1ed-804c189d4e66@194.55.235.202:443?note=@freeOnlineVPN&security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#🇷🇺 - RU - @freeOnlineVPN
 vless://2f50c7a6-2b88-4038-a1ed-804c189d4e66@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#t.me/entryNET/config=1848971472798556
 vless://2f50c7a6-2b88-4038-a1ed-804c189d4e66@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487&note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
@@ -253,3 +252,4 @@ vless://38e35756-f704-4eed-a325-225e95ed789c@212.134.84.115:443?security=reality
 vless://38f898e5-8a8c-41c0-8c36-72ecefdd01a1@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=pOISED-JOUrney.ONEeaT.Co&type=ws#telegram 🍀 v2ray_configs_pools
 vless://38f898e5-8a8c-41c0-8c36-72ecefdd01a1@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=pOISED-JOUrney.ONEeaT.Co&type=ws#telegram 🍊 v2ray_configs_pools
 vless://39051b26-3165-4898-a552-c777a89aaf10@78.157.49.210:32197/?encryption=none&host=vasaham.com&type=tcp&headerType=http#@Geek_Spot
+vless://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?type=ws&encryption=none&path=/&host=&security=none#@V2rayNG3
