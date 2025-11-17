@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443?path=/J5aKLOY1R9ONWYCM&security=tls&encryption=none&host=dedi.besttotaldns.com&type=ws&sni=dedi.besttotaldns.com#MTMVPN 🇫🇮2
+vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443?path=/J5aKLOY1R9ONWYCM&security=tls&encryption=none&host=dedi.besttotaldns.com&type=ws&sni=dedi.besttotaldns.com#🇫🇮@FreakConfig
 vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443?path=/J5aKLOY1R9ONWYCM&security=tls&encryption=none&host=dedi.besttotaldns.com&type=ws&sni=dedi.besttotaldns.com#🇺🇸18758
 vless://74beb0a8-dff1-4dc7-99e3-64a2704662e4@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#@V2rayNG3
 vless://74e7c336-abf1-44ea-bffa-8a419224ee7a@91.107.245.212:33140?security=reality&encryption=none&pbk=BTsXykRA0mUv-PP6ncIQqjBMz_HRueLob9CNHT9QpGM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=addons.mozilla.org&sid=53#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -21,7 +23,6 @@ vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?path=/Telegram�
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#Channel : @Mrsoulb 🏴🏳
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?path=/Telegram@Selinc/?ed=2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#@Selinc
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?path=/Telegram @freecodes /?ed=2560security=tls&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#azadiiivpn 🎀
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?path=/Telegram🇨🇳@WangCai2/?ed=2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Tempe (South Tempe)🅿️ping:27.75ms
 vless://7583af76-66b0-4adf-e8ff-448966ea4634@fr.irimcs.org:2096?type=grpc&serviceName=Telegram:@catvpns&security=reality&pbk=FLNExbTRe2xr1_ULubE3XL0l9AoeZ7Afx5EdfRy4-Ds&fp=chrome&sni=greenpepper.ir&sid=b4c9&spx=/#🇩🇪🎮-@CatVpns-German
 vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&headerType=http&type=tcp#@HiByeVPNNBot 👈🌿💎
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -252,4 +253,3 @@ vless://83bafcc0-3639-443e-b14f-16ad8916629c@de.xn--mes34jx0kfx3c.com:11013?secu
 vless://83bafcc0-3639-443e-b14f-16ad8916629c@de.xn--mes34jx0kfx3c.com:11013?security=reality&encryption=none&pbk=AEd1CwrR3K18EcukiSZqBtFjh5OV9U8LsGZy45MD1V4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=download-installer.cdn.mozilla.net&sid=f2a496f4#DE-telegram-@vpnserverrr
 vless://83bafcc0-3639-443e-b14f-16ad8916629c@us.xn--mes34jx0kfx3c.com:11005?security=reality&encryption=none&pbk=rbqSU0Rrphxt7nPgz59Wbm8RRY0Z-wtLvgbrQiumMkw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=download-installer.cdn.mozilla.net&sid=1d81f7eb#USA-telegram-@ISVvpn
 vless://83dac170-476b-4ff4-a6d6-02ec8d7f1ba9@5.75.196.88:19035?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://83dac170-476b-4ff4-a6d6-02ec8d7f1ba9@5.75.196.88:19035?security=none&encryption=none&headerType=none&type=tcp#@𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡
