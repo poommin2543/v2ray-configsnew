@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://710bd6ff-a325-4767-9cb0-159eb190adcd@155.254.35.78:33811?type=grpc&encryption=none&serviceName=miro.com&authority=&security=reality&pbk=fa3n6JDInXvPSrde2HYqogCf2YheiIgxhhO3N3gO1Qs&fp=chrome&sni=miro.com&sid=63f811342e9c75&spx=/#NIGHTLY2
 vless://714ed6b1-ee85-4ef1-9e74-572f39a98bf3@199.232.5.153:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2044&security=none&alpn=h3,h2,http/1.1&encryption=none&host=JoinBede--VPNCUSTOMIZE---VPNCUSTOMIZE.Ir&fp=chrome&type=ws&sni=#@FILTERK0SH⚡All❤️‍🔥
 vless://71552f5b-0597-4524-c035-916f9298e163@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://71552f5b-0597-4524-c035-916f9298e163@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -252,4 +253,3 @@ vless://802476a5-0126-43a1-9254-0a95bddff001@www.speedtest.net:80?encryption=non
 vless://805c6485-a1f2-4e95-bc6f-3fa2350ce36c@am255.amin5646.ir:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=am290.amin5646.ir&type=xhttp#@confiig_hub
 vless://805c6485-a1f2-4e95-bc6f-3fa2350ce36c@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#@V2rayNG3
-vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#All-@V2ray_Alpha--35
