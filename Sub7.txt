@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Qiuy14qMlXkzNJYh-9_TnA@46.62.214.228:3803?path=/TELEGRAM--CHANEL--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN?ed=2048&security=none&headerType=none&type=tcp#All🇩🇪@JKVPN
 trojan://Qiuy14qMlXkzNJYh-9_TnA@46.62.214.228:3803?security=none&headerType=none&type=tcp#All🇩🇪@JKVPN
@@ -252,4 +253,3 @@ vless://064656ac-0239-4868-8c3e-60d9bb0a180d@162.55.188.238:443?path=/linkws?ed&
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#Telegram: @FergalVpnMod 🇫🇮
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#telegram 🚀 v2ray_configs_pools
 vless://067905f4-f79e-4ba4-b1d5-19551d8ca467@63.141.128.30:80?security=none&encryption=none&type=ws&host=c.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#TEL: @V2RAYNG_IP🇩🇪(2)
-vless://068990bb-5454-4b7e-8aad-46135451f332@185.113.10.29:443?security=reality&encryption=none&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=3650a4286bf867e9#@HiByeVPNNBot✨❤️‍🔥💥
