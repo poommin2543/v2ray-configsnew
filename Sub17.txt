@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇹🇷]
 vless://61545806-60b6-4b38-9d2f-884081a5a913@45.140.169.69:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1 [🇷🇺]
 vless://61545806-60b6-4b38-9d2f-884081a5a913@46.246.96.224:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇸🇪]
 vless://61545806-60b6-4b38-9d2f-884081a5a913@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1 [🇦🇲]
@@ -253,3 +252,4 @@ vless://6a5a20c8-ada7-4a58-ad0e-709f80df29ef@betty.ns.cloudflare.com:443?path=/m
 vless://6a5a20c8-ada7-4a58-ad0e-709f80df29ef@betty.ns.cloudflare.com:443?path=/mihjxdws&security=tls&encryption=none&type=ws&sni=638988574284907836.prius-amshw.info#Channel : @Mrsoulb 🏴🏳
 vless://6a5a20c8-ada7-4a58-ad0e-709f80df29ef@betty.ns.cloudflare.com:443?path=/mihjxdws&security=tls&encryption=none&type=ws&sni=638988574284907836.prius-amshw.info#🇫🇷@FreakConfig
 vless://6a656837-8915-40c6-99fd-7f244a674a5d@connection08.eco-network.org:54269/?encryption=none&host=soft98.ir&type=tcp&headerType=http#@Geek_Spot
+vless://6a68b588-a8c5-462b-8637-3cfe886a9add@2margate.superip.ir:3041?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.refersion.com&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&sid=4c14&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#1🇩🇪 | @Evay_vpn
