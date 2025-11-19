@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bccbecc9-c1d2-45d1-b3fa-771a19b9831c@nl.nodes.rocketnetwork.ru:443?allowInsecure=0&sni=nl.nodes.rocketnetwork.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0006
 trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&sni=t.me/ripaojiedian#HK_speednode_0013
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?allowInsecure=0&sni=i2pd.website&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IL_speednode_0014
 vless://14305246-dc93-4b3c-9f6c-d0b29fa7e4fa@ru-msk.shvurgceo.online:51224?allowInsecure=0&sni=download.max.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0015
@@ -252,4 +253,3 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--6
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#MCI-IR--@V2rayAlpha-10
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#WiFi-@V2ray_Alpha--1
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
