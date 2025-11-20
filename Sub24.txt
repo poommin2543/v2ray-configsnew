@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@104.131.32.9:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.gstatic.com&sid=a4844ba7#@meli_proxyy
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@104.131.32.9:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.gstatic.com&sid=a4844ba7#All-@V2rayAlpha--8
 vless://a7f014f3-8308-4b69-f6e5-fe9584570338@def.irimcs.org:2087?type=grpc&serviceName=@CatVpns&security=reality&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&fp=chrome&sni=greenpepper.ir&sid=df91&spx=/#@Catvpns-🇩🇪--Channel
 vless://a7f014f3-8308-4b69-f6e5-fe9584570338@def.irimcs.org:2087?type=grpc&serviceName=@CatVpns&security=reality&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&fp=chrome&sni=greenpepper.ir&sid=df91&spx=/#telegram 🚀 v2ray_configs_pools
@@ -253,3 +252,4 @@ vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#🇫🇮 | @External_Net
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443?security=reality&encryption=none&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=30de9b62dca5142d#All-@V2ray_Alpha--20
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=/&security=tls&encryption=none&host=nkang2replace.airlineshoma.com&type=ws&sni=nkang2replace.airlineshoma.com#All-@V2ray_Alpha--12
+vless://b7583704-5d82-452d-9700-e2b89e665851@141.227.142.174:10400?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#MCI-@IRAN_V2RAY1
