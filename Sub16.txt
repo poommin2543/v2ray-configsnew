@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4ca08fdf-c993-4f90-b258-f0efb4a53351@104.16.1.106:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#id(@vmesskhodam)
 vless://4ca08fdf-c993-4f90-b258-f0efb4a53351@104.16.1.106:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#id@vmesskhodam
 vless://4cb539cb-7e01-4c00-90a1-b89b66881e73@172.245.33.163:10088?security=reality&encryption=none&pbk=CWO043TqIdMiwVVNBydNwdVuzKz3K8p9IIEynpR_dFs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=20182bcc0f3415d9#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram ⚡️ v2ray_configs_pools
@@ -252,4 +253,3 @@ vless://5713fee0-2f51-4453-9502-b7fd38a657b6@38.180.105.166:443?security=reality
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@45.15.127.196:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇫🇮 ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@46.21.157.186:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#@meli_proxyy
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@46.21.157.186:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇺🇸 ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام
-vless://5713fee0-2f51-4453-9502-b7fd38a657b6@46.21.157.186:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#@MARAMBASHI 🇮🇹
