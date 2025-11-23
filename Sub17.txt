@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5713fee0-2f51-4453-9502-b7fd38a657b6@84.201.149.75:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=moodle.sligvpn.ru#🇷🇺@FreakConfig
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@pugna.sligvpn.ru:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#@meli_proxyy
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@pugna.sligvpn.ru:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇩🇪 ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام
 vless://57534a80-f86f-484c-9ee3-61d0d3436050@141.227.160.91:58361?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@HiByeVPNNBot 👈🌿💎
@@ -252,4 +253,3 @@ vless://63720775-3e50-4e69-87b4-eb0b7aa7d9ad@65.109.220.140:8443?note=---Telegra
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=&encryption=none&host=157.180.123.25&type=ws#@V2rayNG3
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=&encryption=none&host=157.180.123.25&type=ws#All-@V2ray_Alpha--25
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=none&encryption=none&host=157.180.123.25&type=ws#All--@V2rayAlpha--33
-vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=none&encryption=none&host=157.180.123.25&type=ws#All-@V2rayAlpha--20
