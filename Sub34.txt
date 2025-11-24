@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb 🇳🇱
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/rfvtgws&security=none&encryption=none&type=ws#🇪🇸[Telegram:NetifyVPN]
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=/rfvtgws&security=none&encryption=none&type=ws#@meli_proxyy
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=/rfvtgws&security=none&encryption=none&type=ws#All-@V2ray_Alpha--33
@@ -253,3 +252,4 @@ vless://f05b4350-eb1a-4a93-bebe-31c4066560d2@traxex.fonixapp.org:56902?security=
 vless://f05b4350-eb1a-4a93-bebe-31c4066560d2@traxex.fonixapp.org:56902?security=reality&encryption=none&pbk=ytFEE1Ae7cboXEsIhJt5ry8qv2hGZ41jAWyGhHjZXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=9d6aa524#All-@V2ray_Alpha--18
 vless://f05b4350-eb1a-4a93-bebe-31c4066560d2@traxex.fonixapp.org:56902?security=reality&encryption=none&pbk=ytFEE1Ae7cboXEsIhJt5ry8qv2hGZ41jAWyGhHjZXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=9d6aa524#🇩🇪@FreakConfig
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?path=/oyF1T0jNP2ARuOYS?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AZaDnet-SEmEj.pAgEs.DeV&fp=chrome&type=ws&sni=azadNet-SeMej.PAGES.DEV#@V2rayNG3
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=&encryption=none&host=Join---PLANB-PROXY&type=ws#🇫🇷@FreakConfig
