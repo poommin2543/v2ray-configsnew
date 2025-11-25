@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-directvpn@3.76.168.69:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-privatevpns@3.127.91.148:22222?allowInsecure=1&sni=3.127.91.148#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA@23.95.75.146:443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-directvpn@3.127.91.148:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
@@ -253,3 +252,4 @@ trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?security=tls&type
 trojan://83794b09-d50a-4e6e-9559-1372b6299e89@162.19.246.187:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/162.19.246.187=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A548
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDkgNDUuOUtCL3MiLCJhZGQiOiI4LjIxOC4xNy4xMzYiLCJwb3J0IjoiMzcyMSIsImlkIjoiMzM3NTVlYjMtNWMxMi00Y2E3LWI4NmUtNmYxYWE2ZTdjZTI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0OSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTAiLCJhZGQiOiI2NS4xMDkuMi4xNCIsInBvcnQiOiI0NDMiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUwIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%201.7MB%2Fs
