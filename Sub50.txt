@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0161
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.130-0164
-vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4emQ0EtMTM0LjE5NS4xOTguMTQ3LTU1NDgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctMTAyMyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy03Nzc3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#%F0%9F%87%BA%F0%9F%87%B8US-104.192.226.106-0166
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#%F0%9F%87%BA%F0%9F%87%B8US-104.192.226.106-0167
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.142-0178
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0174
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.153-0171
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.152-0172
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.174-0272
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.181-0175
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-0270
@@ -238,18 +225,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.192:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#%40Filter_breaker-35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%40Filter_breaker-33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%40Filter_breaker-34
-vless://3a69f9d8-45f6-4ab3-a96b-b5f6b17f6b07@80.253.251.121:31156?security=reality&encryption=none&pbk=Btx8LmnQPqsknVhtDECp8HVxWGTUJa5WOmyMVPLSRT0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=a901f81996e9e4dd#%40ServerTel%20%F0%9F%8C%B9%20Germany%20%F0%9F%87%A9%F0%9F%87%AA`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#%40Filter_breaker-37
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@diana.ns.cloudflare.com:443?flow=&type=ws&host=all1azar.darolmajanin.com&path=/assets?ed%3D512&security=tls&sni=all1azar.darolmajanin.com&alpn=http/1.1&fp=chrome&allowInsecure=0#%40Filter_breaker-14
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@laylah.ns.cloudflare.com:443?flow=&type=ws&host=asli25qor1.garden-3265.ir&path=/assets?ed%3D512&security=tls&sni=asli25qor1.garden-3265.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#%40Filter_breaker-10
-vmess://eyJhZGQiOiI4OS4yMDcuMTIuODAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtLmdwajEud2ViLmlkIiwiaWQiOiJmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvR2VvLVByb2plY3QvODkuMjA3LjEyLjgwLTg0NDMiLCJwb3J0IjoiODQ0MyIsInBzIjoiQHYyRnJlZUh1YiDwn4e58J+HtyIsInNjeSI6Inplcm8iLCJzbmkiOiJ2bS5ncGoxLndlYi5pZCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-trojan://fe819d02-531b-456a-89db-060a779c8908@188.132.129.84:8443?path=%2FFree-VPN-CF-Geo-Project%2F188.132.129.84%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7
-vless://07be7539-9f4b-4818-a58f-24b3837edc3e@89.207.12.80:8443?path=%2FFree-VPN-CF-Geo-Project%2F89.207.12.80%3D8443&security=tls&encryption=none&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7
-trojan://ec8ce181-e3bf-4cdd-99d6-65e786657146@2.56.204.183:443?path=%2FFree-VPN-CF-Geo-Project%2F2.56.204.183%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A6%F0%9F%87%B2
-trojan://4159a606-843b-48ce-8b6a-418768192407@192.9.183.128:45673?path=%2FFree-VPN-CF-Geo-Project%2F192.9.183.128%3D45673&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A6%F0%9F%87%BA
-trojan://b91d4bd4-1fef-4559-8b2b-9622f46e58db@31.133.0.167:2053?path=%2FFree-VPN-CF-Geo-Project%2F31.133.0.167%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1
-trojan://93db5318-9c09-45fd-9adf-4c0e005cbe06@168.138.192.16:54584?path=%2FFree-VPN-CF-Geo-Project%2F168.138.192.16%3D54584&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AF%F0%9F%87%B5
-trojan://c51bf00b-6c2c-4a18-bf66-bd70939a3c01@46.17.102.9:443?path=%2FFree-VPN-CF-Geo-Project%2F46.17.102.9%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://0560a310-e8c3-4eb9-b504-aff11eef44f6@91.199.32.39:2053?path=%2FFree-VPN-CF-Geo-Project%2F91.199.32.39%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
-trojan://313aa28a-c3b3-43a6-9fd0-44bb0e6a0950@77.91.69.141:2053?path=%2FFree-VPN-CF-Geo-Project%2F77.91.69.141%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B1
-trojan://f3851a0e-cedd-4955-bd52-5edc29f2b7c8@81.91.214.85:443?path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.85%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A8%F0%9F%87%BF
+vmess://eyJhZGQiOiI4LjIxOC4xNy4xMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzM3NTVlYjMtNWMxMi00Y2E3LWI4NmUtNmYxYWE2ZTdjZTI3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzNzIxIiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=`
