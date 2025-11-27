@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://468d811a-8540-4517-9779-0f542b5150d2@103.21.244.17:80?encryption=none&security=none&type=ws&host=mute-wood-561e-ppal.megiva7664.workers.dev&path=/?ed=2560#❄️Ch: @pPal03❄️جوین بدید❄️
 vless://468d811a-8540-4517-9779-0f542b5150d2@104.24.7.232:80?encryption=none&security=none&type=ws&host=mute-wood-561e-ppal.megiva7664.workers.dev&path=/?ed=2560#❄️Ch: @pPal03❄️جوین بدید❄️
 vless://46c0349a-4c2f-463a-bced-e45cc132205b@213.21.242.82:443?path=/ray&security=tls&encryption=none&type=ws&sni=hikoop.ru#@sunflowerplato🌻
 vless://46c0349a-4c2f-463a-bced-e45cc132205b@213.21.242.82:443?path=/ray&security=tls&encryption=none&type=ws&sni=hikoop.ru#All--@V2rayAlpha-38
@@ -253,3 +252,4 @@ vless://5057639a-b876-400e-bc0e-bf5ed00a2413@DEADSEECtelegram.slimshopboyss.ir:8
 vless://5057639a-b876-400e-bc0e-bf5ed00a2413@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#🇩🇪@FreakConfig
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?mode=auto&path=/dashboard?ed=#TELEGRAM-v2ray_configs_pools?ed=512&security=none&encryption=none&host=goat.postpapet.ir&type=xhttp#@HiByeVPNN❤️‍🔥⚡
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl.dornagamesco.ir:80?encryption=none&security=none&type=xhttp&host=r.flyw.ir&path=/?@v2ray_configs_pools----%v2ray_configs_pools&mode=auto&extra={"xPaddingBytes":"100-1000"}#@v2ray_configs_pools🟢کانفیگ های بیشتر برای تمام نت ها
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:13136?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#@v2ray_configs_pools❤️‍🔥⚡
