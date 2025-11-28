@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇧🇷
 vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
 vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇫🇮@FreakConfig
@@ -253,3 +252,4 @@ vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.15.167.135:443?encryption=none&f
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.84.0.57:443?security=reality&encryption=none&pbk=8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a29977bd#All--@V2ray_Alpha-11
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.84.0.57:443?security=reality&encryption=none&pbk=8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a29977bd#MTN--@IRAN_V2RAY1
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.89.55.30:443?security=reality&encryption=none&pbk=OjiMX0SsjSJlG-pEfs1OCZFClBvmk3Z1lxRWLtnAs24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=078498d8#All--@V2ray_Alpha-12
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@5.180.55.116:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=vk.cc&pbk=mEWXdgJN7KySRfEqezqGc_ThW7QI3KVDJuQa7OV5ulo&sid=82eb685b&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇹🇷@EVAY_VPN
