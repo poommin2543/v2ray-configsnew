@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#🇱🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080?type=tcp#𝗝𝗼𝗶𝗻 ➠AKLISvpn 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#--39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#SS-@V2rayAlpha--39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🇱🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl04.saint.ydns.eu:8080#--27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl04.saint.ydns.eu:8080#SS-@V2rayAlpha--27
@@ -247,9 +253,3 @@ trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&secur
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2RAYROZ
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:3169/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#12🔒@oneclickvpnkeys
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@Selinc
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2ray1_Ng
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.204.136:1331/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#15🔒@oneclickvpnkeys
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.81.84:2890/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🔒19@oneclickvpnkeys
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:702?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2rayAlpha--5
-trojan://de3bc763-2fc6-46aa-aec7-a52a0d1c0550@38.180.72.65:8443/?type=ws&host=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/38.180.72.65=8443&security=tls&sni=joss.gpj.web.id&allowInsecure=1#🎵44@oneclickvpnkeys
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.157.220:443/?type=ws&host=6666YHjU.777159.xYz&path=/dilyfCPEmLvYr5hYXD&security=tls&sni=6666YHjU.777159.xYz&alpn=http/1.1&allowInsecure=1#🎵69@oneclickvpnkeys
