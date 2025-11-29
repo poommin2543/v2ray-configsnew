@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw@45.138.157.162:443#--60
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#@daredevill_404
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ0s5VkRBSFBpbm5wWVJhcExtRjJz@62.133.63.21:65262#@V2ray1_Ng 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ0s5VkRBSFBpbm5wWVJhcExtRjJz@62.133.63.21:65262?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzJ0TWhtQkx6ZzlyWUNhSzlnaFpu@194.87.45.189:443#✨ @Geek_Spot | 🔒 | 🌐 194.87.45.189 | 🇪🇸
@@ -253,3 +249,7 @@ trojan://e8cb659c-d5af-4b82-a175-8f44d8972542@213.255.209.207:443?path=/Free-VPN
 trojan://e8cb659c-d5af-4b82-a175-8f44d8972542@213.255.209.207:443?path=/Free-VPN-CF-Geo-Project/213.255.209.207=443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#t.me/entryNET/config=1850113372062476
 trojan://e8cb659c-d5af-4b82-a175-8f44d8972542@213.255.209.207:443?path=/Free-VPN-CF-Geo-Project/213.255.209.207=443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto (Old Toronto)🅿️ping:30ms
 trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&headerType=none&type=tcp&sni=quietplace.lazymountain.click#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام-🇨🇱Chile
+trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9#🔒30@oneclickvpnkeys
+trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
+trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷[openproxylist.com] trojan-FR
+trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&sni=cloudflare.com&fp=chrome&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9&spx=/&allowInsecure=1&type=grpc#🇫🇷[openproxylist.com] trojan-FR
