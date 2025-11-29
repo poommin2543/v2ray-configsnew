@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2456f90c-5183-476d-b069-16ae74ce120f@154.197.121.253:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%253E%253E%2540V2RAY_VMESS_free%3A%3AUS
 vless://2456f90c-5183-476d-b069-16ae74ce120f@181.214.1.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#%253E%253E%2540oneclickvpnkeys%3A%3AUS
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%253E%253E%2540v2ray_configs_pool%3A%3AUS
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#%253E%253E%2540oneclickvpnkeys%3A%3AUS
@@ -252,4 +253,3 @@ vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@74.119.193.40:443?security=tls&sni=
 vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@medium.com:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.4
 
 vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.44
-
