@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&host=iwukb.ava-shabane.com&type=ws&sni=iwukb.ava-shabane.com#@meli_proxyy
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&host=iwukb.ava-shabane.com&type=ws&sni=iwukb.ava-shabane.com#All-@V2rayAlpha--24
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&host=iwukb.ava-shabane.com&type=ws&sni=iwukb.ava-shabane.com#telegram @mtmvpn
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&host=iwukb.ava-shabane.com&type=ws&sni=iwukb.ava-shabane.com#🇩🇪@FreakConfig
@@ -253,3 +252,4 @@ vless://cdf23086-d9c7-458d-9b97-6a19013fbbdd@65.109.205.214:443?path=/&security=
 vless://ce0e69bb-ad5a-45b5-892d-976ba5ce547c@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ce0e69bb-ad5a-45b5-892d-976ba5ce547c@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ce1ba753-640b-4f2c-9559-007efde120d3@49.13.15.29:54952/?type=tcp&encryption=none&flow=&sni=www.stackoverflow.com&fp=chrome&security=reality&pbk=928CTfMKJRls8qsiPBeDzAvTIIa4rEdMOWvXrMwVBQU&sid=30c5b727#🔒14@oneclickvpnkeys
+vless://ce34687c-fae3-4d8a-9475-6a96dc9a0eae@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡

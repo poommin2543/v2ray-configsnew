@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.140.167.141:443?security=reality&encryption=none&pbk=949Ia0TFSkuqkvI5ooc8bBWKztkG82oni4f_GRDbakg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=0fbaa2b7#MTN--@IRAN_V2RAY1
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.15.167.135:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=vk.cc&pbk=bnuX2czdCPdpIa0tcLrmqDMU0_14zNfSSmTtM16I0BE&sid=4af8d5c0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇱🇮 @EVAY_VPN
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.84.0.57:443?security=reality&encryption=none&pbk=8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a29977bd#All--@V2ray_Alpha-11
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.84.0.57:443?security=reality&encryption=none&pbk=8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a29977bd#MTN--@IRAN_V2RAY1
@@ -253,3 +252,4 @@ vless://6f7562ec-5858-42e4-9934-46d96d94b15b@elementalss.fonixapp.org:37743?secu
 vless://6f78b28d-9b42-4ed5-9a6b-915e17deb55b@151.101.3.8:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shcareld.global.ssl.fastly.net&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#MTN--@IRAN_V2RAY1
 vless://6f96ee30-8904-4613-8260-4e7c6ca3fd31@bloodseeker.fonixapp.org:24132?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GKOroDaiSIgbEmu_f-SEPypLtVyMUVuPSXSMf3PfF38&security=reality&sid=3734ad&sni=nike.com&type=tcp#@meli_proxyy
+vless://6f96ee30-8904-4613-8260-4e7c6ca3fd31@bloodseeker.fonixapp.org:24132?security=reality&encryption=none&pbk=GKOroDaiSIgbEmu_f-SEPypLtVyMUVuPSXSMf3PfF38&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nike.com&sid=3734ad#@meli_proxyy
