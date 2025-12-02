@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.232.161:8080?path=/?ed&security=none&encryption=none&type=ws#US%20VLESS-112%40free-nodes
-vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#%E6%9C%AA%E7%9F%A5%20VLESS-113%40free-nodes
 vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.ftmsoft.com#TR%20VLESS-114%40free-nodes
 vless://0f8e2cfc-fdf2-46c7-bfcd-ce8273d5ff13@de-2.shvurgceo.online:38395?security=reality&amp;encryption=none&amp;pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=vk.com&amp;sid=ab12cd34#DE%20VLESS-115%40free-nodes
 vless://006f752c-42fe-41dd-a224-e2f7c48b72a9@de.shvurgceo.online:14357?security=reality&amp;encryption=none&amp;pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=vk.com&amp;sid=ab12cd34#DE%20VLESS-116%40free-nodes
@@ -253,3 +251,5 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=ww
 trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:17113?security=tls&sni=$$hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-359%40free-nodes
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-360%40free-nodes
 trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%E6%9C%AA%E7%9F%A5%20TROJAN-361%40free-nodes
+trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@173.82.240.199:44301?security=tls&sni=lav002.jd0001.top#%E6%9C%AA%E7%9F%A5%20TROJAN-362%40free-nodes
+trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#%E6%9C%AA%E7%9F%A5%20TROJAN-363%40free-nodes
