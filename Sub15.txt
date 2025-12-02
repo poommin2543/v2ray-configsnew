@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?encryption=none&type=ws&path=/Telegram🇨🇳&security=tls&sni=fast01.0860852.xyz#AKLISvpn🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=/Telegram🇨🇳&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Join To : @IRAN_V2RAY1
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#@MARAMBASHI 💋
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +252,4 @@ vless://2c940881-1743-48a4-b57c-8bb5094a04ce@masterserver1.de.huqpmfood.ir:1331?
 vless://2cb6a58c-00df-47e8-be1f-8b2372035b3b@54.36.117.130:25366?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://2ce0d16a-098d-463f-9aaf-9a142f88c59f@V2ngFast.byte-server.ir:4455?encryption=none&type=xhttp&mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 @V2ngNet
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://2d0da9ec-c284-4136-80c9-cfb421c7e4fc@172.232.190.207:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🍀 v2ray_configs_pools
