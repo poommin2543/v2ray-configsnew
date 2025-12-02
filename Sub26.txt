@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://839fde0d-552c-46da-929c-60511e6bca76@45.89.110.227:443?mode=gun&security=reality&encryption=none&pbk=EULIFV6_Z6idSQUsWx3UcG8iKBuA-HvLqyur8SlRmVQ&fp=chrome&type=grpc&serviceName=4b6188799397e396e0ddf397&sni=www.google.com&sid=2f8c5445d1a6b661#@sunflowerplato🌻
+vless://83a94113-7c2b-4ef0-9ecf-3f6989d1133d@marzban.iranifard.ir:32628?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@[2a01:4f8:1c1e:7de4::1]:8443/?type=tcp&encryption=none&flow=&security=tls&sni=blogtest.ghazatehran.ir&alpn=h3,h2,http/1.1&fp=chrome#🔥16@oneclickvpnkeys
 vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@blogtest.ghazatehran.ir:8443/?type=tcp&encryption=none&flow=&security=tls&sni=blogtest.ghazatehran.ir&alpn=h3,h2,http/1.1&fp=chrome#🔥4@oneclickvpnkeys
 vless://83ee741e-4357-4e7c-bfdd-b259c8d1b981@www.speedtest.net:8443?path=/video&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=blog.ghazatehran.ir&fp=chrome&type=ws&sni=blog.ghazatehran.ir#@V2RAYROZ
@@ -251,5 +253,3 @@ vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=/?ed=2560&secu
 vless://8c2aef39-f7c4-4596-b13f-6524b023d43a@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.zedmodeon.ip-ddns.com&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://8c2aef39-f7c4-4596-b13f-6524b023d43a@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.zedmodeon.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://8c374da3-b3cb-4460-9098-0837973e228f@45.89.107.232:443?path=/mfgdwhws&security=tls&encryption=none&type=ws#@v2ray_configs_pools
-vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#Hamrah.aval
-vless://8c8e3d85-7263-438d-ae3c-55e51338911b@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=shop.slimshopboyss.ir&type=xhttp#@TEHRANARGO  عضو شو
