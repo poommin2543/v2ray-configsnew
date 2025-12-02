@@ -4,7 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 #Epodonios
-vmess://eyJhZGQiOiJtY2kueWVrdGFuZXQuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNGI0MWRjOC1iNjg0LTQ5ZTQtYjNkYi1hZGUzODJjMTEzZDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1NTU1IiwicHMiOiJBbGwtQFYycmF5QWxwaGEtLTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vmess
 vmess://eyJhZGQiOiI0Ny4yMzguNzEuMTY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBiM2RhNmUwLTJhNDEtNDllNC04YmVlLWNmYTcwNWQ0NDhmYyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIzNzIxIiwicHMiOiJBbGwtQFYycmF5X0FscGhhLS00NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJBbGwtQFYycmF5QWxwaGEtLTI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJXaUZpLUBWMnJheUFscGhhLS0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless
@@ -253,3 +252,4 @@ vless://6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474@64.225.9.191:25023?security=none&en
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20US%20%F0%9F%91%BB
 vless://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ProxyCloud
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil

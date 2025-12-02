@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=none&encryption=none&headerType=none&type=tcp#%E6%9C%AA%E7%9F%A5%20VLESS-111%40free-nodes
 vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.232.161:8080?path=/?ed&security=none&encryption=none&type=ws#US%20VLESS-112%40free-nodes
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#%E6%9C%AA%E7%9F%A5%20VLESS-113%40free-nodes
 vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.ftmsoft.com#TR%20VLESS-114%40free-nodes
@@ -253,3 +252,4 @@ trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17109?security=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-358%40free-nodes
 trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:17113?security=tls&sni=$$hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-359%40free-nodes
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-360%40free-nodes
+trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%E6%9C%AA%E7%9F%A5%20TROJAN-361%40free-nodes
