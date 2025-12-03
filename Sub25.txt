@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://77f806f0-8f87-4c01-8e07-c88d52092e92@cs2.film2serial.cloud:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&sni=cs2.film2serial.cloud#🇩🇪 Germany / gRPC / HELIX
 vless://7804e50e-6563-4016-a1e7-58b62f138aa2@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.28.233:80?type=ws&host=us3.rtacg.com&path=/#t.me/entryNET/config=1850404666895069
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.72:80?type=ws&host=us3.rtacg.com&path=/#t.me/entryNET/config=1850393341861290
@@ -253,3 +252,4 @@ vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?
 vless://82e77741-f27e-476d-8467-c054752f0673@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-34aqxx1b
 vless://82f726c1-9d81-4ec5-881d-2da53a4d1a38@91.198.77.59:650?security=reality&encryption=none&pbk=aMttwESaYXl_Gh2EOT8BHNGkX7K9n_7iQg8a0SEs5R4&host=tamin.ir&headerType=http&fp=chrome&spx=/&type=tcp&sni=dolat.ir#Join -to▶️ @DarkHub_VPN.19
 vless://83367474-3a42-4aa8-a74f-82e930370975@ge1.clear-vpn.org:443?security=reality&encryption=none&pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ge1.clear-vpn.org&sid=fb228829c3da833b#@IRAN_V2RAY1 🇩🇪
+vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=/&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#@V2rayNG3

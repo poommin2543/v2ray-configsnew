@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f705e93c-d031-4a03-9889-f8cf32c94451@151.101.3.8:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-18t2m4y2
 vless://f7140d34-dcc0-440c-bb51-bbd8ed7d8b11@paris.fonixapp.org:16607?security=reality&encryption=none&pbk=MIDSDaDAnyD3LPtHE8oLcGJjQP2Qj1RVJR853N1T924&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=expedia.com&sid=78#All-@V2rayAlpha--16
 vless://f716fa40-e997-42d8-b93c-7122c63cc122@Osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f72787e7-6832-4527-bf61-2a922e6be7d0@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=NURturINg-CORPoRatiON.oNeEAT.CO&type=ws#telegram 🎯 v2ray_configs_pools
@@ -253,3 +252,4 @@ vmess://eyJhZGQiOiI0Ni42Mi4yMTQuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI0Ni42Mi4yMTQuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI5OWMzYTcwNy1kMWYxLTRhN2QtYTUzNy03MTZhNzU0MjU2MWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiJBbGwtLS1ASVJBTl9WMlJBWTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0Ni42Mi4yMTQuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjOTVlNzAxZi0wZjQ1LTQwZGQtOWZkNi1iZTVlNDVlZjYyNzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiJASVJBTl9WMlJBWTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0Ni4yNTAuMjMzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYmRkNzZjNy0xMTZkLTQxZjItODUzOC0xMTIzOWRkZTVmNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiQWxsLUBWMnJheUFscGhhLS00MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI0Ni4yNTAuMjMzLjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxYjBmZWU0MC0xNWNjLTQ2MmUtYjFjMi03YmFjZThlMGM5ODciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiQWxsLUBWMnJheUFscGhhLS00MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
