@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#DE%20VLESS-129%20%7C%20free-nodes
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=www.cloudflare.com&amp;pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&amp;fp=chrome#GB%20VLESS-130%20%7C%20free-nodes
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#CA%20VLESS-131%20%7C%20free-nodes
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#JP%20TROJAN-132%20%7C%20free-nodes
@@ -253,3 +252,4 @@ trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#%
 trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-376%20%7C%20free-nodes
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-377%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@51.45.12.251:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-378%20%7C%20free-nodes
+trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-379%20%7C%20free-nodes

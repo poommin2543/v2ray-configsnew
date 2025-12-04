@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://7c077572-6da9-11ef-b786-f23c91cfbbc9@679b6c8d-t53wg0-t9hghw-1sdoq.us.hyhuawei.com:443/?insecure=1&sni=679b6c8d-t53wg0-t9hghw-1sdoq.us.hyhuawei.com#🔴58@oneclickvpnkeys
 hy2://83ee741e-4357-4e7c-bfdd-b259c8d1b981@blogtest.ghazatehran.ir:4431/?insecure=1&sni=blogtest.ghazatehran.ir&obfs=salamander&obfs-password=2wsx#🔥20@oneclickvpnkeys
 hy2://861726bb-c61a-b0e0-99fa-5ddfdcf21902@c2909779-t59gg0-ta5nd4-e06r.us.hyhuawei.com:443/?mport=30000-60000&insecure=1&sni=c2909779-t59gg0-ta5nd4-e06r.us.hyhuawei.com#🔴68@oneclickvpnkeys
 hy2://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@7414c1d4-t57ls0-tcdlur-1qwom.us.hyhuawei.com:443/?insecure=1&sni=7414c1d4-t57ls0-tcdlur-1qwom.us.hyhuawei.com#🔴74@oneclickvpnkeys
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MlF1Wjg5aWFaUUVsWUt5MWJEeU9W@77.246.107.222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#🇰🇿82@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#🟢24@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@V2rayNG3
