@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#MTN-@IRAN_V2RAY1
-vless://221667cc-6a36-4852-ea20-462b10bc3cf8@46.101.148.15:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://22253331-3afd-4b87-ec6f-25e995664743@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://2232318f-0a4d-423b-89ef-71f711e4ef86@172.66.40.99:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#V2rayArgon 👈چنل ما
 vless://2239c741-cd2b-44a0-aa22-7965ef96e3dd@Www.Speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🥦-6c33jx7p
@@ -253,3 +251,5 @@ vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&secu
 vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@152.53.86.94:34251?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&sid=a57aef#🇦🇹[Telegram:NetifyVPN]
 vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@earthshaker.fonixapp.org:34251?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ilovepdf.com&fp=chrome&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&sid=a57aef&spx=/&type=tcp&headerType=none#@Daily_Configs
 vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@earthshaker.fonixapp.org:34251?security=reality&encryption=none&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a57aef#IR-@V2rayAlpha--5
+vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@earthshaker.fonixapp.org:34251?security=reality&encryption=none&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a57aef#⚡ @Fast78_Channel | Best Free Configs
+vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@earthshaker.fonixapp.org:34251?security=reality&encryption=none&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a57aef#🇩🇪@FreakConfig
