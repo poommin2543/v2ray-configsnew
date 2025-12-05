@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#Telegram:@FergalVpnMod
 vless://f5119458-dede-4782-8e30-b4d4d67f3dba@www.speedtest.net:80?path=/@v2ray_configs_pools---@v2ray_configs_pools/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@v2ray_configs_pools❤️‍🔥⚡
 vless://f51667a2-c1e6-5321-9d51-f03be3fc8d02@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=main32d.global.ssl.fastly.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#2 🇩🇪 | @Evay_vpn
 vless://f5293312-411f-4b80-9f55-b2eccb7ae683@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
@@ -253,3 +252,4 @@ vless://fb84938c-8708-4289-a4f1-4f513b1581ac@65.109.218.179:2083?encryption=none
 vless://fb85dd7a-f159-49f2-98bf-8c190be49102@94.182.105.51:22921?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003338940169118.highlander-amsis.info&type=ws&host=639003338940169118.highlander-amsis.info&path=/prheflws#🇪🇸[openproxylist.com] vless-ES
 vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?path=/prheflws&security=tls&encryption=none&insecure=0&host=639003338940169118.highlander-amsis.info&type=ws&allowInsecure=0&sni=639003338940169118.highlander-amsis.info#telegram @mtmvpn 10
+vless://fbb4ea34-67db-4eed-a833-96eaf21d2875@104.24.176.7:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#sww1azet

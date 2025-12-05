@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#All-@V2rayAlpha--16
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#All--@IRAN_V2RAY1
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#All-@V2rayAlpha--15
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.37.10:993?security=reality&encryption=none&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#All-@V2rayAlpha--14
@@ -253,3 +252,4 @@ vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@140.238.101.212:443?security=realit
 vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@140.238.101.212:443?security=reality&encryption=none&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bp.com&sid=d923#کانال تلگرام proxy_mtm@
 vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@141.145.196.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.orange.fr&fp=chrome&security=reality&pbk=qwOpC7eb-w7uUSdUrDbxyodquipemBp0bSKhcHrZWF0&sid=fe8f653b55#🟢44@oneclickvpnkeys
 vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@141.145.216.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.orange.fr&fp=chrome&security=reality&pbk=NUffGJDBoJtfgQl_vUK3KN_VIn0UJbLfPdgoGJ8OKVg&sid=f13fae#🟢47@oneclickvpnkeys
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@141.148.231.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=-bkNK7-q7YQA5mL7kFehmXllIxym7q5mLAL-69bA7jo&sid=fb#🟢29@oneclick
