@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://78302036-66e6-4018-ae95-d168cff5a475@helsinki.fonixapp.org:28264?security=reality&encryption=none&pbk=ETlf5jYSfWCurnzl9iZ3URUFHWB8_JWWR8jrp2UizVs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=9e7234a45944#@v2ray1_Ng
-vless://78302036-66e6-4018-ae95-d168cff5a475@helsinki.fonixapp.org:28264?security=reality&encryption=none&pbk=ETlf5jYSfWCurnzl9iZ3URUFHWB8_JWWR8jrp2UizVs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=9e7234a45944#[🇫🇮]t.me/ConfigsHub
-vless://7840aa0d-0a95-4be6-a813-cfacb5290391@broodmother.fonixapp.org:55376?security=reality&encryption=none&pbk=eRuDPGgOwmAbFaNZtqzEfgflU4Jaj2MJNYwAQPkp32s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=23f89c#All-@V2ray_Alpha--20
-vless://78414a5a-439f-4150-8fc3-82412cbf4d44@91.98.233.176:42671?type=tcp&security=none#Donald_VPN-19
 vless://78414a5a-439f-4150-8fc3-82412cbf4d44@91.99.179.41:42671?type=tcp&security=none#DoNaLD_VPN14
 vless://7843d0a1-be6f-4b7f-92e2-8040711b434c@89.39.70.58:29300?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=canva.com&pbk=kJzMBU-gwtqNcJx_igad-d891SBXixmCh78WTIRTIQk&sid=5a&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇳🇱@EVAY_VPN
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
@@ -253,3 +249,7 @@ vless://80683c47-3706-406b-83b8-1d3695fb1bfb@128.140.94.109:443?security=reality
 vless://80683c47-3706-406b-83b8-1d3695fb1bfb@128.140.94.109:443?security=reality&encryption=none&pbk=uJqfENqH6w2k1sM4qJo2m_nJMmOo91DCNmsxUhgjpQc&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.ea.com&sid=7b4a5e44&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://8078aaa9-1d36-4a71-bc74-6617d90371af@V2ngFast.huqpmfood.ir:1146?encryption=none&type=xhttp&mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
+vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.16.132.187:80?encryption=none&security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=/?ed=2560#🚬Ch: @pPal03🚬جوین بدید عزیزانم🚬
+vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.24.198.187:80?encryption=none&security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=/?ed=2560#🚬Ch: @pPal03🚬جوین بدید عزیزانم🚬
+vless://80e5d4cd-b4e0-4732-88e0-2bf6cdd60c4b@Content.darkhoursehome.com:9341?security=reality&encryption=none&pbk=ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw&headerType=none&fp=chrome&type=tcp&sni=jetbrains.com&sid=a41949cbc7c41377#r♡ya@V2rayBaaz
+vless://80e5d4cd-b4e0-4732-88e0-2bf6cdd60c4b@dash.nextpushpull.com:2608?security=reality&encryption=none&pbk=ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=a41949cbc7c41377#r♡ya@V2rayBaaz
