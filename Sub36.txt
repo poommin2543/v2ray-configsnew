@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=video.intfreed.ru&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#0
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#@Daily_Configs
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#@V2RAYROZ
@@ -252,4 +253,3 @@ vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?encryption=none&sec
 vless://ca8be316-c8da-4baa-b131-213e67777e15@62.60.204.227:51160/?type=ws&encryption=none&path=/#@Geek_Spot
 vless://ca91e111-2781-4a0f-98f9-c400f9c5de96@151.101.3.8:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-nxcxhses
 vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#@sunflowerplato🌻
-vless://caaea994-1af3-47af-8352-f51c49d4c5c2@istanbul.fonixapp.org:11594?security=reality&encryption=none&pbk=3HEjTRfm4CREo6uPExMNwscXcT00q-zlMocwlhmg2DM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=4f#IR--@V2ray_Alpha-10

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
@@ -252,4 +253,3 @@ vless://344c9272-c35a-4805-8285-e01cb4310b4f@butcher.fonixapp.org:2083?security=
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram ⚡️ v2ray_configs_pools
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🍊 v2ray_configs_pools
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🚀 v2ray_configs_pools
-vless://345a9f16-9f70-4a9e-822d-70f632b6b722@n2vpn.projectis.ir:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=ghbi.ir#@n2vpn+-+کانفیگ+های+اختصاصی
