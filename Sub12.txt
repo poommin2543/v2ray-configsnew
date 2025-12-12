@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771/?sni=dg1.xiaohuolongjc.top#JP
 hy2://@KevinZakarian@kevin.vpny.online:22002/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#⚛️68@oneclickvpnkeys
 hy2://@KevinZakarian@kevin.vpny.online:22002/?insecure=1&sni=kevin.vpny.online&obfs=salamander&obfs-password=KevinZakarian#⚙️77@oneclickvpnkeys
 hy2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763/?insecure=1&sni=bing.com#🇸🇬SG
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzNhY2Y1Zi0wMWUzLTQ0MTktOGI3NS1iZmU1YjA5NzU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzNhY2Y1Zi0wMWUzLTQ0MTktOGI3NS1iZmU1YjA5NzU1OTA@36.141.40.46:15121#🇨🇳台湾
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzNhY2Y1Zi0wMWUzLTQ0MTktOGI3NS1iZmU1YjA5NzU1OTA@36.141.40.46:15131#🇯🇵日本
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzNhY2Y1Zi0wMWUzLTQ0MTktOGI3NS1iZmU1YjA5NzU1OTA@36.141.40.46:15141#🇸🇬新加坡
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzNhY2Y1Zi0wMWUzLTQ0MTktOGI3NS1iZmU1YjA5NzU1OTA@36.141.40.46:15151#🇰🇷韩国

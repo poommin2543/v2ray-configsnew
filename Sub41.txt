@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e5c2e234-333e-48b4-8199-2793a64527bc@77.238.237.179:443?security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=s1-c3r.pages.dev#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://e5e2998b-92ff-4a71-abd2-46548489ac0b@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46182-2
 vless://e5f6a7b8-c9d0-5678-1234-ef0123456789@51.82.89.185:2053?type=tcp&encryption=none&sni=fast.com&fp=chrome&security=reality&pbk=JKL9876543210fedcba9876543210fed#@CaV2ray ⚡️
 vless://e60ac179-ff5e-4c01-88be-1d221cb8e61a@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46177-1
@@ -253,3 +252,4 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/
 vless://ee2a2581-ac81-4a3d-9650-c2f03d6cb3ab@yuae.amiraizo.com:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=e41865e506628f44#@EXPRESSVPN_420 [🇦🇪] ⌁ 𝙐𝘼𝙀
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.245:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#https://t.me/v2raynplus |
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.57:2053?path=/&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#https://t.me/v2raynplus |
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.138:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#https://t.me/v2raynplus |

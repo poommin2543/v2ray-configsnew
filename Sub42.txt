@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.138:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#https://t.me/v2raynplus |
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.77:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#https://t.me/v2raynplus |
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.77:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.208.95:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#https://t.me/v2raynplus |
@@ -253,3 +252,4 @@ vless://f7af49ea-f51f-4c71-9e12-0c2f3085f3b8@216.106.176.106:8443/?type=tcp&encr
 vless://f7af49ea-f51f-4c71-9e12-0c2f3085f3b8@216.106.176.106:8443?security=reality&encryption=none&pbk=NR1UvDvyRqeRmYG1MRf-Ie78a97cmYvI_MAVpmzsexk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=1c588428648ffc71#@V2RAYROZ
 vless://f7af49ea-f51f-4c71-9e12-0c2f3085f3b8@216.106.176.106:8443?security=reality&encryption=none&pbk=NR1UvDvyRqeRmYG1MRf-Ie78a97cmYvI_MAVpmzsexk&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=1c588428648ffc71#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆¹ 🇺🇸
 vless://f7df6c83-e527-4bb2-bae1-ea743edaffcd@141.227.132.199:42817?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#https://t.me/v2raynplus

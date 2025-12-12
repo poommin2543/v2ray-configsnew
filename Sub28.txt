@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?flow=&type=ws&host=picassoo.info&path=/aymdlws&security=tls&sni=picassoo.info&fp=chrome&allowInsecure=0&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#@V2rayNGVPN <= کانفیگ رایگان
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#r♡ya
@@ -253,3 +252,4 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={'headers': {}, 'noGRPCHeader': True, 'xmux': {'maxConnections': '6'}}&insecure=0&host=statue.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#limo
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={'headers': {}, 'noGRPCHeader': True, 'xmux': {'maxConnections': '6'}}&insecure=0&host=statue.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#🇩🇪
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={'headers': {}, 'noGRPCHeader': True, 'xmux': {'maxConnections': '8'}}&host=statue.lnmarketplace.net&fp=chrome&type=xhttp&sni=statue.lnmarketplace.net#⚡️ 𝐈𝐑𝐂𝐏 | @Ln2Ray
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={'headers': {}, 'noGRPCHeader': True, 'xmux': {'maxConnections': '8'}}&host=statue.lnmarketplace.net&fp=chrome&type=xhttp&sni=statue.lnmarketplace.net#🇩🇪@azadiiivpn

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-2000%20%7C%20free-nodes
 trojan://76d630f2af6619c4a5de0ef953df3c6a@13.231.220.185:3145?allowInsecure=0&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-2001%20%7C%20free-nodes
 trojan://BxceQaOe@58.152.30.120:443?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-2002%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-2003%20%7C%20free-nodes
@@ -253,3 +252,4 @@ hy2://8da5616c-8566-11ee-9a21-f23c9164ca5d@60a7e15e-t6pb40-t7r6w5-1ppvf.hk1.hyhu
 hy2://8f43835e-10b3-4744-915c-cecb33ee7ff2@[2604:6600:2000:c::3f]:443/?mport=45000-46000&insecure=1#⚛️62@oneclickvpnkeys
 hy2://8f7cb770-1305-11ee-b107-f23c91cfbbc9@96052821-t53wg0-t51bp0-1nyy5.hk1.hyhuawei.com:443/?mport=30000-60000&insecure=1&sni=96052821-t53wg0-t51bp0-1nyy5.hk1.hyhuawei.com#⚛️91@oneclickvpnkeys
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
+hy2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771/?sni=dg1.xiaohuolongjc.top#JP

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://13f395b3-5d40-43f9-bd94-55feaae1fa70@ezalor.fonixapp.org:443?security=reality&encryption=none&pbk=KQ2kgnnjTCTNaHRBYu7-qmT9GnWefrPm3L67JrOw9wA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=d1.awsstatic.com&sid=1d62#@V2RAYROZ
 vless://13f395b3-5d40-43f9-bd94-55feaae1fa70@ezalor.fonixapp.org:443?security=reality&encryption=none&pbk=KQ2kgnnjTCTNaHRBYu7-qmT9GnWefrPm3L67JrOw9wA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=d1.awsstatic.com&sid=1d62#All-@V2rayAlpha--12
 vless://13f395b3-5d40-43f9-bd94-55feaae1fa70@ezalor.fonixapp.org:443?security=reality&encryption=none&pbk=KQ2kgnnjTCTNaHRBYu7-qmT9GnWefrPm3L67JrOw9wA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=d1.awsstatic.com&sid=1d62#🇩🇪@FreakConfig
 vless://140ae345-e7b8-49f5-8920-85f82085344e@37.120.191.120:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=3b#🇩🇪 | @External_Net
@@ -253,3 +252,4 @@ vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?secu
 vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#⚡ @Fast78_Channel | Best Free Configs
 vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#🇩🇪@FreakConfig
 vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&fp=chrome&spx=/TELEGRAM--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#🇩🇪All⁴ | @JKVPN
+vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=none&encryption=none&headerType=none&type=tcp#All-@V2ray_Alpha--32
