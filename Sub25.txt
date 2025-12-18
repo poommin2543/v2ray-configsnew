@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=usa32.clearorbitllc.com&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&sid=c7f3cc&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸 @EVAY_VPN
 vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=usa32.clearorbitllc.com&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&sid=c7f3cc&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸@Evay_vpn
 vless://9db844bd-2c67-43bf-9381-553dffb259fd@62.60.220.115:80?mode=auto&path=/&security=none&encryption=none&host=62.60.220.115&type=xhttp#@CaV2ray ⚡️
@@ -253,3 +252,4 @@ vless://TELEGRAM-CONFiGLiNE-55@151.101.67.8:80?mode=auto&path=/telegram-CONFiGLi
 vless://TELEGRAM-CONFiGLiNE-57@134.209.234.100:31014?security=none&encryption=none&host=p30download.ir&headerType=http&type=tcp#[🇩🇪]@configLINE(4)
 vless://TELEGRAM-CONFiGLiNE-57@151.101.67.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=azaiji3.global.ssl.fastly.net&type=xhttp#[🇩🇪]@configLINE
 vless://TELEGRAM-CONFiGLiNE-58@151.101.67.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=azaiji2.global.ssl.fastly.net&type=xhttp#[🇩🇪]@configLINE(2)
+vless://TELEGRAM-CONFiGLiNE-58@151.101.67.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=azaiji2.global.ssl.fastly.net&type=xhttp#✅ @prrofile_purple (تلگرام)

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#@MARAMBASHI 🇫🇷
 ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#All-@V2rayAlpha--0
 ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ@45.140.169.26:30102#NewYork PAC
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.12.77:30398#HongKong
@@ -253,3 +252,4 @@ trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tl
 trojan://tunnel-v2ray_configs_pools_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇺🇸
 trojan://tunnel-v2ray_configs_pools_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇦🇪
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨13@oneclickvpnkeys
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_9--@V2rayAlpha
