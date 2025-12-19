@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.utexas.edu#All-@V2ray_Alpha--26
 vless://4e66694c-24a5-4176-9bb3-42f1f2de5040@2.59.162.190:41545?security=reality&encryption=none&pbk=u1LI2HYIt_6QVVhlRXDvD-tqYHDXB1RfcpqbTTfxTUQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=37e32b2df528fba1#azadiiivpn
 vless://4e6d38dc-c5c4-4dd6-84b9-6dff5f6837c7@clinkz.fonixapp.org:42783?security=reality&encryption=none&pbk=_tS59sZPNLteaD8lXkqEOWmqYJkEMqP1zltupMsfm34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=42042690#All-@V2ray_Alpha--24
 vless://4e860869-8ca7-46cb-9460-7b15abbea4f2@46.101.128.96:443?mode=gun&security=none&encryption=none&type=grpc#(@vmesskhodam)
@@ -253,3 +252,4 @@ vless://5815b555-9907-45ae-94f2-e0c0af7860e3@134.209.31.137:443/?type=ws&encrypt
 vless://5815b555-9907-45ae-94f2-e0c0af7860e3@134.209.31.137:443/?type=ws&encryption=none&flow=&path=/nyslkrws&security=tls&sni=www.vk.com&allowInsecure=1#🔶9@oneclickvpnkeys
 vless://584bb6f2-aaf3-48a6-b154-b03238bb1e07@v2hich.fast.hosting-ip.com:80?path=/@SvnProBot?ed=2560&security=none&encryption=none&host=shad.ir&type=ws#@CaV2ray ⚡️
 vless://587245bd-4c11-41c2-84d5-a0dfd04f5661@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
+vless://587245bd-4c11-41c2-84d5-a0dfd04f5661@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#All_10--@V2rayAlpha

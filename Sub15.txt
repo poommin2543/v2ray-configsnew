@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://38021ff2-6778-4363-92b1-d70ac11acf51@www.speedtest.net:2096?path=/&security=tls&encryption=none&insecure=0&host=svsfes.hatlikarious.org&type=ws&allowInsecure=0&sni=svsfes.hatlikarious.org#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://38021ff2-6778-4363-92b1-d70ac11acf51@www.speedtest.net:2096?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=svsfes.hatlikarious.org#Channel : @Mrsoulb 🏴🏳
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#https://t.me/v2raynplus |
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@NIM_VPN_ir
@@ -253,3 +252,4 @@ vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?path=/Join----
 vless://40b1c6e0-01d3-4bb7-99b4-4e92b70534eb@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#دیگه+به+فیلترشکن+پولی+نده+@ConfigFree
 vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=4b8f669536c45c2b#@V2ray1_Ng
 vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=4b8f669536c45c2b#@MARAMBASHI 💙
+vless://40bbf4bd-a66a-4a01-9e72-2fd3eff6e875@104.19.118.80:2083?type=ws&path=/&host=&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=cdn-zxp.zantrix.shop#✅@v2ray_configs_pools

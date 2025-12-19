@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Bdj2W.Z0=UaM1IYzhO5TR76Jx@192.248.187.65:15505?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#All_7--@V2rayAlpha
 trojan://Bdj2W.Z0=UaM1IYzhO5TR76Jx@192.248.187.65:15505?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_11--@V2rayAlpha
 trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@108.61.123.140:25075/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨49@oneclickvpnkeys
 trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨31@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://015e00a0-05c0-4476-fbed-4d1adc69e054@172.67.146.171:2095?path=/@XpnTeam/
 vless://015e00a0-05c0-4476-fbed-4d1adc69e054@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-ka21yyzn
 vless://015e00a0-05c0-4476-fbed-4d1adc69e054@zula.ir:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@bored_vpn
 vless://015e00a0-05c0-4476-fbed-4d1adc69e054@zula.ir:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@mehrosaboran
+vless://0166cc9f-f7d0-4225-8dd8-3f2d512f8824@graygoat.fonixapp.org:2083?security=reality&encryption=none&pbk=Nt8aT_cKoHYHQWkoAjVgQG3SIsU70hd2nMnVq7pTDzw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients2.google.com&sid=95edb96d#All--@V2rayAlpha-11
