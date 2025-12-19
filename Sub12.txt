@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://23f88d32-aa7c-4adf-ae31-9358ea8efa09@66.81.247.203:443?path=/kardel&security=tls&encryption=none&host=wkjhf.bull-sai.info&fp=chrome&type=ws&sni=wkjhf.bull-sai.info#All-@V2ray_Alpha--22
+vless://23f96539-43d3-44ba-a404-3de502c354e0@deusup.dashping1.ir:8101?security=reality&encryption=none&pbk=DG2WqjfT9HFqCfHzaYAVNEayiJN8yGQ64YT9-9eV5Fs&fp=chrome&sni=preview.redd.it&sid=bbddcffa7270&spx=/F------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---&flow=xtls-rprx-vision#کانفیگ+ویژه+رایگان+و+اختصاصی+فروشی+🇮🇷🇩🇪🇫🇮🇺🇸+@RayphoriaHub
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?encryption=none&security=none&type=xhttp&host=jetfr228.global.ssl.fastly.net&path=/&mode=auto#@Daily_Configs
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?encryption=none&security=none&type=xhttp&host=jetfr228.global.ssl.fastly.net&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&mode=auto#@Daily_Configs
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -251,5 +253,3 @@ vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&
 vless://2b511073-5c26-4233-a3cc-a69b50a5faf1@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#با+سرعت+نور+وصل+باش+@ConfigFree
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=/uefsanws&security=tls&sni=ads.x5.ru&allowInsecure=1#✅58@oneclickvpnkeys
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=/uefsanws&security=tls&sni=ads.x5.ru&allowInsecure=1#🎨8@oneclickvpnkeys
-vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=/uefsanws&security=tls&sni=ads.x5.ru&allowInsecure=1&note=@freeOnlineVPN#🇫🇷 - FR - @freeOnlineVPN
-vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=/uefsanws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru#@Daily_Configs
