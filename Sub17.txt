@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#⛄74@oneclickvpnkeys
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@Daily_Configs
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸@FreakConfig
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.169:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@Daily_Configs
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.169:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸@FreakConfig
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#⛄69@oneclickvpnkeys
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@VPNSupportGroup
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#All_32--@V2rayAlpha
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸@FreakConfig
@@ -253,3 +247,9 @@ vless://50897f87-f946-41f8-a709-48c3e588686f@tr.gpairnetwork369.de:3060?encrypti
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?mode=auto&path=/dashboard?ed=#TELEGRAM-v2ray_configs_pools?ed=512&security=none&encryption=none&host=goat.postpapet.ir&type=xhttp#@HiByeVPNN❤️‍🔥⚡
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl.dornagamesco.ir:80?encryption=none&security=none&type=xhttp&host=r.flyw.ir&path=/?@v2ray_configs_pools----%v2ray_configs_pools&mode=auto&extra={"xPaddingBytes":"100-1000"}#@v2ray_configs_pools🟢کانفیگ های بیشتر برای تمام نت ها
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:13136?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#@v2ray_configs_pools❤️‍🔥⚡
+vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxfr171.global.ssl.fastly.net&path=/?ed=2560&mode=auto#@Daily_Configs
+vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#@MARAMBASHI 🇬🇧
+vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#[🇫🇷]t.me/ConfigsHub
+vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#⚡ @Fast78_Chann
+vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#⚡ @Fast78_Channel | Best Free Configs
