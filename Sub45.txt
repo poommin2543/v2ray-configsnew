@@ -3,61 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://e6b506e9-2d37-40cb-aff9-35678d0e6c69@amin.karkas1.ir:443?mode=gun&amp%3Bsecurity=tls&amp%3Btype=grpc&amp%3BserviceName=6vuNVgOFnqUEvj0rcXIcStL&amp%3Bsni=amin.karkas1.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40xrayzxn
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&amp%3Bsecurity=tls&amp%3Balpn=http%2F1.1&amp%3Bfp=safari&amp%3Btype=grpc&amp%3BserviceName=6vuNVgOFnqUEvj0rcXIcStL&amp%3Bsni=amin.karkas1.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40xrayzxn
-vless://00c6043f-a2c6-4b15-bd30-344378f0e5da@146.70.158.111:443?security=reality&amp%3Bencryption=none&amp%3Balpn=h2&amp%3Bpbk=dgepztJbOmZaaP3xQX6K3fozDsrTL7a60w1SjN4jBTw&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=equal-eyes.org&amp%3Bsid=e120bf2fd2d7453b#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40xrayzxn
-vless://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2FEJUVVd6sh0f9J6dsNkGkxxW7&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=http%2F1.1&amp%3Bhost=amin.karkas1.ir&amp%3Bfp=safari&amp%3Btype=ws&amp%3Bsni=amin.karkas1.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40xrayzxn
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&amp%3Bsecurity=tls&amp%3Balpn=h2&amp%3Bhost=amin.karkas1.ir&amp%3Bfp=safari&amp%3Btype=ws&amp%3Bsni=amin.karkas1.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40xrayzxn
-vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2&amp%3Bfp=safari&amp%3Btype=grpc&amp%3BserviceName=EJUVVd6sh0f9J6drcXIcStL&amp%3Bsni=amin.karkas1.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40xrayzxn
-vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.poshtibani.4b3a.com:23410?security=none&amp%3Bencryption=none&amp%3Bhost=fonts.gstatic.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40xsv2ray
-vmess://eyJhZGQiOiJpcnBubC5qYW5lYnguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTIzZDhkNzgtNDExYS00ODQ5LWIxN2YtY2NmZjZiY2JmNTY0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDQiLCJwcyI6IvCfh73wn4e9IFhYIHwgVk1FU1MgfCBAeHN2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?path=%2F&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=ws&amp%3Bsni=nv73.momdping.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40xsv2ray
-vmess://eyJhZGQiOiJ0ZWhyYW4tc21zLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI3ZjAzNGUwYi0wZDNmLTQ5NjEtOTJkNi0xYjRiZGJmM2NiMTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvY29ubmVjdC9kZS8/ZWQ9MTAyNC8/Sk9LRVJSVlBOIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HvfCfh70gWFggfCBWTUVTUyB8IEB4c3YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6InBrZ2J1aWxkLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&amp%3Bpath=%2Fpath&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bextra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&amp%3Bhost=Demon02.global.ssl.fastly.net&amp%3Btype=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40xsv2ray
-vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&amp%3Bencryption=none&amp%3Bhost=fast.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40xsv2ray
-vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&amp%3Bencryption=none&amp%3Bpbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&amp%3Bfp=chrome&amp%3Bspx=%2F&amp%3Btype=tcp&amp%3Bsni=yahoo.com&amp%3Bsid=f2#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40xsv2ray
-vmess://eyJhZGQiOiJiYWF3ZnR2YmguNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnhxbWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/MSB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJmcmFybWJjLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J4cm1pYW8iLCJwb3J0IjoyMDUyLCJwcyI6IuW3tOilvzIgfCAwLjN4XzEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
-
-vmess://eyJhZGQiOiJmcmFybWJjLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J4cm1pYW8iLCJwb3J0IjoyMDUyLCJwcyI6IuW3tOilvzIgfCAwLjN4XzIiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
-
-vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVmOWM3YmRhLTMzZjktM2RkMC1iY2Y1LWFjYTMyNDQxOGUzMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ieHNtaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb8zIHwgMC4zeF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-
-vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVhZWZjYjY0LTI3NzYtMzcwNi1iOTYzLWExOWEyNDMzNzU1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ieHNtaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb8zIHwgMC4zeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-
-vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJiYXh3YWJlLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2F1YnZlcmZzZyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NSB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJiYXh3YWJlLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2F1YnZlcmZzZyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NSB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJiYXh3YXJmcmV5Ljc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J4dGttaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb82IHwgMC4zeF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-
-vmess://eyJhZGQiOiJiYXh3YXJmcmV5Ljc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J4dGttaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb82IHwgMC4zeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-
-vmess://eyJhZGQiOiJieGF3ZGJ3ZHR5aGpzZ2QuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2VpZmJpYmdlZiIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NyB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJieGF3ZGJ3ZHR5aGpzZ2QuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2VpZmJpYmdlZiIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NyB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJiYXdmZXdid2Fnci43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVmOWM3YmRhLTMzZjktM2RkMC1iY2Y1LWFjYTMyNDQxOGUzMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9tYXdkdXZnZGRnIiwicG9ydCI6MjA4NiwicHMiOiLlt7Topb84IHwgMC4zeF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-
 vmess://eyJhZGQiOiJiYXdmZXdid2Fnci43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVhZWZjYjY0LTI3NzYtMzcwNi1iOTYzLWExOWEyNDMzNzU1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9tYXdkdXZnZGRnIiwicG9ydCI6MjA4NiwicHMiOiLlt7Topb84IHwgMC4zeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 
 
@@ -253,3 +198,58 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 همراه اولvmess://eyJhZGQiOiJ1cy0xLmZyZWUueXVqaTIwMjIuZ3EiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsIm5ldCI6IndzIiwicGF0aCI6Ii92QWFtYmo0RGdYcnM1c2ZDRnB0TWsiLCJwb3J0IjoiODg4MCIsInBzIjoi2KLZhdix24zaqdinIEB2MnJheU5HX1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiJoYWxlc2hvYmViYXIuZHJlYW15ZGF5c2FyZWNvbWluZy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjY5MmVmM2RlLTY1Y2MtNDMxZC1mZGIzLTg0ZGI0ZmI0NDdjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIxNTIyIiwicHMiOiJjb21lYmFja1hW8J+RkVJheWVnYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
+اینم افزونه Xray Plugin مخصوص همین برنامه ماتسوری هست که اینم حتمن باید نصب کنید تا سرورهای خاصی مثه vless براتون کار کنه@v2rayNG_VPN
+
+
+همراه اول/سرورvlessافزونه Xray حتمن باید نصب و توی برنامه ماتسوری فعالش کرده باشید،وگرنه کار نمیکنهسرعت دانلود وآپلودی خیلی خوبی دارهvless://30fa6fab-661a-490c-bbc5-06e2f3a9826e@www.speedtest.net:443/?encryption=none&type=ws&host=free.kiava.workers.dev&path=%2Fadws&security=tls&sni=free.kiava.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%0A%40v2rayNG_VPN@v2rayNG_VPN
+
+
+اگه این نسخه از افزونه براتون نصب نشد،احتمالا با معماری گوشیتون متفاوته؛به سایت و گیت هاب خود ماتسوری به نشانی:https://github.com/MatsuriDayo/plugins/releases?q=xray میرید واز بخش Assets یا همون منابع برنامه،اونو دانلود میکنید.@v2rayNG_VPN
+
+سرورvmess/پاریسدانلود و آپلود عالیمخصوص همراه اولاندروید بزنامه ماتسوری،ویندوز برنامه نکورِی متصل بشیدvmess://eyJhZGQiOiJ3d3cuY29kZXBlbi5pbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImZyLXYuc3NobWF4Lnh5eiIsImlkIjoiNmUwNTM4ZGYtMTg1ZS00MDY3LWI2MmEtMzhlMTJlY2I5MzYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoi2b7Yp9ix24zYs1xuQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6ImZyLXYuc3NobWF4Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
+سرورvmess/فرانسهبجز همراه اولvmess://eyJhZGQiOiI1MS43Ny4yMTUuNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJibWkuaXIgVC5tZS9zMDAxM19PZmZpY2lhbCIsImlkIjoiNTA3ZTk4YWUtNzkyMi00NzU2LWM5NTMtMzRlNWM1NzNkZGE0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDA4NDYiLCJwcyI6ItmB2LHYp9mG2LPZhyAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
+همراه اول/سرورvless افزونه Xray حتمن باید نصب و توی برنامه ماتسوری فعالش کرده باشید،وگرنه کار نمیکنه سرعت دانلود وآپلودی خیلی خوبی داره  vless://30fa6fab-661a-490c-bbc5-06e2f3a9826e@www.speedtest.net:443/?encryption=none&type=ws&host=free.kiava.workers.de…
+
+
+سرور دوم vless://be415cc1-d35d-4302-9ddc-568fb2463e2b@www.speedtest.net:443/?encryption=none&type=ws&host=vip2.kiava.workers.dev&path=%2Fkiava&security=tls&sni=vip2.kiava.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%B2%0A%40v2rayNG_VPN@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiJpY29vay5oayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IjJ3b2lkLndlaWdvZ29nby5jZiIsImlkIjoiM2ViMDVjYjYtZDJlMS00YTMxLTlmODItNTE0Y2ZhOThmZTE1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6Itii2YTZhdin2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
+
+
+آمریکاهمراه اول ❌trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/?type=tcp&security=tls#%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%0A%40v2rayNG_VPN@v2rayNG_VPN
+
+ایرانسلvmess://eyJhZGQiOiI0NS44NS4xMTkuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJoc3RyMTY3NTUyMDEwNjI3MC5haWRhcHAubGlmZSIsImlkIjoiZWUzMGQzZmYtZGExNC00ZWE4LWJjZDItMDJlOGVlMzY2N2RlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpZGFwcC5saWZldndzIiwicG9ydCI6IjQ0MyIsInBzIjoi2KLZhNmF2KfZhlxuQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6ImhzdHIxNjc1NTIwMTA2MjcwLmFpZGFwcC5saWZlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
+
+
+هلند/ایرانسلvmess://eyJhZGQiOiIxODUuMTYyLjIzNS4yNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZmMTE3YWY0LWNkNTItNDBmOC05MjM2LTdjNWUzZjM1N2NjOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zb2NrZXQuaW8iLCJwb3J0IjoiMjA1NCIsInBzIjoi2YfZhNmG2K8o2KfbjNix2KfZhtiz2YQpXG5AdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
+
+
+ایرانسلآمریکاvmess://eyJhZGQiOiIyMDMuMjguOS4yMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImlyYW4tdmlwLm9wZW5zc3RwY2xpZW50Ym90LndvcmtlcnMuZGV2IiwiaWQiOiI0NGNlYjM4OS00Y2VhLTRlYTEtZWVmOS0xMWNlNmYzZWZmZTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXMxLndhbnd1c2hlbmcubWUvIiwicG9ydCI6IjQ0MyIsInBzIjoi2KLZhdix24zaqdinXG5AdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiaXJhbi12aXAub3BlbnNzdHBjbGllbnRib3Qud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==انگلیسvmess://eyJhZGQiOiI0NS44NS4xMTkuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJhMy5pcmFuaWFuY3AuZnVuIiwiaWQiOiI3MmY3NmMzNi0zZTNjLTQ1YjMtYTYxZi1kOGYwMTczNDU5NTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6Itin2Ybar9mE24zYs1xu4oS577iPIEBmYXN0X3NzIiwic2N5IjoiYXV0byIsInNuaSI6ImEzLmlyYW5pYW5jcC5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+ایرلندvmess://eyJhZGQiOiIzNC4yNDUuMTQ5Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMTExMSIsInBzIjoi2KfbjNix2YTZhtivXG5AdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9اگه متصل نشد تنظیمات برنامه ای که استفاده می‌کنید Fake DNS فعال کنید.@v2rayNG_VPN
+
+
+ایرانسلvmess://eyJhZGQiOiI0NS44NS4xMTkuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJhMy5pcmFuaWFuY3AuZnVuIiwiaWQiOiI3MmY3NmMzNi0zZTNjLTQ1YjMtYTYxZi1kOGYwMTczNDU5NTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6Itin2Ybar9mE24zYs1xuQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6ImEzLmlyYW5pYW5jcC5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+
+
+همراه اول و ایرانسلvless://bd54c09a-969a-4c83-d5cc-1c58355ef681@s12.digitalcity01.sbs:55979/?encryption=none&type=tcp&headerType=http&host=alibaba.ir#%D8%A2%D9%84%D9%85%D8%A7%D9%86%0A%40v2rayNG_VPN@v2rayNG_VPN
+
+
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20790#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BDtrojan://182228812d1e0f23@60.249.3.229:3389#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BEtrojan://36fe28a331638747@60.249.3.226:3389#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BEtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
+
+trojan://origin@content-provider26.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider5.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider24.cdn-delivery.akamaicd.com:443#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0trojan://origin@51.77.71.134:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
+
+⛳️ New Server|🇨🇦|ar-trojan://zPpJHO23ws2rYPh102xWv9D6SGGwv5GxlIklVORjbEtUvXJemqU8coZJqZfJ0b76n/p1nVB04mK8uwfGbN94f+MAdx8GqUYcHbM+RUi35Z2Ca+I/zc2Rv0EOqKB+YKv20pKriod9OoJ0AktE1mg7ugsWGqf7+SsVDUDrIe8ZN/m0fZ442QA+OIbWsXK3GWtEca3xmu9o67Yktkboqr0EHg==⛳️New Server|🇨🇦|trojan://784d5c1f-69d8-4967-bc61-426983744ee5@t2.google.bforward2.uk:443?sni=t2.google.bforward2.uk#t.me%2Fkutoproxy%F0%9F%87%A8%F0%9F%87%A6⛳️New server|🇨🇦|vless://0f5952a5-56f4-435b-8688-91661295a445@bforward2.samsung.sony.yahoo.samsung.cloudflare.lg.nokia.android.bforward.uk:8080?path=%2F&security=none&encryption=none&type=ws#t.me%2Fkutoproxy%F0%9F%87%A8%F0%9F%87%A6⛳️New Server|🇨🇦|ar-vless://LTPVLqAhlbLPa/3Qtmn9Wxqizq+osggE+Q3D+WxZ7wT5LlM4onGLtjNMg2aAsVhxOe9AyN8OqEqz2t+Ph6ytP+h2zK3ZqhIXN/BsYOAEbKKXRT7oWF1rr2xiOLtyzn07K+TJUJTKHrVnzNYQmxlKHlNR6zhoFSoIgu6R3aX/j4SKI6Ark4ESeLRwYN54wDrb2Pchu0s+NnlBUFD9Q1QZsuTCW2v3wXKdX1obmlTeatyI+YK6x5PHz/t+qlATb2BM1bLnpFPa5f732+O1jwcxZGb6RI3nFMjj8jdda419ZMU=------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
