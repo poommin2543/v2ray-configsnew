@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bf42a400-1cbd-49a8-a7d6-97844b33d3a0@maxa09.gatesrev.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#⚡ @Fast78_Channel | Best Free Configs
 vless://bf42a400-1cbd-49a8-a7d6-97844b33d3a0@maxa15.gatesrev.ir:8080?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chatgpt.com&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#Channel :@vmessorg
 vless://bf42a400-1cbd-49a8-a7d6-97844b33d3a0@maxa15.gatesrev.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#@Broz_time+>+کانفیگ+رایگان
 vless://bf42a400-1cbd-49a8-a7d6-97844b33d3a0@maxa15.gatesrev.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#@vmesskhodam
@@ -252,4 +253,3 @@ vless://c89524f0-29de-415a-ef48-908b837c6ed3@151.101.3.8:80?type=xhttp&encryptio
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@NLpizza.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
-vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️

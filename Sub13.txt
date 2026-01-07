@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://20b898ac-a156-41ee-be1c-34fa8fc88487@lifestealer.fonixapp.org:2083?security=reality&encryption=none&pbk=ILR40ZmA56RadPtGy0UJmrSPva5Viapz65j-hrS25D8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=configuration.apple.com&sid=173c58#All--@V2rayAlpha-21
 vless://20cf1bfb-c5ad-4a5f-85bf-ec14e89b1406@day.mtpmio.com:443?security=reality&encryption=none&pbk=KrOQ6UIhM_AXIEJZ31FsIXRbtN7TtFBykqmnnFECkEM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=1d72e9f5ba#telegram 🎯 v2ray_configs_pools
 vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&encryption=none&pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#All--@V2rayAlpha-2
 vless://20eb2d5d-10ba-485d-b4c5-3ff2b8168225@78.47.216.178:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
@@ -252,4 +253,3 @@ vless://2943e165-f8ce-4bb5-9084-e2bcf11443d5@84.201.164.23:443?security=reality&
 vless://295139fa-0631-4448-adb1-d5f72d3dae41@95.179.252.255:22859?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs ☄️
 vless://296df966-1e6c-4a42-b089-7bec1ef3a820@213.176.19.149:443/?type=tcp&encryption=none&flow=&security=tls&sni=ru5.fastlanehosting.ru&alpn=h2,http/1.1&fp=chrome#11♾️@oneclickvpnkeys
 vless://297128e9-5422-486e-9232-046b4952de1a@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=DIFferENt-PArtY.ONEEaT.cO&type=ws#telegram 🌺 v2ray_configs_pools
-vless://297ae8b5-dacd-4dee-b045-b578c0a0dcf6@141.227.160.163:25531?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#✅ @prrofile_purple (تلگرام)

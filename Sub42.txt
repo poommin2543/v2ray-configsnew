@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Telegram%40V2rayAlpha&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=sni.111000.de5.net&amp%3Btype=ws&amp%3Bsni=sni.111000.de5.net#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40outline_ir
 vless://77371595-b7aa-472a-9d61-e9731861af07@300.shecanmarket.com:8443?security=none&amp%3Bencryption=none&amp%3Bhost=head.shecanMarket.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40outline_ir
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=sni.111000.de5.net&amp%3Btype=ws&amp%3Bsni=sni.111000.de5.net#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40outline_ir
 vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@www.perplexity.ai:80?path=%2F&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40outline_ir
@@ -252,4 +253,3 @@ vless://turboo-server@turboo-server.sadafspace.com:80?path=%2Fed%3D2560&amp%3Bse
 vless://turboo-server@167.235.30.202:6200?path=%2Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40turboo_server
 vless://turboo-server@85.133.206.34:6200?path=%2Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40turboo_server
 vless://turboo-server@167.235.30.202:6200?path=%252%E2%80%A6%3C%2Fdiv%3E#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40turboo_server
-vless://turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=turboo-server.io&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40turboo_server

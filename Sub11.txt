@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#@V2rayNGVPN <= کانفیگ رایگان
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net&note=@freeOnlineVPN#🇺🇸 - US - @freeOnlineVPN
@@ -252,4 +253,3 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=/?ed=2560&Te
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#@V2rayNGVPN <= کانفیگ رایگان
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#[⚡] ➠ @V2ray_official
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#✅سرورها بیشتردرکانال:prrofile_purple@✅
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#🇩🇪@FreakConfig
