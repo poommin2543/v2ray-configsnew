@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=node.chandplus.com#@Maznet-46206-4
-vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=node.chandplus.com#@Maznet-46207-3
 vless://18a6bad2-7354-4366-ba8b-e4ab3009d39e@free12.shomboli.blog:443?security=reality&encryption=none&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&headerType=none&fp=chrome&type=tcp&sni=p30afzar.com&sid=e3c5c005cae07eb7#@Selinc
 vless://18ee1094-fc1a-4b8c-942b-1d8da3db6ca6@146.75.119.82:80?mode=auto&path=/ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=zedimodi.global.ssl.fastly.net&type=xhttp#@V2ray_confing33
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#All-@V2rayAlpha--5
@@ -253,3 +251,5 @@ vless://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:443?encryption
 vless://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:444?encryption=none&type=xhttp&path=/api/v1/&security=reality&fp=chrome&sni=usa141.luckerusa.org&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&spx=/sinavm#🇺🇸@SiNAVM کانال تلگرامی
 vless://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:8443?encryption=none&type=grpc&mode=gun&serviceName=grpc-vless&security=tls&sni=usa141.luckerusa.org&alpn=h2#🇺🇸@SiNAVM کانال تلگرامی
 vless://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:8443?encryption=none&type=ws&host=usa141.luckerusa.org&path=/ws-vless/&security=tls&sni=usa141.luckerusa.org&alpn=h2#🇺🇸@SiNAVM کانال تلگرامی
+vless://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:8443?encryption=none&type=xhttp&path=/api/v1/&security=tls&sni=usa141.luckerusa.org&alpn=h2#🇺🇸@SiNAVM کانال تلگرامی
+vless://248a9dbc-9eee-4698-88c2-7ac90aa0edda@apple.land200.netmeli.com:51921?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#All-@V2rayAlpha--18
