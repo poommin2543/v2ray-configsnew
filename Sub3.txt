@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
-trojan://5a2c16f9@188.244.122.238:2096?sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
-trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
-trojan://5a2c16f9@192.142.4.33:8443?sni=snippets.kkii.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF8
-trojan://5a2c16f9@130.162.130.105:443?sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD7
-trojan://5a2c16f9@5.223.47.32:443?sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD8
 trojan://5a2c16f9@31.192.238.71:2053?sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEiLCJhZGQiOiJmYXBlbmcub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZmFwZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiZmFwZW5nLm9yZyIsInRlc3RfbmFtZSI6IjExIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIgMTguM01CL3MiLCJhZGQiOiI5MS4xMDcuMTUxLjMwIiwicG9ydCI6IjMyMTU2IiwiaWQiOiI1NmRlOGU0My05ZjE5LTQ5ZmQtYTM5NC02MzU3OTBkOGE3MGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMiJ9
@@ -253,3 +247,9 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 hysteria2://asrnovin_ir:bOcrQtyDyOqni0aedDaNFgUngcckVy5m@89.208.104.13:2097?security=tls&obfs=salamander&obfs-password=SjSQ10UvLYEztFdQKTJQFA8imEc4W&insecure=1&pinSHA256=5A:F9:94:B2:6F:EE:3E:6C:0F:1B:B7:02:B8:1F:21:70:4C:4F:A3:23:C9:E3:9E:8B:1B:55:28:97:0F:AE:65:C0&sni=bts.com#[🚀] ➠ @V2ray_official 👈 سرورهای بیشتر
 hysteria2://asrnovin_ir:bOcrQtyDyOqni0aedDaNFgUngcckVy5m@89.208.104.13:2097?security=tls&obfs=salamander&obfs-password=SjSQ10UvLYEztFdQKTJQFA8imEc4W&insecure=1&pinSHA256=5A:F9:94:B2:6F:EE:3E:6C:0F:1B:B7:02:B8:1F:21:70:4C:4F:A3:23:C9:E3:9E:8B:1B:55:28:97:0F:AE:65:C0&sni=bts.com#🇳🇱@FreakConfig
+hysteria2://asrnovin_ir:bOcrQtyDyOqni0aedDaNFgUngcckVy5m@[2a0b:4140:d3a3::2]:2097?security=tls&obfs=salamander&obfs-password=SjSQ10UvLYEztFdQKTJQFA8imEc4W&insecure=1&pinSHA256=5A:F9:94:B2:6F:EE:3E:6C:0F:1B:B7:02:B8:1F:21:70:4C:4F:A3:23:C9:E3:9E:8B:1B:55:28:97:0F:AE:65:C0&sni=bts.com#[🚀] ➠ @V2ray_official 👈 سرورهای بیشتر
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.231.121:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.231.121:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#♂️61@oneclickvpnkeys
