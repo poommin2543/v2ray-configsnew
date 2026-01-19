@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#⚜️Telegram:@YamYamProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#⚜️Telegram:@YamYamProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OWZhNTU0MWQxZDljY2Nl@141.95.104.30:11201#⚜️Telegram:@YamYamProxy
@@ -252,4 +253,3 @@ vless://1d868010-64bb-4f38-8f9e-0affe9ed64bf@151.101.194.228:80?path=/download&s
 vless://1e8df70c-49b8-49b0-c14d-054bd48c9b45@www.speedtest.net:8880?path=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM?ed=2048&security=none&encryption=none&host=www.speedtest.net.yas-nowin.ir&type=httpupgrade#Telegram : @VPN_ROOM 🇩🇪
 vless://1e9fe9f0-0954-4d17-80c3-fe824b49f689@78.159.247.136:3443?security=reality&encryption=none&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d16801fe66c1c538#All-@V2rayAlpha--26
 vless://1e9fe9f0-0954-4d17-80c3-fe824b49f689@78.159.247.136:3443?security=reality&encryption=none&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d16801fe66c1c538#🇫🇮 | @External_Net
-vless://1f15e342-9be9-47b1-9666-3d169da1bd27@ip6-free.shakhle.ir:55566?security=none&encryption=none&host=w3.com&headerType=http&type=tcp#All--@V2rayAlpha-16
