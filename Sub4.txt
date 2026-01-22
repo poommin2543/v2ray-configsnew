@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2-TG-LomesNet@162.159.152.4:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=gotohell.waruntilvictory.xyz&fp=chrome&type=ws&sni=gotohell.waruntilvictory.xyz#@Capoit
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@162.159.152.4:443?path=/eyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&encryption=none&insecure=0&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&allowInsecure=0&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#✅سرورها بیشتردرکانال:prrofile_purple@✅
 vless://20d41fce-f96c-4f0e-9111-5c911369f4e5@104.18.32.47:443?path=/&security=tls&encryption=none&insecure=0&host=cellt.parhamm1.ir&fp=chrome&type=ws&allowInsecure=0&sni=cell.parhamm1.ir#@V2ray_Alpha--10
 vless://20d41fce-f96c-4f0e-9111-5c911369f4e5@162.159.152.4:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=cellf.parhamm1.ir&sni=cell.parhamm1.ir&fp=chrome&alpn=h3,h2,http/1.1#@YamYamProxy
@@ -252,4 +253,3 @@ vless://6e8d6b76-c3ff-4cdc-aa9c-be6731789b76@chatgpt.com:443?mode=auto&path=/clo
 vless://6e8d6b76-c3ff-4cdc-aa9c-be6731789b76@chatgpt.com:443?security=tls&type=xhttp&headerType=&path=/cloudapi&host=w.broadcasp.top&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=w.broadcasp.top&fp=chrome&alpn=h2#@TeLPJ+یک+دقیقه+زمان
 vless://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443?path=/23.95.56.195:443&security=tls&encryption=none&host=purplelily.qzz.io&type=ws&sni=purplelily.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 vless://71eef3aa-4cb2-4693-984f-a530725681b1@2.144.5.150:80?path=/&security=none&encryption=none&host=iran.ir&type=ws#@V2ray_Alpha--26
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@chatgpt.com:8443?encryption=none&type=ws&host=NewChat1.ikoOchi.ir&path=/api?ed=2560&security=tls&fp=chrome&sni=NewChat1.ikoOchi.ir#@TeLPJ+تمام+نت+ها+🟦🟨
