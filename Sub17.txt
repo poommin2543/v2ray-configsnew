@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@chatgpt.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#%3E%3E%40vmessorg%3A%3AUS
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@198.62.62.241:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#%3E%3E%40vmessorg%3A%3AUS
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.18.185.26:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@029.electrocellco-cf-029.workers.dev:8443?encryption=none&security=tls&sni=029.eLeCtROcELLCO-cf-029.wOrkERs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiVkszbkhyU1UxMWtoNzE5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
@@ -249,7 +252,4 @@ hysteria2://e1cc26b3-df0b-477b-afb0-53659a25e978@5.83.150.108:59140/?sni=imafake
 
 
 hysteria2://e3cb685e-7840-45cb-9d64-b2028d9b635e@5.83.150.108:59140/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
-
-
-hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@5.83.150.108:59140/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 
