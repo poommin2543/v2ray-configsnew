@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@198.62.62.241:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#@ConfigFree
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@chatgpt.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#@ConfigFree
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@chatgpt.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#✅سرورها بیشتردرکانال:prrofile_purple@✅
 vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.125.86:443?security=reality&encryption=none&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9f35da6c9412b832#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
@@ -253,3 +252,4 @@ vless://71b46b68-295a-40fa-9fc5-49519218e67c@ert-3.v-sub.site:8880?path=/&securi
 vless://71b46b68-295a-40fa-9fc5-49519218e67c@ert-3.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=whm.linux-panel.com&type=httpupgrade#[85805] - Telegram : @V2All
 vless://71b46b68-295a-40fa-9fc5-49519218e67c@ert-3.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=whm.linux-panel.com&type=httpupgrade#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️150🌐🆕️
 vless://71b46b68-295a-40fa-9fc5-49519218e67c@ert-3.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=whm.linux-panel.com&type=httpupgrade#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 𝟮
+vless://71b46b68-295a-40fa-9fc5-49519218e67c@ert-3.v-sub.site:8880?security=none&allowInsecure=0&encryption=none&type=httpupgrade#@sogoandfuckyourlove 🖤

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://27bbde38-b656-439c-8f26-7868189bf0ec@chatgpt.com:443?path=/&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=dgf.addressprovider.lat&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=dgf.addressprovider.lat#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40xsv2ray%20%231
 vmess://eyJhZGQiOiJiYWF3ZnR2YmguNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnhxbWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/MSB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 
 
@@ -253,3 +252,4 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 اگه این نسخه از افزونه براتون نصب نشد،احتمالا با معماری گوشیتون متفاوته؛به سایت و گیت هاب خود ماتسوری به نشانی:https://github.com/MatsuriDayo/plugins/releases?q=xray میرید واز بخش Assets یا همون منابع برنامه،اونو دانلود میکنید.@v2rayNG_VPN
+
