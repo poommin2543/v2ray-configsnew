@@ -4,7 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Iranvmess://eyJhZGQiOiIxODUuOTQuOTYuMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJlelpib1g1Ri5kaXZhcmNkbi5jb20iLCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTc2IiwicHMiOiJpY2Vzb3VyY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -253,3 +252,4 @@ vless://1b9d8449-479f-40a0-a326-1a5ea3481c42@172.64.152.23:443?path=%2F&security
 vless://1d6a4595-2568-4262-a3fc-99270ef3f51f@151.101.66.219:80?mode=auto&path=%2F&security=&encryption=none&host=cdndigikala.com&type=xhttp#%3E%3E%40prrofile_purple%3A%3AXX
 vless://1f3b130d-7d29-45d1-b5aa-adc5cd94a885@sktr.berkeart.ir:19702?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=check-host.net&sid=6ba85179e30d4fc2#%3E%3E%40FreakConfig%3A%3AXX
 vless://2128629e-8d7b-49be-906b-a79585ba1d63@namahdud4.gamepiu.com:2421?encryption=none&security=none&type=tcp&headerType=http&host=amirzaplus.com#%3E%3E%40vmessorg%3A%3ADE
+vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3AUS
