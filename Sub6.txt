@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=/?ed=2082&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=holcdn.wordperessweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=holcdn.wordperessweb.ir#@bored_vpn
+vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=/?ed=2082&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=holcdn.wordperessweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=holcdn.wordperessweb.ir#channel : @freedomofinfor
+vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=/?ed=2082&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=holcdn.wordperessweb.ir&type=ws&allowInsecure=0&sni=holcdn.wordperessweb.ir#channel : @freedomofinfor
 vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=/?ed=2082&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=holcdn.wordperessweb.ir&fp=chrome&type=ws&allowInsecure=1&sni=holcdn.wordperessweb.ir#📍Telegram = @V2WRAY𓄂𓆃
 vless://77466941-b026-454b-b915-94c8f89b594e@172.64.144.131:443?security=tls&type=ws&path=/?ed=512&host=r4fnviw9jl4i4rx.zjde5.de5.net&alpn=h3,h2,http/1.1&sni=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&encryption=none#@v2rays_ha 5395
 vless://777f2e94-0f81-469c-a4a4-cfeb073c20ba@chatgpt.com:2083?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=datisde2.rahagp.ir&type=ws&allowInsecure=1&sni=datisde2.rahagp.ir#channel : @freedomofinfor
@@ -250,6 +253,3 @@ vless://8a07740f-b932-4372-a3a2-ed91f184cd33@chatgpt.com:443?path=/eyJqdW5rIjoiN
 vless://8a7c781d-8f4f-42d4-8704-fb642cb9a4d2@ru.storenet.store:1159?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@OnNetVpn جوین شو
 vless://8c100821-0728-4b5e-8c7b-086300615e89@www.aiteamplus.ir:12911?path=/cdn-cgi/trace&security=none&encryption=none&type=ws#⚡Telegram = @SOSkeyNET
 vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?path=/&security=none&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&type=httpupgrade#Germany+🇩🇪+Telgram+.@Sobi_vpn
-vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?path=/&security=none&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&type=httpupgrade#Germany+🇩🇪+Telgram+.@Sobi_vpn  📱☝ 🤍🤍 آموزش اتصال   🤍🤍دانلود آپ مورد نیاز
-vless://8d09369c-51e3-4394-a634-93de65032d50@136.175.178.165:443?security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none&host=navi.bankrate.com&path=/#⚡Telegram = @SOSkeyNET
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#channel : @freedomofinfor
