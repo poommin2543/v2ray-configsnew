@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&insecure=1&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=teams.live.com.afrcloud1.c01.kr#@meliproxyy
-vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&insecure=1&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=teams.live.com.afrcloud1.c01.kr#IR-@V2rayAlpha-19
-vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&insecure=1&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=teams.live.com.afrcloud1.c01.kr#🤖32@ConfigV2RayNG
-vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?type=ws&host=teams.live.com.afrcloud1.c01.kr&path=/&security=tls&sni=teams.live.com.afrcloud1.c01.kr#Telegram:@config_proxy 🔥
-vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.113.47:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#🇳🇱@KIA_NET
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#@KIA_NET
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#@KIA_NETایرانسل-16
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#@PRS_MLBB
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#@meliproxyy
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#IR-@V2rayAlpha-16
 vless://a66bc867-761c-436f-8177-5b510aea21af@online3.moyanri.org:6443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#📍Telegram = @V2WRAY𓄂𓆃
@@ -253,3 +245,11 @@ vless://d7122520-631e-4c4c-87db-7f38ddaf4f0b@213.165.65.5:443?security=reality&a
 vless://d7122520-631e-4c4c-87db-7f38ddaf4f0b@213.165.65.5:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#IR-@V2rayAlpha-22
 vless://d7888891-ee87-4c8e-a4b4-612b925b956d@de1.multi-hk.pro:30300?security=none&encryption=none&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://d8451926-8e22-4bb5-fa78-24807053db9a@185.18.250.252:443?path=/56062/mohmd&security=tls&encryption=none&insecure=1&host=fr.jopiter.workers.dev&type=ws&allowInsecure=1&sni=fr.jopiter.workers.dev#🤖26@ConfigV2RayNG
+vless://d881f1e0-9d84-4f18-8844-c538892db8c0@meli.dataxshop.ir:2095?path=/datax_proxy&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=ws#
+vless://d881f1e0-9d84-4f18-8844-c538892db8c0@meli.dataxshop.ir:2095?path=/datax_proxy&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=ws#🇳🇱 Telegram = @datax_proxy
+vless://d8b89d6a-7cc1-4fab-b191-60afb05f401e@185.26.32.244:25386?security=none&encryption=none&host=www.uptvs.com&headerType=http&type=tcp#‌Telegram-𝗝𝗼𝗶𝗻 ➠ @ConnectBemon | کانکت بمون﻿
+vless://d95098f1-ea8e-473c-b110-050d1d40f9d7@sv5.tsteam99.top:60005?security=none&type=tcp&headerType=http&path=/&host=cafeariel.ir#Telegram:@config_proxy 🔥
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.111.42:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#[90446] - Telegram : @V2All
+vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=fr1.itscdn.ir&fp=chrome&type=xhttp&sni=fr1.itscdn.ir#@YamYamProxy
+vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#@KIA_NET🦜همرا--5
+vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#@meliproxyy

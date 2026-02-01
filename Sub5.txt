@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://d30ab83dbde4480082048fb315bedebd@45.76.234.159:443?encryption=none&security=tls&sni=45.76.234.159&type=raw&headertype=none#[90465] - Telegram : @V2All
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
-trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=/192.252.182.52:7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
-trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.8:443?security=tls&insecure=0&host=TM-AZARBAYJAB1.vip.ne.net&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🇭🇰TM (@AZARBAYJAB1) Trojan-server
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#🇨🇦All¹ | @AZARBAYJAB1
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Magsin_Vpn
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🚀 | @ConfigV2RayNG 14
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Magsin_Vpn
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.gossipglove.com#🚀 | @ConfigV2RayNG 27
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=/assignment#@meliproxyy
@@ -253,3 +245,11 @@ vless://2ddeb056-17d4-421e-a318-39428733d4a2@ip.notomarosww.com:8443?path=/Teleg
 vless://2ddeb056-17d4-421e-a318-39428733d4a2@ipbaz.ping-box.com:8443?path=/Telegram@V2rayAlpha/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=8p3cfl0ripm.zjde5.de5.net#@meliproxyy
 vless://2ddeb056-17d4-421e-a318-39428733d4a2@ipbaz.ping-box.com:8443?path=/Telegram@V2rayAlpha/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=8p3cfl0ripm.zjde5.de5.net#WiFi-@V2rayAlpha--12
 vless://2ddeb056-17d4-421e-a318-39428733d4a2@ipbaz.ping-box.com:8443?path=/Telegram@V2rayAlpha/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&sni=8p3cfl0ripm.zjde5.de5.net#⚡Telegram = @SOSkeyNET
+vless://2de542f7-1662-48fc-e40a-f5a1e5f1c021@asia7.novahomedesigntips.com:7850?security=none&encryption=none&type=ws#🌨️ وصل شدی لطفا جوین بده Kia_Net@
+vless://2e46ba5a-db56-4940-9500-a61c7b0bcc0c@cdn.bio4cdn.com:2053?path=/weborder&security=tls&encryption=none&alpn=h2,http/1.1&host=bio.bio4cdn.com&fp=chrome&type=ws&sni=bio.bio4cdn.com#@v2ray_proxy_npv+❄️+@cloudkey_vpn
+vless://2ecfb0e9-9606-4e2f-bc66-0a0367907b2c@tunnyl.ru:8443?type=tcp&encryption=none&security=reality&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&fp=chrome&sni=google.com&sid=38cd424d5ba6441d&spx=/&flow=xtls-rprx-vision#Telegram:@config_proxy 💦
+vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?encryption=none&type=ws&host=digikalaa.dpdns.org&path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&fp=chrome&sni=DiGIkALaA.dpdns.ORG&alpn=http/1.1#@Evay_vpn
+vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#@FreeVlessVpnبیااینجا
+vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.perplexity.ai:2096?path=/eyJqdW5rIjoidTZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eXlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=digikalaa.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=DiGIkALaA.dpdns.ORG#🇩🇪AZARBAYJAB1
+vless://3001ec8f-42a7-4785-a351-51651f817101@melli.hexogate.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=ca.nimatazikeh.sbs&fp=chrome&type=ws&allowInsecure=0&sni=ca.nimatazikeh.sbs#channel : @freedomofinfor
+vless://307a283d-8f3c-4ef6-ab6a-6a57f064e7ba@s31629.asancall.cloud:8443?path=/ws/apps/softgozar&security=none&encryption=none&type=ws#channel : @freedomofinfor
