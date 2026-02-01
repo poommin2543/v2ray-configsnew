@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#@meliproxyy
-vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#IR-@V2rayAlpha-5
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@95.163.182.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=e5f67890#⚡Telegram = @PRS_MLBB
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@decdn13.suio.me:443?security=tls&encryption=none&sni=decdn13.suio.me&type=tcp&path=/#⚡Telegram = @SOSkeyNET
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@itcdn1.suio.me:443?security=tls&encryption=none&sni=itcdn1.suio.me&type=tcp&path=/#⚡Telegram = @SOSkeyNET
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@lvcdn1.suio.me:443?security=tls&encryption=none&sni=lvcdn1.suio.me&type=tcp&path=/#⚡Telegram = @SOSkeyNET
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@rogbypass3.suio.me:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=aad92345&sni=api-maps.yandex.ru&type=tcp#⚡Telegram = @SOSkeyNET
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn11.suio.me:443?security=tls&encryption=none&sni=secdn11.suio.me&type=tcp&path=/#⚡Telegram = @SOSkeyNET
@@ -253,3 +248,8 @@ vless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?path=/?ed&security=
 vless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&type=ws#@v2rays_ha 6011
 vless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&type=ws#r♡ya@V2rayBaaz◇⃟💜
 vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
+vless://c6350093-32a4-46d4-a64e-b581c21b1128@chatgpt.com:2053?path=/us?ed=2560&security=tls&encryption=mlkem768x25519plus.native.0rtt._aH6LBZ2r6J8sX2BzZPysVmlbs_XeNChfUeshbt4qnM&insecure=1&host=stiky.clinicst.ir&fp=chrome&type=ws&allowInsecure=1&sni=stiky.clinicst.ir#@meliproxyy
+vless://c6350093-32a4-46d4-a64e-b581c21b1128@chatgpt.com:2053?path=/us?ed=2560&security=tls&encryption=mlkem768x25519plus.native.0rtt._aH6LBZ2r6J8sX2BzZPysVmlbs_XeNChfUeshbt4qnM&insecure=1&host=stiky.clinicst.ir&fp=chrome&type=ws&allowInsecure=1&sni=stiky.clinicst.ir#@v2rays_ha 5996
+vless://c6350093-32a4-46d4-a64e-b581c21b1128@chatgpt.com:2053?path=/us?ed=2560&security=tls&encryption=mlkem768x25519plus.native.0rtt._aH6LBZ2r6J8sX2BzZPysVmlbs_XeNChfUeshbt4qnM&insecure=1&host=stiky.clinicst.ir&fp=chrome&type=ws&allowInsecure=1&sni=stiky.clinicst.ir#telegram @mtmvpn
+vless://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053?security=tls&encryption=none&insecure=0&host=ir6.hnbyme.online&fp=chrome&type=ws&allowInsecure=0&sni=ir6.hnbyme.online#@v2rays_ha 6044
+vless://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053?security=tls&encryption=none&insecure=1&host=ir6.hnbyme.online&fp=chrome&type=ws&allowInsecure=1&sni=ir6.hnbyme.online#🚀9@ConfigV2RayNG
