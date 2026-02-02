@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODMzNTdlYTMxYjA5OGJk@141.95.105.6:11201#⚡Telegram = @PRS_MLBB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNG9VdUdaSFFYODFCeS03blpQbUJB@hesam.xv98.ir:37725#telegram @mtmvpn 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNG9VdUdaSFFYODFCeS03blpQbUJB@hesam.xv98.ir:37725#⚡Telegram = @ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNG9VdUdaSFFYODFCeS03blpQbUJB@hesam.xv98.ir:37725#⚡Telegram = @SOSkeyNET
@@ -253,3 +252,4 @@ vless://10f54687-bc56-478c-9fdc-dc1f8cc82612@masterserver1.huqpmfood.ir:1331?mod
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.149.12.231:2096?security=tls&sni=De13.SiMaNsAnAt.Ir.&type=ws&host=De13.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@89.208.103.107:1234?security=reality&sni=www.icloud.com&type=tcp&fp=chrome&pbk=L2b7MW4F9bT8ALwebQtCbXGTaH5sl9o97BxmynrlxHo&sid=8f90c18dc7b2652b#@Hope_Net-join-us-on-Telegram
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@92.246.136.89:1234?security=reality&sni=www.icloud.com&type=tcp&fp=chrome&pbk=L2b7MW4F9bT8ALwebQtCbXGTaH5sl9o97BxmynrlxHo&sid=8f90c18dc7b2652b#@Hope_Net-join-us-on-Telegram
+vless://11a1ac42-9e55-4977-b24e-6f6026a32765@Ge10.Jet-Channel.Top:443?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&fp=chrome&type=tcp&sni=skyroom.online,gharar.ir,igap.net#channel : @freedomofinfor

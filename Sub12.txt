@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=vbox.ping-box.com#@YamYamProxy
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#@meliproxyy
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#IR-@V2rayAlpha-6
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?security=tls&allowInsecure=0&encryption=none&type=grpc&sni=vbox.ping-box.com&fp=chrome&alpn=h2,http/1.1#@sogoandfuckyourlove
@@ -253,3 +252,4 @@ vless://fd9d8480-bced-4b2c-9c4d-a67bada7f054@cdn.solidnet.fun:80?mode=auto&path=
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=/vless&security=&encryption=none&type=ws#Irancell-@V2rayAlpha--4
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=/vless&security=&encryption=none&type=ws#Irancell-@V2rayAlpha--5
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=/vless&security=none&encryption=none&type=ws#@PRS_MLBB
+vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=/vless&security=none&encryption=none&type=ws#IR-@V2rayAlpha-25

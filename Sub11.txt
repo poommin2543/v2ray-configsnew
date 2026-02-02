@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bc281cac-16e6-47a8-8370-46dcdde840e7@ip4.hamrahto.com:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=hm3333.mutee.com.tr&type=ws#Telegram 🔹 @CoOow🛡️
 vless://bc281cac-16e6-47a8-8370-46dcdde840e7@ip4.hamrahto.com:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=hm3333.mutee.com.tr&type=ws#Telegram 🔹 @CooOw🛡️
 vless://bcaabac-baac-abac-cadb-cbcabaacabcb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://bcaabac-baac-abac-cadb-cbcabaacabcb@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
@@ -253,3 +252,4 @@ vless://e71d08cf-7410-481f-b6d8-e7ef04015974@172.66.46.213:443?alpn=h2,http/1.1&
 vless://e71d08cf-7410-481f-b6d8-e7ef04015979@172.66.46.213:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=bARaRpOoR.pAgES.dEV&path=/iD9iinktJHRPLLJu?ed=2560&security=tls&sni=BArarPOor.pAGES.DeV&type=ws#@v2rays_ha 6113
 vless://e71d08cf-7410-481f-b6d8-e7ef04015979@172.66.46.213:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=bARaRpOoR.pAgES.dEV&path=/iD9iinktJHRPLLJu?ed=2560&security=tls&sni=BArarPOor.pAGES.DeV&type=ws#⚡Telegram = @SOSkeyNET
 vless://e7304c37-26dd-40ef-8cd5-921161063bac@sr61.bexra.fun:2095?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
+vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=vbox.ping-box.com#@YamYamProxy

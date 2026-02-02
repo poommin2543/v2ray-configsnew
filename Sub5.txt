@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://11a1ac42-9e55-4977-b24e-6f6026a32765@Ge10.Jet-Channel.Top:443?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&fp=chrome&type=tcp&sni=skyroom.online,gharar.ir,igap.net#channel : @freedomofinfor
 vless://11c2015b-78bd-4ea6-a028-9a166303adfa@81.12.33.0:710?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@YamYamProxy
 vless://11c2015b-78bd-4ea6-a028-9a166303adfa@81.12.33.1:710?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@YamYamProxy
 vless://11c2015b-78bd-4ea6-a028-9a166303adfa@81.12.33.2:711?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@YamYamProxy
@@ -253,3 +252,4 @@ vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&s
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&security=tls&sni=pages.dev&fp=chrome&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560#🔥 Telegram: @wiki_tajrobe
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&security=tls&sni=pages.dev&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0#🔥 Telegram: @wiki_tajrobe
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&security=tls&sni=pages.dev&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560#🔥 Telegram: @wiki_tajrobe
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&security=tls&sni=pages.dev&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560#🔥 Telegram: @wiki_tajrobe
