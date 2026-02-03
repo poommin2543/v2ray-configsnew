@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@dojman.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=dojman.global.ssl.fastly.net#Telegram:@config_proxy 🔥
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@dojman.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=dojman.global.ssl.fastly.net#[92402] - Telegram : @V2All
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?encryption=none&security=none&type=ws&host=lexeu.global.ssl.fastly.net&path=/containers/fi#Config 3 - @lebertad
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?path=/containers/fi&security=none&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?path=/containers/fi&security=none&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#@filembad
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?path=/containers/fi&security=none&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#Config 4 - @lebertad
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80?encryption=none&security=none&type=ws&host=dojman.global.ssl.fastly.net&path=/containers/fi#Config 5 - @lebertad
@@ -253,3 +249,7 @@ vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?security
 vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?security=&encryption=none&host=filmnet.ir&headerType=http&type=tcp#shankamil
 vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#@V2ray_confing33
 vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
+vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=filmnet.ir&headerType=http&type=tcp#@icv2ray
+vless://391521f1-d8ef-489b-9c37-d7df0270501a@94.184.13.96:443?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#@v2rays_ha 6507
+vless://391521f1-d8ef-489b-9c37-d7df0270501a@l32.magicnetwork.info:443?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#🔥 Telegram: @wiki_tajrobe
+vless://391521f1-d8ef-489b-9c37-d7df0270501a@l32.magicnetwork.info:443?security=&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@ConfigV2RayNG منبع اصلی کانفینگ ملی
