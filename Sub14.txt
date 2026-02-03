@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@de2.locations-service.com:3030?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@vpnbaz 🪃
+vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#Telegram:@config_proxy 🔥
+vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@AliXTso
 vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@Spotify_Porteghali 5829
 vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@vpnbaz 🍬
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/Telegram-@proxy_mtm/?ed=2560&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=chrome&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -250,6 +253,3 @@ vless://e4c18050-3e61-42e3-9345-77d4179541c4@104.18.4.130:2087?path=/&security=t
 vless://e4c18050-3e61-42e3-9345-77d4179541c4@104.18.4.130:2087?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=fak.i-farm.ir&type=ws&allowInsecure=0&sni=fak.i-farm.ir#@V2rayBaaz
 vless://e4c18050-3e61-42e3-9345-77d4179541c4@104.18.4.130:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=0&sni=fak.i-farm.ir#@MARAMBASHI 🇧🇷
 vless://e4c18050-3e61-42e3-9345-77d4179541c4@104.18.4.130:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fak.i-farm.ir#@ConfigV2RayNG
-vless://e4c18050-3e61-42e3-9345-77d4179541c4@104.18.4.130:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fak.i-farm.ir#@FarazV2ray
-vless://e4c18050-3e61-42e3-9345-77d4179541c4@104.18.4.130:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fak.i-farm.ir#@V2rayBaaz
-vless://e4c18050-3e61-42e3-9345-77d4179541c4@104.18.4.130:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fak.i-farm.ir#@v2rays_ha 6470
