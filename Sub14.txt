@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4c18050-3e61-42e3-9345-77d4179541c4@185.133.35.21:2087?encryption=none&flow=&type=ws&path=&security=tls&sni=cn.i-farm.ir&alpn=h3,h2,http/1.1&allowInsecure=false#⚡Telegram = @SOSkeyNET
 vless://e4c18050-3e61-42e3-9345-77d4179541c4@188.114.98.0:2087?path=/@OnNetX&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fa.i-farm.ir#@OnNetX جوین شو
 vless://e4c18050-3e61-42e3-9345-77d4179541c4@188.114.98.0:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&type=ws&sni=fak.i-farm.ir#⚡Telegram = @PRS_MLBB
 vless://e4c18050-3e61-42e3-9345-77d4179541c4@188.114.98.0:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&type=ws&sni=fak.i-farm.ir#⚡Telegram = @SOSkeyNET
@@ -253,3 +252,4 @@ vless://fef4510f-1717-1967-f752-de6ec4948f55@94.183.165.200:80?security=none&enc
 vless://fef4510f-1717-1967-f752-de6ec4948f55@94.183.165.200:80?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#جوین شید قط نشید @proxee_ftm
 vless://fef4510f-1717-1967-f752-de6ec4948f55@94.183.165.200:80?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#جوین شید قط نشید @shankamil
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@V2rayBaaz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@v2box

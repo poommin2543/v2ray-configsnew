@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.223.129:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.154.24:22224?path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#⚡Telegram = @SOSkeyNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.154.24:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.44.254:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -253,3 +252,4 @@ vless://262d5473-6b9c-4b60-8d12-e6d9d7c87379@wi7.hennessypro.site:3001?security=
 vless://266b09b3-aad1-445b-8150-904714ad0cdf@104.21.55.47:2053?security=tls&encryption=none&insecure=0&host=image-photo-ger.bestasli.ir&type=ws&allowInsecure=0&sni=image-photo-ger.bestasli.ir#@V2RAY_VMESS_free ایرانسل
 vless://268be772-e378-4ba8-90f6-7309dadc825e@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://269e4d5e-c6a2-4a32-b9d2-6eac56918892@217.60.236.83:8080?encryption=none&security=none&type=tcp&headerType=none#⚡Telegram = @SOSkeyNET
+vless://279ae00c-c08d-4b88-a381-c3008f874cea@filestore.huntexfont.com:443?security=&encryption=none&host=fonts.googleapis.com&headerType=http&type=tcp#@V2ray_confing33

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?path=/?ed=2560&security=tls&encryption=none&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#VayNora
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@bored_vpn
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@mehrosaboran
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
@@ -253,3 +252,4 @@ vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@94.183.162.68:9828?security=none&en
 vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@94.183.162.68:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#⚡Telegram = @PRS_MLBB
 vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@94.183.162.68:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@94.183.162.68:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#💙 @Bluefilter_org | 👈 تلگراممون
+vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@94.183.162.68:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#🔴 telegram ➡️ @ataconnect
