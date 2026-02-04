@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=dojman.global.ssl.fastly.net#%3E%3E%40configV2rayNG%3A%3ADE
-vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kirinet.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=kirinet.global.ssl.fastly.net#%3E%3E%40configV2rayNG%3A%3ANL
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3ASE
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#%3E%3E%40flyv2ray%3A%3ANL
 vless://3c7b7ec9-e49a-440f-aee7-1f611d0e8c85@cdnjs.com:443?path=%2Fhsnoryws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=639057258083986963.camry-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258083986963.camry-perma.info#%3E%3E%40vmess_iran%3A%3ADE
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv10.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv10.outlinekeys.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
@@ -253,3 +250,6 @@ vless://979b6822-d65a-400d-89f8-30391903ac20@141.101.123.40:443?security=tls&sni
 
 vless://979b6822-d65a-400d-89f8-30391903ac20@173.245.59.121:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
 
+vless://979b6822-d65a-400d-89f8-30391903ac20@chatgpt.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
+
+vless://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
