@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd3.reata.ir:2053?security=tls&encryption=none&insecure=0&host=api17.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api17.diiginet.ir#🇩🇪 🖤𝒄𝒉𝒂𝒏𝒏𝒆𝒍 👉@Kia_Net🖤 𝟯
+vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd3.reata.ir:2053?security=tls&encryption=none&insecure=0&host=api19.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api19.diiginet.ir#🇦🇱 🖤𝒄𝒉𝒂𝒏𝒏𝒆𝒍 👉@Kia_Net🖤 𝟮
+vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd3.reata.ir:2053?security=tls&encryption=none&insecure=0&host=api27.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api27.diiginet.ir#🇦🇲 🖤𝒄𝒉𝒂𝒏𝒏𝒆𝒍 👉@Kia_Net🖤
+vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd4.reata.ir:2053?security=tls&encryption=none&host=api5.diiginet.ir&fp=chrome&type=ws&sni=api5.diiginet.ir#@canfingV2rayNG
+vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd4.reata.ir:2053?security=tls&encryption=none&insecure=0&host=api2.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api2.diiginet.ir#🇫🇮 🖤𝒄𝒉𝒂𝒏𝒏𝒆𝒍 👉@Kia_Net🖤 𝟭
 vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd4.reata.ir:2053?security=tls&encryption=none&insecure=0&host=api23.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api23.diiginet.ir#@erfanandroid
 vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd4.reata.ir:2053?security=tls&encryption=none&insecure=0&host=api23.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api23.diiginet.ir#🇹🇷 🖤𝒄𝒉𝒂𝒏𝒏𝒆𝒍 👉@Kia_Net🖤
 vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd4.reata.ir:2053?security=tls&encryption=none&insecure=0&host=api5.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api5.diiginet.ir#@V2rayBaaz
@@ -248,8 +253,3 @@ vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&sec
 vless://d8cbb264-318d-4701-b517-f5355ae2923c@chatgpt.com:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=haji.imtproto.com&fp=chrome&type=ws&allowInsecure=0&sni=haji.imtproto.com#@V2rayNG3
 vless://d95ff592-1709-4050-bb6e-b4799449c8ed@f1.springpaatogh8.store:2083?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=gamepc.sorza.ir#@flyv2ray
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?path=/TELEGRAM-PROXY_MTM?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@v2rays_ha 6820
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.137.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#@Hope_Net-join-us-on-Telegram
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.137.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#[93982] - Telegram : @V2All
-vless://da31a6b0-d9ec-4b17-a3ae-a031bd467b21@hk01.yuanbaojc.site:13000?security=reality&encryption=none&pbk=GTrEA54lSdFrwHHu3YdeqkGY9moMid4ijQvULTAcBjM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#@Magsin_Vpn
-vless://da31a6b0-d9ec-4b17-a3ae-a031bd467b21@hk01.yuanbaojc.site:13000?security=reality&encryption=none&pbk=GTrEA54lSdFrwHHu3YdeqkGY9moMid4ijQvULTAcBjM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#@vpnbaz ☂️
-vless://da31a6b0-d9ec-4b17-a3ae-a031bd467b21@hk01.yuanbaojc.site:13000?security=reality&encryption=none&pbk=GTrEA54lSdFrwHHu3YdeqkGY9moMid4ijQvULTAcBjM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#Channel : @Mrsoulb 🏴🏳
