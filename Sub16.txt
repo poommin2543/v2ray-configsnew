@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
@@ -253,3 +252,4 @@ vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?path=/api/strea
 vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus3-d8.hmvpa.ir&type=ws#Config 4 - @lebertad
 vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus3-d8.hmvpa.ir&type=ws#💛@V2rayBaaz| تلگراممون 🤍
 vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=rus3-d8.hmvpa.ir&path=/api/stream?ed=2080#@sogoandfuckyourlove
+vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=rus3-d8.hmvpa.ir&path=/api/stream?ed=2080#Config 2 - @lebertad

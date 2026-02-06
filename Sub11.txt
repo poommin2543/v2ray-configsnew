@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7ff4985a-a5a6-4107-83d3-921f5bd5b371@cxh1.azangooo.ir:2096/?encryption=none&security=tls&sni=Cxh.liZoillubrIcant.ir&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=xhttp&host=cxh.lizoillubricant.ir&path=/cpxh1&mode=packet-up#@v2rays_ha 6979
 vless://7ff4985a-a5a6-4107-83d3-921f5bd5b371@cxh1.azangooo.ir:2096/?mode=packet-up&path=/cpxh1&security=tls&alpn=h3&encryption=none&host=cxh.lizoillubricant.ir&fp=chrome&type=xhttp&sni=Cxh.liZoillubrIcant.ir#@v2rays_ha 6964
 vless://805b2823-2ee9-43bb-892c-125fcb4f61ad@195.201.226.220:443?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#@V2rayNG3
@@ -253,3 +252,4 @@ vless://8f1a15bf-a352-4c32-aee2-957039a6847b@104.17.162.123:8443?path=/?ed=2560&
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@cloudproxycdn.healingfluence.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@bored_vpn
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@cloudproxycdn.healingfluence.com:8443?path=bored_vpn?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@bored_vpn
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@bored_vpn
+vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/Fergal&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#telegram : @FergalVpnMod
