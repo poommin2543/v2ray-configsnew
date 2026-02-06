@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5172cc59-7949-4cb9-88d2-b5ed823d39ff@ip2.iranvatanam.com:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=cdn1.temas-arvha.ir&fp=chrome&mode=auto#@sogoandfuckyourlove
-vless://5172cc59-7949-4cb9-88d2-b5ed823d39ff@ip2.iranvatanam.com:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=cdn1.temas-arvha.ir&fp=chrome&mode=auto#🇫🇷
-vless://517c776e-afbf-4749-9643-73c3ea26b905@192.200.160.9:2083?path=/&security=tls&encryption=none&insecure=0&host=xiz20.wizard2shop.org&fp=chrome&type=ws&allowInsecure=0&sni=xiz20.wizard2shop.org#channel : @freedomofinfor
-vless://517dde57-5ff3-4b3d-8f47-fe0332313061@de1.clubban.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=rb24.ir#@OnNetX جوین شو
-vless://517dde57-5ff3-4b3d-8f47-fe0332313061@tr1.clubban.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=rb24.ir#@OnNetX جوین شو
 vless://51c065b5-2599-444a-a51e-785862402c8b@185.239.1.36:4586?security=none&encryption=none&headerType=http&type=tcp#@OnNetX جوین شو
 vless://51c065b5-2599-444a-a51e-785862402c8b@TRmEli255.nexavps.ir:4589?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#@OnNetX جوین شو
 vless://51d7bfba-3b27-474a-8199-f01253b3dd98@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
@@ -253,3 +248,8 @@ vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443?securit
 vless://636de463-b509-4631-adc6-400b21733278@172.67.137.47:2086/?path=/1qrxwiek8tujvr6h&security=none&encryption=none&host=index.harmony510.workers.dev&type=ws#@v2rays_ha 7034
 vless://63ca3565-50d8-4277-bc4f-2ebdfe29b9b8@hesam.xv98.ir:2095?path=/-wst?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#⚡Telegram = @prrofile_purple
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#☢️13@oneclickvpnkeys
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Config 5 - @lebertad
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#[95214] - Telegram : @V2All
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#☢️40@oneclickvpnkeys
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#☢️40@proxy_kafee
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#☢️40@v2ray_configs_pools

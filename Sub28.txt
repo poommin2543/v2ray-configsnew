@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://278cdc8a-1c0c-4710-bc48-b8c6e5f36c24@217.154.254.198:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#%3E%3E%40prrofile_purple%3A%3ADE
-vless://289f7608-8995-4165-9f3a-3612577190bb@chatgpt.com:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#%3E%3E%40v2rayng_fast%3A%3ADE
 vless://289f7608-8995-4165-9f3a-3612577190bb@creativecommons.org:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#%3E%3E%40prrofile_purple%3A%3ADE
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#%3E%3E%40prrofile_purple%3A%3AUS
 vless://2ade106e-03d1-4b5c-a9e2-43bc70c9e79b@162.159.152.81:2087?path=%2F&security=tls&encryption=none&insecure=1&host=www.pjw5.top&type=ws&allowInsecure=1&sni=www.pjw5.top#%3E%3E%40configV2rayNG%3A%3AUS
@@ -253,3 +249,7 @@ vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAy
 vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.5
 
 vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@141.101.123.40:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.5
+
+vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.55
+
+vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@198.41.199.83:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.5

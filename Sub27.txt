@@ -4,10 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-
-کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJhZGQiOiI0OS4xMi4zNi4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiaWNlc291cmNlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
-
-
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJhZGQiOiJ3d3cubW1kaG9zc2Vpbjk5Lm1sIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFiM2RlZDVhLTJkZDMtNDYwYy1jNmJkLTQ2NjA2MGIxYWEyNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIzNDAiLCJwcyI6ImljZXNvdXJjZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -253,3 +249,7 @@ vless://1af727c4-4076-43d9-907b-1b45f11a133e@f1.springpaatogh8.store:2087?path=%
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?security=&encryption=none&host=chess.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ANL
 vless://1af727c4-4076-43d9-907b-1b45f11a133e@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=digikala.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%3E%3E%40prrofile_purple%3A%3AFI
 vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH
+vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://278cdc8a-1c0c-4710-bc48-b8c6e5f36c24@217.154.254.198:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#%3E%3E%40prrofile_purple%3A%3ADE
+vless://289f7608-8995-4165-9f3a-3612577190bb@chatgpt.com:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#%3E%3E%40v2rayng_fast%3A%3ADE
