@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#Telegram:@config_proxy 🔥
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#telegram @mtmvpn 🆓
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#⚡Telegram = @SOSkeyNET
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&host=cdn.abcallcenter.com&fp=chrome&type=ws&sni=cdn.abcallcenter.com#@appsooner کانال تلگرام 🕊️
@@ -252,4 +253,3 @@ vless://eddf5da9-c732-4e54-9acc-de8dad7e1484@195.248.241.168:59477?path=/&securi
 vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&security=tls&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=serveruwofl.samanidempire.org&path=/1ab3537d#کانفیگ رایگان = t.me/arisping
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#@PRS_MLBB
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#@meliproxyy
-vless://eeaa07ca-2693-42f8-e544-a16521d8e922@2026.01.1.de.aimirror.top:443?security=reality&encryption=none&pbk=v72GjbmsDf-N2ZAdZwgIGgxy7lpMQ2W1HszfTzB0fEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#TE 1 @Outline_Vpn

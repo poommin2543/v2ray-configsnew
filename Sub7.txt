@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1dd94d15-8f73-4152-814b-d74cd11c54c9@146.185.208.206:4443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=5f22#⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
 vless://1dfc9b45-dbdd-4fad-9a81-7f4d46170d73@62.50.146.14:9311?encryption=none&security=none&type=ws&path=/#کانفیگ رایگان = t.me/arisping
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80/?path=/?ed&security=&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#@v2rays_ha 7213
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80/?path=/?ed&security=none&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#@v2rays_ha 7155
@@ -252,4 +253,3 @@ vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@172.66.128.70:80?path=/?ed&security
 vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@nodejs.org:80/?security=none&type=ws&path=/?ed&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK.&encryption=none#@v2rays_ha 7180
 vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@nodejs.org:80/?security=none&type=ws&path=/?ed&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK.&encryption=none#@v2rays_ha 7285
 vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@nodejs.org:80?encryption=none&security=none&fp=chrome&type=ws&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK.&path=/?ed#@filembad
-vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@nodejs.org:80?path=/?ed&security=&encryption=none&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK.&fp=chrome&type=ws#VayNora

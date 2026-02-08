@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://922d260b-1be5-4bdb-b2c9-a3be4de69bc5@vip.aminvip.online:5358?security=reality&encryption=none&pbk=LX5xXGMnMyrGl7gjHbZEzcRclDnsTKg2uZBSYwKp9iY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#⚡Telegram = @prrofile_purple
 vless://929c6e27-4c24-4775-bc51-0e6117dabd4b@chromie.montago-shop.ir:9560?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
 vless://929c6e27-4c24-4775-bc51-0e6117dabd4b@my.montago-shop.ir:443?path=/?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=mx.mahoshid.ir&fp=chrome&type=ws&allowInsecure=0&sni=mx.mahoshid.ir#جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
 vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#@V2rayNG3
@@ -252,4 +253,3 @@ vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.67.70.223:443?security=none&encry
 vless://a0c19365-b299-4919-a80c-b47b61cd566c@t4.euro2nova.com:8880?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=varzesh3.com&headerType=http&type=tcp#@icv2ray
 vless://a0e2bbf8-fa37-4f41-b6e2-26a855a71fa8@104.18.32.47:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=1&host=ws.logiclama.com&fp=chrome&type=xhttp&allowInsecure=1&sni=ws.logiclama.com#SEG1
 vless://a0e2bbf8-fa37-4f41-b6e2-26a855a71fa8@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=1&host=ws.logiclama.com&fp=chrome&type=xhttp&allowInsecure=1&sni=ws.logiclama.com#SEG2
-vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch: @pPal03👁جوین بدید گوگولیا👁

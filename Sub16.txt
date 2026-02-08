@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&path=/&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#☮️40@oneclickvpnkeys
 vless://d48489b3-0c4f-491a-a011-68113d9d4c6f@elipii11.elipii-shopping.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=google.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=film-doon.ir#⚡Telegram = @prrofile_purple
 vless://d4d031ec-0ba6-486a-aa0c-dce2b7cb8933@212.111.85.1:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8f222b3475800821#@V2RAY_VMESS_free
 vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?encryption=none&security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=/?ed=2560#😇Tel: @pPal03😇
@@ -252,4 +253,3 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&s
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&sni=cdn.abcallcenter.com&type=ws&host=cdn.abcallcenter.com&path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN#@vpn_openet🌐
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#@PRS_MLBB
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#@meliproxyy
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#Telegram:@config_proxy 🔥
