@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@172.64.152.23:443/?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7445
+trojan://humanity@172.64.152.23:443/?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7467
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@YamYamProxy
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#جوین شید قط نشید @shankamil
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#⚡Telegram = @SOSkeyNET
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@Golestan_VPN - ⚡
@@ -250,6 +253,3 @@ vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#⚡Telegram = @prrofile_purple
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#🇫🇮@FreakConfig
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#🇮🇷 IR 40 @Outline_Vpn
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#🔥 Telegram: @wiki_tajrobe
-vless://0a282141-e020-43c0-9903-6dfdcc3d62d3@fastir.asmannnifgt-1.ir:80?path=/&security=&encryption=none&host=sjdpl3.global.ssl.fastly.net&type=ws#@HqV2rayNG
-vless://0aab2b72-3b7e-4eda-8442-66bb4d9f4157@hk01.yuanbaojc.site:13000?security=reality&encryption=none&pbk=GTrEA54lSdFrwHHu3YdeqkGY9moMid4ijQvULTAcBjM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#Channel : @Mrsoulb 🏴🏳
