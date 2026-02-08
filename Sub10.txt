@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.89.21:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇳🇱@AliXTso
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.92.96:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇳🇱@AliXTso
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.94.31:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇳🇱@AliXTso
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.95.188:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇳🇱@AliXTso
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.2.115:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇳🇱@AliXTso
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.5.29:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇳🇱@AliXTso
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.36.26:443/?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram@MmD#@v2rays_ha 7422
@@ -249,7 +253,3 @@ vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880?security=none
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#🇮🇹 Italy  |  @vpnbaz
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@BestProxyTel1
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@PRS_MLBB
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@filembad
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@meliproxyy
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#Config 3 - @lebertad
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#جوین شید قط نشید @shankamil

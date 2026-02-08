@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#MCI-@V2rayAlpha-11
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#⚡Telegram = @prrofile_purple
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#🇫🇮@FreakConfig
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#🇮🇷 IR 40 @Outline_Vpn
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#🔥 Telegram: @wiki_tajrobe
 vless://0a282141-e020-43c0-9903-6dfdcc3d62d3@fastir.asmannnifgt-1.ir:80?path=/&security=&encryption=none&host=sjdpl3.global.ssl.fastly.net&type=ws#@HqV2rayNG
 vless://0aab2b72-3b7e-4eda-8442-66bb4d9f4157@hk01.yuanbaojc.site:13000?security=reality&encryption=none&pbk=GTrEA54lSdFrwHHu3YdeqkGY9moMid4ijQvULTAcBjM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#Channel : @Mrsoulb 🏴🏳
@@ -249,7 +253,3 @@ vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443?security=reality
 vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443?security=reality&encryption=none&pbk=teH8elrVppRluj9CeSno57ARzAUKRLCu6X9f8yvxvhQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=0ad4430e2c#
 vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443?security=reality&encryption=none&pbk=teH8elrVppRluj9CeSno57ARzAUKRLCu6X9f8yvxvhQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=0ad4430e2c#@vpnbaz 🧶
 vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443?security=reality&encryption=none&pbk=teH8elrVppRluj9CeSno57ARzAUKRLCu6X9f8yvxvhQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=0ad4430e2c#🎖@AliXTso
-vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443?security=reality&encryption=none&pbk=teH8elrVppRluj9CeSno57ARzAUKRLCu6X9f8yvxvhQ&host=/?BIA_Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=0ad4430e2c#@icv2ray
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=/&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=chrome&type=ws&allowInsecure=0&sni=vless.hubp.de#@V2rayNG3
-vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@V2rayNG3
-vless://292f3ea4-c29c-4906-acf3-e2384e2006ae@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IR-@V2rayAlpha-6
