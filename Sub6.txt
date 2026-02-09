@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@172.64.152.23:443/?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7696
+trojan://humanity@172.64.152.23:443/?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7719
+trojan://humanity@172.64.152.23:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7739
+trojan://humanity@172.64.152.23:443/?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7705
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#@config_v2rayy
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#@v2ray_proxy_npv+❄️+@ClouddVPN
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇩🇪All⁴ | @meliproxyy
@@ -249,7 +253,3 @@ vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@104.21.13.210:443?path=/?TELEGRAM-M
 vless://0b3da50c-9dba-469d-94b5-c5c400fce06a@62.60.196.148:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#🔥 Telegram: @wiki_tajrobe
 vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?path=/site&security=&encryption=none&host=yalandonya.global.ssl.fastly.net&type=ws#channel : @freedomofinfor
 vless://0b93fd13-de5c-4ca5-8530-435bfa2a0955@025.electrocellco-cf-025.workers.dev:2053?path=/eyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&encryption=none&insecure=0&host=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&type=ws&allowInsecure=0&sni=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV#[[@kia_Net] Dynamic-11598
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
-vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
-vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
