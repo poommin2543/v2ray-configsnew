@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#〘 🇮🇷 | 🛰 @ConfigV2RayNG
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#@ConfigV2RayNG
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#channel : @freedomofinfor
@@ -253,3 +251,5 @@ vless://d57fd975-5ff1-4911-a14a-6538996d93cd@at.asbndx.com:443?flow=xtls-rprx-vi
 vless://d57fd975-5ff1-4911-a14a-6538996d93cd@ru.asbndx.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=ru.asbndx.com&sid=0f4dacf89993e20f&fp=chrome&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&headerType=none#@meliproxyy
 vless://d5b157a2-f4bd-4c57-a0ad-35d3c353b20b@104.22.14.156:443?security=tls&sni=xn--zgbm4a.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 vless://d64620c6-2ec3-4da7-a151-febd14d7824e@betty.ns.cloudflare.com:443?path=/rdwnyews&security=tls&encryption=none&host=639014902535774186.supra-amsjh.info&type=ws&sni=639014902535774186.supra-amsjh.info#@V2rayNG3
+vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@dlc-ger1.persianpinggame.ir:443?security=reality&encryption=none&pbk=FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=274e8f5c1c9feb3f#Channel : @Mrsoulb 🏴🏳
+vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@dlc-ger1.persianpinggame.ir:443?security=reality&encryption=none&pbk=FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=274e8f5c1c9feb3f#Mci-@V2rayAlpha-10

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1fc319c6-fbfb-4054-9f58-806170f02a2a@167.235.68.235:8880?type=tcp&encryption=none&security=none#@V2rayNG3
-vless://1fd292c7-bfbc-c07a-7443-566c5d57e280@cip-2.toxi-speed.ru:1474?security=none&encryption=none&host=downloadha.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://1fd292c7-bfbc-c07a-7443-566c5d57e280@cip-2.toxi-speed.ru:1474?security=none&encryption=none&host=downloadha.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
@@ -253,3 +251,5 @@ vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjo
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&encryption=none&insecure=1&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=1&sni=pages.dev#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey ★
 vless://3adf6d80-658e-4bff-9c54-a53e9b8e2ab3@dns27.golden-ping.ir:37448?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://3b28d1f7-714c-47c7-94c6-4b249bea9c47@pingtop.iranman.shop:8023?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@ConfigV2RayNG
+vless://3b28d1f7-714c-47c7-94c6-4b249bea9c47@pingtop.iranman.shop:8023?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@Spotify_Porteghali 5049
+vless://3b28d1f7-714c-47c7-94c6-4b249bea9c47@pingtop.iranman.shop:8023?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@Spotify_Porteghali 5049  - در صورت اتصال حتما برایِ‌

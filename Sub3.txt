@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEiLCJhZGQiOiIxNzIuNjQuMTQ5LjE4MiIsInBvcnQiOiI4MDgwIiwiaWQiOiJuYXNuZXQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk2NDEwMi5zaGFyZ2hkYWlseS5jbyIsInBhdGgiOiIvbmFzbmV0L2Nkbj9lZD0yNTYwIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTEifQ==
-trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443?sni=bBbNmKl.TAIwAn2028.IndEvs.In#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A73
 trojan://humanity@104.18.32.37:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment#%E6%9C%AA%E7%9F%A512
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTEyIDE5Ny45S0IvcyIsImFkZCI6Im5leHRtaS5oYWpteWFiLmlyIiwicG9ydCI6IjIwNTMiLCJpZCI6Ijk1ODU2MzZhLTU0YmMtNDE5YS05MGExLTc2YzVjNmVjNzRkZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImFwcC5oYWpteWFiLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ5YWt4dnRmYnlrLmhham15YWIuaXIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTEyIn0=
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.85.33:127?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13%20115.9KB%2Fs
@@ -253,3 +251,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZURoVGg0MGQwR0JnUlN1eEhSdXJx@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764?note=--Telegram--@NetifyVPN--#🇸🇪[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbnYxMTRkcDJ6azlaYllGUHBkUWY0@31.3.209.106:46551#@Spartan_YT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbnYxMTRkcDJ6azlaYllGUHBkUWY0@31.3.209.106:46551#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbnYxMTRkcDJ6azlaYllGUHBkUWY0@31.3.209.106:46551#@flyv2ray
