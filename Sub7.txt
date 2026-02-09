@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
-vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
-vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
 vless://0d0c587c-31ed-4387-b553-7fa82afa0fad@fast1.mahalimusic.xyz:80?encryption=none&security=none&type=xhttp&host=classonlineparvareshi.ir&path=/?ed=2048&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#کانفیگ رایگان = t.me/arisping
 vless://0d0c587c-31ed-4387-b553-7fa82afa0fad@fast1.mahalimusic.xyz:80?encryption=none&security=none&type=xhttp&host=effects-eddl.com&path=/?ed=2048&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#کانفیگ رایگان = t.me/arisping
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182/?encryption=none&flow=&host=Excoino.com&type=tcp&headerType=http#☺️32@oneclickvpnkeys
@@ -253,3 +249,7 @@ vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/?TELEGRAM-MAR
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/?TELEGRAM-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz?ed=512&security=tls&encryption=none&insecure=1&host=foucse1.goooooooozoooo.sbs&type=ws&allowInsecure=1&sni=foucse1.goooooooozoooo.sbs#@flyv2ray
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/?Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY?ed=512&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@icv2ray
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=foucse1.goooooooozoooo.sbs&path=/&sni=foucse1.goooooooozoooo.sbs&fp=chrome#⚡Telegram = @config_v2rayy
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@nytimes.com:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Spebeg.global.ssl.fastly.net&type=xhttp#@ConfigV2RayNG
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@nytimes.com:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Spebeg.global.ssl.fastly.net&type=xhttp#⚡Telegram = @ConfigV2RayNG
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@nytimes.com:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Spebeg.global.ssl.fastly.net&type=xhttp#⚡Telegram = @prrofile_purple
+vless://27321d2d-1be0-4628-b45d-a24f95aba23a@Rose8.lhpuniversity.online:41488?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#⚡Telegram = @prrofile_purple

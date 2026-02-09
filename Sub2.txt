@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@103.35.191.216:8443?security=reality&encryption=none&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=cefa7ca418bd0dcb#%F0%9F%86%94Telegram%20%3A%20%40planB_net
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=pqh30v1.carwashipdir.shop#%F0%9F%86%94Telegram%20%3A%20%40planB_net
-vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@103.35.191.181:8443?security=reality&encryption=none&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=fb1a8818b2ec7f2e#%F0%9F%86%94Telegram%20%3A%20%40planB_net
-vless://f4643425-78b3-44ac-954b-4a2167002c23@212.233.96.101:443?security=reality&encryption=none&pbk=rgzU-HlMzZccV6ZjxLw_Fs9Pxeyrj2N3HFMgURyjwwc&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=f92954e2e710#%F0%9F%86%94Telegram%20%3A%20%40planB_net
 vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@103.35.191.215:8443?security=reality&encryption=none&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=cefa7ca418bd0dcb#%F0%9F%86%94Telegram%20%3A%20%40planB_net
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?encryption=none&security=none&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#%F0%9F%86%94Telegram%20%3A%20%40planB_net
@@ -253,3 +249,7 @@ trojan://BxceQaOe@43.199.47.199:3292?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0
 trojan://BxceQaOe@54.249.105.25:26378?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.68.250:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.138.24:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.138.24:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
+trojan://5fb072e0ddd631cf66cf752b09210480@153.121.45.139:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
+trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
+trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
