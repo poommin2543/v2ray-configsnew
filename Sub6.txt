@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#telegram » 𝗺𝗱𝘃𝟮𝗿𝗮𝘆
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#⚡Telegram = @SOSkeyNET
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1#N/A-@V2rayAlpha-7
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1#Telegram:@meowvip1 *178*
+trojan://humanity@www.multiplydose.com:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
+trojan://iWnFtzMiac@205.185.115.223:19258?security=reality&sni=cloudflare.com&fp=chrome&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&sid=6d7efa97b2&spx=/&type=grpc#کانفیگ رایگان = t.me/arisping
+trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3
+trojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#telegram : @FergalVpnMod
+trojan://n875vm39ii96@104.17.163.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&fp=chrome&type=ws&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#@HiByeVPNN 💯🔥
+trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net#[🇨🇦]Telegram = @FergalVpnMod
 trojan://telegram-id-directvpn@18.199.2.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[98218] - Telegram : @V2All
 trojan://telegram-id-directvpn@18.199.2.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-directvpn@35.181.136.255:22223?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
@@ -241,15 +253,3 @@ vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?security=tls&a
 vless://16da1b90-2f32-4dc9-8bd2-08c642057654@46.225.9.164:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#⚡Telegram = @prrofile_purple
 vless://16da1b90-2f32-4dc9-8bd2-08c642057654@46.225.9.164:4450?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#@icv2ray
 vless://17127baf-a4e0-4d35-9692-caf8199d34d0@cd3.reata.ir:2053?encryption=none&security=tls&sni=api19.diiginet.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=api19.diiginet.ir&path=/#کانفیگ رایگان = t.me/arisping
-vless://17355050-3aaf-4ce6-85b6-a5aa92c66a2d@ir2.webira.net:19204?security=none&type=tcp&headerType=http&path=/&host=divarcdn.com#Config 4 - @lebertad
-vless://18161878-c749-40fe-8146-8b061a41bd4f@sourceforge.net:2052?type=ws&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----hameV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g&host=v2cityv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.科斯涅過濾器斯.mobileiraniii.ir&security=none#@alo_v2rayng با کانفیگ رایگان اینستا نرو آی پی ثابت نیس دیسیبل میشه پیجت
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#AG 2 @Outline_Vpn
-vless://18c3cd89-e69d-4d6c-b3b9-74c1d5ebb0e9@us1.alligatocloud.site:443?path=/&security=tls&encryption=none&host=us1.alligatocloud.site&fp=chrome&type=ws&sni=us1.alligatocloud.site#@appsooner کانال تلگرام 🕊️
-vless://18e51cda-ae14-4eb2-b0dc-97b9ee9cea30@sv2f.pmme6.top:42443?security=none&encryption=none&host=isna.ir&headerType=http&type=tcp#channel : @freedomofinfor
-vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#@Golestan_VPN - 👈 config
-vless://195ec880-d140-4265-aec7-47d0429407ed@3.121.162.205:45595?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Join💠@canfingV2rayNG
-vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#@sogoandfuckyourlove
-vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#💋
-vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meliproxyy
