@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#🌊 Tel : @ProxyVPN11 ⟵
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=/&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#@Golestan_VPN - ⚡
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=/&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#VayNora
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=/&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#🇩🇪@FreakConfig
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=/&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#🥊 Tel : @ProxyVPN11 ⟵
@@ -251,5 +253,3 @@ vless://7f47ff7f-c3dd-410e-bf14-73fe022f733a@SpEeDtEsT.NeT:80?mode=auto&path=/Ha
 vless://7f858c51-d258-4447-8107-86749c5cdd76@asia8.novahomedesigntips.com:15510?security=none&encryption=none&type=ws#@v2ray_configs_pools
 vless://7f858c51-d258-4447-8107-86749c5cdd76@asia8.novahomedesigntips.com:15510?security=none&encryption=none&type=ws#🐦‍🔥-@v2ray_configs_pools
 vless://7fc1822b-aece-437d-ac06-505feaf82215@151.101.3.6:80?mode=auto&security=none&encryption=none&host=harro-warm-h1.global.ssl.fastly.net&type=xhttp#@SPARTAN_YT قطع شد بیا چنل جدید میزارم
-vless://7fc1822b-aece-437d-ac06-505feaf82215@khan-dec1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=harro-likeh2.sdcards1.ir#@appsooner کانال تلگرام 🕊️
-vless://7fc1822b-aece-437d-ac06-505feaf82215@khan-dec1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh1.sdcards1.ir#@SPARTAN_YT قطع شد بیا چنل جدید میزارم

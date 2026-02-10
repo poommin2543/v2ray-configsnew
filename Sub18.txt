@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dash.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.getasa.ir#جوین چنل شید قط نشید@shankamil
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dash.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.getasa.ir#• @proxy_kafee
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dash.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.getasa.ir#@icv2ray
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/Telegram@Appsooner-Telegram@Appsooner-Telegram@Appsooner-Telegram@V2ynpv-Telegram@Appsooner-Telegram@Appsooner-Telegram@Appsooner&security=tls&alpn=h2,http/1.1&encryption=none&host=dash.getasa.ir&fp=chrome&type=ws&sni=dash.getasa.ir#@appsooner کانال تلگرام 🕊️
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/Telegram@V2ynpv-Telegram@V2ynpv&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dash.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.getasa.ir#Telegram:@config_proxy 🔥
@@ -251,5 +253,3 @@ vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality
 vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&host=serveruwofl.samanidempire.org&path=/1ab3537d#@V2raysCollector 🫵🫶
 vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?security=&encryption=none&headerType=&type=tcp#@v2ray_configs_pools>13<
 vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?security=&encryption=none&headerType=&type=tcp#v2ray_configs_pools
-vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?security=&encryption=none&headerType=none&type=tcp#vmesskhodam
-vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@sogoandfuckyourlove

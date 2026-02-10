@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5a923f93-30d2-4f8b-ba28-afc637901e54@cf.mahdi383ir.website:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=chrome&type=ws&allowInsecure=0&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#IR-@V2rayAlpha-25
+vless://5a926732-e134-285f-5f9c-9ae938c26919@45.130.125.239:2083?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&host=dlll.taz-min.com&fp=chrome&type=xhttp&sni=dlll.taz-min.com#VayNora
 vless://5aa02d95-185d-4205-9d5d-306440cce49f@belnn.appleseraj.ir:2053?path=?ed=2048&security=tls&encryption=none&insecure=0&host=chez-zzn.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=chez-zzn.appleseraj.ir#@canfingV2rayNG
 vless://5aa02d95-185d-4205-9d5d-306440cce49f@fonken.izumii.ir:8880?security=none&type=tcp&headerType=http&path=/&host=play.google.com#Telegram:@config_proxy 🔥
 vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2083?allowInsecure=0&encryption=none&host=russia2.appleseraj.ir&insecure=0&path=/?ed=2048&security=tls&sni=russia2.appleseraj.ir&type=ws#@V2raysCollector 🏈
@@ -251,5 +253,3 @@ vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.32.47:2096?path=/&security=t
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#@v2rays_ha 7981
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ca.adobe-connect.top&path=/#کانفیگ رایگان = t.me/arisping
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#@Magsin_Vpn 💦
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#🌊 Tel : @ProxyVPN11 ⟵
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=/&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#@Golestan_VPN - ⚡
