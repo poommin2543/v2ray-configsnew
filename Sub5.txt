@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@ConfigV2RayNG
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@ConfigV2RayNG
-trojan://humanity@188.114.98.0:443/?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=/assignment#@v2rays_ha 8122
-trojan://humanity@188.114.98.0:443/?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#@v2rays_ha 8072
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=/assignment#[99527] - Telegram : @V2All
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[KIA_NET] 🇨🇦 CA-12045
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴‍☠️@FreakConfig
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🥊 Tel : @ProxyVPN11 ⟵
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🧿 Tel : @ProxyVPN11 ⟵
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🕊 Tel : @ProxyVPN11 ⟵
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#IR--@config_v2rayy-14
@@ -253,3 +244,12 @@ vless://115af4cb-e1c2-42b2-b392-4c1c06a7d433@188.0.247.176:56327?encryption=none
 vless://118008d1-cca6-4de3-a396-a791d7d88ff9@91.239.192.64:43101?security=reality&encryption=none&pbk=6bTtIB1BZJ3-ZGOn9AR7LH9khBi5BeGoDyNxsEkZP2A&headerType=none&fp=chrome&spx=/&type=tcp&sni=cdn.yektanet.com#@canfingV2rayNG
 vless://11a1ac42-9e55-4977-b24e-6f6026a32765@Ge10.Jet-Channel.Top:443?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&fp=chrome&type=tcp&sni=skyroom.online,gharar.ir,igap.net#channel : @freedomofinfor
 vless://11bbe394-c3ac-46ca-ac8c-66f4cb8f78ff@gm.germany-14.com:443?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#Channel : @Mrsoulb 🏴🏳
+vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
+vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#Mci-@V2rayAlpha-9
+vless://11d7378f-7381-4b4f-9a15-7882fdca2c7d@sub.mobileamin.shop:2087?path=/ws&security=none&encryption=none&host=sub.mobileamin.shop&type=ws#@Spotify_Porteghali 5052
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#⚜️40@oneclickvpnkeys
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#IR+@V2rayAlpha-11
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#⚜️44@oneclickvpnkeys
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#⚜️42@oneclickvpnkeys
+vless://12634793-ace2-4c20-9c3e-36cb0c58b0e0@st6.pmme.top:25443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#کانفیگ بیشتر @famoushaji
+vless://127e3e52-0aad-46ec-a5b1-51b32e0de0b9@deu672.lackerdeu.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#@Spartan_YT
