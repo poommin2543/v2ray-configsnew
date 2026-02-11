@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.98.0:443?path=/--Telegram---@/---@/---/---@&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#vmesskhosam
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.98.0:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&serviseName=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#@bored_vpn
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.98.0:443?path=/--Telegram---@vpnbaz/---@vpnbaz/---vpnbaz/---@vpnbaz&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com# @vpnbaz🌼
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dash.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.getasa.ir#@icv2ray
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/Telegram@Appsooner-Telegram@Appsooner-Telegram@Appsooner-Telegram@V2ynpv-Telegram@Appsooner-Telegram@Appsooner-Telegram@Appsooner&security=tls&alpn=h2,http/1.1&encryption=none&host=dash.getasa.ir&fp=chrome&type=ws&sni=dash.getasa.ir#@appsooner کانال تلگرام 🕊️
@@ -251,5 +253,3 @@ vless://e9af1f6d-98b0-4b08-8f0d-d54a7251e462@i.maxpn.top:2083/?security=none&enc
 vless://e9af1f6d-98b0-4b08-8f0d-d54a7251e462@i.maxpn.top:2083?security=&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG 👈 تلگرام
 vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?security=&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
 vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?security=none&encryption=none&headerType=none&type=tcp#@SPARTAN_YT قطع شد بیا چنل جدید میزارم
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?security=none&encryption=none&headerType=none&type=tcp#IR-@V2rayAlpha--9
