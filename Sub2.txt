@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://34da2954-77da-4a8e-9a83-72ef3774bca8@3neth.solonettochka.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=mAMFekCMS7p9Ywg0XqZcSbzLKqgZQnto7qkseAK5rW8&sid=01&spx=%2FFQPXTpfD2JdqGPA&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Free_World2
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053?encryption=none&security=tls&sni=ir7.hnbyme.online&fp=chrome&type=ws&host=ir7.hnbyme.online&path=%2F#%F0%9F%8C%90%20WS-Reality%20%F0%9F%93%81%20%40Free_World2
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 vless://193c75c1-1af1-484a-84ec-14de4828d209@hk.griffon-guard.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40V2rayBaaz
@@ -253,3 +252,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?mode=gun&securit
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrvCfh7MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
