@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://iWnFtzMiac@205.185.115.223:19258?mode=gun&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=6d7efa97b2#🌊 Tel : @ProxyVPN11 ⟵
-trojan://iWnFtzMiac@205.185.115.223:19258?security=reality&sni=cloudflare.com&fp=chrome&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&sid=6d7efa97b2&spx=/&type=grpc#کانفیگ رایگان = t.me/arisping
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#telegram : @FergalVpnMod
 trojan://n875vm39ii96@104.17.163.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&fp=chrome&type=ws&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#@HiByeVPNN 💯🔥
 trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net#[🇨🇦]Telegram = @FergalVpnMod
@@ -253,3 +250,6 @@ vless://10ed0abe-4556-48e4-8d9e-1681fd5762ac@5.75.192.248:39612?security=none&en
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.3.52:2096?security=tls&sni=De12.SiMaNsAnAt.Ir.&type=ws&host=De12.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.3.52:2096?security=tls&sni=De12.SiMaNsAnAt.Ir.&type=ws&host=De12.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#t.me/entryNET/config=1856817482932007
 vless://115af4cb-e1c2-42b2-b392-4c1c06a7d433@188.0.247.176:56327?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
+vless://115af4cb-e1c2-42b2-b392-4c1c06a7d433@188.0.247.176:56327?security=&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
+vless://118008d1-cca6-4de3-a396-a791d7d88ff9@91.239.192.64:43101?security=reality&encryption=none&pbk=6bTtIB1BZJ3-ZGOn9AR7LH9khBi5BeGoDyNxsEkZP2A&headerType=none&fp=chrome&spx=/&type=tcp&sni=cdn.yektanet.com#@canfingV2rayNG
+vless://11875419-c06b-465e-ba3f-ebff2545c0f5@but.honey.i.luv.i5.javidshah.sbs:2098?encryption=none&security=none

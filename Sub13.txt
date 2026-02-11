@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8eab33b0-a817-4f12-8a5a-7f5813e1bf15@104.19.34.28:443/?type=ws&encryption=none&flow=&host=de.cdz.asia&path=/&security=tls&sni=de.cdz.asia&allowInsecure=1#🦚2@oneclickvpnkeys
-vless://8eab33b0-a817-4f12-8a5a-7f5813e1bf15@104.19.34.28:443?path=/&security=tls&encryption=none&insecure=1&host=de.cdz.asia&type=ws&allowInsecure=1&sni=de.cdz.asia#Config 1 - @lebertad
-vless://8eab33b0-a817-4f12-8a5a-7f5813e1bf15@104.19.34.28:443?path=/&security=tls&encryption=none&insecure=1&host=de.cdz.asia&type=ws&allowInsecure=1&sni=de.cdz.asia#Telegram:@config_proxy 🔥
 vless://8eab33b0-a817-4f12-8a5a-7f5813e1bf15@104.19.48.35:443/?type=ws&encryption=none&flow=&host=de.cdz.asia&path=/&security=tls&sni=de.cdz.asia&allowInsecure=1#🦚1@oneclickvpnkeys
 vless://8eab33b0-a817-4f12-8a5a-7f5813e1bf15@104.19.48.35:443?path=/&security=tls&encryption=none&insecure=1&host=de.cdz.asia&type=ws&allowInsecure=1&sni=de.cdz.asia#Config 3 - @lebertad
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@104.17.162.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&sni=6nwf5rauksz8126xm.zjde5.de5.net#@HiByeVPNN✅💯🔥
@@ -253,3 +250,6 @@ vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#@erfanandroid
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#@vpnbaz 🧭
 vless://a4b96207-61fd-4ab3-aa1d-1e26fb02dc3b@104.18.32.47:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=de.mrtech.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=de.mrtech.com.tr#@V2rayNG3
+vless://a4ed2e0b-85d9-4a13-884c-eae6bb4f1800@france.alpacalounge.com:2096/?security=reality&encryption=none&pbk=6G6julG6n7bkD8JvdLdGSniDXf9AYV12PGYNPQgg7xQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.alpacalounge.com&sid=f77d05d1bf4d#@v2rays_ha 8232
+vless://a4ed2e0b-85d9-4a13-884c-eae6bb4f1800@france.alpacalounge.com:2096?security=reality&encryption=none&pbk=6G6julG6n7bkD8JvdLdGSniDXf9AYV12PGYNPQgg7xQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.alpacalounge.com&sid=f77d05d1bf4d#@erfanandroid
+vless://a5b22acc-bbec-4f8d-9bb8-e6bb2d973730@chatgpt.com:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mis.shevid.click#@V2rayNG3
