@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#t.me/entryNET/config=1856779734318996
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.155:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@130.193.59.133:51101?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=yandex.ru&type=tcp#⚜️39@oneclickvpnkeys
@@ -252,4 +253,3 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.17:443/?path=/&security=
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.17:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=/#🔥 Telegram: @wiki_tajrobe
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.18:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=/#🔥 Telegram: @wiki_tajrobe
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.18:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#IR-@V2rayAlpha-18
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.2:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=/#کانفیگ رایگان = t.me/arisping

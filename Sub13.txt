@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.120.175.42:443?security=none&encryption=none&headerType=none&type=tcp#horn_proxy 1
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.120.175.42:443?security=none&encryption=none&headerType=none&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️247🌐🆕️
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.120.175.42:443?security=none&encryption=none&headerType=none&type=tcp#🔘+T.me/v2ray_configs_pools+|+Join+Now+✅️
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.120.175.42:443?security=none&encryption=none&headerType=none&type=tcp#🧿+Tel+:+@v2ray_configs_pools+⟵
@@ -252,4 +253,3 @@ vless://a6d2209f-699e-4faa-a5d7-9e0b4a719d9c@Black1.hostwolf-server.ir:80?path=/
 vless://a70d24ce-4dcc-860f-e016-79b06c700ef2@95.38.210.26:7165?security=none&encryption=none&host=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&headerType=none&type=tcp#🇮🇷TM (@AZARBAYJAB1)
 vless://a730c31a-5bba-4c36-939b-653ca1dd5f82@94.183.179.179:12747/?type=tcp&encryption=none&path=/AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--v&headerType=http&security=none#@AbriVPN-💙
 vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&host=afrcloud4.c01.kr&type=ws&sni=afrcloud4.c01.kr#VayNora
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=none&encryption=none&type=ws#@Golestan_VPN - 🦁

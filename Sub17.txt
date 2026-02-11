@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/?TELEGRAM-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#@vpnbaz🪷
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#@vpnbaz🎈
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#VayNora
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#جوین چنل شید قط نشید@shankamil
@@ -252,4 +253,3 @@ vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@ChatGPT.com:443?path=/213.35.108.13
 vless://ea3d0e35-80ca-4856-9ab1-52d657361ea0@mci.farsnews.fun:80?encryption=none&security=none&type=xhttp&host=tonellmelig5.global.ssl.fastly.net&path=/&mode=auto#کانفیگ رایگان = t.me/arisping
 vless://ea3f180c-8141-4e03-b11c-4d542767a417@chatgpt.com:443?path=/eyJqdW5rIjoidmo5SG5sY2oyMGNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev#@V2rayNG3
 vless://ea9daf4d-66d0-453d-9ca9-727fe085a710@fast-mci.totalmntxah.ir:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes":1000000.0,"scMaxConcurrentPosts":100.0,"scMinPostsIntervalMs":30.0,"xPaddingBytes":"100-1000","noGRPCHeader":false}&host=Fieryj7654.global.ssl.fastly.net&type=xhttp#🇫🇮+|+𝐓𝐞𝐬𝐭+𝐀𝐜𝐜𝐨𝐓𝐔𝐍
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
