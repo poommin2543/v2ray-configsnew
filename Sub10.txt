@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#🇩🇪 @FreakConfig
+vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#🇩🇪@FreakConfig
+vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-Telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,Telegram-@mainv2ray,Telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://4b68fe5d-9426-4493-be80-8381d2e09680@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://4b68fe5d-9426-4493-be80-8381d2e09680@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#🇮🇷 IR 51 @Outline_Vpn
 vless://4b811a3e-8a38-447f-9050-abd4cb81b382@129.212.239.177:42036?path=/FREE By Tharuwa (0767597317)#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN&security=none&encryption=none&host=m.zoom.us&type=ws#@𝗣𝗨𝗟𝗔𝗩𝗣𝗡 • 🇩🇪⁷⁰
 vless://4b811a3e-8a38-447f-9050-abd4cb81b382@129.212.239.177:42036?path=/FREE By Tharuwa (0767597317)#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN&security=none&encryption=none&host=m.zoom.us&type=ws#Telegram:@config_proxy 🔥
@@ -249,7 +253,3 @@ vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?path=/@AmirGeekTec
 vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?type=ws&encryption=none&path=/@AmirGeekTech-@FNET00&host=ipv4.farazteams.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
 vless://573c787d-d549-4171-b05f-29984bc0266c@45.85.118.209:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
 vless://577e812a-11af-48e0-be53-22b563ff31a5@vip.arivganteng.biz.id:443?path=/ariv=83.142.30.4=2096&security=tls&encryption=none&host=vip.arivganteng.biz.id&type=ws&sni=vip.arivganteng.biz.id#[144] - Telegram : @V2All
-vless://57aba857-2479-459c-be0a-c167ff60c5c4@188.0.247.176:56327?security=&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
-vless://57aba857-2479-459c-be0a-c167ff60c5c4@188.0.247.176:56327?security=none&encryption=none&headerType=none&type=tcp#Join Telegram:@v2ray_configs_pools
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#🦚76@oneclickvpnkeys
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?security=tls&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&sni=ovhwuxian.pai50288.uk&fp=chrome&encryption=none#@v2rays_ha 8256

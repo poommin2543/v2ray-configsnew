@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#https://t.me/v2ray_configs_pools
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#shankamil
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#telegram @mtmvpn
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#v2ray_configs_pools
 vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#کانال تلگرام : ConfigV2RayNG@
 vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#کانفیگ رایگان = ConfigV2RayNG
 vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#کانفیگ+رایگان+=+t.me%2v2ray_configs_pools
@@ -249,7 +253,3 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/?ed=2560&se
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=1&sni=web.abcallcenter.com#VayNora
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=web.abcallcenter.com&fp=chrome&allowinsecure=0&type=ws&sni=web.abcallcenter.com#@AccoTUN
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com# @vpnbaz🌼
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/Telegram@-Telegram@-Telegram@-Telegram@-Telegram@-Telegram@-Telegram@&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#vmesskhodam
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/Telegram@-Telegram@-Telegram@-Telegram@-Telegram@-Telegram@-Telegram@&security=tls&encryption=none&alpn=http/1.1&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.com#v2ray_configs_pools
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#Telegram : @V2ynpv
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com# @vpnbaz🌼
