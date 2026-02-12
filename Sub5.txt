@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#⚡️+|+@ConfigV2RayNG『🇨🇦³』
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#⚡Telegram = @SOSkeyNET
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#⚡️+|+@ConfigV2RayNG『🇨🇦⁷』
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[KIA_NET] 🇨🇦 CA-12045
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🥊 Tel : @ProxyVPN11 ⟵
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🧿 Tel : @ProxyVPN11 ⟵
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#@meliproxyy
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#IR-@V2rayAlpha--4
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🕊 Tel : @ProxyVPN11 ⟵
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#⚡Telegram = @SOSkeyNET
@@ -253,3 +241,15 @@ vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:8443/?type=tcp&encry
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=e57932a42872a362#⚡Telegram = @SOSkeyNET
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=205748bc0f24a747#⚡Telegram = @SOSkeyNET
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@84.252.136.245:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=c6ef72e4635d15a5#⚡Telegram = @SOSkeyNET
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@84.252.136.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🦚98@oneclickvpnkeys
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@84.252.136.245:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=c6ef72e4635d15a5#⚡Telegram = @SOSkeyNET
+vless://0ac82530-7efa-4df0-9c95-1643aff9256f@91.107.179.39:22595/?type=tcp&encryption=none&flow=#🦚19@oneclickvpnkeys
+vless://0ac82530-7efa-4df0-9c95-1643aff9256f@91.107.179.39:22595?security=none&encryption=none&headerType=none&type=tcp#جوین چنل شید قط نشید@shankamil
+vless://0ad623ab-7fc8-4422-bd79-b65dd1cb78a2@5.75.192.248:14469?encryption=none&security=none&type=tcp&headerType=none#@OnNetX جوین شو
+vless://0b2056cb-234b-4120-8835-d116b74a72ca@chatgpt.com:2087?path=/&security=tls&alpn=h2&encryption=none&host=netvitrin.tickyou.ir&fp=chrome&type=ws&sni=netvitrin.tickyou.ir#🇮🇷 IR 33 @Outline_Vpn
+vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@104.21.13.210:443?path=/??ed=512&security=tls&encryption=none&insecure=0&host=mianfeijiedianscp.buzz&type=ws&allowInsecure=0&sni=mianfeijiedianscp.buzz#VayNora
+vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@172.64.80.1:443?path=/&security=tls&encryption=none&insecure=0&host=mianfeijiedianscp.buzz&type=ws&allowInsecure=0&sni=mianfeijiedianscp.buzz#@hopev2ray💜
+vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?path=/site&security=&encryption=none&host=yalandonya.global.ssl.fastly.net&type=ws#channel : @freedomofinfor
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
+vless://0c37f9e8-aa18-4d4d-9203-94db811b0819@H5.FASTSPEEDS.IR:2053?mode=auto&path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=gamehub1.mobilezahra.com#@filembad
