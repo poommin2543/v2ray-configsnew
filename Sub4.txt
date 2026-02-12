@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#IR-@V2rayAlpha-3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080?#کانفیگ رایگان = t.me/arisping
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#@CUSTOMVPNSERVER
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080?#کانفیگ رایگان = t.me/arisping
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#@proxy_kafee
@@ -253,3 +251,5 @@ vless:///M7iyNuAMfxc1RiTVFKjji9fJu7lE3+kEssAtv/ziwYMw5P9cuxcsw8d2QwcYKd7obHTcEr6
 vless://00000000-0000-4000-8000-000000000000@13.250.135.82:48223?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=miku.zrf.xx.kg&type=ws&allowInsecure=1&sni=miku.zrf.xx.kg#⚜️52@ConfigV2RayNG
 vless://00000000-0000-4000-8000-000000000000@5.8.33.253:13308?allowInsecure=1&encryption=none&host=miku.zrf.xx.kg&path=/@Marisa_kristi&security=tls&sni=miku.zrf.xx.kg&type=ws#⚜️86@oneclickvpnkeys
 vless://00000000-0000-4000-8000-000000000000@91.107.151.136:348?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=miku.zrf.xx.kg&type=ws&allowInsecure=1&sni=miku.zrf.xx.kg#⚜️8@ConfigV2RayNG
+vless://00000000-0000-4000-8000-000000000000@91.107.151.136:883?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=miku.zrf.xx.kg&type=ws&allowInsecure=1&sni=miku.zrf.xx.kg#⚜️18@ConfigV2RayNG
+vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?security=reality&encryption=none&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=aabbccdd#[449] - Telegram : @V2All
