@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d171a014-e84b-4444-a0b8-58f9004d4ecd@rill.mr-mobile.shop:443?type=tcp&security=reality&fp=chrome&sni=fonts.googleapis.com&pbk=mnTS_BtktTdCxANPuJlQwHNOxl-uZTqFm90c4_K74DM&sid=49f65a80&spx=/
+vless://d171a014-e84b-4444-a0b8-58f9004d4ecd@rill.mr-mobile.shop:443?type=tcp&security=reality&fp=chrome&sni=fonts.googleapis.com&pbk=mnTS_BtktTdCxANPuJlQwHNOxl-uZTqFm90c4_K74DM&sid=49f65a80&spx=/ #@HosseinStore_Za  ترافیک
 vless://d2248d81-2dc1-400b-ad79-59c05a5ed0ae@s1.sohrab172.ir:2089?security=none&encryption=none&headerType=http&type=tcp#IR+@V2rayAlpha-14
 vless://d26a2e65-2a21-452d-83c8-3a8b32b57217@Fast.test.pamelasli.ir:80?security=none&encryption=none&host=Blac7887.global.ssl.fastly.net&type=ws#@SPARTAN_YT قطع شد بیا چنل جدید میزارم
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@18.159.196.113:443?security=none&encryption=none&headerType=none&type=tcp#horn_proxy 5
@@ -251,5 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#[1985] - Telegram : @V2All
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3

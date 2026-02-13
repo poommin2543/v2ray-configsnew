@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.236:9828?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@canfingV2rayNG
+vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@canfingV2rayNG
 vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#VayNora
 vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.56:9830?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@canfingV2rayNG
 vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.56:9830?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#VayNora
@@ -251,5 +253,3 @@ vless://435fee59-8f88-4b02-8ec3-a186287662b7@t2.sapienza-ren.ir:2083?mode=auto&p
 vless://435fee59-8f88-4b02-8ec3-a186287662b7@t2.sapienza-ren.ir:2083?mode=auto&path=/path&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&type=xhttp&allowInsecure=0&sni=usat.phantompanel.shop#@vpnbaz🪷
 vless://435fee59-8f88-4b02-8ec3-a186287662b7@t2.sapienza-ren.ir:2083?mode=auto&path=/path&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&type=xhttp&allowInsecure=0&sni=usat.phantompanel.shop#https://t.me/VIPV2rayNGNP
 vless://435fee59-8f88-4b02-8ec3-a186287662b7@t2.sapienza-ren.ir:2083?mode=auto&path=/path&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&type=xhttp&allowInsecure=0&sni=usat.phantompanel.shop#جوین چنل شید قط نشید@shankamil
-vless://435fee59-8f88-4b02-8ec3-a186287662b7@t2.sapienza-ren.ir:2083?mode=auto&path=/path&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&type=xhttp&allowInsecure=0&sni=usat.phantompanel.shop#⚡Telegram = @prrofile_purple
-vless://435fee59-8f88-4b02-8ec3-a186287662b7@t2.sapienza-ren.ir:2083?mode=auto&path=/path&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&type=xhttp&sni=usat.phantompanel.shop#@meliproxyy
