@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTI1Ni1nY206dW94VEJUNmh5bW5MT2FZV2dZcW1YQQ@130.49.150.165:1080?#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:63.98ms 61 dailyv2ry
-ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag==@154.53.57.143:80#⚡Telegram = @SOSkeyNET
-ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:443#@meliproxyy
-ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:443#@proxy_kafee
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:443#shankamil
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:80#@meliproxyy
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:80#@proxy_kafee
@@ -253,3 +249,7 @@ vless://00c01f55-e31a-41cd-872b-938cda90afc3@212.111.84.82:8443?security=reality
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.70.253.134:443?security=&encryption=none&headerType=&type=tcp#v2ray_configs_pools
 vless://01e2c6be-624d-4824-9fab-68afd2db90df@ftp.notls.hetzner.com.techraseir.ir:1820?security=none&encryption=none&headerType=http&type=tcp#@FergalVpnMod میخوای قطع نشی جوین بده
 vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=&encryption=none&headerType=&type=tcp#@meliproxyy
+vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=none&encryption=none&headerType=none&type=tcp#@proxy_kafee
+vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools
+vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
+vless://022c96cb-3593-4a20-d5b0-c6b8fcacbed1@vipnet15.alireza031.net:23056?path=/VIPNET15&security=&encryption=none&type=ws#Config 3 - @lebertad
