@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://b3a73d16-5d6e-45ad-8a73-314583408ec1@fic.buzzon.shop:443?path=/SpB9iu4m7MqdokB1leJ&security=tls&alpn=http/1.1&insecure=0&host=fic.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=fic.buzzon.shop#Channel : @Mrsoulb 🏴🏳
+trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
 trojan://b9bb332d-5e0d-41af-adac-49362dde8661@bbbnhju.huangshang.online:443?security=tls&sni=bbbnhju.huangshang.online&alpn=http/1.1&type=ws&host=bbbnhju.huangshang.online&path=/QmR662lkasAQbt5Q2GkKGWRMg#Config 1 - @lebertad
 trojan://b9bb332d-5e0d-41af-adac-49362dde8661@bbbnhju.huangshang.online:443?security=tls&sni=bbbnhju.huangshang.online&alpn=http/1.1&type=ws&host=bbbnhju.huangshang.online&path=/QmR662lkasAQbt5Q2GkKGWRMg#⚡Telegram = @SOSkeyNET
 trojan://b9bb332d-5e0d-41af-adac-49362dde8661@lll9.7777198.xyz:443?security=tls&sni=lll9.7777198.xyz&alpn=http/1.1&type=ws&host=lll9.7777198.xyz&path=/QmR662lkasAQbt5Q2GkKGWRMg#Config 3 - @lebertad
@@ -251,5 +253,3 @@ vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?securit
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&host=TELEGRAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#MCI-@V2rayAlpha--20
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#@Spartan_YT
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#IR+@V2rayAlpha-10
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#IR-@V2rayAlpha--10
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#IR-@V2rayAlpha-27

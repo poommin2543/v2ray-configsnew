@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://81425907-7721-4d6e-bd7e-4c2df08e9754@safest.silentbreath.ir:2083?security=none&encryption=none&headerType=none&type=tcp#VayNora
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560&note=@freeOnlineVPN#🇺🇸 - US - @freeOnlineVPN
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
 vless://82241d60-2bdf-4de7-9a29-2d57ebc09b76@103.21.244.28:443?security=tls&type=ws&path=/eyJqdW5rIjoiSWVocjJHeWRvSGxYaThvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&host=h18i2jam-v6htjq-f-vwai0pvgltc6on.hghorbani-mc70.workers.dev&alpn=http/1.1&sni=h18I2JaM-v6hTJQ-F-vwAI0PvGltC6On.hGhOrBAni-MC70.WoRkErS.dev&fp=chrome&encryption=none#Telegram:@config_proxy 💦
@@ -251,5 +253,3 @@ vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@104.18.32.47:2083?allowInsecure=1&a
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@104.18.32.47:2083?encryption=none&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http/1.1&allowInsecure=1&type=ws&host=ds1-mx-fn154-protection.iranlease.com&path=/#@chillguy_vpn
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@104.18.32.47:2083?encryption=none&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http/1.1&fp=chrome&type=ws&host=ds1-mx-fn154-protection.iranlease.com&path=/#@chillguy_vpn
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@104.18.32.47:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ds1-mx-fn154-protection.iranlease.com&fp=chrome&type=ws&allowInsecure=0&sni=ds1-mx-fn154-protection.iranlease.com#MCI-@V2rayAlpha--23
-vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@104.18.32.47:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ds1-mx-fn154-protection.iranlease.com&fp=chrome&type=ws&allowInsecure=0&sni=ds1-mx-fn154-protection.iranlease.com#🔵@chillguy_vpn
-vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
