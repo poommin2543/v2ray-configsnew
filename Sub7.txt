@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-privatevpns@13.38.185.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.225.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.241.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.96.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.192.246.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.194.65.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.194.65.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
@@ -249,7 +253,3 @@ vless://0d1472d5-0303-42e3-b0ae-1126d0441a66@199.232.236.1:443?security=tls&encr
 vless://0d30e81c-ee27-46dd-aa3d-7796da838b75@imgur.com:80?path=/containers/fi&security=none&encryption=none&host=shotornet.global.ssl.fastly.net&type=ws#@X_RAY_VPN1
 vless://0d30e81c-ee27-46dd-aa3d-7796da838b75@perl.org:80?path=/containers/fi&security=none&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#@X_RAY_VPN1
 vless://0d57032d-f54e-49a4-8285-39840bbf329e@che01-plr-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#💞8@oneclickvpnkeys
-vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182/?encryption=none&flow=&host=Excoino.com&type=tcp&headerType=http#☺️32@oneclickvpnkeys
-vless://0d79ad43-651c-411a-8cee-f7ba2f5f8cfa@fastly.cdn.steampipe.steamcontent.com:80?mode=auto&path=plsvtunel?ed=2048&security=&encryption=none&host=wee.global.ssl.fastly.net&fp=chrome&type=xhttp#@canfingV2rayNG
-vless://0d79ad43-651c-411a-8cee-f7ba2f5f8cfa@fastly.cdn.steampipe.steamcontent.com:80?mode=auto&path=plsvtunel?ed=2048&security=none&encryption=none&host=wee.global.ssl.fastly.net&fp=chrome&type=xhttp#@Hddify - ❕
-vless://0d79ad43-651c-411a-8cee-f7ba2f5f8cfa@fastly.cdn.steampipe.steamcontent.com:80?mode=auto&path=plsvtunel?ed=2048&security=none&encryption=none&host=wee.global.ssl.fastly.net&fp=chrome&type=xhttp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️268🌐🆕️
