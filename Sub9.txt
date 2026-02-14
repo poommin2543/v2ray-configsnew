@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@X_RAY_VPN1
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@icv2ray
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@meliproxyy
@@ -253,3 +252,4 @@ vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?security=reality
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f4b4a6365558ea2e#@vmesskhodam
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f4b4a6365558ea2e#MCI-@V2rayAlpha--19
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f4b4a6365558ea2e#🇩🇪@FreakConfig
+vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f4b4a6365558ea2e#🇩🇪@black_star_vpn

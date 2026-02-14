@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#⚡Telegram = @prrofile_purple
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@icv2ray
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇧🇿Belize+->+🇩🇪Germany+⚡@DeamNet_Proxy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.160.57:443?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#https://t.me/allproconf
@@ -253,3 +252,4 @@ vless://69dbdd44-02de-47d9-94ef-75a53fe30fb4@F3.HaMrAhCoNf.Ir:2086?path=/&securi
 vless://69dbdd44-02de-47d9-94ef-75a53fe30fb4@F3.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&host=lp333.hamrahconfig.ir&type=httpupgrade#🌐 HTTPUpgrade-None | @Express_alaki | src @prrofile_purple
 vless://69dbdd44-02de-47d9-94ef-75a53fe30fb4@F3.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&host=lp333.hamrahconfig.ir&type=httpupgrade#🔵@chillguy_vpn
 vless://69dbdd44-02de-47d9-94ef-75a53fe30fb4@F3.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=lp333.hamrahconfig.ir&type=httpupgrade#@icv2ray
+vless://6a0ec271-ed4a-45c9-99f3-2e0e6ca641cd@blue99shop.ir:28829?path=/&security=none&encryption=none&host=speedtest.net&type=httpupgrade#Germany vip 🇩🇪 Telgram: @Sobi_vpn
