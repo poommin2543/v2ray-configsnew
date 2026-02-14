@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://381224fe-8f66-49f8-a7c3-06446317770b@194.61.3.100:23816/?type=tcp&encryption=none&path=///AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN--v&host=ripe.net&headerType=http&security=none#@AbriVPN-🩵
-vless://381224fe-8f66-49f8-a7c3-06446317770b@194.61.3.100:23816/?type=tcp&encryption=none&path=///AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN--v&host=ripe.net&headerType=http&security=none#@chillguy_vpn
-vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443?encryption=none&security=tls&sni=myserviran.serviran.workers.dev&fp=chrome&insecure=1&type=ws&host=myserviran.serviran.workers.dev&path=/?ed=2048#🇨🇦Canada+->+🇮🇹Italy+⚡@DeamNet_Proxy
-vless://3890a8b5-bf65-4e51-b91e-16034be5c5e5@ir2.ihomayon.ir:10010?encryption=none&type=ws&headerType=none&path=/&host=myket.ir#Config 2 - @lebertad
-vless://3890a8b5-bf65-4e51-b91e-16034be5c5e5@irr4.ihomayon.ir:1003?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@Hddify
-vless://3890a8b5-bf65-4e51-b91e-16034be5c5e5@irr4.ihomayon.ir:1007?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@Hddify
-vless://38cd2307-6a10-49d4-a142-f7044742f2af@172.64.152.23:443?encryption=none&security=tls&sni=api-ws-de.nxping.ir&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=api-ws-de.nxping.ir&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&mode=auto#کانفیگ رایگان = t.me/arisping
 vless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80?path=/@v2rayNG_VPNN&security=none&encryption=none&host=7.arsalanv2.sbs&type=ws#Config 2 - @lebertad
 vless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80?path=/@v2rayNG_VPNN&security=none&encryption=none&host=7.arsalanv2.sbs&type=ws#⚡Telegram = @vaslbemonn
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&sni=pages.dev#@CUSTOMVPNSERVER
@@ -253,3 +246,10 @@ vless://416d4cbc-16c4-46da-90bd-8ad173079da6@nzr.parogamers.com:443?security=non
 vless://4173531f-f1c6-481d-ab43-538d6b76e447@s9.sohrab172.ir:2089?encryption=none&security=none&type=tcp&headerType=http#telegram 🌈 dailyv2ry
 vless://4173531f-f1c6-481d-ab43-538d6b76e447@s9.sohrab172.ir:2089?encryption=none&security=none&type=tcp&headerType=http#telegram 🌟 dailyv2ry
 vless://4173531f-f1c6-481d-ab43-538d6b76e447@s9.sohrab172.ir:2089?encryption=none&security=none&type=tcp&headerType=http#telegram 🚀 dailyv2ry
+vless://417c4cf2-f845-4750-8682-3aa0d8825485@wWw.ParsVDS.com:8080/?type=ws&host=telewebion.com.www.speedtest.net.google.com.speed.cloudflare.com.bmw.com.zula.ir.xbox.com.ßotshop.irł😂☠️.2.srtongston.ir&path=/Join--VPNCUSTOMIZE.V2ray.re#@v2rays_ha 8670
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/#کانفیگ رایگان = t.me/arisping
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/?ed=2560#کانفیگ رایگان = t.me/arisping
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&type=ws&host=gamepc.sorza.ir&path=/#🔵@chillguy_vpn
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#Em
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=?ed=2560#🔥 Telegram: @wiki_tajrobe
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=?ed=2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@canfingV2rayNG
