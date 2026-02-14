@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:8443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=tls&encryption=none&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@X_RAY_VPN1 ⚡
-vless://4578bd05-c0bf-42e1-b228-22db0e64c947@89.169.55.246:443?security=reality&encryption=none&pbk=Sy0R6Rfc0__9-mP_o-_Uz1j-dr0tFE622A79TeY1Zgk&headerType=none&fp=chrome&spx=/&type=tcp&sni=krakenlabs.ru&sid=50bf58cc86978253#@X_RAY_VPN1🌩️
-vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9f6c7ec9f6434a4f#@chillguy_vpn
-vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=eeaa75fa5fd162ad#@chillguy_vpn
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=06493d73f37c8a90#@chillguy_vpn
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=af8564cc476ebf07#@chillguy_vpn
 vless://457c367f-ac78-4641-9846-dd880332f7cf@217.13.104.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295#@chillguy_vpn
@@ -253,3 +249,7 @@ vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:4
 vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?encryption=none&security=none&type=tcp&headerType=none&host=/JOIN---PingAris---JOIN---PingAris?ed=2560#کانفیگ رایگان = t.me/arisping
 vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.245.171.238:1050?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://4f2be6f4-ca47-438e-8fb6-caa16e29938f@pol2.creativelife.monster:49873?security=none&encryption=none&headerType=none&type=tcp#IR-@V2rayAlpha-55
+vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#@Hope_Net-join-us-on-Telegram
+vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#Telegram:@config_proxy 💦
+vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#Telegram:@config_proxy 🔥

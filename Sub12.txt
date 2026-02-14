@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4f2be6f4-ca47-438e-8fb6-caa16e29938f@pol2.creativelife.monster:49873?security=none&encryption=none&headerType=none&type=tcp#IR-@V2rayAlpha-55
-vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#@Hope_Net-join-us-on-Telegram
-vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#Telegram:@config_proxy 💦
-vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#Telegram:@config_proxy 🔥
 vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#[2661] - Telegram : @V2All
 vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#https://t.me/allproconf
 vless://4f7bec62-b1e7-43d6-b1d4-9eb404596990@5.75.205.170:443?security=none&encryption=none&headerType=none&type=tcp#@Golestan_VPN - 🦁
@@ -253,3 +249,7 @@ vless://5e0c0c2a-d600-4dc8-9621-d293e935048d@192.200.160.20:443?path=/huwmciws?e
 vless://5e0c0c2a-d600-4dc8-9621-d293e935048d@192.200.160.20:443?path=/huwmciws?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=639065083958163454.corolla-perma.info&type=ws&allowInsecure=0&sni=639065083958163454.corolla-perma.info#🏴‍☠️@FreakConfig
 vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@172.64.152.23:80?type=ws&security=none&host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.&path=/?ed&note=@freeOnlineVPN#🇵🇱 - PL - @freeOnlineVPN
 vless://5ee12c65-8c8b-4dbf-9dd1-c9785b974559@srvgwtvm.samanidempire.org:443?path=/2747cb53&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=srvgwtvm.samanidempire.org&type=ws&allowInsecure=0#@v2box
+vless://5f139278-e8f8-16fd-4149-dcca5d76ac02@F5.FASTSPEEDS.IR:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns9.mehrsazi.ir#@erfanandroid
+vless://5fa2319e-44a0-4497-8005-110969e98dd1@5.75.205.170:10321?security=none&encryption=none&headerType=none&type=tcp#@Golestan_VPN - 🦁
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@fii.fisaqures.ir:2020?security=none&encryption=none&headerType=none&type=tcp#@Tweety_Proxy
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@fii.fisaqures.ir:2086?security=none&encryption=none&headerType=none&type=tcp#@Tweety_Proxy
