@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#@Golestan_VPN - ...ما ادامه داریم
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#IR-@V2rayAlpha-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇬🇧14@shadowsockskeys
@@ -252,4 +253,3 @@ ss://fa-397456379-1771011336319933@50.7.157.212:443?security=reality&encryption=
 ss://fe430457-84e1-49ec-a21f-4c5505015aea@a6.outbout.shop:8081/?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@v2rays_ha 8799
 ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=/&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#https://t.me/allproconf
 ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443/?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@v2rays_ha 8757
-ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#https://t.me/allproconf
