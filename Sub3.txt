@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?sni=ttt6.006660666.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%20196.1KB%2Fs
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@54.64.61.41:3373?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOSIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDQzIiwiaWQiOiJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ2l0aHViLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZ2l0aHViLmNvbSIsInRlc3RfbmFtZSI6IjkifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAgMzMzLjdLQi9zIiwiYWRkIjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEwIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEiLCJhZGQiOiIxMDQuMjEuNjkuNDQiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibmFzbmV0LTUxMTk1MjQyNC5tY2l0ZWwuY28iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIiLCJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTUiLCJhZGQiOiJkbGwuYXZhYWFhbC5pciIsInBvcnQiOiI4NDQzIiwiaWQiOiI3MjVmNWZjZC03MjFkLTQwYTAtYmE2Yi0zYzc0Nzc2MzMxMTAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY2RnZS5hdmFhYWFsLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkbGwuYXZhYWFhbC5pciIsInRlc3RfbmFtZSI6IlVT576O5Zu9NSJ9
 trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=/assignment#%E6%9C%AA%E7%9F%A513
@@ -247,9 +253,3 @@ ss://99a5747a-106d-4f3c-b199-2e3ae09874fa@cx.tuurkderag.top:2053?encryption=none
 ss://99a5747a-106d-4f3c-b199-2e3ae09874fa@cx.tuurkderag.top:2053?security=none&encryption=none&headerType=none&type=tcp#https://t.me/allproconf
 ss://M2Y5ZDNiNTItMWJjYy00OTlmLWFhZDAtYmE3MWQ2MTIzZjhiOg==@104.18.8.215:8080#@Hope_Net
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206aWV0WGJmcTAzVmg4WENheHlDRElFZz09@95.217.37.166:2020#Vip - @NetZoneNews 💎
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206aWV0WGJmcTAzVmg4WENheHlDRElFZz09@95.217.37.166:2020?#hope of freedom - @anotherme_night
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206L0o5d1ZlRVJXS2VSTUpqbVl6M3BJZGtmdnJ1RnIxbzAvMEozVkw5TUs0Yz0@51.195.110.193:8388#@milivpnn سرور های جدید و متصل رو از کانال بردارید
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206L0o5d1ZlRVJXS2VSTUpqbVl6M3BJZGtmdnJ1RnIxbzAvMEozVkw5TUs0Yz0@51.195.110.193:8389#🇵🇱@@Black_Star_Vpn
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206L0o5d1ZlRVJXS2VSTUpqbVl6M3BJZGtmdnJ1RnIxbzAvMEozVkw5TUs0Yz0@51.195.110.193:8389#🇵🇱@FreakConfig
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206L0o5d1ZlRVJXS2VSTUpqbVl6M3BJZGtmdnJ1RnIxbzAvMEozVkw5TUs0Yz0@51.195.110.193:8389?#کانفیگ رایگان = t.me/arisping
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UGFDWGtnOTdrOWs5YTE4clM3OGtlOXdoZHFNQkNxbVhycFROZkVZTkpZZz0@51.178.85.208:8389#IR+@V2rayAlpha-2
