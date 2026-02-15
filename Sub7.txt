@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇮🇷 IR 44 @Outline_Vpn
-trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇵🇱
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇩🇪  V2rayNg_madam چنل تلگرام
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#IR--@V2rayAlpha-14
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&allowInsecure=1#💞93@oneclickvpnkeys
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#[@KIA_NET]-11841
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#IR-@V2rayAlpha-58
@@ -253,3 +247,9 @@ vless://0d79ad43-651c-411a-8cee-f7ba2f5f8cfa@fastly.cdn.steampipe.steamcontent.c
 vless://0d79ad43-651c-411a-8cee-f7ba2f5f8cfa@fsat.amazon-host.com:80?mode=auto&path=magicmizban?ed=2048&security=&encryption=none&host=fr23423cdnsevicre.global.ssl.fastly.net&fp=chrome&type=xhttp#@canfingV2rayNG
 vless://0d79ad43-651c-411a-8cee-f7ba2f5f8cfa@fsat.amazon-host.com:80?mode=auto&path=magicmizban?ed=2048&security=none&encryption=none&host=fr23423cdnsevicre.global.ssl.fastly.net&fp=chrome&type=xhttp#@Hddify - ❕
 vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@91.234.147.72:6663?security=none&encryption=none&headerType=http&type=tcp#Em8
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@91.234.147.72:6665?security=none&encryption=none&headerType=http&type=tcp#Em10
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cp4.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_sw2c336e5d63601c9e-sfX.digitstocks.ir#Em7
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cpo1.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_swc440fac7cc7d4e2c-sfX.digitstocks.ir#Em3
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cpo2.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_sw0e3c715e776bde30-sfX.digitstocks.ir#Em4
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cpo3.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_sw25cab2f05fc83d28-sfX.digitstocks.ir#Em5
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@fsxtl1.azangooo.ir:443?mode=packet-up&path=/fsxh&security=tls&encryption=none&insecure=0&host=mawxich.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#Em6
