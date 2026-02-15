@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://--Shh-Proxy-@104.22.13.192:80?path=/Ftp.Debian.org?ed=2048&security=none&encryption=none&host=usa.snaapfood.org.&type=httpupgrade#@Hope_Net-join-us-on-Telegram
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
 vless://003ef206-46b6-3701-ab77-b03debe7511f@104.17.25.173:443?path=/db1024143bf11354&security=tls&alpn=h3,h2&encryption=none&insecure=1&host=dabaihk.webn.cc&fp=chrome&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#ConfigV2RayNG::🏴‍☠️
 vless://003ef206-46b6-3701-ab77-b03debe7511f@104.18.185.26:443?path=/db1024143bf11354&security=tls&alpn=h3,h2&encryption=none&insecure=1&host=dabaihk.webn.cc&fp=chrome&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#ConfigV2RayNG::🏴‍☠️
@@ -253,3 +252,4 @@ vless://1332320d-7153-4bb1-9e87-6a57c661a576@u.takspeed.shop:2086?path=/&securit
 vless://133d44b7-170e-41cd-a0cc-0b35470823bb@195.201.222.173:32916/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=chrome&security=reality&pbk=Vf2gG3NUXw728geRwr-lSqNf1xz8VZwm29FRkimd_WU&sid=621853#💞19@oneclickvpnkeys
 vless://13c76e16-5316-43ef-b5ef-4dfc6c1b766b@tu.fi.yo-servers.com:8080/?encryption=none&flow=&host=872r7f20.divarcdn.com,872r7f20.snappfood.ir,872r7f20.yjc.ir,872r7f20.digikala.com,872r7f20.tic.ir&type=tcp&headerType=http#💞65@oneclickvpnkeys
 vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&path=/&host=&security=none#s565-229065
+vless://14bfa7ea-ed2c-4970-b04c-3d5d8c9816da@de.golivetester.net:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=de1your-name.global.ssl.fastly.net&type=xhttp#@configfarsi
