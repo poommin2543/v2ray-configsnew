@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Telegram : @ConfigV2RayNG
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 | @vpnbaz
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10008?encryption=none&security=none&type=xhttp&host=play.google.com&path=/api&mode=auto#@filembad
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10008?mode=auto&path=/api&security=none&encryption=none&host=play.google.com&type=xhttp#🇳🇱 v2ray_configs_pools
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47041?security=&encryption=none&host=gharar.ir&headerType=http&type=tcp#@SPEEDS_VPN1-🫆
@@ -253,3 +251,5 @@ vless://14eba471-4623-4ed1-b937-f5b2206749bf@magazine.sentry-warrunner.xyz:443?m
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MTMVPN&headerType=http&type=tcp#[3590] - Telegram : @V2All
 vless://156eab55-1e45-4632-843a-c9f3fca0e59b@193.151.155.15:7788?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://156eab55-1e45-4632-843a-c9f3fca0e59b@193.151.155.15:7788?security=none&encryption=none&headerType=none&type=tcp#Tel:@loveiran83📍
+vless://156eab55-1e45-4632-843a-c9f3fca0e59b@193.151.155.15:7788?security=none&encryption=none&host=TELEGRAM _APPSOONER TELEGRAM _APPSOONER TELEGRAM _APPSOONER&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://15d99963-78a4-4b52-a746-0890e96b961e@172.64.145.38:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=stceexvemn9g6twqfs89f4rpfr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=stceexvemn9g6twqfs89f4rpfr.zjde5.de5.net#[🇨🇦]Telegram = @FergalVpnMod
