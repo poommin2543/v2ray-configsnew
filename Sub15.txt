@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=?TELEGRAM-vpnbaz?ed=512&security=tls&encryption=none&host=ca.adobe-connect.top&type=ws&sni=ca.adobe-connect.top#⚡Telegram = @SOSkeyNET
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=?TELEGRAM-vpnbaz?ed=512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#@vpnbaz
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=?TELEGRAM-vpnbaz?ed=512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram = @SOSkeyNET
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#@CUSTOMVPNSERVER
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
@@ -253,3 +251,5 @@ vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F6.FASTSPEEDS.IR:2087?path=/&securi
 vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F6.FASTSPEEDS.IR:2087?path=/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns7.mehrsazi.ir#@icv2ray
 vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781/?type=tcp&encryption=none&flow=#🦚7@oneclickvpnkeys
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#💞99@oneclickvpnkeys
+vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.64.7.13:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@@Black_Star_Vpn
+vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.64.7.13:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
