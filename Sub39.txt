@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.58.165:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%3E%3E%40V2rayNg_madam%3A%3ADE
-vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80?mode=auto&path=%2FTelegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs&security=&encryption=none&host=hazarabrowse.bh&type=xhttp#%3E%3E%40configV2rayNG%3A%3ADE
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.138.227.121:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%3E%3E%40v2nodes%3A%3AUS
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fd4636f1c8.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fd4636f1c8.workers.dev#%3E%3E%40configV2rayNG%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%3E%3E%40outline_vpn%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.254.52:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%3E%3E%40outline_vpn%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%3E%3E%40mehrosaboran%3A%3AUS
@@ -253,3 +249,7 @@ vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@104.18.32.47:443?security=tls&sni=r
 vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
 
 vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
+
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
+
+vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate

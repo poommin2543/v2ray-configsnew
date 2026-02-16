@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/140.245.53.45=443#telegram ☂️ dailyv2ry
-vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?path=/140.245.53.45=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#Config 3 - @lebertad
-vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?path=/140.245.53.45=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#⚡Telegram = @SOSkeyNET
-vless://6114c870-0bca-48fc-b002-a3f0357c7e8b@fi.ftp.arvan.digikalamag.top:2020?security=&encryption=none&host=goftino.com&headerType=http&type=tcp#channel : @freedomofinfor
 vless://6114c870-0bca-48fc-b002-a3f0357c7e8b@fi.ftp.arvan.digikalamag.top:2020?security=&encryption=none&host=goftino.com&headerType=http&type=tcp#🇧🇪@V2rayng_Fast جوین شید
 vless://6128dce2-fa17-42bb-edaf-7cfe9cdf7e47@185.226.119.119:2020?security=none&encryption=none&host=google.com&headerType=http&type=tcp#EmKavpn
 vless://6128dce2-fa17-42bb-edaf-7cfe9cdf7e47@185.226.119.119:2020?security=none&encryption=none&host=google.com&headerType=http&type=tcp#Telegram:@meowvip1 *204*
@@ -253,3 +249,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.107.158.77:443?path=/?ed=2560&se
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.107.158.77:443?path=/?ed=2560&telegram&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@AliXTso
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.107.158.77:443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@milivpnn -🤍 عضو شو از سرورا جا نمونی
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.111.44:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🆔Telegram : @planB_net
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@Spartan_YT
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#Channel : @Mrsoulb 🏴🏳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.179.241.93:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#🆔Telegram : @planB_net
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096/?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@v2rays_ha 9228

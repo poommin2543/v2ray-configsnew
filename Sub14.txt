@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4cf35798-c624-410b-989c-a477d2e7e171@37a59269e14ac4b937a59269e14ac4b9.randomziedsd.space:8390?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://4cf35798-c624-410b-989c-a477d2e7e171@a184d37a1c91f0e9a184d37a1c91f0e9.randomziedsd.online:1111/?encryption=none&security=none&type=grpc#@v2rays_ha 9231
-vless://4cf35798-c624-410b-989c-a477d2e7e171@a184d37a1c91f0e9a184d37a1c91f0e9.randomziedsd.online:1111?encryption=none&security=none&type=grpc#Config 5 - @lebertad
-vless://4d63dcc0-d836-4101-9618-a15306d5d8ba@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
 vless://4d666564-0414-439d-ba51-8e8156014abe@9f430b1651a14007.fast1.viperping.ir:80?mode=auto&security=&encryption=none&host=milad-h1.global.ssl.fastly.net&type=xhttp#vmesskhodam
 vless://4d666564-0414-439d-ba51-8e8156014abe@9f430b1651a14007.fast1.viperping.ir:80?mode=auto&security=none&encryption=none&host=milad-h1.global.ssl.fastly.net&type=xhttp#『♨️ 𝐹𝑟𝑒𝑒𝑊𝑜𝑟𝑙𝑑 ♨️』@Free_World2
 vless://4d666564-0414-439d-ba51-8e8156014abe@9f430b1651a14007.fast1.viperping.ir:80?mode=auto&security=none&encryption=none&host=milad-h1.global.ssl.fastly.net&type=xhttp#🇮🇷 𓏺 V2rayNG_SPDNet 𓏺 ایران - 𝐈𝐑
@@ -253,3 +249,7 @@ vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb23.serverp1anel.ir:8080?securi
 vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?type=httpupgrade&host=www.time.ir&path=@CHANGE_IP1#@CHANGE_IP1-VLESS
 vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443/?path=/140.245.53.45=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rays_ha 9237
 vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/140.245.53.45=443#Telegram : @Daily_Configs
+vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/140.245.53.45=443#telegram ☂️ dailyv2ry
+vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?path=/140.245.53.45=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#Config 3 - @lebertad
+vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?path=/140.245.53.45=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#⚡Telegram = @SOSkeyNET
+vless://6114c870-0bca-48fc-b002-a3f0357c7e8b@fi.ftp.arvan.digikalamag.top:2020?security=&encryption=none&host=goftino.com&headerType=http&type=tcp#channel : @freedomofinfor
