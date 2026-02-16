@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a9e655a1-b3ec-4b6f-9a81-0b23c60154da@91.98.235.137:12265/?type=tcp&encryption=none&flow=#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@InfoTech_VK
 vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=none&encryption=none&headerType=none&type=tcp#@InfoTech_VK```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#%40V2ray_confiig`

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjciLCJhZGQiOiJha2gyLmFsaWJhYmFhcGk2LmNvbSIsInBvcnQiOiIxNDMxMCIsImlkIjoiYTJmMzM2MDAtN2ZmMS00NmM0LWFiYzktN2RlYjg0M2U4OGEzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYWtoMi5hbGliYWJhYXBpNi5jb20iLCJwYXRoIjoiLzVlNjBiZTRmLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI3In0=
 trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=/assignment#%E6%9C%AA%E7%9F%A528
 trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A529
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -253,3 +252,4 @@ ss://9bc247bd-6fef-468b-91e7-2400e8c0903f@109.120.191.156:8443/?type=tcp&encrypt
 ss://9bc247bd-6fef-468b-91e7-2400e8c0903f@144.31.92.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.io.ozone.ru&fp=chrome&security=reality&pbk=zwmzheFdRaB1IwtMIqzB6xfrL_Mako1kDAXO1IocCW0&sid=68ec10761460dce4#https://t.me/allproconf
 ss://9bc247bd-6fef-468b-91e7-2400e8c0903f@178.250.243.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8&sid=f67d7ff6d5fc5e0c#@v2rays_ha 9055
 ss://9bc247bd-6fef-468b-91e7-2400e8c0903f@178.250.243.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8&sid=f67d7ff6d5fc5e0c#https://t.me/allproconf
+ss://9bc247bd-6fef-468b-91e7-2400e8c0903f@178.250.243.208:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8&sid=f67d7ff6d5fc5e0c#https://t.me/allproconf
