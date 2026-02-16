@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.111.44:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🆔Telegram : @planB_net
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@Spartan_YT
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#Channel : @Mrsoulb 🏴🏳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.179.241.93:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#🆔Telegram : @planB_net
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096/?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@v2rays_ha 9228
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#@filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#@freenettir
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#@kamkarstore
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#@meliproxyy
@@ -247,9 +253,3 @@ vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&enc
 vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@freenettir
 vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@meliproxyy
 vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@vpnbaz ✨
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#ConfigV2RayNG
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#telegram @mtmvpn 14
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp@Freeneetir ✨
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@tunel-aaasxa.gamepiu.com:5087?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#@meliproxyy
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@tunel-aaasxa.gamepiu.com:5087?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#•⭐ https://t.me/ConfigX2ray
