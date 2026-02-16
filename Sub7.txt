@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[[@KIA_NET] 🇨🇦 CA-12045
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#https://t.me/allproconf
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[[@KIA_NET] 🇨🇦 CA-11997
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[[@config_v2rayy] 🇨🇦 CA-11997
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#https://t.me/allproconf
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🥊 Tel : @ProxyVPN11 ⟵
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🧿 Tel : @ProxyVPN11 ⟵
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#ConfigV2RayNG
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#IR-@V2rayAlpha--4
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🕊 Tel : @ProxyVPN11 ⟵
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#@meliproxyy
-trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#NetZoneNews
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#melli_shekan1
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#shankamil
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ConfigV2RayNG
@@ -253,3 +239,17 @@ vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#MCI-@V2rayAlpha--4
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#https://t.me/ConfigX2ray
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#https://t.me/allproconf
+vless://0b0c4294-1781-4322-9041-3b3f3e42bd80@perl.org:80?path=/download&security=none&encryption=none&host=miltering.global.ssl.fastly.net&type=ws#عضو کانال تلگرامی بشین و ربات شوید👇
+vless://0b2056cb-234b-4120-8835-d116b74a72ca@chatgpt.com:2087?path=/&security=tls&alpn=h2&encryption=none&host=netvitrin.tickyou.ir&fp=chrome&type=ws&sni=netvitrin.tickyou.ir#🇮🇷 IR 33 @Outline_Vpn
+vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?path=/site&security=&encryption=none&host=yalandonya.global.ssl.fastly.net&type=ws#channel : @freedomofinfor
+vless://0bdc721a-b6e8-4ed9-90bd-d4cf967fcd57@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#vip
+vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@fa.faraz360.ir:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#🆔️@AI_Duet🆔️@V2rayngsupbot
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
+vless://0c1f69a0-3636-4fb3-ac0f-d211f9973955@s31200.asancall.cloud:8443?path=/ws/apps/zoomit&security=none&encryption=none&type=ws#@Hddify
+vless://0c1f69a0-3636-4fb3-ac0f-d211f9973955@s31200.asancall.cloud:8443?path=/ws/apps/zoomit&security=none&encryption=none&type=ws#@vpnbaz 🎩
+vless://0c1f69a0-3636-4fb3-ac0f-d211f9973955@s31200.asancall.cloud:8443?path=/ws/apps/zoomit&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
+vless://0c1f69a0-3636-4fb3-ac0f-d211f9973955@s31200.asancall.cloud:8443?path=/ws/apps/zoomit&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&type=ws#@icv2ray
+vless://0c567247-b75c-465a-b391-bdc5659977f3@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#id: @ConfigV2RayNG
+vless://0c62469a-009f-4050-bbc6-2be5d74e64f7@212.111.84.218:443?security=reality&encryption=none&pbk=x6cB3avjxjxzhNESk8iJTTCzOPKXnB0AbnjKSqKkang&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maps.yandex.ru&sid=8f0a12bc34de5678#MCI-@V2rayAlpha--12
+vless://0c65de9b-e736-4487-bb4b-5ff5ab58812f@chatgpt.com:2087?path=/eyJqdW5rIjoiMVlqdVJib05XdDBVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=small-breeze-e257.moket12807.workers.dev&fp=chrome&type=ws&sni=SMALL-bREEZe-e257.MOkEt12807.WOrkeRs.Dev#3 🇩🇪 @V2ngFast
+vless://0c65de9b-e736-4487-bb4b-5ff5ab58812f@chatgpt.com:2087?path=/eyJqdW5rIjoiMVlqdVJib05XdDBVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=small-breeze-e257.moket12807.workers.dev&fp=chrome&type=ws&sni=SMALL-bREEZe-e257.MOkEt12807.WOrkeRs.Dev&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
