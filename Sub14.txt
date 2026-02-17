@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4d63dcc0-d836-4101-9618-a15306d5d8ba@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
 vless://4d666564-0414-439d-ba51-8e8156014abe@9f430b1651a14007.fast1.viperping.ir:80?mode=auto&security=&encryption=none&host=milad-h1.global.ssl.fastly.net&type=xhttp#vmesskhodam
 vless://4d666564-0414-439d-ba51-8e8156014abe@9f430b1651a14007.fast1.viperping.ir:80?mode=auto&security=none&encryption=none&host=milad-h1.global.ssl.fastly.net&type=xhttp#🇮🇷 𓏺 V2rayNG_SPDNet 𓏺 ایران - 𝐈𝐑
 vless://4d666564-0414-439d-ba51-8e8156014abe@dd83c83e1b191c11.fast2.viperping.ir:80?mode=auto&security=none&encryption=none&host=milad-h1.global.ssl.fastly.net&type=xhttp#🇮🇷 𓏺 V2rayNG_SPDNet 𓏺 ایران - 𝐈𝐑
@@ -253,3 +252,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.238:2096?path=/?ed=2560&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.249.40.126:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@V2raysCollector 🌹
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.249.40.126:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#⚡Telegram = @SOSkeyNET
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.249.40.126:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@V2raysCollector 🙉
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.249.40.126:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#⚡Telegram = @SOSkeyNET

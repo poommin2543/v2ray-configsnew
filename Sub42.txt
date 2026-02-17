@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c805b05e-339d-40e0-8787-432d97a27345@173.245.59.249:2083?encryption=none&security=tls&sni=ServerDL-ParsM2.NetSnap.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#@chillguy_vpn
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&allowInsecure=1#@chillguy_vpn
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?type=ws&encryption=none&host=o00o.snip.qzz.io&path=/tel-@v2rayngzendegimamad@v2rayngzendegimamad&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#@chillguy_vpn
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=/Tel-@V2rayAlpha#@chillguy_vpn

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d90a37e6-f699-42f0-a098-790777a3e032@145.249.109.193:43211?security=reality&encryption=none&pbk=MJy_zwGFX8UT2Ndvw4c-YK4ArHk4WU2Y4Zrza5hCpQU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=919aca826836fa5b#@bad_ss_proxy 249
 vless://d9917a89-14f6-4485-e8c5-1a2465a5996b@3.72.87.185:41676?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://d9917a89-14f6-4485-e8c5-1a2465a5996b@3.72.87.185:41676?security=none&encryption=none&headerType=none&type=tcp#@er
 vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/107.174.121.122=443#telegram ⚡️ dailyv2ry
@@ -253,3 +252,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443/?type=grpc&encrypti
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#کانفیگ رایگان = t.me/arisping
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh30v5.carwashipdir.shop#@Black_Star_Vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh30v5.carwashipdir.shop#@YamYamProxy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#channel : @freedomofinfor

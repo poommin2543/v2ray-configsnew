@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.106.36:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.116.116:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.15.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.150.204:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
@@ -253,3 +252,4 @@ vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=/?ed&security=no
 vless://4cc68b81-e421-4d52-8017-589a84859529@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#@NetZoneNews
 vless://4cea5089-fb93-311e-25f3-01a93031bcf8@nl.mobilezahra.lat:443?security=reality&encryption=none&pbk=10afHwCh2N-Qeqsskwvp9gLC0JrOA-CSfuRbgcK7YkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=excoino.com&sid=d9a8dad452a7644f#@digi_config عضو کانال تلگرام نباشی سرور قطع میشه
 vless://4cf35798-c624-410b-989c-a477d2e7e171@a184d37a1c91f0e9a184d37a1c91f0e9.randomziedsd.online:1111/?encryption=none&security=none&type=grpc#@v2rays_ha 9231
+vless://4d63dcc0-d836-4101-9618-a15306d5d8ba@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
