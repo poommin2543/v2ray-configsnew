@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#United States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.132:443#@Trick_mobil
 ss://YWVzLTEyOC1nY206dHdvRGlzd3FEc2p5V3ZuQWVuZjZEam1xRnZQTzUzelk=@45.82.67.45:16487#@v2box
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.142:38388#🇻🇳17@shadowsockskeys
@@ -253,3 +252,4 @@ trojan://humanity@v1.dabache.top:443/?type=ws&host=www.multiplydose.com&path=/as
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🔘 T.me/V2HUBIR | Join Now ✅️
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇩🇪All³ | @BigSmoke_Config
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇳🇱 |⚡@EuServer
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir

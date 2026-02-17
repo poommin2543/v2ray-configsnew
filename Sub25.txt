@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#Telegram : @V2ynpv
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#💫@EmKavpn
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#channel : @freedomofinfor
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@horn_proxy/---@horn_proxy/---@horn_proxy/---@horn_proxy?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=1&sni=web.abcallcenter.com#horn_proxy 2
@@ -253,3 +252,4 @@ vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?security=none&e
 vless://e9d6b936-5164-40a0-9279-4b588ae1e29a@tamam-1.conf-tun.site:44441?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://eMSivB6jjLUnQI2bVXJfxl@185.39.18.19:443?security=&encryption=none&host=googletagmanager.com&headerType=http&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
 vless://eMSivB6jjLUnQI2bVXJfxl@185.39.18.19:443?security=none&encryption=none&host=googletagmanager.com&headerType=http&type=tcp#azadiiivpn 🎀
+vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@172.64.152.23:443?path=/35.78.229.176:443&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#channel : @freedomofinfor
