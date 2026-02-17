@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷@FreakConfig
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#💜TELGERAM🖤@KIA_NET💜
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.gossipglove.com#💜TELGERAM🖤@KIA_NET💜
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#IR--@V2rayAlpha-14
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#💜TELGERAM🖤@KIA_NET💜
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
+trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#https://t.me/allproconf
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#🧿 Tel : @ProxyVPN11 ⟵
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
+trojan://iWnFtzMiac@205.185.115.223:19258?mode=gun&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=6d7efa97b2#🌊 Tel : @ProxyVPN11 ⟵
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls#@Trick_mobil
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#telegram : @FergalVpnMod
@@ -242,14 +253,3 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encry
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://0836463b-214f-4af6-aa85-85a56a62388e@www.speedtest.net:443?encryption=none&security=tls&sni=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&alpn=h2,http/1.1&fp=chrome&insecure=1&type=ws&host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&path=/8eazjhrwb5zzdy81?ed=2560#@meliproxyy
-vless://0836463b-214f-4af6-aa85-85a56a62388e@www.speedtest.net:443?encryption=none&security=tls&sni=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&alpn=h2,http/1.1&fp=chrome&insecure=1&type=ws&host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&path=/8eazjhrwb5zzdy81?ed=2560#Config 4 - @lebertad
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=tcp&encryption=none&headerType=http&path=/&host=testspeed-foreign.tci.ir&method=GET&security=none#@V2rayBaaz
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@meliproxyy
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#-@Banehfori
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#♛ ConfigV2RayNG🇩🇪
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪[Telegram:ConfigV2RayNG]
