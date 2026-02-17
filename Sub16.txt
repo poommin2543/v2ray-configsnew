@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.70.204:8443?path=/?ed=2560&Telegram @app_bedal&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#@melli_shekan1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.70.204:8443?path=/?ed=2560&Telegram @app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🆔Telegram : @ConfigV2RayNG
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.70.204:8443?path=/?ed=2560&Telegram+@app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#MCI-@V2rayAlpha--16
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#@X_RAY_VPN1 ⚡
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🛡 V 21 @Outline_Vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.89:8443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#Tel:@loveiran83
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.14.56:8443?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@vpn_openet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.14.56:8443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@Hddify
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.14.56:8443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@v2ray_proxy_npv+❄️+@ClouddVPN
@@ -253,3 +247,9 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️287🌐🆕️
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&type=tcp&encryption=none#Config 3 - @lebertad
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s7.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=&encryption=none&headerType=none&type=tcp#🇫🇮 ConfigV2RayNG
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#@AliXTso
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#@NetZoneNews ✨
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#@filembad
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz ✨
