@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇺🇸[openproxylist.com] ss-US
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#🇩🇪[openproxylist.com] ss-DE
-ss://YWVzLTI1Ni1nY206SmhCNWFkbzhlbkJoa2FPZQ@216.238.75.111:443?note=--Telegram--@NetifyVPN--#🇲🇽[openproxylist.com] ss-MX
-ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw==@62.146.172.130:80#🇩🇪All⁴ | @BigSmoke_Config
 ss://YWVzLTI1Ni1nY206TkRnNE5HVTFZMlJsWXpBeE1UUTRNak16TmpBNFpUZ3pZV1l6WWpVMg@ir.npvnot.com:10113#@A
 ss://YWVzLTI1Ni1nY206UkxVb2FVNG5oOGI4TXFxNw==@149.102.152.25:80#https://t.me/allproconf
 ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#🇬🇧16@shadowsockskeys
@@ -253,3 +249,7 @@ trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#💜TELGERAM🖤@KIA_NET💜
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#https://t.me/allproconf
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#🧿 Tel : @ProxyVPN11 ⟵
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
+trojan://iWnFtzMiac@205.185.115.223:19258?mode=gun&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=6d7efa97b2#🌊 Tel : @ProxyVPN11 ⟵
