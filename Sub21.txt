@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://TELEGRAM-NUFiLTER@z.ssl.fastly.net:80?path=/TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER?ed=2056&security=none&encryption=none&host=telegram-NUFiLTER.global.ssl.fastly.net&type=ws#@NUFiLTER🇳🇱2
+vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=/jjhdfhhj&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=soft98.ir#AzadNet-4
+vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=/jjhdfhhj&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=www.speedtest.com#AzadNet-3
+vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=/jjhdfhhj&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=www.wikipedia.com#AzadNet-2
+vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=/jjhdfhhj&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=yahoo.com#AzadNet-1
+vless://Tel:AzadNet@185.250.41.231:47421?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=soft98.ir#VayNora
+vless://Tel:AzadNet@185.250.41.231:47421?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=www.speedtest.com#VayNora
 vless://Tel:AzadNet@185.250.41.231:47421?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=www.wikipedia.com#VayNora
 vless://Tel:AzadNet@185.250.41.231:47421?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=yahoo.com#VayNora
 vless://Telegram : @datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
@@ -246,10 +253,3 @@ vless://afffbafe-881f-4a06-bc22-d1a49121ba36@84.23.52.70:443?type=tcp&security=r
 vless://afffbafe-881f-4a06-bc22-d1a49121ba36@89.169.128.105:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=yandex.ru&type=tcp#@V2raysCollector 🩵
 vless://afffbafe-881f-4a06-bc22-d1a49121ba36@89.169.128.105:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=yandex.ru&type=tcp#⚡Telegram = @SOSkeyNET
 vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?path=/&security=none&encryption=none&type=ws#@Golestan_VPN - 🦁☀️
-vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?path=/&security=none&encryption=none&type=ws#IR+@V2rayAlpha-24
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@109.61.18.233:42539?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪 کانال تلگرامی@config_v2rayy
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@77.42.87.23:42538?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&encryption=none&headerType=http&path=/&host=fi.mobileemdad.top&method=GET&security=none#🇫🇮[Telegram:NetifyVPN]
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@77.42.87.23:42538?note=---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---&type=tcp&encryption=none&headerType=http&path=/&host=fi.mobileemdad.top&method=GET&security=none#@V2rayBaaz
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@91.99.97.155:42525?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇪🇸 کانال تلگرامی@config_v2rayy
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@canada.mobileemdad.top:42537?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇨🇦 کانال تلگرا
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@de.mobileemdad.top:42542?security=none&encryption=none&host=de.mobileemdad.top&headerType=http&type=tcp#@meliproxyy
