@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@chillguy_vpn
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?encryption=none&security=none&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=/?ed#@en_vpn/کانفیگ  های  بیشتر
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#🔆 Tel : @ProxyVPN11 ⟵
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@FarazV2ray
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@Hddify
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@v2box
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#🌊 Tel : @ProxyVPN11 ⟵
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#🕊 Tel : @ProxyVPN11 ⟵
 vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@144.31.180.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Ptlv1A0hHK3qw92t9cjKNJjaYCJnglNDGzPDOc4OZ1I&sid=a59201a59450&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Orem (Orchard South)🅿️ping:22.0ms 67 dailyv2ry
 vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.ok.ru&fp=chrome&security=reality&pbk=45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ&sid=d7325e33#👔43@oneclickvpnkeys
@@ -253,3 +246,10 @@ vless://nasnet@172.64.155.214:2053?path=/nasnet/cdn?ed=2560&security=tls&alpn=h2
 vless://nasnet@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#@chillguy_vpn
 vless://nasnet@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#فیلترشکن رایگان👈vpnowl@
 vless://nasnet@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#@nekopingbot_150
+vless://nasnet@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#🇩🇪 ConfigV2RayNG
+vless://nasnet@digitalocean.com:8443?mode=auto&path=/nasnet/cdn&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp&sni=nasnet-5712964102.dilik.co#فیلترشکن رایگان👈vpnowl@
+vless://nasnet@tgju.org:2053?path=/NASNET/cdn?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=nasnet-571299667.rahavard365.co&fp=chrome&type=httpupgrade&sni=nasnet-571299667.rahavard365.co#فیلترشکن رایگان👈vpnowl@
+vless://nasnet@tgju.org:2053?path=/nasnet/cdn?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=nasnet-162191099.sharghdaily.co&fp=chrome&type=httpupgrade&sni=nasnet-162191099.sharghdaily.co#فیلترشکن رایگان👈vpnowl@
+vless://rootface-@pwn1337-telegram@[::ffff:9872:c066]:80?path=/𒉭𓆩@rootface𒆜𒉭 @pwn_1337 TELEGRAM&security=none&encryption=none&type=ws#DE 🇩🇪 𒉭𓆩@rootface𒆜𒉭 شبانه - WEBSOCKET
+vless://rootface-TELEGRAM@[0:0:0:0:0:ffff:08d2:9410]:2086?security=none&seed=rootface -> @rootface telegram&encryption=none&headerType=none&type=kcp#t1
+vless://rootface-hacker@38.244.26.120:80?path=//𒉭𓆩@rootface𒆜𒉭 @pwn_1337 TELEGRAM&security=none&encryption=none&type=ws#@rootface telegram
