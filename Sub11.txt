@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#@HajmVPN_Config | 🇫🇮
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#Tel:@loveiran83
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#🇫🇮 TCP-None | @Express_alaki | src @HajmVPN_Config
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@findland.mobileemdad.top:42542?security=&encryption=none&host=findland.mobileemdad.top&headerType=http&type=tcp#@canfingV2rayNG
 vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@findland.mobileemdad.top:42542?security=none&encryption=none&host=findland.mobileemdad.top&headerType=http&type=tcp#@HajmVPN_Config | 🇫🇮
 vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@findland.mobileemdad.top:42542?security=none&encryption=none&host=findland.mobileemdad.top&headerType=http&type=tcp#Tel:@loveiran83
 vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@findland.mobileemdad.top:42542?security=none&encryption=none&host=findland.mobileemdad.top&headerType=http&type=tcp#🇫🇮 TCP-None | @Express_alaki | src @HajmVPN_Config
@@ -253,3 +249,7 @@ vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=realit
 vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#@irmeliy | Low Ping | 🇳🇱
 vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#@meliproxyy
 vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#@melli_shekan1
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#@v2raybaaz 🎭
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#@vpn_openet
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#@vpnbaz 🎩
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#@vpnbaz 🎭
