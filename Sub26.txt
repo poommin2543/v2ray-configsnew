@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#🔥 Telegram: @wiki_tajrobe
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443/?type=grpc&encryption=none&flow=&security=tls&sni=vbox.ping-box.com&alpn=h2,http/1.1&allowInsecure=1&fp=chrome# -> 🇳🇱The Netherlands ⚡@DeamNet_Proxy
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#ConfigV2RayNG
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#🛡 V 24 @Outline_Vpn
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#IR--@V2rayAlpha-4
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#🇳🇱 @BLACK_STAR_VPN
@@ -253,3 +250,6 @@ vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443?encryption=none&f
 vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ&security=reality&sid=d7325e33&sni=m.ok.ru&type=tcp#👔55@oneclickvpnkeys
 vless://f92f1657-f560-466d-9b75-c784d5d52912@188.114.97.3:80/?encryption=none&security=none&type=ws&host=voicesofiran.org&path=/vless-ntls#@v2rays_ha 9400
 vless://f92f1657-f560-466d-9b75-c784d5d52912@vpnazadie.voicesofiran.org:80/?encryption=none&security=none&type=ws&host=voicesofiran.org&path=/vless-ntls#@v2rays_ha 9384
+vless://f98774eb-3f08-4c37-b435-dfa8b12592f4@f1.springpaatogh8.store:2053?path=?ed=2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@canfingV2rayNG
+vless://f9929a13-f491-4dc3-b86c-9b8357051476@top.imlast2.com:2096?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=god1.alireza031.net#channel : @freedomofinfor
+vless://fa-397456379-1771009078823820@103.35.189.83:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🇺🇸 @V2RAY_VMESS_free

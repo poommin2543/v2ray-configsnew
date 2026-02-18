@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6f82357f-287f-47cf-ae7f-304945405a52@login.ankaran.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#Telegram:@config_proxy 🔥
-vless://6f82357f-287f-47cf-ae7f-304945405a52@login.ankaran.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#https://t.me/allproconf
-vless://6f8d4c9a-833c-46bf-9957-56965dfd5e95@shookhidasti.global.ssl.fastly.net:443?path=/site&security=tls&alpn=http/1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=shookhidasti.global.ssl.fastly.net#horn_proxy 7
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.119.0.50:443?path=/&security=tls&encryption=none&host=nnfgrr.azurewebsites.net&type=ws&sni=nnfgrr.azurewebsites.net#VayNora
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#Config 4 - @lebertad
 vless://6fc297ff-17c0-436a-b982-623d682e339a@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#🟢Ṭelegram"@Filtering2020"
@@ -253,3 +250,6 @@ vless://80537ce2-e259-47c5-a6d7-e06338b96ea0@oraclecloud3.hazardtest321.ir:443?m
 vless://80537ce2-e259-47c5-a6d7-e06338b96ea0@vimopanel.hazardtest321.ir:443?mode=auto&path=/2086/digikala.com/login/?ed&security=tls&encryption=none&fp=chrome&type=xhttp&sni=eybaba.techforgesec.ir#@Hddify ~ ❕
 vless://807f8da3-b366-4ecc-9a11-8e24de1484f7@91.98.82.130:10898?security=none&encryption=none&headerType=http&type=tcp#MCI-@V2rayAlpha--28
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
+vless://8196d16d-855b-42bc-80f4-b5db138c5572@172.64.152.23:443?encryption=none&security=tls&sni=test2.testrobot.site&alpn=h3,h2,http/1.1&fp=chrome&insecure=1&type=xhttp&host=test2.testrobot.site&path=/randomibash043&mode=auto#🇨🇦Canada+->+🇩🇪Germany+⚡@DeamNet_Proxy
+vless://8196d16d-855b-42bc-80f4-b5db138c5572@172.64.152.23:443?encryption=none&security=tls&sni=test2.testrobot.site&fp=chrome&insecure=1&type=xhttp&path=/randomibash043&mode=auto#🇨🇦Canada+->+🇩🇪Germany+⚡@DeamNet_Proxy
