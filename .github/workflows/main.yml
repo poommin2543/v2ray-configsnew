@@ -7,7 +7,7 @@ on:
       - main
   schedule:
   
-    - cron: "*/17 * * * *"
+    - cron: "*/18 * * * *"
 
 jobs:
   build:
@@ -36,7 +36,7 @@ jobs:
       run: |
         echo "msg=$(TZ=Asia/Bangkok date '+%Y-%m-%d %H:%M ICT') 🔥❤️‍🔥 v2ray config" >> $GITHUB_OUTPUT
     - name: Commit and push files
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9
       with:
         author_name: "poommin2543"
         author_email: "poommin2543@gmail.com"
