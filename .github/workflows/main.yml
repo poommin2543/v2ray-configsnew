@@ -35,7 +35,7 @@ jobs:
       uses: EndBug/add-and-commit@v7
       with:
         author_name: "poommin2543"
-        author_email: "poommin2543@github.com"
+        author_email: "poommin2543@gmail.com"
         message: "Fresh🔥❤️‍🔥"
         add: "."
         push: "https://github.com/poommin2543/v2ray-configsNew.git"
