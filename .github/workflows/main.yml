@@ -30,13 +30,17 @@ jobs:
       
     - name: Run Splitter script and save output to file
       run: cd Files && python sort.py
-
+      
+    - name: Build commit message (Bangkok)
+      id: msg
+      run: |
+        echo "msg=$(TZ=Asia/Bangkok date '+%Y-%m-%d %H:%M ICT') 🔥❤️‍🔥 v2ray config" >> $GITHUB_OUTPUT
     - name: Commit and push files
       uses: EndBug/add-and-commit@v7
       with:
         author_name: "poommin2543"
         author_email: "poommin2543@gmail.com"
-        message: "Fresh🔥❤️‍🔥"
+        message: "${{ steps.msg.outputs.msg }}"
         add: "."
         push: "https://github.com/poommin2543/v2ray-configsNew.git"
     env:
