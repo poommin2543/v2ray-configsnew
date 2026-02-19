@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@57.129.133.88:2345?security=none&encryption=none&headerType=none&type=tcp#shankamil
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇩🇪All² | @BigSmoke_Config
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇩🇪All² | @meliproxyy
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#@Black_Star_Vpn🇬🇧
@@ -253,3 +252,4 @@ vless://80537ce2-e259-47c5-a6d7-e06338b96ea0@vimopanel.hazardtest321.ir:443?mode
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#@V2rayNG3
 vless://807f8da3-b366-4ecc-9a11-8e24de1484f7@91.98.82.130:10898?security=none&encryption=none&headerType=http&type=tcp#MCI-@V2rayAlpha--28
 vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?encryption=none&security=tls&sni=firan.dtgoldservices.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Config 5 - @lebertad
+vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=tls&sni=firan.dtgoldservices.com&allowInsecure=1&encryption=none#Telegram:@config_proxy 🔥

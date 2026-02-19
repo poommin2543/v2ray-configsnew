@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://4c205c81-5694-43fe-a287-af563a2ebc05@3er.8900604.xyz:443?security=tls&sni=3er.8900604.xyz&alpn=http/1.1&type=ws&host=3er.8900604.xyz&path=/P23lDbkARo4gds7cXpDB5nO5#Config 4 - @lebertad
 trojan://4c205c81-5694-43fe-a287-af563a2ebc05@5tyu.8900604.xyz:443?security=tls&sni=5tyu.8900604.xyz&alpn=http/1.1&type=ws&host=5tyu.8900604.xyz&path=/P23lDbkARo4gds7cXpDB5nO5#Config 5 - @lebertad
 trojan://4c205c81-5694-43fe-a287-af563a2ebc05@bhy.89060004.xyz:443?security=tls&sni=bhy.89060004.xyz&alpn=http/1.1&type=ws&host=bhy.89060004.xyz&path=/P23lDbkARo4gds7cXpDB5nO5#⚡Telegram = @SOSkeyNET
 trojan://4c205c81-5694-43fe-a287-af563a2ebc05@kk9.89060004.xyz:443?security=tls&sni=kk9.89060004.xyz&alpn=http/1.1&type=ws&host=kk9.89060004.xyz&path=/P23lDbkARo4gds7cXpDB5nO5#⚡Telegram = @SOSkeyNET
@@ -253,3 +252,4 @@ trojan://telegram-id-privatevpns@3.124.221.203:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.69.220.38:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 trojan://telegram-id-privatevpns@3.75.51.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_proxy_npv+❄️+@ClouddVPN
 trojan://telegram-id-privatevpns@3.78.198.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.78.198.19:22222?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#⚡Telegram = @config_v2rayy

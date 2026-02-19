@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316?note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#@HajmVPN_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#@bad_ss_proxy 709
@@ -253,3 +252,4 @@ trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@fffvbg.890634.xyz:443?type=ws&secu
 trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@gggnhhy.huangshang.online:443?type=ws&security=tls&path=/r862SIwqItkD5XgXAL&host=GGgnhHY.huaNGSHang.ONLInE&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http%2f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
 trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vvbnhjm.890634.xyz:443?type=ws&security=tls&path=/r862SIwqItkD5XgXAL&host=VvBnHjm.890634.XyZ&sni=vvbNHJm.890634.XYz&alpn=http%2f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
 trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=green2.cdntencentmusic.com#سرور های پرسرعت بیشتر در چنل🌋@vmesc
+trojan://4c205c81-5694-43fe-a287-af563a2ebc05@3er.8900604.xyz:443?security=tls&sni=3er.8900604.xyz&alpn=http/1.1&type=ws&host=3er.8900604.xyz&path=/P23lDbkARo4gds7cXpDB5nO5#Config 4 - @lebertad

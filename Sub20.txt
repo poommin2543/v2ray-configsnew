@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=/jjhdfhhj&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=yahoo.com#AzadNet-1
 vless://Telegram : @datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
 vless://Telegram : @datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#🇬🇧 Telegram = @datax_proxy
 vless://Telegram = @digi_config@185.171.202.30:33514?mode=auto&path=/&security=reality&encryption=none&pbk=umtoktgt8fKZ76DQbtut49eGGrfGZ7231IdblIvCPmQ&host=mikrotik.com&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=6f8de2cd56eb8ce9#@digi_conf
@@ -253,3 +252,4 @@ vless://ab2b2116-e161-4e2c-83e5-d5bb0ac6e64f@masterserver1-masterserver1-masters
 vless://ab2c048f-6566-4437-adb9-47a4c239edc2@fan.piroowat.com:8443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://ab2c048f-6566-4437-adb9-47a4c239edc2@fan.piroowat.com:8443?security=none&encryption=none&headerType=none&type=tcp#https://t.me/irmeliy
 vless://ab2c048f-6566-4437-adb9-47a4c239edc2@fan.piroowat.com:8443?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=vbox1.ping-box.com#@Golestan_VPN - 🕊️
