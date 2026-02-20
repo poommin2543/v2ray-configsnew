@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@en5.netfinix.ir:2087?security=none&encryption=none&headerType=none&type=tcp#🇬🇧+انگلیس+@DarcProxy
+vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@fr3.netfinix.ir:85?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇫🇷+فرانسه+@DarcProxy
+vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@nl3.netfinix.ir:8880/?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#@v2rays_ha 10090
+vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@nl3.netfinix.ir:8880?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@nl3.netfinix.ir:8880?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇳🇱+هلند+@DarcProxy
 vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@user.netfinix.ir:8081/?encryption=none&security=none&type=tcp&headerType=none#@v2rays_ha 10089
 vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@user.netfinix.ir:8081?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@user.netfinix.ir:8081?security=none&encryption=none&headerType=none&type=tcp#@DarcProxy+💙
@@ -247,9 +253,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&securit
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#Black_Star_Vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?mode=gun&security=none&encryption=none&type=grpc#@EuServer
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880/?type=grpc&encryption=none&flow=#🐒55@oneclickvpnkeys
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@EuServer
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880/?type=grpc&encryption=none#🇺🇸United+States+->+🇺🇸United+States+⚡@DeamNet_Proxy (45)
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880/?type=grpc&encryption=none&flow=#🇺🇸United States -> 🇺🇸United States ⚡@DeamNet_Proxy (45)
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v1.ip4exordir.shop:8880/?type=grpc&encryption=none#🅿️99@oneclickvpnkeys
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v1.ip4exordir.shop:8880/?type=grpc&encryption=none&flow=#🅿️99@oneclickvpnkeys
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880/?type=grpc&encryption=none#تو کانال نتورلد نباشید قطع میشن@networld_vpn

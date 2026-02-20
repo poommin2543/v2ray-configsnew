@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox10.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama2.karajcitykaui.ir#E0010
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox3.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama.varminherter.ir#E007
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox4.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama2.varminherter.ir#E005
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox5.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama.ubirnashop.ir#E0011
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox7.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama.karajcitykaui.ir#E002
+vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@188.114.98.0:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=freuddd.info&fp=chrome&type=ws&allowInsecure=0&sni=freuddd.info#@v2box
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&sid=#🇺🇸@FREE2CONFIG  (1)
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#کانفیگ رایگان = t.me/arisping
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@CUSTOMVPNSERVER
@@ -247,9 +253,3 @@ vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryptio
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 4
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 4
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 4
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=none&type=tcp#@FarazV2ray
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=none&encryption=none&headerType=none&type=tcp#@DarcProxy+4
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=none&encryption=none&headerType=none&type=tcp#@flyv2ray
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=none&encryption=none&headerType=none&type=tcp#@milivpnn -🤍 عضو شو از سرورا جا نمونی

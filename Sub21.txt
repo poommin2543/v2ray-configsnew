@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9fdcde3e-e48b-4b83-aedb-5b0de9b9f5e0@85.133.228.75:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#کانفیگ بیشتر @famoushaji
+vless://9fdcde3e-e48b-4b83-aedb-5b0de9b9f5e0@85.133.228.75:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
+vless://@SEGVPN@gcre.segstar.info:10100?type=tcp&security=reality&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&fp=chrome&sni=refersion.com&spx=/&flow=xtls-rprx-vision#🇩🇪SEG3
+vless://@datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
+vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f2#@Anty_Vpn سرورای بیشتر
+vless://DIGIV2RAY@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://Fluffy_VPN-NZPzrzi5@89.110.119.44:443?security=reality&encryption=none&pbk=pi3nuu39TECDwHciK9c7oWaMz6KfJWUOiWVLfo1Nz3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ALL@azadiiivpn
 vless://ID--V2RAXX@www.speedtest.net:8080?path=/V2raxx?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#@torang_vpn
 vless://LomesNet@104.18.32.47:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=gotohell.waruntilvictory.xyz&fp=chrome&type=ws&allowInsecure=0&sni=gotohell.waruntilvictory.xyz#@V2rayNG3
@@ -247,9 +253,3 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#🛡 V 43 @Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=Pulavpn11.afrcloud22.mmv.kr#azadiiivpn 🎀
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=Pulavpn11.afrcloud22.mmv.kr#https://
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=Pulavpn11.afrcloud22.mmv.kr#https://t.me/ConfigX2ray
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=Pulavpn11.afrcloud22.mmv.kr#🪿🦤8@V2rayBaaz🪩
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=Pulavpn11.afrcloud22.mmv.kr🪿🦤8@freenettir🪩
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#@V2rayngSeven
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
