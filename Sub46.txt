@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=%2F130.185.164.213%3D8443&security=tls&sni=afrcloud22.mmv.kr&alpn=irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy-#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%0A%40Irmeliy
 vless://7dbc427e-1afd-4f76-b916-f7349e8131ce@104.26.15.21:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/44.217.235.114=8443#@chillguy_vpn
 vless://373a56eb-aaa9-4a92-b209-503dd916900f@fn.takovpn.ru:443?security=reality&encryption=none&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&headerType=none&fp=chrome&type=tcp&sni=www.vk.com&sid=286e2d#@chillguy_vpn
@@ -253,3 +252,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=
 vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rapidpars.com&sid=661ee8b0696b45#@Enzewa_Network👈جوین‌شوقطع‌نشی
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#@Enzewa_Network👈جوین‌شوقطع‌نشی
 vless://0a542d0e-4d05-418f-97c2-94d0455005da@31.56.205.56:20553?path=%2Fupload&security=&encryption=none&type=ws#@Enzewa_Network👈جوین‌شوقطع‌نشی
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🎖@yamyamproxy#@chillguy_vpn

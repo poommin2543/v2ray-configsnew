@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#@SPEEDS_VPN1-🫆
 vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#@V2rayBaaz🪩
 vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#@flyv2ray
 vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
@@ -253,3 +252,4 @@ vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&enc
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@FarazV2ray
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@YamYamProxy
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@filembad
+vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#https://t.me/VIPV2rayNGNP

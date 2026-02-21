@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vmess://eyJhZGQiOiIxODguNDIuODkuMTE1IiwiYWlkIjoiMCIsImhvc3QiOiJjYy52MmpleS5mdW4iLCJpZCI6ImVkZWRmOThjLTkzNjQtNGE0Yi1hNzE4LTZjZDRkMTgzZTM0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoi4pyFINiz2LHZiNix2YfYp9uMINio24zYtNiq2LEg2K/YsSDaqdin2YbYp9mEIDogIHZwbl80MzNAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9🗿 @vpn_443
 
 
 vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiaG9zdCI6IndlYnNoZWNhbmlyMi5zeW1vZGkubWwiLCJpZCI6IjM3ZTdmY2E0LTg1MTAtNDBhYi04ZDIyLTEzOGEyYTM2NThhZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9KU3NpYWRzRXNjU0EiLCJwb3J0IjoiMjA5NiIsInBzIjoiW/Cfh6zwn4enXSDinqAgQHZwbl80NDMiLCJzY3kiOiJhdXRvIiwic25pIjoid2Vic2hlY2FuaXIyLnN5bW9kaS5tbCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9🗿 @vpn_443
@@ -253,3 +252,4 @@ vless://9523a24b-f6bf-339e-9950-32829162ffc2@v1.dabache.top:443/?type=ws&encrypt
 vless://9523a24b-f6bf-339e-9950-32829162ffc2@vip2.kaixincloud.top:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024f4e56f542c&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@138.124.63.58:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn4.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ALV
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@62.133.60.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn12.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn11.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn11.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
