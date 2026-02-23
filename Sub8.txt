@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.122.209:80/?encryption=none&security=none&type=xhttp&path=/#@v2rays_ha 10761
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.122.209:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.191.146:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.40.47:80/?encryption=none&security=none&type=xhttp&path=/#@v2rays_ha 10764
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.40.47:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.86.255:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
-ss://e2a10e9f-2d3e-4d49-ab59-d2ea39dfa3d1@77.232.142.30:443?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=W4hZiiPSnSBqrrYkD0z6J_DVR8wTfP5epmuQ6RbV_Sc&sid=43dcff53849b81e6&type=tcp&headerType=none#https://t.me/allproconf
 ss://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?encryption=none&security=tls&sni=ir1.airpanel.top&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=ir1.airpanel.top&path=/#https://t.me/allproconf
 ss://e5f8a9f6-f164-479b-b3b5-b90f213c7145@v2.dabache.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=0&allowInsecure=0&type=ws&host=ir1.airpanel.top&path=/#https://t.me/allproconf
 ss://eb071647-72a6-46be-8e89-ff3d228d52f6@144.31.128.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ae.cdn.stun.su&fp=chrome&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87&type=tcp&headerType=none#https://t.me/allproconf
@@ -253,3 +246,10 @@ trojan://kcs8re80-xs3q-raoq-u8v6-uiy0fsxsf54w@127.0.0.1:2080?security=tls&type=t
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#telegram : @FergalVpnMod
 trojan://m7nzbech-hl11-8ng4-fl7g-msjn6qajncr9@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://n6q1v9pq-b809-2lku-n3ys-f5zihtk3jvet@127.0.0.1:4080?security=tls&headerType=none&type=tcp#https://t.me/V2ry_Proxy
+trojan://n6q1v9pq-b809-2lku-n3ys-f5zihtk3jvet@127.0.0.1:4080?security=tls&type=tcp#@WedBaZTel
+trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net#[🇨🇦]Telegram = @FergalVpnMod
+trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=tcp&security=tls&allowInsecure=1#🪢91@oneclickvpnkeys
+trojan://telegram-id-directvpn@13.36.103.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@13.38.166.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@13.39.219.34:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN

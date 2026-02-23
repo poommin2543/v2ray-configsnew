@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://n6q1v9pq-b809-2lku-n3ys-f5zihtk3jvet@127.0.0.1:4080?security=tls&headerType=none&type=tcp#https://t.me/V2ry_Proxy
-trojan://n6q1v9pq-b809-2lku-n3ys-f5zihtk3jvet@127.0.0.1:4080?security=tls&type=tcp#@WedBaZTel
-trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net#[🇨🇦]Telegram = @FergalVpnMod
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=tcp&security=tls&allowInsecure=1#🪢91@oneclickvpnkeys
-trojan://telegram-id-directvpn@13.36.103.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@13.38.166.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@13.39.219.34:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@13.39.244.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.195.254.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.120.230.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -253,3 +246,10 @@ vless://0a542d0e-4d05-418f-97c2-94d0455005da@31.56.205.56:20553?path=/upload&sec
 vless://0a58ada9-9876-48f6-b44f-f23d51beb152@85.133.201.53:2526?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#telegram: @Daily_Configs
 vless://0a58ada9-9876-48f6-b44f-f23d51beb152@85.133.201.53:2526?security=none&encryption=none&host=telewebion.com/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=http&type=tcp#@FarazV2ray
 vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.85:443/?security=tls&flow=xtls-rprx-vision&sni=guixgnu.com&type=tcp&fp=chrome&alpn=h2,http/1.1#@v2rays_ha 10684
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#@v2rayngzendegimamad🕊️
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#MCI-@V2rayAlpha--13
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#MCI-@V2rayAlpha--4
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#🇩🇪All² | @BigSmoke_Config
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#🇩🇪All³ | @BigSmoke_Config
+vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@109.120.188.164:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🪢71@oneclickvpnkeys
+vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@109.120.188.164:7443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a20d3ed244c76426#@icv2ray
