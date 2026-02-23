@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://76655a9b-6745-4ac5-ab07-9ed023ba1d4d@irtu22.ping-aris.site:8443?encryption=none&security=reality&sni=learn.microsoft.com&fp=chrome&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&sid=82cada35130f1ef2&type=tcp&headerType=none#https://t.me/ConfigX2ray
-vless://76655a9b-6745-4ac5-ab07-9ed023ba1d4d@irtu22.ping-aris.site:8443?encryption=none&security=reality&sni=learn.microsoft.com&fp=chrome&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&sid=82cada35130f1ef2&type=tcp&headerType=none#https://t.me/VIPV2rayNGNP
-vless://76655a9b-6745-4ac5-ab07-9ed023ba1d4d@irtu22.ping-aris.site:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#@vpnserverrr
 vless://76655a9b-6745-4ac5-ab07-9ed023ba1d4d@irtu22.ping-aris.site:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#Channel : @Daily_Configs
 vless://76655a9b-6745-4ac5-ab07-9ed023ba1d4d@irtu22.ping-aris.site:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#https://t.me/V2ry_Proxy
 vless://76755143-35fc-4b1f-a793-3b24d31f4f6a@3.125.43.133:17373?security=none&encryption=none&headerType=none&type=tcp#@SPEEDS_VPN1-🫆
@@ -253,3 +250,6 @@ vless://86e1dc2b-9e5f-4796-bf9c-3a3f71fede7c@www.speedtest.net:2096?path=/eyJqdW
 vless://86f5fd99-a502-41de-a5cd-ebd671049b31@18.184.2.43:50459/?type=tcp&encryption=none&flow=#channel→@networld_vpn
 vless://86f5fd99-a502-41de-a5cd-ebd671049b31@18.184.2.43:50459?encryption=none&type=tcp&headerType=none&security=none#@FREE_VPN02 🍭
 vless://86f5fd99-a502-41de-a5cd-ebd671049b31@18.184.2.43:50459?security=none&encryption=none&headerType=none&type=tcp#@YamYamProxy
+vless://86f5fd99-a502-41de-a5cd-ebd671049b31@18.184.2.43:50459?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🍭
+vless://86f5fd99-a502-41de-a5cd-ebd671049b31@18.184.2.43:50459?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr🍭
+vless://86f5fd99-a502-41de-a5cd-ebd671049b31@18.184.2.43:50459?type=tcp&encryption=none&security=none#@meliproxyy

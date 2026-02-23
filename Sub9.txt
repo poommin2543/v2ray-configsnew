@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&alpn=http/1.1&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#✅@AR14N24b
-trojan://22kme2vc-pjf5-4a5f-5236-q2lv1p9auu2z@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443/?path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http/1.1&host=ggbnhj.932.pp.ua&type=ws&sni=ggbnhj.932.pp.ua#@v2rays_ha 10757
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh7.www890604.dpdns.org:443?sni=gggbnh7.www890604.dpdns.org&peer=gggbnh7.www890604.dpdns.org&security=tls#@Trick_mobil
 trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@thj.huangzi.cfd:443?security=tls&sni=thj.huangzi.cfd&alpn=http/1.1&type=ws&host=thj.huangzi.cfd&path=/FYzt5jjXXYWmzP5D1vsO#⚡Telegram = @SOSkeyNET
@@ -253,3 +250,6 @@ trojan://l13o3cap-name-v0lu-37xp-cnvjyesewnip@127.0.0.1:1080?security=tls&type=t
 trojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#telegram : @FergalVpnMod
 trojan://n6q1v9pq-b809-2lku-n3ys-f5zihtk3jvet@127.0.0.1:4080?security=tls&headerType=none&type=tcp#https://t.me/V2ry_Proxy
 trojan://n6q1v9pq-b809-2lku-n3ys-f5zihtk3jvet@127.0.0.1:4080?security=tls&type=tcp#@WedBaZTel
+trojan://njrgi49y-b5rc-ksfq-l1ul-2pnrvqxsl18a@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net#[🇨🇦]Telegram = @FergalVpnMod
+trojan://p0kxfcym-znnz-uhmc-g39a-yvmmcqjhgvd3@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
