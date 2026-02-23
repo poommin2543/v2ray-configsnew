@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@v2rayngzendegimamad🕊️
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@chillguy_vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@𝙵𝚒𝚕𝚝𝚎𝚛𝚒𝚗𝚐2020 مردم غیور آبدانان
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🛡 V 82 @Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🛡 V 82 @v2ray_configs_pools
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#configraygan_66
@@ -253,3 +250,6 @@ vless://66ba4206-7093-4035-8b29-9ed1c827361f@ru.elementvpn.ru:443?security=reali
 vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@172.67.156.210:443?security=tls&sni=knocked.aurorainiceland.com&type=ws&host=knocked.aurorainiceland.com&path=/nimws?ed=@MARAMBASHI,@MARAMBASHI,@MARAMBASHI&fp=chrome#@Hope_Net-join-us-on-Telegram
 vless://67074599-2f4d-4c47-997f-de85bb2e531b@ip2-cloud.tyryqyserver.ir:8080?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
 vless://67074599-2f4d-4c47-997f-de85bb2e531b@ip2-cloud.tyryqyserver.ir:8080?mode=auto&security=&encryption=none&host=tamam-cloud-de.ocean-pro.top&type=xhttp#@canfingV2rayNG
+vless://6738de61-1c05-4021-9a48-a42fdaa2c5e5@185.171.82.150:443?security=reality&encryption=none&pbk=_MxtsIvR5Zwwoh170LSFE6_4GZ8y1goMthM3UYAngiA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s3.firstvds.ru&sid=1735afad#azadiiivpn💎
+vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=/assets/img/banner_v3.webp/&security=&encryption=none&host=ws.ne1.tunnelx.space&type=ws#@V2rayNG3
+vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#@V2rayNG3

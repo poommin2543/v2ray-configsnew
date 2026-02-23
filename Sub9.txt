@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#⚡Telegram = @SOSkeyNET
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#vpnsal
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇩🇪All³ | @BigSmoke_Config
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇳🇱 |⚡@EuServer
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#Telegram @Ettehad_vpn
 trojan://humanity@www.calmlunch.com:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&path=/assignment#🇨🇦Canada+->+🇫🇷France+⚡@DeamNet_Proxy
@@ -253,3 +250,6 @@ vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=&encryptio
 vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=none&encryption=none&headerType=none&type=tcp
 vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=none&encryption=none&headerType=none&type=tcp#@V2rayBaaz
 vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid vippp
+vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools vippp
+vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=none&encryption=none&headerType=none&type=tcp#[10546]+-+Telegram+:+@configraygan
+vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=none&encryption=none&headerType=none&type=tcp#configraygan_4

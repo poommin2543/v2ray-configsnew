@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#🇺🇸United+States+->+🇺🇸United+States+⚡@DeamNet_Proxy (23)
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#⚡Telegram = @SOSkeyNET
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#🇺🇸United States -> 🇺🇸United States ⚡@DeamNet_Proxy (23)
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@Black_Star_Vpn🇺🇸
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@chillguy_vpn
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#MCI-@V2rayAlpha--25
@@ -253,3 +250,6 @@ vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.127.98.95:443?security=none&encry
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.127.98.95:443?security=none&encryption=none&headerType=none&type=tcp#VIP.@AzadNet 💚
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.67.225.200:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 6
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.67.225.200:443?security=&encryption=none&headerType=&type=tcp#@filembad
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.67.225.200:443?security=&encryption=none&headerType=&type=tcp#⚡Telegram = @SOSkeyNET
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.69.31.126:443/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 10669
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.69.31.126:443?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
