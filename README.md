@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/Epodonios/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/Epodonios/V2ray-Configs)  
+![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/poommin2543/v2ray-configsNew/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/poommin2543/v2ray-configsNew)  
 
 <a href="https://t.me/+IOG0nSifAV03ZmY0" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="500" height="500"> contact us
@@ -36,12 +36,12 @@ This script collects several thousand V2ray configurations every five minutes, a
 
 All collected configs:
 ```
-https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt
+https://github.com/poommin2543/v2ray-configsNew/raw/main/All_Configs_Sub.txt
 ```
 
 If the above link doesn't work, try the base 64 configurations:
 ```
-https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_base64_Sub.txt
+https://github.com/poommin2543/v2ray-configsNew/raw/main/All_Configs_base64_Sub.txt
 ```
 
 
@@ -49,98 +49,98 @@ https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_base64_Sub.txt
 
 Vless:
 ```
-https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vless.txt
+https://github.com/poommin2543/v2ray-configsNew/raw/main/Splitted-By-Protocol/vless.txt
 ```
 
 Vmess:
 ```
-https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vmess.txt
+https://github.com/poommin2543/v2ray-configsNew/raw/main/Splitted-By-Protocol/vmess.txt
 ```
 
 ss:
 ```
-https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/ss.txt
+https://github.com/poommin2543/v2ray-configsNew/raw/main/Splitted-By-Protocol/ss.txt
 ```
 
 ssr:
 ```
-https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/ssr.txt
+https://github.com/poommin2543/v2ray-configsNew/raw/main/Splitted-By-Protocol/ssr.txt
 ```
 
 Trojan:
 ```
-https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt
+https://github.com/poommin2543/v2ray-configsNew/raw/main/Splitted-By-Protocol/trojan.txt
 ```
 
 ### Splited in 250 count of configs:
 
 Config List 1:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub1.txt
 ```
 Config List 2:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub2.txt
 ```
 
 Config List 3:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub3.txt
 ```
 
 Config List 4:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub4.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub4.txt
 ```
 
 Config List 5:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub5.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub5.txt
 ```
 
 Config List 6:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub6.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub6.txt
 ```
 
 Config List 7:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub7.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub7.txt
 ```
 
 Config List 8:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub8.txt
 ```
 
 Config List 9:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub9.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub9.txt
 ```
 
 Config List 10:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub10.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub10.txt
 ```
 
 Config List 11:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub11.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub11.txt
 ```
 
 Config List 12:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub12.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub12.txt
 ```
 
 Config List 13:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub13.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub13.txt
 ```
 
 Config List 14:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub14.txt
+https://raw.githubusercontent.com/poommin2543/v2ray-configsNew/refs/heads/main/Sub14.txt
 ```
 
 ### Usage:
