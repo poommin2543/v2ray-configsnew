@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@TeleProxyTele-19
-vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@V2rayAlpha--11
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@V2rayAlpha-19
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#✅@AR14N24b
@@ -253,3 +251,5 @@ vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localho
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#🇬🇧@FreakConfig
 vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@MARAMBASHI 🇩🇪
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@v2rayngzendegimamad🕊️
+vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@V2ynpv : تلگرام
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=/?ed=2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#@torang_vpn

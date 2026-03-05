@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=none&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#@icv2ray
-vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=none&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#@vasl_bashim
 vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=none&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#Config 2 - @lebertad
 vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=none&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=none&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#[19319] - Telegram : @V2All
@@ -253,3 +251,5 @@ vless://879b0d4e-c575-40fe-a14a-1b2723888b93@nl-2-tun.khabarkhori.space:8081?sec
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@TeleProxyTele
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@TeleProxyTele-11
+vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@TeleProxyTele-19
+vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@V2rayAlpha--11

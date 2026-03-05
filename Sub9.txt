@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345/?type=tcp&encryption=none#🇬🇧 TCP-None 📁 @v2nodes
-vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20d26c16-df0d-48b3-bd7a-fe4490110aea@178.22.31.68:8443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=at17.fastlanehosting.ru&type=tcp#📀69@oneclickvpnkeys
@@ -253,3 +251,5 @@ vless://334ffbb2-44e5-4751-ac2e-6877d40cc307@5.10.248.188:57519?encryption=none&
 vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#@ConfigV2RayNG
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#@ConfigV2RayNG حمایت
+vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#مخصوص ۳۰ گیگ پرسرعت@V2rayng_Saz
+vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.16.209.12:2083?path=/&security=tls&encryption=none&host=nl.cypherpunks.fun&type=ws&sni=nl.cypherpunks.fun#🇬🇧🌏+@customv2ray+کانفیگ+های+بیشتر+عضو+شو
