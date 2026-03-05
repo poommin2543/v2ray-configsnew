@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@5.252.25.44:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@62.182.192.35:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@62.182.192.49:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@62.182.193.76:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@66.151.40.245:4443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@72.167.243.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@88.198.152.85:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@91.84.100.39:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@94.125.101.247:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@95.181.161.158:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
@@ -253,3 +244,12 @@ vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.17.22.240:443?allowInsecure=1&e
 vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.17.22.240:443?allowInsecure=1&encryption=none&host=n4be.rkq.snl.cc.cd&path=/&security=tls&sni=n4be.rkq.snl.cc.cd&type=ws#⚡Telegram = @SOSkeyNET
 vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.17.22.240:443?allowInsecure=1&encryption=none&host=n4be.rkq.snl.cc.cd&path=/&security=tls&sni=n4be.rkq.snl.cc.cd&type=ws#📡56@oneclickvpnkeys
 vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.155.194:443?allowInsecure=1&encryption=none&host=rpu1.gzf.snl.cc.cd&path=/&security=tls&sni=rpu1.gzf.snl.cc.cd&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.155.194:443?allowInsecure=1&encryption=none&host=rpu1.gzf.snl.cc.cd&path=/&security=tls&sni=rpu1.gzf.snl.cc.cd&type=ws#📡23@oneclickvpnkeys
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.36.211:443?allowInsecure=1&encryption=none&host=ja4e.fev.snl.cc.cd&path=/&security=tls&sni=ja4e.fev.snl.cc.cd&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.36.211:443?allowInsecure=1&encryption=none&host=ja4e.fev.snl.cc.cd&path=/&security=tls&sni=ja4e.fev.snl.cc.cd&type=ws#📡19@oneclickvpnkeys
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.42.120:443?allowInsecure=1&encryption=none&host=injc.n7d.edukg.dpdns.org&path=/&security=tls&sni=injc.n7d.edukg.dpdns.org&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.42.120:443?allowInsecure=1&encryption=none&host=injc.n7d.edukg.dpdns.org&path=/&security=tls&sni=injc.n7d.edukg.dpdns.org&type=ws#📡12@oneclickvpnkeys
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.54.189:443?allowInsecure=1&encryption=none&host=bvqq.dks.edukg.dpdns.org&path=/&security=tls&sni=bvqq.dks.edukg.dpdns.org&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.54.189:443?allowInsecure=1&encryption=none&host=bvqq.dks.edukg.dpdns.org&path=/&security=tls&sni=bvqq.dks.edukg.dpdns.org&type=ws#📡62@oneclickvpnkeys
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.59.39:8443?allowInsecure=1&encryption=none&host=qrc8.ygk.edukg.dpdns.org&path=/&security=tls&sni=qrc8.ygk.edukg.dpdns.org&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.59.39:8443?allowInsecure=1&encryption=none&host=qrc8.ygk.edukg.dpdns.org&path=/&security=tls&sni=qrc8.ygk.edukg.dpdns.org&type=ws#📡10@oneclickvpnkeys
