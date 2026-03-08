@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@v2ray_configs_pools 🎖
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@azdeltaghalam7🌵
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@azdeltaghalam7🦄
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@bored_vpn
@@ -253,3 +252,4 @@ vless://7a3a56da-d99f-4771-8867-debc6c6d59ae@F3.HaMrAhCoNf.Ir:8443?path=/&securi
 vless://7a55574d-552b-419e-e1ea-e690636e9bed@marzha.antimage.ir:45591?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://7ab77eb0-4fcc-4ae6-b102-21002764391c@taktun2.majalekhodrostore.ir:50325?encryption=none&type=tcp&headerType=http&host=ikcosales.ir&path=/?V_P_N_Ahmad&security=none#🇳🇱 @V_P_N_Ahmad
 vless://7ab77eb0-4fcc-4ae6-b102-21002764391c@taktun3.majalekhodrostore.ir:50325?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/?V_P_N_Ahmad&security=none#🇫🇮 @V_P_N_Ahmad
+vless://7ab77eb0-4fcc-4ae6-b102-21002764391c@taktun4.majalekhodrostore.ir:50325?encryption=none&type=tcp&headerType=http&host=ikcosales.ir&path=/?V_P_N_Ahmad&security=none#🇩🇪 @V_P_N_Ahmad
