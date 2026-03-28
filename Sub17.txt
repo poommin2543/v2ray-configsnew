@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?allowInsecure=1&encryption=none&host=hex.1tb.workers.dev&path=ws&security=tls&sni=hex.1tb.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://c060fdda-385d-aea1-3982-5a6c92876481@85.133.249.43:58387?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#%3E%3E%40v2rayng_fast%3A%3AAT
 vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ABE
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -253,3 +252,4 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.81-0236
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-0233
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0232
