@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@145.249.115.115:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.0.109:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AKZ
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAR
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@160.119.251.210:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AZA
@@ -253,3 +252,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.141.125:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
