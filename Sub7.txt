@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6a0ec271-ed4a-45c9-99f3-2e0e6ca641cd@blue99shop.ir:28829?path=/&security=none&encryption=none&host=speedtest.net&type=httpupgrade#Germany vip 🇩🇪 Telgram: @Sobi_vpn
-vless://6a2c4e4d-27d2-485b-840d-2d7ebf5bd175@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://6b491b78-c9d6-48d3-beee-dd3ae7f1f311@141.98.24.54:443?encryption=none&fp=&pbk=h6xEGPQUA8iubWgDi-kcVAp-fkc_9-fx0WISxfxqzRI&security=reality&sid=74&sni=www.google.com&type=tcp#🌿4@oneclickvpnkeys
 vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@104.18.13.149:80?mode=auto&path=/&security=none&encryption=none&host=soonteam.imsoon.io.&type=xhttp#CDN🌩️ X🇲🇫FR-@SoonTeam🚀7
 vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@8.6.112.0:80?mode=auto&path=/&security=none&encryption=none&host=soonteam.imsoon.io.&type=xhttp#@Spartan_YT
@@ -253,3 +251,5 @@ vless://d14e62e6-7ae5-4a13-a36a-852c5fd25a3a@185.146.173.58:8080?type=ws&path=/t
 vless://d2223a3e-7996-4a6b-aed7-84d192e9c9d1@snapp.ir:80?path=/graphql?ed=2560&security=none&alpn=http/1.1&encryption=none&host=cdngraph.newmew.site&fp=chrome&type=ws&sni=cdngraph.newmew.site#[31181] - Telegram : @V2All
 vless://d22e6077-bfe7-430a-8484-9ddc672d2b76@v2ngfast-v2ngfast-v2ngfast-v2ngfast.eevqny.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.eevqny.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.eevqny.workers.dev#5  🇩🇪 @av2ngFast
 vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@24dc5c91924c5346.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#@icv2ray
+vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=/&security=&encryption=none&type=ws#@InfoTech_VK3
+vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=/&security=&encryption=none&type=ws#@mtproto_proserver

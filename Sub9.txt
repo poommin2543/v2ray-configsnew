@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=3k.pureboy.eu.org&amp%3Btype=ws&amp%3Bsni=3k.pureboy.eu.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40miov2ray%20%231
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=3k.pureboy.eu.org&amp%3Btype=ws&amp%3Bsni=3k.pureboy.eu.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40miov2ray%20%232
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?path=/%3Fed&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%231
 trojan://trojan@152.53.45.251:8888?security=tls&amp%3Bsni=jflsjlaf.pages.dev&amp%3Btype=ws&amp%3Bhost=jflsjlaf.pages.dev&amp%3Bpath=/#%F0%9F%87%A6%F0%9F%87%B9%20AT%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 vless://9c488e6e-932c-44cb-b488-0b27f591b034@151.101.64.155:80?path=/-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6%E2%80%A6%3C/div%3E#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40msv2raynp%20%231
@@ -252,4 +250,6 @@ vmess://eyJhZGQiOiJ1c3Noc2JhYi4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 
 vmess://eyJhZGQiOiJ1c3Noc2JhYi4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvamF2YXZ1ZWNuIiwicG9ydCI6MjA1MiwicHMiOiLnvo7lm73opb/pg6jlnKPkvZXloZ4yIHwgMXhfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJAVjJyYXlfdnBuMDrahtmG2YQg2YXYpyDYr9ixINiq2YTar9ix2KfZhfCfh6nwn4eqIiwKICAiYWRkIjogImZyZWV2MnJheS52MnJheTQueHl6IiwKICAicG9ydCI6IDQ0NzEwLAogICJpZCI6ICJlZDJkODBjMS01ZTdlLTRhMTMtODMyOC04ZGZlNmRhZDVjZmIiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAiaG9zdCI6ICJTbmFwcC5pciIsCiAgInBhdGgiOiAiL0BWMnJheV92cG4wIiwKICAidGxzIjogIm5vbmUiCn0=💛 💜بزنید روش کپی میشه😉کانفیگ جدید پر سرعت🔥🔥🔥🔥🔤2️⃣🔤🔤🔤✍️✍️✍️✍️✍️✍️✍️✍️🇩🇪🇩🇪🇩🇪1️⃣0️⃣0️⃣🔤🔤🏃‍♂️ری اکشن فراموش نشه@DigiV2ray  ✈️
 
