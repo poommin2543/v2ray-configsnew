@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
+vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://959d4481-d49e-4bd1-915a-d5714c93f7b0@snapp.ir:2082?encryption=none&host=sub1.pavps.ir&path=/e&security=none&type=ws#@aloconfig_com
 vless://9637404c-fc32-4532-a0a4-5c10525819b5@31.57.56.135.alexander77.ru:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=afb0cf5e23b2e185&sni=moktana.digital&serviceName=xyz#@v2rayconfigamir 6929
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@v2rayngzendegimamad🕊️
@@ -251,5 +253,3 @@ vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.127.218.13:443?security=none&encr
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@172.64.149.54:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=/ @ProxyVPN11#🇺🇸 @ProxyVPN11
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?sni=1-aym.pages.dev&type=ws&host=1-aym.pages.dev&path=/fp=chrome&security=tls#@v2rayconfigamir 7923
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@112.184.55.64:20000?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=/&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev#[40749] - Telegram : @V2All
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@121.140.206.109:11434?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=/&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev#[40743] - Telegram : @V2All
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@121.151.210.54:33848?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=/&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev#[40770] - Telegram : @V2All
