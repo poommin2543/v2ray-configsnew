@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#@v2rayngzendegimamad🕊️
-vless://0ae54c13-39d6-46d9-a007-ee0a9983f6c4@SnaPp.ir:2082?path=/&security=none&encryption=none&host=aLiReza.mobilesubasa.com&type=ws#🟢 @Bluefilter_org | تلگراممون 🟢
 vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?encryption=none&type=ws&path=/preply&host=app.gplance.com#@techbod
 vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=/preply&security=&encryption=none&host=app.gplance.com&type=ws#@iProxyChannel 8
 vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?security=none&encryption=none&host=app.gplance.com&headerType=none&type=tcp#@Proxy_Vpney v+p (4)
@@ -253,3 +251,5 @@ vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=&en
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#@VIPV2rayNGNP
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#@iProxyChannel 2
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#https://t.me/Configir98
+vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#https://t.me/v2ray_confiiig
+vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws

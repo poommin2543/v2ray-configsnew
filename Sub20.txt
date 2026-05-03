@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://mSzFVhUczD@104.20.5.134:443?allowInsecure=1&alpn=http%2F1.1&host=abest.api-tel.xyz&path=%2F&sni=abest.api-tel.xyz&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAR
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@160.119.251.210:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AZA
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@192.142.4.232:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAM
@@ -253,3 +251,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?allowInsecure=1&en
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.47:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.64.235.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.28.96.83:8443?encryption=none&fp=chrome&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.121.169:2096?allowInsecure=1&alpn=AKBARCONFIG%40.AKBARCONFIG%40.AKBARCONFIG%40.AKBARCONFIG%40.AKBARCONFIG%40.AKBARCONFIG%40.networld_vpn-&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
