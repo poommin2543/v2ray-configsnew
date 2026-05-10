@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#🇵🇱 t.me/Natrixo AA
 vless://be473af0-2a23-41d8-9dcf-9532aa65dd33@melllipen.shop:2095?path=/xs&security=none&encryption=none&host=melllipen.shop&type=ws#[51027] - Telegram : @V2All
 vless://be473af0-2a23-41d8-9dcf-9532aa65dd33@melllipen.shop:2095?path=/xs&security=none&encryption=none&host=melllipen.shop&type=ws#[51031] - Telegram : @V2All
 vless://be9745b1-ebba-4adf-8a53-d42d812f990e@2.144.21.201:6003?encryption=none&type=tcp&headerType=none#@techbod
@@ -253,3 +252,4 @@ vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80?path=/&securit
 vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80?path=/&security=none&encryption=none&host=srv3.diamond-tech.online&type=ws#✅️ترکیبی یک: Shomarrreh@
 vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80?path=/&security=none&encryption=none&host=srv3.diamond-tech.online&type=ws#🎭@FlashTunnelx
 vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80?path=/&security=none&encryption=none&host=srv3.diamond-tech.online&type=ws#🎭@V2rayAlpha-3
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#@NetZone_ir

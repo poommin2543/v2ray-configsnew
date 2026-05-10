@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://890b411f-c315-462c-bdf0-5f6452de775a@snapp.ir:8880?path=/&security=none&encryption=none&host=wt.programming-coding.ir&type=ws#@vpnbaz | ترکیبی
 vless://890b411f-c315-462c-bdf0-5f6452de775a@snapp.ir:8880?path=/&security=none&encryption=none&host=wt.programming-coding.ir&type=ws#ترکیبی پنج | Shomarrreh@
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@FreakConfig
 vless://8968718e-bf35-454f-b1ce-4f622883eae1@midibznim.pesarkhob.com:8080/?type=ws&encryption=none&path=/&host=midibznim.pesarkhob.com&security=none#🩸VPNshop666
@@ -253,3 +252,4 @@ vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.3
 vless://bd51a3d6-328c-49d5-9270-6b7c6051d98f@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@Brayirani •☕ | عضو شید قطع نشید.
 vless://bdb57cdb-f555-4fd6-a28c-5f652d996eac@oma.parslicense.ir:80?path=/arvia_taula&security=none&encryption=none&host=oma.parslicense.ir&type=ws#چنل عضو شو @v2ra_config
 vless://bddbab08-3f69-4d5c-86cc-4d1de9a79c55@arvan2.un1ty.ir:80?encryption=none&type=ws&path=/#@icv2ray
+vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#🇵🇱 t.me/Natrixo AA
