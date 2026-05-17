@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=/&security=&encryption=none&host=vixon.portab.org&type=ws#@icv2ray
-vless://b8aead42-eaf7-4d2e-90a4-b97135bbde26@5.145.114.132:41794?type=tcp&encryption=none&security=none#🇺🇸United States | 🌐 IP: 2.27.22.187 | ⏳ping:1684.44ms | 📢 @NamazVPN
 vless://b8aead42-eaf7-4d2e-90a4-b97135bbde26@5.145.114.132:41794?type=tcp&encryption=none&security=none#🇺🇸United States | 🌐 IP: 2.27.22.187 | ⏳ping:834.76ms | 📢 @NamazVPN
 vless://b925f92c-db28-4e31-8784-9bfc4f7ca75e@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@pmo_iron
 vless://b9653688-1470-f844-f106-a12f10fb3517@porttt4.webchipro2.ir:3040?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#canfingV2rayNG-236
@@ -253,3 +251,5 @@ vless://ed31ce4d-6cff-467c-8774-9e0ac0448b74@snapp.ir:80?path=/&security=&encryp
 vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=/&security=&encryption=none&type=ws#@Pirimod
 vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=/&security=&encryption=none&type=ws#@filembad
 vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#@Pirimod
+vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#@appsooner کانال تلگرام 🕊️
+vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#🇮🇷25147 | ⚡️Telegram = t.me/S@imokping
