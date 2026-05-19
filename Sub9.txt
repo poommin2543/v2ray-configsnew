@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b4770c62-80f6-4257-a0c6-0241d1615297@blubank.sb24.ir:2086?security=none&type=ws&headerType=&path=/path&host=tr-st2.ge9.ir#@techbod
-vless://b4770c62-80f6-4257-a0c6-0241d1615297@digipay.ir:2052?security=none&type=ws&headerType=&path=/path&host=tr-st3.ge9.ir#@techbod
-vless://b4770c62-80f6-4257-a0c6-0241d1615297@snapp.ir:8080?security=none&type=ws&headerType=&path=/path&host=tr-st4.ge9.ir#@techbod
-vless://b4770c62-80f6-4257-a0c6-0241d1615297@tarvar.ir:8880?security=none&type=ws&headerType=&path=/&host=tr-st.ge9.ir#@techbod
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2rayngzendegimamad🕊️
 vless://b4df20b7-6b45-428e-993a-a77d7a90f6cb@varzesh3.com:80/?type=ws&encryption=none&path=/&host=proto.helexm.ir&security=none#protiFi-6811
 vless://b4e6c21d-3931-4907-b739-00224db4299c@ir120-api.boornakood.ir:443?encryption=none&type=ws&security=tls&path=/sites/brn/backup.zip&host=ir120-assets.boornakood.ir&sni=ir120-assets.boornakood.ir&alpn=h2&fp=chrome&allowInsecure=1#@electvpn0
@@ -253,3 +249,7 @@ vless://e70780b2-7ccc-4add-8ab2-7b7df57a74a7@null.bache-molavi.sbs:51456?securit
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2092?security=none&encryption=none&host=www.nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?security=none&encryption=none&host=www.nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://e813abf8-6def-4884-8425-10a33756d6ea@varzesh3.com:8080?path=/cdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#V2rayng_Fast
+vless://e856328e-ba3d-4640-99da-46520655ba81@freak.gexar.top:30107?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
+vless://e87d46d6-96a7-4961-ac27-de394755bf3b@snapp.ir:80?path=/&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#@LightVPN_0
+vless://e9503cee-ae7d-4abe-b6ed-5795458073a4@104.18.16.56:2083?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=prNkjleyvh.olAmpiavaRz.ir&fp=chrome&type=ws&allowInsecure=0&sni=vddhasdasdh.olampiavarz.ir#@v2rayngzendegimamad🕊️
