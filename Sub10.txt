@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e58b2f9c-894f-4a0c-a345-76748443f850@snapp.ir:8080?path=/&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#@VPN
-vless://e58b2f9c-894f-4a0c-a345-76748443f850@snapp.ir:8080?path=/&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#برای+اتصال+دائمی+جوین+شو🗾+prrofile_purple@
 vless://e5a1d397-cdfa-443c-b972-56dc2276d851@snapp.ir:2087?mode=auto&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=1&host=v1.pariroo.store&fp=chrome&type=xhttp&allowInsecure=1&sni=v1.pariroo.store#تلگرام  @irconfi روبیکا  @wizardxray
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
 vless://e70780b2-7ccc-4add-8ab2-7b7df57a74a7@null.bache-molavi.sbs:51456?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
@@ -253,3 +251,5 @@ vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&
 vless://dad8cfaf-a8dc-491b-94ad-1fb57cfc6691@pisronovin.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40configv2rayforfree%20%231
 vless://9dc1bebe-e059-4c96-b3a3-46a2936b1a53@snapp.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=B1.nexoratechcenter.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40configv2rayforfree%20%232
 vless://VPNCUSTOMIZE@188.114.98.224:2095?path=/V2rayCUSTOMIZE%3Fed%3D1024&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40customizev2ray%20%231
+vless://017c320f-e573-46a9-a86d-edd8f4a8cbbf@188.114.98.224:2095?path=/V2rayCUSTOMIZE%3Fed%3D1024&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40customizev2ray%20%232
+vless://7ce27a4e-10a6-459b-fd47-d078df5f22fe@104.17.187.102:2096?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=grpc&amp%3BserviceName=%28#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40dailyv2ray%20%231

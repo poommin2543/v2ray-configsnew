@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#@CUSTOMVPNSERVER
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
 vless://83345037-0431-42e8-b620-2d2deba8f4ce@blubank.sb24.ir:8880?encryption=none&host=botp.bexora.ir&path=/&security=none&type=ws#@V2ray_confiig
 vless://8389483a-5064-4b9a-d577-59add9ee927c@5.61.24.228:58864?path=/rocketnet&security=none&encryption=none&headerType=none&type=ws&quicSecurity=none#@v2rayconfigamir 2185
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Telegram : @V2ynpv
@@ -253,3 +251,5 @@ vless://b1620800-d06d-4a6f-a07f-e610eb3217b6@v2ngfast-v2ngfast-v2ngfast-v2ngfast
 vless://b174b5d5-8cd7-4f2d-927a-f1a5ec309d36@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🔵@chillguy_vpn
 vless://b1803c7d-0104-46c1-82e4-4c55eb69a5a5@51.250.4.2:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=226509f017e4c36d#[62862] - Telegram : @V2All
 vless://b19f805e-7c05-40e3-9156-2a282214ec2e@v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev#2 🇩🇪 @V2ngFast
+vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?encryption=none&type=ws&path=/&security=none#canfingV2rayNG-244
+vless://b1b24586-cccf-458d-b125-d621c3710676@pl1.astrocore.cloud:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&security=reality&sid=f129f93e&sni=pl1.astrocore.cloud&type=tcp#[62869] - Telegram : @V2All
