@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?encryption=none&security=none&type=tcp&headerType=http&host=/---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig#🔵@chillguy_vpn
 vless://6c0e42cd-4d08-4e1d-a24a-2992032bb667@sv1.zanos.website:50430?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://6c63c96d-e64b-481f-9961-4fad444ab3c2@185.143.234.235:80?path=/&security=none&encryption=none&host=prime.apicallminecrafegame.online&type=ws#⏳@Proxy_Vpney (6)
 vless://6c8e57b7-bdf0-4baf-85a5-e369322d3a34@snapp.ir:8080?path=/&security=none&encryption=none&host=free.cdn-hio.mom&type=ws#@Esfehan
@@ -253,3 +252,4 @@ vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.234.115:443?path=/&security
 vless://a9f00d61-d50e-423e-9157-a96461fdf87d@snapp.ir:80?type=ws&encryption=none&path=/&host=rollsroycecullinane.ir&security=none#v2rayng_vpn403
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@dns.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:62.6ms
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@monitor.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Buffalo🅿️ping:225.74ms
+vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@noc.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:105.23ms
