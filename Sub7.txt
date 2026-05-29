@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram : @V2ynpv
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.jpmj.dev&type=ws#🇵🇹35410 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.238:2096?path=/?Telegram🇨🇳@WangCai2=&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@vmesskhodam
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?path=/?https://t.me/wangcai2🇨🇳=&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#@Father_vpn⁴
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?path=/?https://t.me/wangcai2🇨🇳=&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#Pro 15 @VpnFardad
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@outline_ir
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=/&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@vmesskhodam
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@v2raybaaz 🍋‍🟩
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🐦Tel-@VpnFardad--2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@vpnbaz 🥝
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#IR-@V2rayAlpha-5
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@v2rayngzendegimamad🕊️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.206.93.154:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 93
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.245:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 97
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.9:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 95
@@ -253,3 +241,15 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?Telegram=@Gozarga
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🫜26@oneclickvpnkeys
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🫜68@oneclickvpnkeys
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#⚡@V2ray_official
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#SHOP_GAMING1011
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@filtershekan_channel
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🔵@config_free2
+vless://923aa2a7-9803-426b-b8d5-b04a788fd04c@chatgpt.com:8443?path=/J5aLQOY1R9ONWYCM?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=tls2.best-game.org&fp=chrome&type=ws&allowInsecure=1&sni=tls2.best-game.org#@Iranvasll
+vless://923aa2a7-9803-426b-b8d5-b04a788fd04c@chatgpt.com:8443?path=/J5aLQOY1R9ONWYCM?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=tls2.best-game.org&fp=chrome&type=ws&allowInsecure=1&sni=tls2.best-game.org#@Iranvasll  Npv✅
+vless://9270ef77-592f-11f1-98cc-54db13ea7d40@172.86.95.189:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&security=reality&sni=www.akamai.com&type=tcp#🐏2@oneclickvpnkeys
+vless://92b08fda-b6ab-48f2-bf60-6b4fdba6f57d@80.66.89.165:50569?security=reality&encryption=none&pbk=9lKFlpNOHHbe-XG1-iw1oSJRQsYG4Wrk1mvs8aa3InA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=7973e5d00cb00ccd#[66211] - Telegram : @V2All
+vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
+vless://938a7106-f76e-4c4a-af56-5f3d6d114cff@136.244.80.155:443?security=tls&encryption=none&host=splus.ir&headerType=none&type=tcp&sni=dash.neospark.ir#🇩🇪35443 | ⚡️Telegram = t.me/SOSkeyNET
+vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?encryption=none&security=none&type=tcp#@canfigiop
+vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?security=none&encryption=none&headerType=none&type=tcp#TEL;FATHER_VPN¹²
+vless://942469ee-7f8e-443d-bfd2-4f8b1faa5970@199.232.57.91:80?encryption=none&type=ws&path=/?ed=2056&host=Api.nHl14.iR.#😘https://t.me/ConfigX2ray
