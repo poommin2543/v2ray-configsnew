@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&fp=chrome&allowInsecure=0#@VpnFardad
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@VpnFardad
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@Shh_Proxy-New⁴
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#@vpnbaz 🍬
@@ -253,3 +252,4 @@ vless://5c59654a-7ae4-4d46-89df-8cc0f87781aa@45.15.167.138:25721?encryption=none
 vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@31.43.179.111:443?security=tls&type=ws&headerType=&path=/&host=rozitamuli.gozarino.com&sni=rozitamuli.gozarino.com&fp=#@vmesskhodam
 vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@94.140.0.0:443?security=tls&type=ws&headerType=&path=/?ed=2048&host=api.gozarino.com&sni=api.gozarino.com&fp=#@vmesskhodam
 vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@Garden-.userid:1719?security=none&type=tcp&headerType=http&path=/&host=#@vmesskhodam
+vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@Garden-.userid:500?security=reality&type=tcp&headerType=&path=&host=&sni=www.chess.com&fp=chrome&pbk=OfqZPHXqiwjyZEhZtVO1kk9PLxW2ueKdaOjVX_Br2Ek&sid=#@vmesskhodam
