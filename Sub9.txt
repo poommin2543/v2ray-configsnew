@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#🔵@chillguy_vpn
 vless://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot19to502.global.ssl.fastly.net&mode=auto#🔵@chillguy_vpn
 vless://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot31dx253.global.ssl.fastly.net&mode=auto#🔵@chillguy_vpn
 vless://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#🔵@chillguy_vpn
@@ -252,4 +253,3 @@ vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@itaclo.konkuriran.sbs:8880?path=/&s
 vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@itaclo.konkuriran.sbs:8880?path=/&security=none&encryption=none&host=itcd.konkuriran.sbs&type=ws#@Proxy_Vpney (6)
 vless://b5df4261-66dc-481c-864c-7671e538fd8b@94.182.134.36:43070?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@KAFING_2
 vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#@v2rayngzendegimamad🕊️
-vless://b6d0c809-b488-48bd-b630-52d5bdfb6f9a@snappfood.ir:443?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=h.goodphilips.ir#🇮🇷26642 | ⚡️Telegram = t.me/SOSkeyNET
