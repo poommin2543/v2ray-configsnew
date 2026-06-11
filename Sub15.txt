@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.64.152.33:2096?path=/ws?ed&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.64.152.33:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#kurdconfig
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.64.152.33:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.64.152.33:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#❤️‍🔥 کانال تلگرام v2ray_configs_pools@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.64.152.33:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#@bored_vpn
@@ -251,5 +253,3 @@ vless://c15bde60-45c9-49e9-98d6-8b622a94f238@blubank.ir:80?path=/&security=none&
 vless://c19cc0a7-a5e6-4b40-b9c8-52b58682be10@107.161.174.24:8880?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#t.me/arisping
 vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@45.82.252.161:443?security=reality&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&type=tcp&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#🇭🇰63422 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c1de7c16-9c66-482c-82e5-8aeaeb5d53b3@ip2.neoservers.ir:8443?security=tls&alpn=h3,h2&encryption=none&insecure=0&host=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.#@KAFING_2
-vless://c243dc44-3fb5-4101-9cb4-20d9f034efed@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=api.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#@VPsave
-vless://c243dc44-3fb5-4101-9cb4-20d9f034efed@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=night.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇺🇸63314 | ⚡️Telegram = t.me/SOSkeyNET
