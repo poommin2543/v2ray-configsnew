@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@appsooner کانال تلگرام 🕊️
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@filembad
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@hex_proxy ⁵
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@hi_proxy_iran :👈کانال تلگرام
@@ -253,3 +251,5 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=/download.php
 vless://110f52f9-fc93-4fa2-8856-d45f953f9cc4@lumora03.playon.ir:2087?alpn=http/1.1&encryption=none&fp=chrome&host=lumora03.playon.ir&path=/api/v1/assets/sync&security=tls&sni=lumora03.playon.ir&type=ws#@VPsave
 vless://11b0ece3-2edd-45f4-84a3-361608d5111b@free.cdn-hio.mom:2082?type=ws&encryption=none&path=/&host=free.cdn-hio.mom&security=none#@Pirimod
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#کانفیگ متصل موجود🔥👇🏻@Outline_one_clickbot
+vless://12057eb0-5b11-47ed-b34b-0c8646b99864@104.24.38.200:8080?path=/?ed=2056&security=none&encryption=none&host=xcc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config

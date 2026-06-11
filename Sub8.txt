@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xv2.irx.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=xv2.irx.cc.cd#چنل عضو شو @v2ra_config
-vless://27c321f9-bee4-49d9-ada5-aaf1a5b3b1da@162.19.181.48:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tEVdXRIm8PEge42nXXzHAsd1-_AoUflc_MzMZHWWa10&security=reality&sid=e193ba67&sni=www.cloudflare.com&spx=/5P3xvRQswJrFpAp&type=tcp#🇫🇷FR-🚀@VPNine1
 vless://28007472-a4e9-4881-984a-2bf6b3d35917@80.66.72.179:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=teamdocs.su&fp=chrome&allowInsecure=1&pbk=Yed352UFUwRyZWPyVYM_0OvLkxvCjOB7160DdAxKsWE&sid=bc5e336f8fdb&spx=/&flow=xtls-rprx-vision#@V2VODKA_A 🇩🇪 1
 vless://284811b1-b4c4-4510-c000-319afe20f97f@188.114.97.6:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=hello.aihoshbartar.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=hello.aihoshbartar.ir#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=/id-pusat&security=tls&encryption=none&host=dfsuporte.garena.com.ex33r.eu.cc&allowinsecure=0&type=ws&sni=dfsuporte.garena.com.ex33r.eu.cc#🇩🇪All¹⁰ | @FREE_VPN02
@@ -253,3 +251,5 @@ vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80?encryption=none&ty
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@ai_duet تنهانت

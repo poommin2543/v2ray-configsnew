@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@meliproxyy
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#kurdconfig
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdn3-87.vk-cdnvideo.com#@v2raybaaz
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.136:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-25.vk-cdnvideo.com#@hi_proxy_iran :👈کانال تلگرام
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.136:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-25.vk-cdnvideo.com#@meliproxyy
@@ -253,3 +251,5 @@ vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@178.20.211.244:443?encryption=none&
 vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@23.158.136.33:443?encryption=none&type=xhttp&security=reality&path=/xhttp-proxy&mode=auto&sni=5post-gate.x5.ru&fp=chrome&allowInsecure=1&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&spx=/#@V2VODKA_A 🇺🇸
 vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@31.76.119.146:443?encryption=none&type=xhttp&security=reality&path=/xhttp-proxy&mode=auto&sni=5post-gate.x5.ru&fp=chrome&allowInsecure=1&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&spx=/#@V2VODKA_A 🇩🇪
 vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@38.180.101.65:443?encryption=none&type=xhttp&security=reality&path=/xhttp-proxy&mode=auto&sni=5post-gate.x5.ru&fp=chrome&allowInsecure=1&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&spx=/#@V2VODKA_A 🇷🇸
+vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@45.154.206.100:443?encryption=none&type=xhttp&security=reality&path=/xhttp-proxy&mode=auto&sni=5post-gate.x5.ru&fp=chrome&allowInsecure=1&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&spx=/#@V2VODKA_A 🇪🇸
+vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@85.17.244.114:443?encryption=none&type=xhttp&security=reality&path=/xhttp-proxy&mode=auto&sni=5post-gate.x5.ru&fp=chrome&allowInsecure=1&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&spx=/#@V2VODKA_A 🇳🇱

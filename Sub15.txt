@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇩🇪@FreakConfig
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@162.159.152.9:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#telegram @mtmvpn 7
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@162.159.240.155:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#telegram @mtmvpn 5
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.64.152.33:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.64.152.33:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#@bored_vpn
@@ -253,3 +251,5 @@ vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80?path=/&security=&encr
 vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80?path=/&security=&encryption=none&host=po.masterdadeh.ir&type=ws#@confiig_hub
 vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80?path=/&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#@mehrosaboran
 vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80?path=/&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#Channel id: @internet_azad_2026
+vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80?path=/&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#telegram @mtmvpn 1
+vless://c393b79d-0a21-45f3-fee4-af7fb1839aa4@snapp.ir:2087?path=/BetForward&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#🇮🇷65210 | ⚡️Telegram = t.me/SOSkeyNET
