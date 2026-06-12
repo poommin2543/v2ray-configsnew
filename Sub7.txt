@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#@outline_ir
+vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz 🇮🇹
+vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&type=tcp#kurdconfig
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🦉@FreeConfigForYou
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=reality&encryption=none&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=9891d7#@v2rayngzendegimamad🕊️
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=reality&encryption=none&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=9891d7#TEL;Father_vpn
 vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -249,7 +253,3 @@ vless://1b10194f-c47a-4e41-bc1d-834ff945515a@kmwqlzpxrntcvbyjhdfs.kk.noafra.ir:8
 vless://1b10194f-c47a-4e41-bc1d-834ff945515a@kmwqlzpxrntcvbyjhdfs.kk.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Mix--@V2rayAlpha--39
 vless://1b10194f-c47a-4e41-bc1d-834ff945515a@lpwqxrytzzcvbnmkfjdh.kk.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 vless://1b10194f-c47a-4e41-bc1d-834ff945515a@lpwqxrytzzcvbnmkfjdh.kk.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Mix--@V2rayAlpha--3
-vless://1b10194f-c47a-4e41-bc1d-834ff945515a@lqwxzkpjrmtnvbcyfhds.kk.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
-vless://1b10194f-c47a-4e41-bc1d-834ff945515a@lqwxzkpjrmtnvbcyfhds.kk.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Mix--@V2rayAlpha--2
-vless://1b10194f-c47a-4e41-bc1d-834ff945515a@pwlrqvnmcbhjfdgsxyzk.kk.noafra.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
-vless://1b10194f-c47a-4e41-bc1d-834ff945515a@pwlrqvnmcbhjfdgsxyzk.kk.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
