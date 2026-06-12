@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#👑@Kia_Net -_- 267
-vless://dc7b8019-893f-4583-b95c-044b1f9696f4@dl4.paycollection.lol:80?path=/flutter&security=&encryption=none&host=dl4.paycollection.lol&type=ws#t.me/ConfigFori  -  Config 73746
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@iguanaVPN [5]
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?type=ws&security=none&host=de.vpnbase.net&path=/http#@Morrfinchnl
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?type=ws&security=none&host=de.vpnbase.net&path=/http#@freenettir
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?type=ws&security=none&host=de.vpnbase.net&path=/http#@hi_proxy_iran :👈کانال تلگرام
@@ -253,3 +250,6 @@ vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@www.speedtest.net:80?path=/&securit
 vless://ef231a1b-d085-4101-9812-cf09ea87dd6b@test.kidvpnlocal.dpdns.org:110?encryption=none&security=tls&sni=test.kidvpnlocal.dpdns.org&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=mygrpc&mode=multi#@v2reya88 | @confinghub2
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.17.201.245:2052?path=/x0o2qglxz7zu&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol#🇨🇦66822 | ⚡️Telegram = t.me/SOSkeyNET
 vless://efb51103-661b-4a32-a96f-f60a4fa178d0@fl.gamelistak.com:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#@MrNexTV2RAY
+vless://efb51103-661b-4a32-a96f-f60a4fa178d0@wallet.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#@MrNexTV2RAY
+vless://f025c66e-47f3-4e00-a681-2866f17074f1@tamin.ir:2052?type=ws&security=none&path=/&host=u9.deltamarket3.ir#u9-50608
+vless://f032fd94-715d-4d37-835f-13959a63df14@18.183.94.154:39611?security=reality&encryption=none&pbk=bffq0wpw2vUOczXypqTqoXzYEzwXAZQzhOut1fvFyWQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=d7627055cafc62#@v2raybaaz ⁴

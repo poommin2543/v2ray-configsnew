@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&insecure=1&host=alesis724.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#channel @Azaranv2ray
-vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&insecure=1&host=alesis724.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#fastkanfig
-vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&insecure=1&host=alesis724.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️395🌐🆕️
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&insecure=1&host=alesis724.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️397🌐🆕️
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.68:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#@v2rayconfigamir 4122
 vless://52faee73-e0fe-4661-992d-67259257170f@bypass.uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#🇸🇨SC-🚀@VPNine1
@@ -253,3 +250,6 @@ vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@local.connectingissues.ir:80?mode=a
 vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#kurdconfig
 vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#🇨🇦@FreakConfig
 vless://6e0f7207-a6cd-4ec8-a919-9578129ace3d@46.4.162.63:443?security=&encryption=none&headerType=&type=tcp#@icv2ray
+vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&security=tls&type=ws&host=telegram.proxie2-tel.workers.dev&path=/eyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&sni=tELEGRAM.prOXIe2-TEL.wOrKErS.DEV&fp=chrome&alpn=http/1.1#@filembad
+vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&security=tls&type=ws&host=telegram.proxie2-tel.workers.dev&path=/eyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&sni=tELEGRAM.prOXIe2-TEL.wOrKErS.DEV&fp=chrome&alpn=http/1.1#🇨🇦66804 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6e3046df-37d2-40e2-af24-281ec3a6ec9f@188.114.98.0:443?mode=auto&path=/SoonTeam&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=xso.u3er1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=xso.u3er1.ir#@Evay_vpn
