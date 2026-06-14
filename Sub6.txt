@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#⚡@V2ray_official
-vless://09058975-747e-464e-aa91-c00bf530e93e@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#[76852] - Telegram : @V2All
 vless://09058975-747e-464e-aa91-c00bf530e93e@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#🇮🇷69549 | ⚡️Telegram = t.me/SOSkeyNET
 vless://09058975-747e-464e-aa91-c00bf530e93e@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#🇮🇷IR-🚀@VPNine1
 vless://09058975-747e-464e-aa91-c00bf530e93e@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#🔵@chillguy_vpn
@@ -253,3 +251,5 @@ vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&headerType=http&host=e1roj9ul.divarcdn.com,e1roj9ul.alibaba.ir,e1roj9ul.splus.ir,e1roj9ul.cafebazaar.ir,e1roj9ul.yjc.ir&security=none&type=tcp#[76871] - Telegram : @V2All
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&headerType=http&host=e1roj9ul.divarcdn.com,e1roj9ul.alibaba.ir,e1roj9ul.splus.ir,e1roj9ul.cafebazaar.ir,e1roj9ul.yjc.ir&security=none&type=tcp#🦕8@oneclickvpnkeys
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com, e1roj9ul.alibaba.ir, e1roj9ul.splus.ir, e1roj9ul.cafebazaar.ir, e1roj9ul.yjc.ir&headerType=http&type=tcp#@Ap_Ir6
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com, e1roj9ul.alibaba.ir, e1roj9ul.splus.ir, e1roj9ul.cafebazaar.ir, e1roj9ul.yjc.ir&headerType=http&type=tcp#@Vpn_jet7
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com, e1roj9ul.alibaba.ir, e1roj9ul.splus.ir, e1roj9ul.cafebazaar.ir, e1roj9ul.yjc.ir&headerType=http&type=tcp#filembad-66

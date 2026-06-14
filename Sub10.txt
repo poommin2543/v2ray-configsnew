@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://64670147-6d2d-458a-8c20-baca66b82e54@ge.it-programer.ir:8443?security=reality&encryption=none&pbk=6g65kNZcYXGJAd8xUyinXVFA_H51i_mqAIq13mvnTCo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ge.it-programer.ir&sid=7ca84973be0c0315#Telegram : @V2ynpv
-vless://64cd4898-b619-4471-abcd-0cbb26c4a5f5@193.151.143.75:25260?path=/&security=&encryption=none&host=myket.ir&type=ws#@v2reya88 | @confinghub2
 vless://64d080fe-adab-486f-9b89-ef4fd2a92ca5@v2ray.moneyshopthebest.ir:44190?path=/&security=&encryption=none&host=v2ray.moneyshopthebest.ir&type=ws#🇹🇷69577 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://6585a62b-4d8b-48cc-bdad-e2542504d748@172.67.103.152:8443?encryption=none&type=xhttp&security=tls&path=/&host=Itsrezu2.dr-ping.com&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@Morrfinchnl
@@ -253,3 +251,5 @@ vless://80816cd5-dcd1-4a7b-b12d-1b8561a5f097@my.kiomars.shop:6664?security=reali
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
 vless://80f0417f-5c78-47e3-a847-54d6e0771171@f.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#@Ap_Ir6
 vless://80f0417f-5c78-47e3-a847-54d6e0771171@f.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#تستی همه اپراتور ه
+vless://80f0417f-5c78-47e3-a847-54d6e0771171@f.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#تستی همه اپراتور ها  T.me/Raiv2mmr
+vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/3BzRkDnEVV1LI56p?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (4)

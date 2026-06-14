@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@FarazV2ray
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@appsooner کانال تلگرام 🕊️
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@icv2ray
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@Kia_Net
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
@@ -253,3 +251,5 @@ vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encr
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
+vless://dcb2544a-b257-4267-9200-4b522f0001e6@snapp.ir:80?path=/&security=none&encryption=none&host=worldt.wawariweb.ir&type=ws#چنل عضو شو @v2ra_config
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#TEL;Father_vpn

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://80f0417f-5c78-47e3-a847-54d6e0771171@f.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#تستی همه اپراتور ها  T.me/Raiv2mmr
-vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/3BzRkDnEVV1LI56p?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (4)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/BJMz0Rpb9gejBzKP?ed=2560#CxrolVPN - Free (2)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#CxrolVPN - Free (1)
@@ -253,3 +251,5 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Mix--@V2rayAlpha--5
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@appsooner کانال تلگرام 🕊️
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.myfymain.com:8880?security=&encryption=none&type=grpc#@icv2ray

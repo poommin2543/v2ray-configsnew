@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dcb2544a-b257-4267-9200-4b522f0001e6@snapp.ir:80?path=/&security=none&encryption=none&host=worldt.wawariweb.ir&type=ws#چنل عضو شو @v2ra_config
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#TEL;Father_vpn
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#🇩🇪69563 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#🇩🇪DE-🚀@VPNine1
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#🇩🇪 @ProxyVPN11
@@ -253,3 +251,5 @@ vless://fc2b1e97-2ac4-4cb5-f759-f7d4b1de110e@snapp.ir:2087?path=/BetForward&secu
 vless://fc2be12b-e815-4db1-baaf-4d836d5c5ff8@static.94.219.109.65.clients.your-server.de:8080?security=none&allowInsecure=0&encryption=mlkem768x25519plus.native.0rtt.-a3SjR5SwelNsnaxLHT2CuOAJuBDnrzPTw88l3eTVUw&type=ws&host=static.94.219.109.65.clients.your-server.de&path=/news#🦉@FreeConfigForYou
 vless://fc53bae5-92f5-4572-9ce8-9e56901479f1@104.20.5.134:80?encryption=none&security=none&type=ws&host=尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞3亞團員亞團員.尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.com.&path=/amo-mohammad#@SheriffNet
 vless://fc841d97-3159-4424-81cb-a71b2e4d824d@nrs.free4all.com.de:2095?security=none&encryption=none&headerType=none&type=tcp#چنل عضو شو @v2ra_config
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0#@filembad
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0#[76864] - Telegram : @V2All
