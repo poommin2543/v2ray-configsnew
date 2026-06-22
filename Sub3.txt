@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@45.130.125.20:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#🆔spotify_porteghali%20🔒%20VL-XHTTP-N/A%20❔%20XX%202ms
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@104.17.147.22:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=u2.pabloping.cloud&type=xhttp#🆔spotify_porteghali%20🔓%20VL-XHTTP-N/A%20❔%20XX%203ms
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-TCP-N/A%20❔%20XX%20127ms
 vless://2e4798a9-d8e9-4a43-ad43-285d3ad5633c@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -251,5 +253,3 @@ trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:48738?allowInsecure=1&s
 trojan://e0195c73018d597b1c2f0ea89d8676ae@18.162.190.157:17005?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.118.154:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:49277?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
-trojan://e0195c73018d597b1c2f0ea89d8676ae@13.115.223.251:17005?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://BxceQaOe@18.163.80.94:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
