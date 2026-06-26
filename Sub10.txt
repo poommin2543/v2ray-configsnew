@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vmesskhodam
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#@Vpn_jet7(100gig)
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@ProxyMtAlpha🧑‍🚒 4
-trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#@meliproxyy
-trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&insecure=0&allowInsecure=0#@meliproxyy
-trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&insecure=0&allowInsecure=0#@meliproxyy
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@appsooner کانال تلگرام 🕊️
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#[82294] - Telegram : @V2All
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#[مینا] 🇨🇦 CA-12043
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#] 🇨🇦 CA-12045
-trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@V2raySup0 🚀
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@Alpha_V2rayip😶‍🌫️ 1
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#☑➜چنلمون: Express_freevpn@
 trojan://humanity@198.202.211.1:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0#19. @NewsDarya
@@ -253,3 +239,17 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=no
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@Soul737
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Tel-@ProxyMtAlpha🦂 3
 vless://0066909c-52b0-4f59-ae77-b87383b506d1@104.16.19.62:443?path=/sync&security=tls&encryption=none&insecure=0&host=wandering-sun-550e.ghaderi-0c4.workers.dev&type=ws&allowInsecure=0&sni=wandering-sun-550e.ghaderi-0c4.workers.dev#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
+vless://00b2c573-d37e-447b-a979-5b940be44fd4@192.0.63.174:2053?security=tls&alpn=http/1.1&encryption=none&type=ws&sni=fl.matrix-shop.ir#🇺🇸US-🚀@VPNine1
+vless://00b2c573-d37e-447b-a979-5b940be44fd4@199.181.197.176:2053?security=tls&alpn=http/1.1&encryption=none&type=ws&sni=fl.matrix-shop.ir#🇺🇸US-🚀@VPNine1
+vless://00b2c573-d37e-447b-a979-5b940be44fd4@45.131.6.203:2053?security=tls&alpn=http/1.1&encryption=none&type=ws&sni=tr.matrix-shop.ir#🇳🇱NL-🚀@VPNine1
+vless://00b2c573-d37e-447b-a979-5b940be44fd4@89.116.250.135:2053?security=tls&alpn=http/1.1&encryption=none&type=ws&sni=tr.matrix-shop.ir#🇱🇹LT-🚀@VPNine1
+vless://00b2c573-d37e-447b-a979-5b940be44fd4@tn.mxspeed8-1.ir:8880?path=/&security=&encryption=none&type=ws#🇮🇷IR-🚀@VPNine1
+vless://013704b2-3029-475b-bc01-9de077ac427a@188.40.237.132:8443?mode=auto&path=/cdn-cgi&security=reality&encryption=none&pbk=nW_BXjdhh-WWF94rW5-FmfwJJ7zUKSu3naCPVuC_AQE&fp=chrome&spx=/favicon.ico&type=xhttp&sni=www.yahoo.com&sid=0ef0909acd#@bored_vpn
+vless://013704b2-3029-475b-bc01-9de077ac427a@188.40.237.132:8443?mode=auto&path=/cdn-cgi&security=reality&encryption=none&pbk=nW_BXjdhh-WWF94rW5-FmfwJJ7zUKSu3naCPVuC_AQE&fp=chrome&spx=/favicon.ico&type=xhttp&sni=www.yahoo.com&sid=0ef0909acd#@confiig_hub
+vless://013704b2-3029-475b-bc01-9de077ac427a@188.40.237.132:8443?mode=auto&path=/cdn-cgi&security=reality&encryption=none&pbk=nW_BXjdhh-WWF94rW5-FmfwJJ7zUKSu3naCPVuC_AQE&fp=chrome&spx=/favicon.ico&type=xhttp&sni=www.yahoo.com&sid=0ef0909acd#@icv2ray
+vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@KAFING_2
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
+vless://023e0e98-9550-4f6b-9bda-363d3105d407@www.speedtest.net:443?path=/eyJqdW5rIjoiUGNrSDQwUGJPbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-xas.shimimm.workers.dev&fp=chrome&type=ws&sni=v2NgFast-xaS.ShimImM.WOrkERs.dev#🇩🇪 @V2ngFast
+vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@132.243.65.252:443?fp=chrome&mode=gun&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&security=reality&serviceName=grpc&sid=7a3f9e2b1c8d4f6a&sni=www.microsoft.com&type=grpc#@v2rayconfigamir 7093
+vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@217.9.12.58:443?fp=chrome&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&security=reality&serviceName=grpc&sid=7a3f9e2b1c8d4f6a&sni=www.microsoft.com&type=grpc#@v2rayconfigamir 2680
