@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://@Net2ray@85.198.12.105:43116?security=none&encryption=none&headerType=none&type=tcp#@Net2ray DE🇩🇪
 vless://@Net2ray@85.198.15.137:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
 vless://@Net2ray@89.144.145.247:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
 vless://@Net2ray@89.144.145.247:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪 نامحدود لوکیشن آلمان 🇩🇪 فعال تا زمانی که آیپیش فیلتر بشه ری‌اکشن فراموش نشه  🆔 t.me/Net2ray
@@ -252,4 +253,3 @@ vless://a77bb26f-b461-4ef4-bd53-5bd485bd837b@37.156.42.12:80?encryption=none&sec
 vless://a77bb26f-b461-4ef4-bd53-5bd485bd837b@37.156.42.12:80?security=reality&encryption=none&pbk=KyY4ACtEdNuRyfqhfd3JQFs5b3gk5sXvVzQxJwZTJGU&host=www.yahoo.com&headerType=http&fp=chrome&spx=/lDzDc4FrVuozp0F&type=tcp&sni=yahoo.com&sid=5a69ec2e70b3de#@icv2ray
 vless://a77bb26f-b461-4ef4-bd53-5bd485bd837b@37.156.42.12:80?security=reality&encryption=none&pbk=KyY4ACtEdNuRyfqhfd3JQFs5b3gk5sXvVzQxJwZTJGU&host=www.yahoo.com&headerType=http&fp=chrome&spx=/lDzDc4FrVuozp0F&type=tcp&sni=yahoo.com&sid=5a69ec2e70b3de#Channel : @Daily_Configs
 vless://a7f24c6b-4d57-4d68-b283-4d9afbd23397@89.34.230.45:18808?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹²
-vless://a88183b3-883b-40ce-9134-673a72c8b4c2@108.162.194.165:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#@NETMelliAnti
