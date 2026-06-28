@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
-vless://90426bbb-6b39-45c1-9a89-8f3ae37cbf86@178.83.45.142:80?security=reality&encryption=none&pbk=nm_XWU_p2aKwh8sIJ5eeAgELgdg0Lw2zJ2ct3DaBdk0&headerType=none&fp=chrome&spx=/WdwAgFieO9mWG3h&type=tcp&flow=xtls-rprx-vision&sni=mail.yahoo.com&sid=61a5#Proxy_Se7en
-vless://90426bbb-6b39-45c1-9a89-8f3ae37cbf86@178.83.45.142:80?security=reality&encryption=none&pbk=nm_XWU_p2aKwh8sIJ5eeAgELgdg0Lw2zJ2ct3DaBdk0&headerType=none&fp=chrome&spx=/nUQg4TFBQbmh5GV&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4f751ef7ca2688#Proxy_Se7en
 vless://90b72c7b-6f16-462a-aaef-0a69c52cbe59@89.106.86.101:25130?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=UwQaEFtxHQWq3Hmtac-joTReqyfkmtfze27QCT8a5mk&sid=6b068f52fd77&spx=/2ZjrbPH6PxIENah&type=tcp&headerType=none#@Daily_Configs
 vless://90b72c7b-6f16-462a-aaef-0a69c52cbe59@89.106.86.101:25130?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=UwQaEFtxHQWq3Hmtac-joTReqyfkmtfze27QCT8a5mk&sid=6b068f52fd77&spx=/2ZjrbPH6PxIENah&type=tcp&headerType=none#@meliproxyy
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=&path=/ws#@GozargahAzad|🇺🇸
@@ -253,3 +250,6 @@ vless://SoonTeam@sexi.carderrr.com:443?path=/telegram@SoonTeam&security=none&enc
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
 vless://Te-HqV2rayNG-HqV2rayNG@vtodkcdisnc.fars-daxter.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@fastkanfig
 vless://Tel-HqV2rayNG-HqV2rayNG@gkgjfjeifidjejfj.fars-daxter.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Proxy_Se7en
+vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#Telegram : free_conf_iran 🇩🇪
+vless://Telegram-Parsashonam@178.105.179.72:443?security=reality&encryption=none&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&headerType=none&fp=chrome&spx=/l7fQJYMI6OVOIfN&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=21cee1c9ab#@Parsashonam-🇩🇪
+vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp4BCn3x_hIoaYi5R6GaqF9TIA4F6t5WyOPaXc&headerType=&fp=chrome&spx=/YtQ58V1AZ8fExyr&type=tcp&flow=xtls-rprx-vision&sni=domian&sid=83dc602558#@Parsashonam-Test-🇩🇪
