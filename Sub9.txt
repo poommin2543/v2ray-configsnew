@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=/boost&sni=ssl.fastly.com&type=ws#🐚94@NetFlowTools
-trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fast-speed&sni=ssl.fastly.com&type=ws#🐚93@NetFlowTools
-trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=/slowdns&sni=ssl.fastly.com&type=ws#🐚100@NetFlowTools
 trojan://Mitivpn@151.101.56.6:443?path=/&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://Mitivpn@151.101.56.6:443?path=/&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_confiig
 trojan://Mitivpn@151.101.56.6:443?path=/&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@erfanandroid
@@ -253,3 +250,6 @@ trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#@Soul737
 trojan://humanity@104.18.115.61:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷 @RouTel1
 trojan://humanity@104.18.13.149:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/AarazV2ray
+trojan://humanity@104.18.152.143:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |2
+trojan://humanity@104.18.152.155:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |3
+trojan://humanity@104.18.152.175:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |1

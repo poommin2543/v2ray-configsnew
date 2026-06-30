@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://MiTiVPN@104.21.18.41:443?path=/cdn=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#@prrofile_purple  ♥️👈 تلگرام
-trojan://MiTiVPN@104.21.18.41:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=blog.95r.ir&fp=chrome&type=ws&allowInsecure=1&sni=blog.95r.ir#@prrofile_purple  ♥️👈 تلگرام
-trojan://MiTiVPN@104.24.17.0:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#@prrofile_purple  ♥️👈 تلگرام
 trojan://MiTiVPN@104.24.50.97:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
 trojan://MiTiVPN@104.24.50.97:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#@prrofile_purple  ♥️👈 تلگرام
 trojan://MiTiVPN@140.248.185.253:443?path=/ed=MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#telegram @mtmvpn 16
@@ -253,3 +250,6 @@ trojan://Mitivpn@151.101.242.172:80?path=/ed&security=tls&insecure=0&host=4-4-3-
 trojan://Mitivpn@151.101.242.172:80?path=/ed=mitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#@Soul737
 trojan://Mitivpn@151.101.242.172:80?type=ws&security=none&path=/ed=mitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net#@W570W
 trojan://Mitivpn@151.101.56.6:443?alpn=http/1.1&fp=chrome&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fastly=mitivpn&sni=ssl.fastly.com&type=ws#🐚97@NetFlowTools
+trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=/boost&sni=ssl.fastly.com&type=ws#🐚94@NetFlowTools
+trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fast-speed&sni=ssl.fastly.com&type=ws#🐚93@NetFlowTools
+trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=/slowdns&sni=ssl.fastly.com&type=ws#🐚100@NetFlowTools
